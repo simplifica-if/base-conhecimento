@@ -16,6 +16,11 @@
       "data_source_id": "5f1c2da1-4048-8357-b126-0736ec25b50c",
       "title": "Movimentações de Cursos"
     },
+    "pareceres_curso": {
+      "id": "1dcbd9ae-89cd-48b4-b24b-c2245d58dd27",
+      "data_source_id": "311d6d7e-b1dc-4d8b-968b-2c7e9d04adc6",
+      "title": "Pareceres de Curso"
+    },
     "tarefas": {
       "id": "dd9c2da1-4048-82ef-8b0d-8168467c2438",
       "data_source_id": "703c2da1-4048-83d4-b3bd-076a8ccf9c9e",

@@ -857,8 +857,7 @@
         "processos": [
           {
             "numero": "23397.000296/2014-61",
-            "tipo": "Reversão Suspensão",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 2. Manifestação favorável do Consepe"
+            "tipo": "Reversão Suspensão"
           }
         ]
       }
@@ -1252,7 +1251,7 @@
           {
             "numero": "23411.010326/2023-11",
             "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 20. Parecer técnico-pedagógico emitido pela Dentec em 26/03"
+            "trecho_fonte": "Parecer técnico-pedagógico emitido pela Dentec em 26/03"
           },
           {
             "numero": "00063.008113/2010-07",
@@ -1350,11 +1349,11 @@
         "processos": [
           {
             "numero": "23411.017821/2024-24",
-            "tipo": "Abertura PAC"
+            "tipo": "Abertura - PAC"
           },
           {
             "numero": "23411.007447/2025-30",
-            "tipo": "Abertura PPC"
+            "tipo": "Abertura - PPC"
           }
         ]
       }
@@ -1385,8 +1384,7 @@
         "processos": [
           {
             "numero": "23411.003654/2026-04",
-            "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 21. Viabilidade de solicitação concluída. Agora a CAJ irá encaminhar o ajuste curricular (PPC)"
+            "tipo": "Ajuste PPC"
           },
           {
             "numero": "23411.005801/2026-72",

@@ -184,6 +184,8 @@
                       "enum": [
                         "abertura",
                         "abertura OLD",
+                        "Abertura - PAC",
+                        "Abertura - PPC",
                         "Abertura PAC",
                         "Abertura PPC",
                         "ajuste",

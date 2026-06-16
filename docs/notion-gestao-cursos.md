@@ -69,6 +69,16 @@ Quando houver processo SEI, registre seus metadados na movimentação. O mesmo `
 
 `Situação` da movimentação representa etapa de tramitação. A situação operacional do curso fica em `Cursos.Situação`.
 
+### Pareceres de Curso
+
+Repositório operacional de pareceres vinculados a processos SEI de movimentações de curso. Cada registro representa um documento SEI específico, não apenas o parecer vigente da movimentação, para preservar revisões e versões sucessivas.
+
+Propriedades recorrentes usadas para curadoria: `Parecer`, `Movimentação de Curso`, `SEI Processo`, `SEI Documento`, `Tipo de parecer`, `Data do parecer`, `Autor`, `SIAPE/Autor SEI`, `Conclusão`, `Substitui parecer` e `Substituído por`.
+
+`SEI Processo` é um roll-up da relação `Movimentação de Curso`, derivado da propriedade homônima em `Movimentações de Cursos`. Não preencha esse valor manualmente na base de pareceres.
+
+Uma movimentação pode ter vários pareceres. Use `Substitui parecer` para encadear versões ou revisões quando um documento posterior tornar outro obsoleto. Quando o parecer for identificado por snapshot do `sei-cli`, registre número SEI, data, autoria/assinatura e processo, sem gravar caminhos locais do snapshot no Notion.
+
 ### Horários dos campi
 
 A fonte principal de horários de aula fica diretamente em `Campi`.

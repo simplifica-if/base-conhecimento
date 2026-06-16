@@ -101,7 +101,7 @@
           {
             "numero": "23411.006241/2025-92",
             "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 10. 26/03 Parecer técnico-pedagógico emitido pela Dentec\n04/05 Campus devolve PPC revisado\n08/05 Aprovação pela Dentec do PPC, devolução para o campus\n15/05 Envio do processo para CIA/Consepe"
+            "trecho_fonte": "26/03 Parecer técnico-pedagógico emitido pela Dentec\n04/05 Campus devolve PPC revisado\n08/05 Aprovação pela Dentec do PPC, devolução para o campus\n15/05 Envio do processo para CIA/Consepe"
           },
           {
             "numero": "23412.000140/2017-98",
@@ -198,7 +198,7 @@
           {
             "numero": "23411.006245/2025-71",
             "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 6. 13/05 Recebimento do processo na Dentec\n19/05 Parecer sobre viabilidade desfavorável, faltam docs - devolvido ao campus"
+            "trecho_fonte": "13/05 Recebimento do processo na Dentec\n19/05 Parecer sobre viabilidade desfavorável, faltam docs - devolvido ao campus"
           },
           {
             "numero": "23411.006660/2018-03",
@@ -364,7 +364,8 @@
         "processos": [
           {
             "numero": "23411.017271/2025-24",
-            "tipo": "Ajuste PPC"
+            "tipo": "Ajuste PPC",
+            "trecho_fonte": "07/04 Recebido na Dentec\n23/04 Parecer emitido, aguardando retorno\n27/04 PPC Retornado pela campus com as correções selecionadas\n30/04 PPC Enviado para CIA/GR após aprovação da Dentec\n15/05 Envio do processo para CIA/Consepe\n03/06 Parecer favorável do CONSEPE\nNEXT: aguardando Campus anexar versão final do PPC"
           },
           {
             "numero": "23412.000384/2017-71",
@@ -414,11 +415,11 @@
         "processos": [
           {
             "numero": "23411.007623/2024-52",
-            "tipo": "Abertura PAC"
+            "tipo": "Abertura - PAC"
           },
           {
             "numero": "23411.004239/2025-89",
-            "tipo": "Abertura PPC"
+            "tipo": "Abertura - PPC"
           }
         ]
       }

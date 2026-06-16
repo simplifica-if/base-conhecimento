@@ -118,6 +118,22 @@
       }
     },
     {
+      "curso_slug": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
+      "notion_page_id": "380c2da1-4048-80ef-b844-c648cf44567c",
+      "nome": "Técnico em Informática para Internet",
+      "nivel": "médio",
+      "tipo_oferta": "integrado",
+      "situacao": "abertura",
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.019117/2025-97",
+            "tipo": "Abertura - PPC"
+          }
+        ]
+      }
+    },
+    {
       "curso_slug": "tecnico-em-manutencao-e-suporte-em-informatica-proeja",
       "notion_page_id": "da4c2da1-4048-83a4-914d-815de1ecc014",
       "nome": "Técnico em Manutenção e Suporte em Informática PROEJA",

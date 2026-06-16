@@ -58,7 +58,28 @@ Para extrair uma fotografia atual do SEI:
 
 ```bash
 cd ../sei-cli
-bun run sei extrair processo 23411.018179/2025-81
+bun run sei extrair processo 23411.018179/2025-81 --json --resumo --quiet
+```
+
+Para obter um resumo operacional pronto para preencher movimentações no Notion:
+
+```bash
+cd ../sei-cli
+bun run sei resumir movimentacao 23411.018179/2025-81 --ultimos 4 --snapshot-auto --json
+```
+
+Se for necessário confirmar se o snapshot local está atualizado e extrair novamente apenas quando houver diferença no histórico remoto:
+
+```bash
+cd ../sei-cli
+bun run sei atualizar processo 23411.018179/2025-81 --snapshot-auto --ultimos 4 --json --resumo --quiet
+```
+
+Para extrair vários processos em lote, use um arquivo de texto com um número de processo por linha:
+
+```bash
+cd ../sei-cli
+bun run sei extrair lote processos.txt --ultimos 4 --jsonl --quiet
 ```
 
 Para ler um ZIP de processo já baixado:
@@ -82,6 +103,7 @@ cd ../sei-cli
 bun run sei inspecionar ultima-atualizacao dados/sei/23411.018179_2025-81/<execucao>
 bun run sei inspecionar documentos dados/sei/23411.018179_2025-81/<execucao> --ultimos 20
 bun run sei inspecionar historico dados/sei/23411.018179_2025-81/<execucao> --ultimos 50
+bun run sei inspecionar historico-recente dados/sei/23411.018179_2025-81/<execucao> --ultimos 4 --json
 ```
 
 Para obter apenas o link interno limpo do processo no SEI, sem baixar o ZIP:
@@ -97,7 +119,10 @@ Use `--json` quando precisar processar a saída por script, `jq` ou outro progra
 
 ```bash
 bun run sei inspecionar documentos dados/sei/23411.018179_2025-81/<execucao> --ultimos 20 --json
+bun run sei inspecionar historico dados/sei/23411.018179_2025-81/<execucao> --ultimos 4 --formato resumo --json
 ```
+
+Para automações, prefira os comandos `resumir movimentacao`, `inspecionar historico-recente`, `atualizar processo --snapshot-auto --json --resumo` ou `extrair lote --jsonl`, em vez de parsear a saída completa de `extrair processo --json`. A saída completa pode ser grande em processos com histórico extenso; `processo.json` continua sendo o índice canônico do snapshot.
 
 ## Estrutura do snapshot
 
@@ -135,13 +160,14 @@ Use `processo.json` como índice canônico da extração. Campos importantes:
 1. Identifique o número do processo no formato `00000.000000/0000-00`.
 2. Veja se já existe snapshot em `../sei-cli/dados/sei/<numero-processo>/`.
 3. Se houver múltiplas execuções, prefira a mais recente, salvo se o usuário pedir outra data.
-4. Se não houver snapshot ou se for necessário dado atual, rode `bun run sei extrair processo <numero>`.
-5. Leia o `AGENTS.md` do snapshot.
-6. Consulte `processo.json`, começando por `ultima_movimentacao`, `historico[]` e `documentos[]`.
-7. Use os comandos `inspecionar` para uma visão rápida dos documentos e eventos recentes.
-8. Abra apenas os documentos relevantes para a pergunta ou curadoria.
-9. Para HTML e texto, use `rg` dentro de `documentos/`.
-10. Para PDF, use uma ferramenta própria de leitura de PDF; o snapshot preserva o arquivo, mas não garante OCR.
+4. Se a tarefa for revisar movimentação ou preencher campos SEI no Notion, rode primeiro `bun run sei resumir movimentacao <numero> --ultimos 4 --snapshot-auto --json`. Se não houver snapshot, a CLI extrairá uma fotografia atual.
+5. Se for necessário garantir atualização contra o SEI remoto antes de usar snapshot existente, rode `bun run sei atualizar processo <numero> --snapshot-auto --ultimos 4 --json --resumo --quiet`.
+6. Leia o `AGENTS.md` do snapshot quando precisar abrir documentos ou fazer análise substantiva do processo.
+7. Consulte `processo.json`, começando por `ultima_movimentacao`, `historico[]` e `documentos[]`, quando o resumo operacional não bastar.
+8. Use os comandos `inspecionar` para uma visão rápida dos documentos e eventos recentes.
+9. Abra apenas os documentos relevantes para a pergunta ou curadoria.
+10. Para HTML e texto, use `rg` dentro de `documentos/`.
+11. Para PDF, use uma ferramenta própria de leitura de PDF; o snapshot preserva o arquivo, mas não garante OCR.
 
 Comandos úteis dentro do snapshot:
 
@@ -152,17 +178,26 @@ jq '.documentos[] | {numero_sei, titulo, unidade_sei, caminho_hierarquico, assin
 rg -n "termo de busca" documentos/
 ```
 
+Comandos úteis a partir do repositório `../sei-cli`, substituindo `<runDir>` pela pasta do snapshot:
+
+```bash
+bun run sei resumir movimentacao <runDir> --ultimos 4 --json
+bun run sei inspecionar historico-recente <runDir> --ultimos 4 --json
+```
+
 ## Como registrar evidências
 
 Ao usar o SEI para curadoria, registre no Notion somente informações sustentadas por evidências do snapshot.
 
 Em `Movimentações de Cursos`:
 
+- em atualizações rotineiras de movimentações do SEI, considere implícito que devem ser revisadas todas as movimentações de curso com `SEI Processo` preenchido e situação em andamento ou a fazer: `Não iniciada`/`A fazer`, `Em instrução no campus`, `Em análise Proens`, `CONSEP`, `CONSUP` ou `Aguardando ato/publicação`;
 - use `SEI Processo` como identificador operacional;
 - faça do próprio valor de `SEI Processo` um hyperlink para `sei_link_processo`, quando o `sei-cli` conseguir confirmar o processo exato;
 - preencha `Data de abertura SEI` com a autuação/criação do processo quando encontrada;
 - preencha `Data Última mov. SEI` com a data mais recente localizada em `historico[]` ou nos documentos;
-- preencha `Última movimentação SEI` com um resumo curto das duas movimentações mais recentes do histórico, para dar contexto humano à data;
+- preencha `Última movimentação SEI` com um resumo curto das quatro movimentações mais recentes do histórico encontradas pela SEI CLI, para dar contexto humano à data;
+- quando usar `bun run sei resumir movimentacao ... --json`, use `sei_link_processo`, `data_abertura_sei`, `data_ultima_mov_sei` e `ultima_movimentacao_sei_texto` como fonte direta para os campos correspondentes no Notion, conferindo `historico_usado` quando houver dúvida;
 - em campos textuais do Notion, use datas em formato brasileiro curto `DD/MM/AA`; preserve datas estruturadas do tipo `date` como propriedades de data do Notion;
 - use `Situação` para a etapa fina da movimentação, como `Em instrução no campus`, `Em análise Proens`, `Em colegiados/conselhos`, `Aguardando ato/publicação`, `Concluído` ou `Arquivado`;
 - escreva `Observações SEI` em blocos curtos.
@@ -182,7 +217,7 @@ Evidências
 Datas de controle
 - Data de abertura SEI: DD/MM/AA, conforme ...
 - Data Última mov. SEI: DD/MM/AA, conforme ...
-- Última movimentação SEI: resumo das duas movimentações mais recentes, quando disponível.
+- Última movimentação SEI: resumo das quatro movimentações mais recentes, quando disponível.
 
 Observação técnica
 - Limitação da extração, pendência ou ressalva, quando houver.

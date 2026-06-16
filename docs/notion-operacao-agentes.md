@@ -12,6 +12,7 @@ Use este guia quando a solicitação envolver:
 - Cursos;
 - metadados de PPC em Cursos;
 - Movimentações de Cursos;
+- Pareceres de Curso;
 - Tarefas;
 - horários dos campi;
 - Processos Seletivos;
@@ -67,6 +68,7 @@ Chaves atuais:
 - `campi`;
 - `cursos`;
 - `movimentacoes_cursos`;
+- `pareceres_curso`;
 - `tarefas`;
 - `processos_seletivos`;
 - `editais_ingresso`;
@@ -153,12 +155,30 @@ python3 scripts/notion_exportar_base_publica.py --dry-run
 
 1. Use `SEI Processo` como identificador operacional no formato `00000.000000/0000-00`.
 2. Quando o `id_procedimento` for confirmado no SEI, faça do próprio valor de `SEI Processo` um hyperlink para a URL interna limpa do processo, no formato `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`. Não grave URLs com `infra_hash`, pois esse parâmetro é volátil, e não crie propriedade separada para o link.
-3. Mantenha `Data de abertura SEI`, `Data Última mov. SEI` e `Última movimentação SEI` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura SEI` é a autuação/criação do processo; `Data Última mov. SEI` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa. `Última movimentação SEI` é um resumo textual curto das duas movimentações mais recentes.
-4. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações SEI`.
-5. Escreva `Observações SEI` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
-6. Se a informação vier de coleta automatizada, preserve origem, linhas, observações ou notas relevantes em `Observações SEI` ou `Anotações`.
+3. Em atualizações rotineiras de movimentações do SEI, considere implícito que o escopo são todas as entradas de `Movimentações de Cursos` que tenham `SEI Processo` preenchido e estejam em qualquer situação de andamento ou a fazer: `Não iniciada`/`A fazer`, `Em instrução no campus`, `Em análise Proens`, `CONSEP`, `CONSUP` ou `Aguardando ato/publicação`. Não inclua `Concluído` ou `Arquivado`, salvo pedido explícito.
+4. Mantenha `Data de abertura SEI`, `Data Última mov. SEI` e `Última movimentação SEI` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura SEI` é a autuação/criação do processo; `Data Última mov. SEI` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa. `Última movimentação SEI` é um resumo textual curto das quatro movimentações mais recentes encontradas pela SEI CLI.
+5. Para preencher esses campos a partir da SEI CLI, prefira `bun run sei resumir movimentacao <processo> --ultimos 4 --snapshot-auto --json` ou `bun run sei atualizar processo <processo> --snapshot-auto --ultimos 4 --json --resumo --quiet`, conforme `docs/sei-cli-operacao-agentes.md`.
+6. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações SEI`.
+7. Escreva `Observações SEI` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
+8. Se a informação vier de coleta automatizada, preserve origem, linhas, observações ou notas relevantes em `Observações SEI` ou `Anotações`.
 
 Quando usar `sei-cli`, registre `Revisado em DD/MM/AA via sei-cli.` e cite nas evidências os documentos ou eventos usados, como `SEI 1234567 (DD/MM/AA): Parecer ...`. Não grave caminhos locais do snapshot em `Observações`.
+
+### Registrar parecer de curso
+
+Use `Pareceres de Curso` para arquivar metadados de pareceres localizados em processos SEI associados a movimentações de curso. Cada registro representa um documento SEI específico, pois uma única movimentação pode ter mais de um parecer ao longo das revisões do PPC.
+
+Campos centrais:
+
+- relacione `Movimentação de Curso` à entrada correspondente em `Movimentações de Cursos`;
+- preencha `SEI Documento`;
+- use `SEI Processo` como roll-up da relação com `Movimentação de Curso`, não como cópia textual manual;
+- use `Data do parecer` para a data de criação/emissão identificada no SEI;
+- use `Autor` e `SIAPE/Autor SEI` quando autoria ou assinatura estiverem confirmadas;
+- registre `Tipo de parecer` e `Conclusão` conforme a curadoria avançar;
+- use `Substitui parecer` para encadear versões ou revisões do mesmo parecer.
+
+Quando a fonte for snapshot do `sei-cli`, preserve a evidência em termos estáveis, como número SEI, data, autoria/assinatura e processo. Não grave caminhos locais do snapshot em campos do Notion.
 
 ## Documentos relacionados
 

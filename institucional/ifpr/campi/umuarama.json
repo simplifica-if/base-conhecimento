@@ -144,8 +144,7 @@
         "processos": [
           {
             "numero": "23411.002791/2026-13",
-            "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 11. 30/03 e 13/04 Parecer técnico-pedagógico emitido pela Dentec. Processo esta de acordo com a continuidade do processo de ajuste curricular\n22/04 Campus envia PPC para revisão\n05/05 Parecer de revisão do PPC enviado"
+            "tipo": "Ajuste PPC"
           },
           {
             "numero": "23411.007970/2018-37",
@@ -246,8 +245,7 @@
         "processos": [
           {
             "numero": "23411.002858/2026-10",
-            "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 9. Viabilidade de Solicitação de Aj Curricular:\n30/03 Parecer técnico-pedagógico emitido pela Dentec\n27/04 Segundo parecer técnico-pedagógico após correções (aprovado)\nRevisão do PPC\n30/04 Recebimento do PPC para revisão\n14/05 Parecer de revisão do PPC emitido e enviado ao campus"
+            "tipo": "Ajuste PPC"
           },
           {
             "numero": "23404.000225/2014-22",

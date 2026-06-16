@@ -133,7 +133,8 @@
         "processos": [
           {
             "numero": "23411.011619/2025-70",
-            "tipo": "Reversão Suspensão"
+            "tipo": "Reversão Suspensão",
+            "trecho_fonte": "12/05 Recebimento do processo na Dentec"
           }
         ]
       }
@@ -151,11 +152,11 @@
         "processos": [
           {
             "numero": "23411.011614/2025-47",
-            "tipo": "Abertura PAC"
+            "tipo": "Abertura - PAC"
           },
           {
             "numero": "23411.007407/2026-79",
-            "tipo": "Abertura PPC"
+            "tipo": "Abertura - PPC"
           }
         ]
       }
@@ -227,11 +228,11 @@
         "processos": [
           {
             "numero": "23411.016828/2025-18",
-            "tipo": "Abertura PAC"
+            "tipo": "Abertura - PAC"
           },
           {
             "numero": "23411.007314/2026-44",
-            "tipo": "Abertura PPC"
+            "tipo": "Abertura - PPC"
           }
         ]
       }
