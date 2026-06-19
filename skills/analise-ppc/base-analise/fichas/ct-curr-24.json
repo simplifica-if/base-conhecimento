@@ -1,0 +1,41 @@
+{
+  "id": "CT-CURR-24",
+  "titulo": "Organização pedagógica e orientação do estágio obrigatório",
+  "dominio": "curriculo",
+  "criticidade": "OBRIG",
+  "secoes_preferenciais": [
+    "05"
+  ],
+  "consultas": [
+    "estágio obrigatório",
+    "componente curricular",
+    "organização curricular do estágio",
+    "período do estágio",
+    "orientação de estágio",
+    "modalidade de orientação",
+    "orientação alternativa",
+    "necessidades educacionais específicas",
+    "contextualização da necessidade do estágio",
+    "relevância do estágio na formação",
+    "Resolução Consup/IFPR nº 82/2022",
+    "Regulamento Geral de Estágio do campus",
+    "RGE"
+  ],
+  "referencias_normativas": [
+    "Lei nº 11.788/2008",
+    "Resolução Consup/IFPR nº 82/2022",
+    "Regulamento Geral de Estágio do campus"
+  ],
+  "pergunta": "Quando há estágio obrigatório, o PPC organiza pedagogicamente sua oferta, orientação e acompanhamento de modo suficiente?",
+  "rubrica": "Aplicar esta ficha quando CT-CURR-20 ou o próprio PPC indicar estágio obrigatório. Verificar se o PPC contextualiza a necessidade do estágio obrigatório, demonstra sua relevância para a formação, informa período ou momento de realização, organiza preferencialmente o estágio como componente curricular ou justifica outra forma de organização, e define modalidade de orientação conforme a Resolução Consup/IFPR nº 82/2022. Verificar também se prevê orientação alternativa para estudantes com necessidades educacionais específicas quando necessário e se remete ao Regulamento Geral de Estágio do campus. Usar `NAO_APLICAVEL` apenas quando o PPC declarar de forma clara que não há estágio obrigatório e não houver carga de estágio obrigatória na matriz.",
+  "boa_evidencia": "Trechos que justificam o estágio obrigatório, vinculam sua relevância ao percurso formativo, indicam período/momento de realização, apresentam componente curricular ou justificativa para outra forma de organização, definem modalidade de orientação e mencionam orientação alternativa quando aplicável e RGE do campus.",
+  "ma_evidencia": "Estágio obrigatório sem contextualização da necessidade, sem período, sem organização como componente curricular ou justificativa, sem modalidade de orientação, sem previsão de orientação alternativa quando pertinente, ou sem remissão ao RGE do campus.",
+  "escalonar_quando": "Escalonar se houver carga obrigatória de estágio ou exigência para certificação, mas o PPC não deixar claro como o estudante será orientado, em que momento realizará o estágio ou como a atividade será reconhecida na organização curricular.",
+  "evidencia_minima": 3,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

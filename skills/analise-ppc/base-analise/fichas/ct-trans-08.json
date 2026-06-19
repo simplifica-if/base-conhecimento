@@ -1,0 +1,46 @@
+{
+  "id": "CT-TRANS-08",
+  "titulo": "Coerência teórico-prática entre concepção, perfil e matriz",
+  "dominio": "transversal",
+  "criticidade": "OBRIG",
+  "secoes_preferenciais": [
+    "03",
+    "04",
+    "05"
+  ],
+  "consultas": [
+    "concepção do curso",
+    "perfil do egresso",
+    "matriz curricular",
+    "ementário",
+    "projeto integrador",
+    "práticas profissionais",
+    "trabalho como princípio educativo",
+    "pesquisa como princípio pedagógico",
+    "Catálogo Nacional de Cursos Técnicos",
+    "CNCT"
+  ],
+  "referencias_normativas": [
+    "Resolução CNE/CP nº 1/2021, art. 20, incisos IV, VI e VII",
+    "Catálogo Nacional de Cursos Técnicos (CNCT), perfil profissional do curso correspondente"
+  ],
+  "pergunta": "O PPC demonstra de forma suficiente que a matriz curricular, o ementário, os projetos integradores e as práticas formativas concretizam a concepção do curso e o perfil do egresso declarados?",
+  "rubrica": "Avaliar a articulação material entre concepção do curso, perfil do egresso, CNCT e organização curricular. Não basta haver discurso sobre formação integral, trabalho como princípio educativo, pesquisa como princípio pedagógico, autonomia, responsabilidade, sustentabilidade, tecnologias digitais, relações sociais de produção e mundo do trabalho; é necessário que a matriz, as ementas, os projetos integradores, práticas laboratoriais, práticas profissionais e estratégias avaliativas mostrem como essas dimensões serão desenvolvidas no percurso formativo. A análise deve produzir, além do estado e da justificativa, um texto de feedback aos autores quando houver fragilidade, desconexão ou necessidade de explicitação.",
+  "boa_evidencia": "O PPC apresenta relação rastreável entre competências do perfil, referências do CNCT, componentes curriculares, ementas, práticas/projetos e avaliação; explicita como os componentes desenvolvem saberes técnicos, éticos, socioambientais, tecnológicos e relativos ao mundo do trabalho; e mostra como projetos integradores, práticas laboratoriais ou atividades profissionais articulam teoria, prática e perfil profissional.",
+  "ma_evidencia": "A concepção e o perfil apresentam formulações amplas ou corretas, mas a matriz aparece apenas como lista de componentes, sem demonstrar como conteúdos, práticas e projetos concretizam as competências prometidas; há competências relevantes do CNCT ou do perfil do egresso sem correspondência curricular clara; ou o PPC usa linguagem de formação integral sem evidência na organização curricular.",
+  "escalonar_quando": "Escalonar quando a aderência básica da matriz ao curso parecer existir, mas o PPC não explicitar a mediação entre concepção formativa, perfil do egresso, competências CNCT, componentes, ementas, projetos integradores, práticas e avaliação. Nesses casos, usar NAO_ATENDE ou INCONCLUSIVO conforme a força das evidências e produzir feedback_autores com texto respeitoso, específico e acionável.",
+  "feedback_autores": {
+    "obrigatorio_quando_estado": [
+      "NAO_ATENDE",
+      "INCONCLUSIVO"
+    ],
+    "orientacao": "Produzir texto em linguagem dirigida aos autores do PPC, com diagnóstico, base normativa e sugestões de reescrita ou complementação. O texto deve considerar o conjunto normativo aplicável à forma de oferta e ao curso analisado, incluindo, quando pertinente, CNCT, DCNs da EPT, normas da educação básica/Ensino Médio, legislação profissional, normas institucionais do IFPR e demais leis, resoluções ou diretrizes relacionadas ao ensino técnico de nível médio. Não limitar o feedback ao CNCT ou à Resolução CNE/CP nº 1/2021; use esses marcos apenas como referências relevantes quando forem adequados ao achado."
+  },
+  "evidencia_minima": 4,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

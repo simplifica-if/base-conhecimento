@@ -1,0 +1,4 @@
+python-docx
+docx2pdf
+pdf2image
+pdfplumber

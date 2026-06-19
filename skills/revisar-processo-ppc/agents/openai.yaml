@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revisar Processo PPC"
+  short_description: "Audita fluxos SEI de PPC do IFPR"
+  default_prompt: "Use $revisar-processo-ppc para revisar a conformidade de um processo SEI de PPC do IFPR."

@@ -1,0 +1,24 @@
+{
+  "id": "VC-05-14",
+  "titulo": "Tratamento de estágio é internamente consistente na organização curricular",
+  "dominio": "validacao_cruzada",
+  "criticidade": "OBRIG",
+  "tipo": "consistencia",
+  "secoes_relacionadas": [
+    "05"
+  ],
+  "condicionais_relacionadas": [
+    "tem_estagio"
+  ],
+  "pergunta": "As respostas e subseções da organização curricular tratam estágio de forma internamente consistente?",
+  "rubrica": "Comparar, dentro da seção 05, a matriz, o texto de estágio, eventuais ementas, convênios e achados das fichas CT-CURR-20, CT-CURR-21, CT-CURR-24 e CT-CURR-25. Procurar apenas contradições internas: obrigatoriedade versus carga horária, requisito de certificação versus estágio não obrigatório, matriz versus seção narrativa, organização/orientação versus convênios, e campos pretendidos versus forma de oferta. A presença de linhas padronizadas de Atividades Complementares ou Estágio Supervisionado na matriz, com carga horária efetiva zero, não caracteriza obrigatoriedade nem contradição quando o texto do PPC declarar que são opcionais, não obrigatórios ou não exigidos para integralização.",
+  "boa_evidencia": "Matriz, texto de estágio, ementário quando aplicável, convênios e fichas de estágio convergem sobre obrigatoriedade, carga horária, integralização, orientação, trâmites e campos pretendidos. Linhas-modelo de Atividades Complementares ou Estágio Supervisionado com carga horária zero são aceitáveis quando o texto confirma ausência de obrigatoriedade.",
+  "ma_evidencia": "Há contradição entre fichas ou seções: estágio com carga obrigatória diferente de zero sem texto compatível; estágio obrigatório no texto e carga zero na matriz; estágio não obrigatório tratado como requisito; convênios ou campos pretendidos incompatíveis com a decisão sobre estágio; ou matriz e seção narrativa divergentes. Não tratar como má evidência a mera presença de linha-modelo com carga horária zero.",
+  "evidencia_minima": 3,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

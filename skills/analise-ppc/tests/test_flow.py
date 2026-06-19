@@ -1,0 +1,433 @@
+from __future__ import annotations
+
+import json
+import sys
+from pathlib import Path
+
+import pytest
+
+SKILL_DIR = Path(__file__).resolve().parents[1]
+SCRIPTS_DIR = SKILL_DIR / "scripts"
+if str(SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS_DIR))
+
+from gerar_relatorio_html import ErroResultadosSubagents, gerar_relatorio_html
+from preparar_documento import preparar_documento
+from cnct_catalogo import comparar_ppc_com_cnct
+from subagents import (
+    agrupar_fichas,
+    carregar_fichas_ordenadas,
+    ficha_requer_contexto_cnct,
+    mesclar_resultados_avulsos,
+    montar_grupo_avulso,
+    montar_grupos_subagents,
+)
+from common import BASE_ANALISE_DIR, FICHAS_DIR, read_json, round_paths, write_json
+from gerar_indice_base_analise import gerar_indice
+
+
+def _markdown_base() -> str:
+    return """# Curso Técnico em Informática
+
+Curso: Curso Técnico em Informática
+Campus: Assis Chateaubriand
+Modalidade: Integrado
+
+## 1. Apresentação
+
+O curso apresenta objetivos, perfil do egresso e justificativa institucional.
+"""
+
+
+def _criar_rodada(tmp_path: Path) -> Path:
+    arquivo_md = tmp_path / "PPC.md"
+    arquivo_md.write_text(_markdown_base(), encoding="utf-8")
+    payload = preparar_documento(arquivo_md, output_base=tmp_path / "output")
+    return payload["rodada_dir"]
+
+
+def _resultado(ficha_id: str, estado: str = "ATENDE", evidencias: int = 3) -> dict[str, object]:
+    return {
+        "ficha_id": ficha_id,
+        "estado": estado,
+        "confianca": 0.9,
+        "justificativa": f"Justificativa da ficha {ficha_id}.",
+        "evidencias": [f"Evidência {indice} de {ficha_id}" for indice in range(1, evidencias + 1)],
+        "lacunas": [],
+        "revisao_humana_obrigatoria": False,
+    }
+
+
+def _payload_resultados_completos() -> dict[str, object]:
+    fichas = carregar_fichas_ordenadas()
+    grupos = []
+    for grupo in agrupar_fichas(fichas, tamanho_grupo=20):
+        grupos.append(
+            {
+                "grupo_id": grupo["grupo_id"],
+                "resultados": [
+                    _resultado(ficha["id"], evidencias=int(ficha.get("evidencia_minima", 3)))
+                    for ficha in grupo["fichas"]
+                ],
+            }
+        )
+    return {
+        "metadata": {"origem": "teste"},
+        "grupos": grupos,
+    }
+
+
+def test_preparar_documento_cria_rodada_markdown_basica(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+
+    assert caminhos["ppc"].exists()
+    assert caminhos["metadata"].exists()
+    assert caminhos["manifesto"].exists()
+    metadata = read_json(caminhos["metadata"])
+    manifesto = read_json(caminhos["manifesto"])
+    assert metadata["curso"] == "Curso Técnico em Informática"
+    assert manifesto["execucao"] == "subagents-na-conversa"
+    assert set(caminhos) == {
+        "rodada_dir",
+        "suporte_dir",
+        "artefatos_conversao_dir",
+        "ppc",
+        "ppc_bruto",
+        "metadata",
+        "manifesto",
+        "preparacao_docx",
+        "cnct_contexto",
+        "contexto_estrutural_subagents",
+        "grupos_avulsos_dir",
+        "resultados_subagents",
+        "grupos_subagents",
+        "relatorio_html",
+    }
+
+
+def test_fichas_sao_agrupadas_em_blocos_estaveis_de_20() -> None:
+    fichas = carregar_fichas_ordenadas()
+    grupos = agrupar_fichas(fichas, tamanho_grupo=20)
+    total_fichas = len(fichas)
+    intervalos_esperados = [
+        f"{inicio}-{min(inicio + 19, total_fichas)}" for inicio in range(1, total_fichas + 1, 20)
+    ]
+    totais_esperados = [
+        min(20, total_fichas - indice) for indice in range(0, total_fichas, 20)
+    ]
+
+    assert total_fichas == len(list(FICHAS_DIR.glob("*.json")))
+    assert [grupo["intervalo"] for grupo in grupos] == intervalos_esperados
+    assert [grupo["total_fichas"] for grupo in grupos] == totais_esperados
+    assert grupos[0]["grupo_id"] == "grupo-001"
+    assert grupos[-1]["grupo_id"] == f"grupo-{len(grupos):03d}"
+
+
+def test_indice_base_analise_esta_atualizado() -> None:
+    indice_path = BASE_ANALISE_DIR / "indice.json"
+    atual = read_json(indice_path)
+    esperado = gerar_indice(gerado_em=atual["gerado_em"])
+
+    assert atual == esperado
+
+
+def test_montar_grupos_subagents_salva_payload_na_rodada(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+
+    payload = montar_grupos_subagents(rodada_dir)
+
+    assert caminhos["grupos_subagents"].exists()
+    assert payload["ppc_markdown"] == str(caminhos["ppc"])
+    assert payload["total_fichas"] == len(list(FICHAS_DIR.glob("*.json")))
+    assert len(payload["grupos"]) == (payload["total_fichas"] + 19) // 20
+    assert caminhos["cnct_contexto"].exists()
+    assert caminhos["contexto_estrutural_subagents"].exists()
+    assert payload["cnct_contexto"]["correspondencia"]["denominacao"] == "Técnico em Informática"
+    assert payload["sintese_transversal_template"].endswith("sintese-transversal.md")
+    grupos_com_cnct = [grupo for grupo in payload["grupos"] if grupo["requer_contexto_cnct"]]
+    assert grupos_com_cnct
+    assert all("contextos" in grupo and "cnct" in grupo["contextos"] for grupo in grupos_com_cnct)
+    assert all("estrutura" in grupo["contextos"] for grupo in payload["grupos"])
+
+
+def test_contexto_cnct_inclui_resumo_estruturado_de_estagio() -> None:
+    contexto = comparar_ppc_com_cnct(
+        {"curso": "Curso Técnico em Informática"},
+        {"dados_extraidos": {"carga_horaria_estagio": "0 horas"}},
+        {},
+    )
+
+    assert contexto["correspondencia"]["denominacao"] == "Técnico em Informática"
+    assert contexto["correspondencia"]["estagio"]["menciona_estagio"] is True
+    assert contexto["correspondencia"]["estagio"]["obrigatoriedade"] == "FACULTADO_A_INSTITUICAO"
+    assert contexto["estagio_ppc"]["indicio_estagio_obrigatorio_por_carga"] is False
+    assert contexto["comparacoes"]["estagio_cnct"]["status"] == "COMPATIVEL"
+
+
+def test_ficha_convenios_estagio_declara_hipoteses_da_resolucao_82() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-curr-21.json")
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+
+    assert "agente de integração" in texto
+    assert "UCE pública ou privada" in texto
+    assert "10 estudantes simultaneamente" in texto
+    assert "Seção de Estágios e Relações Comunitárias" in texto
+    assert "Direção" in texto
+    assert "Termo de Compromisso de Estágio e Plano de Estágio" in texto
+
+
+def test_fichas_estagio_tem_escopos_separados() -> None:
+    fichas = {
+        ficha_id: read_json(FICHAS_DIR / arquivo)
+        for ficha_id, arquivo in {
+            "CT-CURR-20": "ct-curr-20.json",
+            "CT-CURR-21": "ct-curr-21.json",
+            "CT-CURR-24": "ct-curr-24.json",
+            "CT-CURR-25": "ct-curr-25.json",
+        }.items()
+    }
+
+    texto_macro = fichas["CT-CURR-20"]["rubrica"]
+    texto_convenios = fichas["CT-CURR-21"]["rubrica"]
+    texto_orientacao = fichas["CT-CURR-24"]["rubrica"]
+    texto_campos = fichas["CT-CURR-25"]["rubrica"]
+
+    assert "aprovação/certificação" in texto_macro
+    assert "Termo de Compromisso de Estágio e Plano de Estágio" in texto_convenios
+    assert "modalidade de orientação" in texto_orientacao
+    assert "componente curricular" in texto_orientacao
+    assert "instituições públicas ou privadas" in texto_campos
+    assert "equivalência" in texto_campos
+    assert "orientação alternativa" not in texto_macro
+    assert "instituições públicas ou privadas" not in texto_convenios
+
+
+def test_montar_grupos_subagents_anexa_representacao_grafica_quando_disponivel(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    artefatos_dir = caminhos["artefatos_conversao_dir"]
+    imagem = artefatos_dir / "imagens" / "representacao_grafica.png"
+    imagem.parent.mkdir(parents=True)
+    imagem.write_bytes(b"imagem")
+    dados = artefatos_dir / "dados.json"
+    write_json(dados, {"representacao_grafica": {"extraida": True, "caminho": "imagens/representacao_grafica.png"}})
+    write_json(caminhos["preparacao_docx"], {"dados": str(dados)})
+
+    payload = montar_grupos_subagents(rodada_dir)
+    grupos_com_anexo = [grupo for grupo in payload["grupos"] if grupo["requer_anexos_visuais"]]
+
+    assert grupos_com_anexo
+    assert grupos_com_anexo[0]["contextos"]["anexos_visuais"][0]["arquivo"] == str(imagem.resolve())
+
+
+def test_detector_identifica_fichas_que_dependem_do_cnct() -> None:
+    fichas = {ficha["id"]: ficha for ficha in carregar_fichas_ordenadas()}
+
+    assert ficha_requer_contexto_cnct(fichas["CT-IDENT-01"])
+    assert not ficha_requer_contexto_cnct(fichas["CT-SUP-01"])
+
+
+def test_gerar_relatorio_html_aceita_resultados_validos(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    resultados_path = caminhos["suporte_dir"] / "resultados-subagents.json"
+    write_json(resultados_path, _payload_resultados_completos())
+
+    payload = gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+    assert payload["relatorio_html"] == caminhos["relatorio_html"]
+    assert payload["total_fichas"] == len(list(FICHAS_DIR.glob("*.json")))
+    assert payload["total_alertas_transversais"] == 0
+    html = caminhos["relatorio_html"].read_text(encoding="utf-8")
+    assert "Análise de PPC · sub-agentes na conversa" in html
+    assert "Curso Técnico em Informática" in html
+    assert "CT-IDENT-01" in html
+    assert 'id="filtro-busca"' in html
+    assert 'id="filtro-feedback"' in html
+
+
+def test_gerar_relatorio_html_rejeita_ficha_duplicada(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    primeiro = payload["grupos"][0]["resultados"][0]
+    payload["grupos"][1]["resultados"][0] = dict(primeiro)
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    with pytest.raises(ErroResultadosSubagents, match="duplicadas"):
+        gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+
+def test_gerar_relatorio_html_rejeita_ficha_desconhecida(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    payload["grupos"][0]["resultados"][0]["ficha_id"] = "CT-NAO-EXISTE"
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    with pytest.raises(ErroResultadosSubagents, match="desconhecidas"):
+        gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+
+def test_gerar_relatorio_html_rejeita_ficha_faltante(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    payload["grupos"][0]["resultados"].pop()
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    with pytest.raises(ErroResultadosSubagents, match="sem resultado"):
+        gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+
+def test_gerar_relatorio_html_rejeita_evidencias_abaixo_do_minimo(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    payload["grupos"][0]["resultados"][0]["evidencias"] = []
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    with pytest.raises(ErroResultadosSubagents, match="mínimo exigido"):
+        gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+
+def test_gerar_relatorio_html_renderiza_alertas_transversais(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    payload["alertas_transversais"] = [
+        {
+            "id": "ALERTA-001",
+            "titulo": "Inconsistência transversal",
+            "criticidade": "OBRIG",
+            "descricao": "Perfil e matriz precisam de revisão conjunta.",
+            "fichas_relacionadas": ["CT-IDENT-01"],
+            "evidencias": ["Evidência transversal"],
+            "revisao_humana_obrigatoria": True,
+        }
+    ]
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    relatorio = gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+    assert relatorio["total_alertas_transversais"] == 1
+    html = caminhos["relatorio_html"].read_text(encoding="utf-8")
+    assert "Alertas transversais" in html
+    assert "ALERTA-001" in html
+
+
+def test_gerar_relatorio_html_exige_feedback_autores_quando_ficha_solicita(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    for grupo in payload["grupos"]:
+        for resultado in grupo["resultados"]:
+            if resultado["ficha_id"] == "CT-TRANS-08":
+                resultado["estado"] = "NAO_ATENDE"
+                resultado["revisao_humana_obrigatoria"] = True
+                resultado.pop("feedback_autores", None)
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    with pytest.raises(ErroResultadosSubagents, match="feedback_autores"):
+        gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+
+def test_gerar_relatorio_html_renderiza_feedback_autores(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    texto_feedback = "Recomenda-se explicitar a articulação entre concepção, perfil e matriz."
+    for grupo in payload["grupos"]:
+        for resultado in grupo["resultados"]:
+            if resultado["ficha_id"] == "CT-TRANS-08":
+                resultado["estado"] = "NAO_ATENDE"
+                resultado["revisao_humana_obrigatoria"] = True
+                resultado["feedback_autores"] = texto_feedback
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    relatorio = gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+    assert relatorio["total_fichas"] == len(list(FICHAS_DIR.glob("*.json")))
+    html = caminhos["relatorio_html"].read_text(encoding="utf-8")
+    assert "Feedback sugerido aos autores" in html
+    assert texto_feedback in html
+    assert "Feedback aos autores" in html
+
+
+def test_montar_grupo_avulso_e_mesclar_resultados(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    base = _payload_resultados_completos()
+    write_json(caminhos["resultados_subagents"], base)
+
+    grupo = montar_grupo_avulso(rodada_dir, ["CT-IDENT-01"])
+    avulso_path = caminhos["suporte_dir"] / "resultado-avulso.json"
+    write_json(
+        avulso_path,
+        {
+            "grupo_id": grupo["grupo"]["grupo_id"],
+            "resultados": [_resultado("CT-IDENT-01", estado="INCONCLUSIVO")],
+        },
+    )
+    mesclado = mesclar_resultados_avulsos(
+        rodada_dir,
+        Path("resultados-subagents.json"),
+        Path("resultado-avulso.json"),
+    )
+    payload_mesclado = read_json(caminhos["resultados_subagents"])
+    resultados = [
+        item
+        for grupo_payload in payload_mesclado["grupos"]
+        for item in grupo_payload["resultados"]
+        if item["ficha_id"] == "CT-IDENT-01"
+    ]
+
+    assert Path(grupo["grupo_avulso_path"]).exists()
+    assert mesclado["fichas_substituidas"] == ["CT-IDENT-01"]
+    assert len(resultados) == 1
+    assert resultados[0]["estado"] == "INCONCLUSIVO"
+
+
+def test_nao_ha_codigo_de_execucao_por_cli_ou_tokens() -> None:
+    textos = []
+    for caminho in SCRIPTS_DIR.rglob("*.py"):
+        textos.append(caminho.read_text(encoding="utf-8"))
+    conteudo = "\n".join(textos)
+
+    proibidos = [
+        "codex exec",
+        "ANALISE_PPC_CODEX",
+        "ANALISE_PPC_GEMINI",
+        "executar_prompt",
+        "uso_tokens",
+        "contabilizar-tokens",
+    ]
+    for proibido in proibidos:
+        assert proibido not in conteudo
+
+
+def test_prompt_subagent_declara_contrato_de_saida() -> None:
+    prompt = (SKILL_DIR / "prompts" / "subagent-lote-fichas.md").read_text(encoding="utf-8")
+    for campo in (
+        "grupo_id",
+        "ficha_id",
+        "estado",
+        "confianca",
+        "justificativa",
+        "evidencias",
+        "lacunas",
+        "revisao_humana_obrigatoria",
+        "feedback_autores",
+    ):
+        assert campo in prompt
+
+
+def test_prompt_sintese_transversal_declara_contrato() -> None:
+    prompt = (SKILL_DIR / "prompts" / "sintese-transversal.md").read_text(encoding="utf-8")
+    assert "alertas_transversais" in prompt
+    assert "fichas_relacionadas" in prompt

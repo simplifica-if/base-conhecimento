@@ -1,0 +1,30 @@
+{
+  "id": "VC-03-04-05-COERENCIA-TEORICO-PRATICA",
+  "titulo": "Concepção, perfil e matriz materializam a mesma proposta formativa",
+  "dominio": "validacao_cruzada",
+  "criticidade": "OBRIG",
+  "tipo": "coerencia",
+  "secoes_relacionadas": [
+    "03",
+    "04",
+    "05"
+  ],
+  "condicionais_relacionadas": [
+    "CT-TRANS-08",
+    "CT-CURR-04",
+    "CT-CURR-19",
+    "CT-IDENT-07",
+    "CT-IDENT-10"
+  ],
+  "pergunta": "O PPC mantém coerência transversal suficiente entre concepção do curso, perfil do egresso e organização curricular, demonstrando como a matriz e as práticas formativas concretizam as competências, saberes e princípios declarados?",
+  "rubrica": "Comparar as seções de concepção do curso, perfil do egresso e organização curricular. Verificar se o PPC demonstra, com evidências textuais, como componentes curriculares, ementas, projetos integradores, práticas laboratoriais, práticas profissionais e avaliação materializam o perfil profissional do CNCT e os princípios da EPT. A análise deve diferenciar matriz tecnicamente pertinente de matriz pedagogicamente explicitada: componentes compatíveis são condição necessária, mas não bastam quando o PPC não explica a mediação entre o discurso formativo e o percurso curricular.",
+  "boa_evidencia": "As seções 03, 04 e 05 apresentam vínculos explícitos entre concepção formativa, competências do egresso, CNCT, componentes, ementas, projetos, práticas e avaliação, permitindo entender como o curso forma o profissional que declara formar.",
+  "ma_evidencia": "A concepção e o perfil prometem formação integral, autonomia, tecnologias digitais, sustentabilidade, compreensão do mundo do trabalho ou competências profissionais específicas, mas a organização curricular não demonstra onde e como essas dimensões são desenvolvidas.",
+  "evidencia_minima": 3,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

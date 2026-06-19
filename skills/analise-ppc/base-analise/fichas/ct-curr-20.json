@@ -1,0 +1,39 @@
+{
+  "id": "CT-CURR-20",
+  "titulo": "Decisão sobre estágio e carga horária compatíveis com o CNCT",
+  "dominio": "curriculo",
+  "criticidade": "OBRIG",
+  "secoes_preferenciais": [
+    "05"
+  ],
+  "consultas": [
+    "estágio curricular",
+    "estágio obrigatório",
+    "estágio não obrigatório",
+    "Lei nº 11.788/2008",
+    "Resolução Consup/IFPR nº 82/2022",
+    "carga horária do estágio",
+    "pré-requisito para aprovação",
+    "pré-requisito para certificação",
+    "aprovação e certificação",
+    "cnct_contexto.correspondencia.estagio",
+    "cnct_contexto.comparacoes.estagio_cnct"
+  ],
+  "referencias_normativas": [
+    "CNCT",
+    "Lei nº 11.788/2008",
+    "Resolução Consup/IFPR nº 82/2022"
+  ],
+  "pergunta": "O PPC explicita a decisão sobre estágio obrigatório, estágio não obrigatório ou ausência de estágio, com carga horária e requisito de aprovação/certificação compatíveis com o CNCT?",
+  "rubrica": "Verificar se o PPC possui item próprio ou tratamento explícito sobre estágio, declarando se o curso prevê estágio obrigatório, estágio não obrigatório ou ausência de estágio. Comparar a decisão com `cnct_contexto.correspondencia.estagio` e `cnct_contexto.comparacoes.estagio_cnct`. Se houver estágio obrigatório, exigir carga horária determinada e indicação de que ele é requisito para aprovação/certificação ou integralização. Se o estágio for não obrigatório, exigir que o PPC o trate como opcional, acrescido à carga horária total do curso, sem requisito para aprovação/certificação. Se o PPC omitir a decisão sobre estágio, não usar `NAO_APLICAVEL`: registrar `NAO_ATENDE` ou `INCONCLUSIVO` conforme as evidências.",
+  "boa_evidencia": "Seção de estágio que declara claramente obrigatório, não obrigatório ou ausência de estágio; informa carga horária quando obrigatório; explicita vínculo ou não vínculo com aprovação/certificação; e mostra decisão compatível com o CNCT e com a matriz curricular.",
+  "ma_evidencia": "Ausência de item ou decisão sobre estágio; contradição entre estágio obrigatório/não obrigatório; carga horária obrigatória sem vínculo claro com aprovação/certificação; estágio não obrigatório tratado como requisito; ou decisão incompatível com o CNCT.",
+  "escalonar_quando": "Escalonar se o PPC mencionar estágio, mas não permitir concluir sua natureza; se houver carga horária de estágio diferente de zero na matriz sem texto explicativo; se o texto disser que é obrigatório, mas a matriz trouxer carga zero; ou se o CNCT indicar obrigação/condição e o PPC não enfrentar a questão.",
+  "evidencia_minima": 3,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

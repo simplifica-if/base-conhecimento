@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verificar Fundamentação Normativa"
+  short_description: "Confere citações e alegações normativas"
+  default_prompt: "Use $verificar-fundamentacao-normativa para conferir se este documento está corretamente fundamentado nas normas aplicáveis."

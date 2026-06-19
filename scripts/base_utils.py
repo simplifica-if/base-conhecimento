@@ -6,7 +6,13 @@ import json
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+BASE_ROOT = PROJECT_ROOT / "base-conhecimento"
+SITE_ROOT = PROJECT_ROOT / "site"
+
+# Raiz lógica da base pública. Os caminhos nos manifestos continuam relativos a
+# esta raiz para preservar URLs como normas/... e institucional/... na publicação.
+ROOT = BASE_ROOT
 NORMAS_ROOT = ROOT / "normas"
 INSTITUCIONAL_ROOT = ROOT / "institucional"
 PPCS_ROOT = INSTITUCIONAL_ROOT / "ifpr" / "ppcs"

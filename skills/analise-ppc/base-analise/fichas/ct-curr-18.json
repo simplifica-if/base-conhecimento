@@ -1,0 +1,49 @@
+{
+  "id": "CT-CURR-18",
+  "titulo": "Componentes obrigatórios e conteúdos legais da FGB contemplados",
+  "dominio": "curriculo",
+  "criticidade": "OBRIG",
+  "secoes_preferenciais": [
+    "05"
+  ],
+  "consultas": [
+    "formação geral básica",
+    "componentes obrigatórios",
+    "língua portuguesa e suas literaturas",
+    "língua portuguesa",
+    "literaturas",
+    "língua inglesa",
+    "artes",
+    "arte",
+    "educação física",
+    "matemática",
+    "biologia",
+    "física",
+    "química",
+    "filosofia",
+    "geografia",
+    "história",
+    "sociologia",
+    "história e cultura afro-brasileira e indígena",
+    "educação digital",
+    "perspectivas femininas",
+    "filmes de produção nacional"
+  ],
+  "referencias_normativas": [
+    "Lei nº 9.394/1996",
+    "Lei nº 14.945/2024",
+    "Resolução CNE/CEB nº 2/2024"
+  ],
+  "pergunta": "A estrutura curricular contempla os componentes obrigatórios da Formação Geral Básica e os conteúdos legais específicos aplicáveis ao ensino médio integrado?",
+  "rubrica": "Verificar se a matriz curricular e/ou o ementário tornam observável a presença dos componentes curriculares obrigatórios da Formação Geral Básica do ensino médio: língua portuguesa e suas literaturas, língua inglesa, artes, educação física, matemática, biologia, física, química, filosofia, geografia, história e sociologia, conforme art. 35-D da LDB e art. 17 da Resolução CNE/CEB nº 2/2024. A ausência ou impossibilidade de localizar qualquer componente deve ser apontada explicitamente. Conteúdos legais específicos podem ser considerados como verificação complementar, sem substituir a exigência dos componentes obrigatórios.",
+  "boa_evidencia": "Matriz e/ou ementas indicam de forma rastreável todos os componentes obrigatórios da FGB e, complementarmente, mostram onde conteúdos legais específicos aparecem, seja em componentes próprios, projetos integradores, práticas interdisciplinares ou ementas explicitamente relacionadas.",
+  "ma_evidencia": "Ausência ou impossibilidade de localizar um ou mais componentes obrigatórios da FGB, omissão de conteúdos legais centrais ou menções genéricas sem possibilidade de localizar sua oferta curricular.",
+  "escalonar_quando": "Escalonar se a presença de qualquer componente obrigatório depender de inferência frágil, se houver nomenclaturas ambíguas ou se matriz e ementas não permitirem confirmar a cobertura material.",
+  "evidencia_minima": 3,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

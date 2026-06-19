@@ -1,0 +1,42 @@
+{
+  "id": "CT-CURR-25",
+  "titulo": "Campos de estágio e equivalência coerentes com o perfil profissional",
+  "dominio": "curriculo",
+  "criticidade": "OBRIG",
+  "secoes_preferenciais": [
+    "04",
+    "05"
+  ],
+  "consultas": [
+    "campo de estágio",
+    "campos de estágio",
+    "instituições concedentes",
+    "instituições pretendidas",
+    "Unidade Concedente de Estágio",
+    "UCE",
+    "equivalência",
+    "perfil profissional",
+    "campo de atuação",
+    "áreas de formação",
+    "Regulamento Geral de Estágio do campus",
+    "RGE",
+    "Resolução Consup/IFPR nº 82/2022"
+  ],
+  "referencias_normativas": [
+    "CNCT",
+    "Resolução Consup/IFPR nº 82/2022",
+    "Regulamento Geral de Estágio do campus"
+  ],
+  "pergunta": "Quando o curso admite estágio, o PPC explicita campos, instituições pretendidas e critérios de equivalência coerentes com o perfil profissional?",
+  "rubrica": "Aplicar esta ficha quando o PPC admitir estágio obrigatório ou não obrigatório. Verificar se o PPC explicita em quais áreas de formação o estágio deve ocorrer, quais instituições públicas ou privadas pretende buscar para consolidar as atividades de estágio, e como os campos previstos dialogam com o perfil profissional, competências e campo de atuação do curso. Verificar também se o PPC remete aos capítulos sobre campo de estágio e equivalência da Resolução Consup/IFPR nº 82/2022 e ao Regulamento Geral de Estágio do campus. Usar `NAO_APLICAVEL` apenas quando o PPC declarar de forma clara que não admite estágio em nenhuma modalidade.",
+  "boa_evidencia": "Trechos que indicam áreas e campos de estágio coerentes com o perfil profissional, citam instituições ou tipos de instituições pretendidas na região, delimitam o vínculo com o campo de atuação do egresso e remetem aos critérios de campo de estágio/equivalência da Resolução Consup/IFPR nº 82/2022 e ao RGE do campus.",
+  "ma_evidencia": "Estágio admitido sem indicação de campos ou instituições pretendidas; campos desconectados do perfil profissional; ausência de referência aos critérios de campo de estágio/equivalência; ou remissão genérica ao estágio sem explicar onde e em que condições a atividade poderá ocorrer.",
+  "escalonar_quando": "Escalonar se o PPC mencionar estágio ou convênios, mas não permitir verificar se há campo regional plausível, se as instituições pretendidas são compatíveis com a formação ou se há tratamento mínimo de equivalência.",
+  "evidencia_minima": 3,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

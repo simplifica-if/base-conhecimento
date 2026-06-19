@@ -46,6 +46,7 @@ from base_utils import (
 
 
 LOCAL_PATTERNS = ["/" + "Users/", "Down" + "loads/", "file" + "://"]
+LOCAL_PATTERN_IGNORED_DIRS = {".git", ".venv", "skills"}
 PPC_CONVERSION_ARTIFACTS = [
     (
         "placeholder de imagem omitida",
@@ -203,7 +204,7 @@ def validate_manifest_item(item: dict[str, object]) -> list[str]:
 def validate_local_patterns() -> list[str]:
     errors: list[str] = []
     for path in ROOT.rglob("*"):
-        if any(part in {".git", ".venv"} for part in path.parts) or not path.is_file():
+        if any(part in LOCAL_PATTERN_IGNORED_DIRS for part in path.relative_to(ROOT).parts) or not path.is_file():
             continue
         try:
             text = path.read_text(encoding="utf-8")
