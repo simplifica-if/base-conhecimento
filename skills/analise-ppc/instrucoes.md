@@ -31,7 +31,7 @@ Depois disso, o agente principal deve:
 2. Ler `arquivos-suporte/grupos-subagents.json`.
 3. Ler `prompts/subagent-lote-fichas.md`.
 4. Spawnar um sub-agente por grupo.
-5. Passar a cada sub-agente o PPC completo, o prompt de trabalho, as fichas do grupo e os blocos de `contextos` do grupo.
+5. Passar a cada sub-agente o PPC completo, o prompt de trabalho, as fichas do grupo e os blocos de `contextos` do grupo, incluindo `contextos.fundamentacao_normativa` quando presente.
 6. Coletar as respostas em `arquivos-suporte/resultados-subagents.json`.
 7. Fazer uma síntese transversal opcional usando `prompts/sintese-transversal.md`, o PPC completo, todos os resultados, `cnct_contexto` e `contexto_estrutural`; salvar o retorno em `alertas_transversais` dentro de `resultados-subagents.json`.
 8. Gerar o relatório:
@@ -61,6 +61,18 @@ python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-htm
           "evidencias": ["Trecho ou referência textual do PPC"],
           "lacunas": [],
           "revisao_humana_obrigatoria": false,
+          "fundamentacao_normativa": [
+            {
+              "status": "CONFIRMADA",
+              "trecho_ppc": "Trecho do PPC que afirma algo sobre uma norma.",
+              "norma": "Norma consultada.",
+              "fonte": "base-conhecimento/normas/...",
+              "dispositivo": "Artigo, inciso, parágrafo, seção ou campo do CNCT.",
+              "evidencia": "Resumo fiel do dispositivo consultado.",
+              "analise": "Relação entre a fonte e a afirmação do PPC.",
+              "recomendacao": "Ajuste sugerido, quando aplicável."
+            }
+          ],
           "feedback_autores": "Campo opcional para fichas que solicitam texto de feedback aos autores do PPC."
         }
       ]
@@ -71,6 +83,7 @@ python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-htm
 
 O renderizador valida campos obrigatórios, fichas duplicadas, fichas ausentes, fichas desconhecidas e quantidade mínima de evidências por ficha antes de gerar o HTML.
 Quando uma ficha declarar `feedback_autores.obrigatorio_quando_estado`, o renderizador também valida a presença de `feedback_autores` para os estados indicados.
+O campo `fundamentacao_normativa` é opcional, mas deve ser usado quando a ficha avaliar afirmação do PPC sobre lei, resolução, portaria, nota técnica, regulamento, CNCT ou outro documento normativo. Quando informado, ele aparece no relatório HTML dentro da ficha correspondente.
 
 ## Contexto CNCT
 
@@ -91,6 +104,22 @@ arquivos-suporte/contexto-estrutural-subagents.json
 ```
 
 Esse bloco resume artefatos extraídos do DOCX, como identificação, matriz curricular, ementário e caminhos dos JSONs estruturados. Ele é incluído como `contextos.estrutura` em todos os grupos. Quando a representação gráfica do processo formativo é extraída e o grupo contém `CT-CURR-10`, o grupo recebe `contextos.anexos_visuais` com o caminho absoluto da imagem.
+
+## Fundamentação normativa
+
+`montar-grupos-subagents` também inclui `contextos.fundamentacao_normativa` nos grupos com fichas que citam ou dependem de base legal. Esse contexto aponta para `base-conhecimento/` e para a skill `verificar-fundamentacao-normativa`.
+
+Quando um PPC afirmar algo sobre lei, resolução, portaria, nota técnica, CNCT ou regulamento, o sub-agente deve consultar a fonte antes de validar a alegação. A saída da ficha deve registrar os achados no campo `fundamentacao_normativa` usando os status:
+
+```text
+CONFIRMADA
+CONFIRMADA_COM_RESSALVA
+IMPRECISA
+SEM_SUPORTE_NA_FONTE
+CONTRADITORIA
+FONTE_AUSENTE_OU_NAO_CONSULTADA
+NAO_NORMATIVA
+```
 
 ## Reavaliação avulsa
 

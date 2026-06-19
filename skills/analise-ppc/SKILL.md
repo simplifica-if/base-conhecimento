@@ -32,10 +32,11 @@ Read .claude/skills/analise-ppc/instrucoes.md
 
 1. Preparar o documento para criar a rodada e o `PPC.md`.
 2. Montar os grupos de fichas canônicas para sub-agentes, incluindo contexto CNCT, contexto estrutural e anexos visuais quando disponíveis.
-3. Spawnar um sub-agente por grupo na conversa atual.
-4. Coletar as respostas em `arquivos-suporte/resultados-subagents.json`.
-5. Opcionalmente executar síntese transversal por sub-agente.
-6. Gerar o relatório HTML determinístico com busca/filtros.
+3. Incluir contexto de fundamentação normativa para grupos com fichas que citam ou dependem de base legal, usando a base local e o protocolo da skill `verificar-fundamentacao-normativa`.
+4. Spawnar um sub-agente por grupo na conversa atual.
+5. Coletar as respostas em `arquivos-suporte/resultados-subagents.json`, incluindo achados opcionais em `fundamentacao_normativa`.
+6. Opcionalmente executar síntese transversal por sub-agente.
+7. Gerar o relatório HTML determinístico com busca/filtros.
 
 Ao final, informe explicitamente o link de abertura do relatório retornado pelo comando. O relatório final fica em `output/<rodada>/relatorio-analise.html` e os arquivos de suporte da rodada ficam em `output/<rodada>/arquivos-suporte/`.
 

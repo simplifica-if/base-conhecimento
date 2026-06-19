@@ -8,6 +8,15 @@ from typing import Any
 from common import FICHAS_DIR, load_fichas, read_json, round_paths
 
 ESTADOS_PERMITIDOS = {"ATENDE", "NAO_ATENDE", "INCONCLUSIVO", "NAO_APLICAVEL"}
+STATUS_FUNDAMENTACAO_NORMATIVA = {
+    "CONFIRMADA",
+    "CONFIRMADA_COM_RESSALVA",
+    "IMPRECISA",
+    "SEM_SUPORTE_NA_FONTE",
+    "CONTRADITORIA",
+    "FONTE_AUSENTE_OU_NAO_CONSULTADA",
+    "NAO_NORMATIVA",
+}
 
 
 class ErroResultadosSubagents(ValueError):
@@ -37,6 +46,35 @@ def _blocos_resultados(payload: dict[str, Any]) -> list[dict[str, Any]]:
     if isinstance(resultados, list):
         return [{"grupo_id": str(payload.get("grupo_id") or "grupo-unico"), "resultados": resultados}]
     raise ErroResultadosSubagents("O JSON precisa conter `grupos[]` ou `resultados[]`.")
+
+
+def _normalizar_fundamentacao_normativa(ficha_id: str, item: dict[str, Any]) -> list[dict[str, str]]:
+    bruto = item.get("fundamentacao_normativa")
+    if bruto is None:
+        return []
+    if not isinstance(bruto, list):
+        raise ErroResultadosSubagents(f"`fundamentacao_normativa` precisa ser lista para {ficha_id}.")
+    normalizados: list[dict[str, str]] = []
+    for indice, achado in enumerate(bruto, start=1):
+        if not isinstance(achado, dict):
+            raise ErroResultadosSubagents(f"Achado normativo {indice} de {ficha_id} precisa ser objeto JSON.")
+        status = str(achado.get("status") or "").strip()
+        if status not in STATUS_FUNDAMENTACAO_NORMATIVA:
+            raise ErroResultadosSubagents(f"Status de fundamentação normativa inválido para {ficha_id}: {status}")
+        normalizado = {
+            "status": status,
+            "trecho_ppc": str(achado.get("trecho_ppc") or achado.get("trecho") or "").strip(),
+            "norma": str(achado.get("norma") or "").strip(),
+            "fonte": str(achado.get("fonte") or achado.get("fonte_consultada") or "").strip(),
+            "dispositivo": str(achado.get("dispositivo") or "").strip(),
+            "evidencia": str(achado.get("evidencia") or achado.get("evidência") or "").strip(),
+            "analise": str(achado.get("analise") or achado.get("análise") or "").strip(),
+            "recomendacao": str(achado.get("recomendacao") or achado.get("recomendação") or "").strip(),
+        }
+        if not any(valor for chave, valor in normalizado.items() if chave != "status"):
+            raise ErroResultadosSubagents(f"Achado normativo {indice} de {ficha_id} não traz conteúdo verificável.")
+        normalizados.append(normalizado)
+    return normalizados
 
 
 def validar_resultados_subagents(
@@ -119,6 +157,7 @@ def validar_resultados_subagents(
                     "lacunas": [str(valor).strip() for valor in lacunas if str(valor).strip()],
                     "revisao_humana_obrigatoria": revisao,
                     "feedback_autores": feedback_autores,
+                    "fundamentacao_normativa": _normalizar_fundamentacao_normativa(ficha_id, item),
                 }
             )
 
@@ -221,6 +260,39 @@ def _render_feedback_autores(texto: str) -> str:
     )
 
 
+def _render_fundamentacao_normativa(achados: list[dict[str, str]]) -> str:
+    if not achados:
+        return ""
+    cards = []
+    for achado in achados:
+        detalhes = [
+            ("Trecho do PPC", achado["trecho_ppc"]),
+            ("Norma", achado["norma"]),
+            ("Fonte consultada", achado["fonte"]),
+            ("Dispositivo", achado["dispositivo"]),
+            ("Evidência", achado["evidencia"]),
+            ("Análise", achado["analise"]),
+            ("Recomendação", achado["recomendacao"]),
+        ]
+        itens = "".join(
+            f"<p><strong>{escape(rotulo)}:</strong> {escape(valor)}</p>"
+            for rotulo, valor in detalhes
+            if valor
+        )
+        cards.append(
+            "<article class=\"normative-finding\">"
+            f"<h5><span class=\"badge norma-{escape(achado['status'].lower().replace('_', '-'))}\">{escape(achado['status'])}</span></h5>"
+            f"{itens}"
+            "</article>"
+        )
+    return (
+        "<section class=\"normative-section\">"
+        "<h4>Fundamentação normativa verificada</h4>"
+        f"{''.join(cards)}"
+        "</section>"
+    )
+
+
 def _render_alertas(alertas: list[dict[str, Any]]) -> str:
     if not alertas:
         return "<p class=\"muted\">Nenhum alerta transversal registrado.</p>"
@@ -251,6 +323,7 @@ def _render_html(
     situacao = _situacao(resultados)
     revisao_humana = sum(1 for item in resultados if item["revisao_humana_obrigatoria"])
     feedbacks_autores = sum(1 for item in resultados if item.get("feedback_autores"))
+    fundamentacoes_normativas = sum(len(item.get("fundamentacao_normativa") or []) for item in resultados)
     nao_atende = sum(1 for item in resultados if item["estado"] == "NAO_ATENDE")
     inconclusivos = sum(1 for item in resultados if item["estado"] == "INCONCLUSIVO")
     linhas = []
@@ -263,6 +336,10 @@ def _render_html(
                 " ".join(item["evidencias"]),
                 " ".join(item["lacunas"]),
                 str(item.get("feedback_autores") or ""),
+                " ".join(
+                    " ".join(str(valor) for valor in achado.values())
+                    for achado in item.get("fundamentacao_normativa", [])
+                ),
             ]
         )
         linhas.append(
@@ -283,6 +360,7 @@ def _render_html(
             f"<section><h4>Lacunas</h4>{_render_lista(item['lacunas'])}</section>"
             "</div>"
             f"{_render_feedback_autores(str(item.get('feedback_autores') or ''))}"
+            f"{_render_fundamentacao_normativa(item.get('fundamentacao_normativa') or [])}"
             f"<p><strong>Revisão humana obrigatória:</strong> {'Sim' if item['revisao_humana_obrigatoria'] else 'Não'}</p>"
             "</article>"
         )
@@ -329,6 +407,16 @@ th, td { border-bottom: 1px solid #d9e2ec; padding: 10px; text-align: left; vert
 .alert-card { border-left: 4px solid #d97706; padding: 14px 16px; background: #fffbeb; margin-bottom: 12px; }
 .author-feedback { border: 1px solid #bfdbfe; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; padding: 14px 16px; margin: 16px 0; }
 .author-feedback h4 { color: #1e3a8a; }
+.normative-section { border: 1px solid #c7d2fe; border-left: 4px solid #4f46e5; border-radius: 8px; background: #eef2ff; padding: 14px 16px; margin: 16px 0; }
+.normative-section h4 { color: #312e81; }
+.normative-finding { border-top: 1px solid #c7d2fe; padding-top: 10px; margin-top: 10px; }
+.normative-finding h5 { margin: 0 0 8px; }
+.norma-confirmada { background: #d1fae5; color: #065f46; }
+.norma-confirmada-com-ressalva { background: #fef3c7; color: #92400e; }
+.norma-imprecisa { background: #fde68a; color: #78350f; }
+.norma-sem-suporte-na-fonte, .norma-contraditoria { background: #fee2e2; color: #991b1b; }
+.norma-fonte-ausente-ou-nao-consultada { background: #e5e7eb; color: #374151; }
+.norma-nao-normativa { background: #dbeafe; color: #1e40af; }
 .quick-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
 .quick-links a { color: #1d4ed8; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 999px; padding: 6px 10px; text-decoration: none; font-weight: 700; }
 .summary-note { color: #52606d; margin-top: 8px; }
@@ -376,6 +464,7 @@ th, td { border-bottom: 1px solid #d9e2ec; padding: 10px; text-align: left; vert
         <div class="metric"><span>Revisão humana</span><strong>{revisao_humana}</strong></div>
         <div class="metric"><span>Alertas transversais</span><strong>{len(alertas)}</strong></div>
         <div class="metric"><span>Feedback aos autores</span><strong>{feedbacks_autores}</strong></div>
+        <div class="metric"><span>Fundamentações verificadas</span><strong>{fundamentacoes_normativas}</strong></div>
       </div>
       <p class="summary-note">Use os filtros para isolar não conformidades, itens inconclusivos, criticidade ou fichas que pedem revisão humana.</p>
     </section>

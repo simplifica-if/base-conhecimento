@@ -12,6 +12,18 @@
       ],
       "lacunas": [],
       "revisao_humana_obrigatoria": false,
+      "fundamentacao_normativa": [
+        {
+          "status": "CONFIRMADA",
+          "trecho_ppc": "O PPC afirma que a oferta observa as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica.",
+          "norma": "Resolução CNE/CP nº 1/2021",
+          "fonte": "base-conhecimento/normas/br/resolucoes/RESOLUCAO_CNE-CP_1-2021_dcnept.md",
+          "dispositivo": "Resumo e dispositivos aplicáveis",
+          "evidencia": "A fonte consultada trata das Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica.",
+          "analise": "A norma citada é pertinente ao fundamento geral de EPT do curso técnico.",
+          "recomendacao": ""
+        }
+      ],
       "feedback_autores": "Campo opcional. Use quando a ficha solicitar texto dirigido aos autores do PPC, com diagnóstico e sugestões de adequação."
     }
   ]

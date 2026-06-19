@@ -17,6 +17,7 @@ from cnct_catalogo import comparar_ppc_com_cnct
 from subagents import (
     agrupar_fichas,
     carregar_fichas_ordenadas,
+    ficha_requer_fundamentacao_normativa,
     ficha_requer_contexto_cnct,
     mesclar_resultados_avulsos,
     montar_grupo_avulso,
@@ -150,6 +151,10 @@ def test_montar_grupos_subagents_salva_payload_na_rodada(tmp_path: Path) -> None
     assert grupos_com_cnct
     assert all("contextos" in grupo and "cnct" in grupo["contextos"] for grupo in grupos_com_cnct)
     assert all("estrutura" in grupo["contextos"] for grupo in payload["grupos"])
+    grupos_com_fundamentacao = [grupo for grupo in payload["grupos"] if grupo["requer_fundamentacao_normativa"]]
+    assert grupos_com_fundamentacao
+    assert payload["fundamentacao_normativa"]["protocolo"] == "verificar-fundamentacao-normativa"
+    assert all("fundamentacao_normativa" in grupo["contextos"] for grupo in grupos_com_fundamentacao)
 
 
 def test_contexto_cnct_inclui_resumo_estruturado_de_estagio() -> None:
@@ -232,6 +237,14 @@ def test_detector_identifica_fichas_que_dependem_do_cnct() -> None:
     assert not ficha_requer_contexto_cnct(fichas["CT-SUP-01"])
 
 
+def test_detector_identifica_fichas_que_dependem_de_fundamentacao_normativa() -> None:
+    fichas = {ficha["id"]: ficha for ficha in carregar_fichas_ordenadas()}
+
+    assert ficha_requer_fundamentacao_normativa(fichas["CT-IDENT-08"])
+    assert ficha_requer_fundamentacao_normativa(fichas["CT-CURR-20"])
+    assert not ficha_requer_fundamentacao_normativa(fichas["CT-IDENT-02"])
+
+
 def test_gerar_relatorio_html_aceita_resultados_validos(tmp_path: Path) -> None:
     rodada_dir = _criar_rodada(tmp_path)
     caminhos = round_paths(rodada_dir)
@@ -249,6 +262,33 @@ def test_gerar_relatorio_html_aceita_resultados_validos(tmp_path: Path) -> None:
     assert "CT-IDENT-01" in html
     assert 'id="filtro-busca"' in html
     assert 'id="filtro-feedback"' in html
+
+
+def test_gerar_relatorio_html_renderiza_fundamentacao_normativa(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    primeiro = payload["grupos"][0]["resultados"][0]
+    primeiro["fundamentacao_normativa"] = [
+        {
+            "status": "CONFIRMADA_COM_RESSALVA",
+            "trecho_ppc": "O PPC afirma atendimento à Resolução CNE/CP nº 1/2021.",
+            "norma": "Resolução CNE/CP nº 1/2021",
+            "fonte": "base-conhecimento/normas/br/resolucoes/RESOLUCAO_CNE-CP_1-2021_dcnept.md",
+            "dispositivo": "Diretrizes gerais da EPT",
+            "evidencia": "A norma trata das DCN gerais para a Educação Profissional e Tecnológica.",
+            "analise": "A citação é pertinente, mas precisa indicar o alcance específico usado pelo PPC.",
+            "recomendacao": "Explicitar quais diretrizes orientam a organização curricular.",
+        }
+    ]
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+    html = caminhos["relatorio_html"].read_text(encoding="utf-8")
+    assert "Fundamentação normativa verificada" in html
+    assert "CONFIRMADA_COM_RESSALVA" in html
+    assert "RESOLUCAO_CNE-CP_1-2021_dcnept.md" in html
 
 
 def test_gerar_relatorio_html_rejeita_ficha_duplicada(tmp_path: Path) -> None:
@@ -422,6 +462,7 @@ def test_prompt_subagent_declara_contrato_de_saida() -> None:
         "evidencias",
         "lacunas",
         "revisao_humana_obrigatoria",
+        "fundamentacao_normativa",
         "feedback_autores",
     ):
         assert campo in prompt

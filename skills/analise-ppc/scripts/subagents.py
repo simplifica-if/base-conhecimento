@@ -17,6 +17,15 @@ from common import (
 from cnct_catalogo import gerar_contexto_cnct_rodada
 
 FICHA_REPRESENTACAO_GRAFICA = "CT-CURR-10"
+STATUS_FUNDAMENTACAO_NORMATIVA = [
+    "CONFIRMADA",
+    "CONFIRMADA_COM_RESSALVA",
+    "IMPRECISA",
+    "SEM_SUPORTE_NA_FONTE",
+    "CONTRADITORIA",
+    "FONTE_AUSENTE_OU_NAO_CONSULTADA",
+    "NAO_NORMATIVA",
+]
 
 
 def carregar_fichas_ordenadas(fichas_dir: Path | None = None) -> list[dict[str, Any]]:
@@ -60,6 +69,69 @@ def ficha_requer_contexto_cnct(ficha: dict[str, Any]) -> bool:
     )
     texto += " " + " ".join(str(item) for item in ficha.get("consultas", []))
     return "cnct" in texto.casefold() or "contexto_estrutural.cnct" in texto.casefold()
+
+
+def ficha_requer_fundamentacao_normativa(ficha: dict[str, Any]) -> bool:
+    referencias = ficha.get("referencias_normativas")
+    if isinstance(referencias, list) and any(str(item).strip() for item in referencias):
+        return True
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in (
+            "titulo",
+            "pergunta",
+            "rubrica",
+            "boa_evidencia",
+            "ma_evidencia",
+            "escalonar_quando",
+        )
+    )
+    texto += " " + " ".join(str(item) for item in ficha.get("consultas", []))
+    texto_normalizado = texto.casefold()
+    termos = (
+        "norma",
+        "normativa",
+        "legal",
+        "lei ",
+        "resolução",
+        "resolucao",
+        "portaria",
+        "nota técnica",
+        "nota tecnica",
+        "regulamento",
+        "cnct",
+        "art.",
+        "inciso",
+        "parágrafo",
+        "paragrafo",
+    )
+    return any(termo in texto_normalizado for termo in termos)
+
+
+def contexto_fundamentacao_normativa() -> dict[str, Any]:
+    project_root = Path(__file__).resolve().parents[3]
+    base_root = project_root / "base-conhecimento"
+    skill_root = project_root / "skills" / "verificar-fundamentacao-normativa"
+    return {
+        "protocolo": "verificar-fundamentacao-normativa",
+        "skill_path": str(skill_root) if skill_root.exists() else None,
+        "skill_instrucoes": str(skill_root / "SKILL.md") if (skill_root / "SKILL.md").exists() else None,
+        "skill_relatorio": str(skill_root / "references" / "relatorio.md") if (skill_root / "references" / "relatorio.md").exists() else None,
+        "base_path": str(base_root) if base_root.exists() else None,
+        "manifestos": {
+            "normas": str(base_root / "manifest.json") if (base_root / "manifest.json").exists() else None,
+            "institucional": str(base_root / "institucional_manifest.json") if (base_root / "institucional_manifest.json").exists() else None,
+            "catalogos": str(base_root / "catalogos_manifest.json") if (base_root / "catalogos_manifest.json").exists() else None,
+            "cnct": str(base_root / "catalogos" / "cnct" / "manifest.json")
+            if (base_root / "catalogos" / "cnct" / "manifest.json").exists()
+            else None,
+        },
+        "status_permitidos": STATUS_FUNDAMENTACAO_NORMATIVA,
+        "observacao": (
+            "Use este contexto quando o PPC citar norma ou fizer afirmação com força normativa. "
+            "Os campos path dentro dos manifestos são relativos a base-conhecimento/."
+        ),
+    }
 
 
 def _read_json_if_exists(path_value: Any) -> dict[str, Any]:
@@ -250,12 +322,17 @@ def _adicionar_contextos_grupo(
     cnct_contexto: dict[str, Any],
     contexto_estrutural: dict[str, Any],
     anexos_visuais: list[dict[str, str]],
+    fundamentacao_normativa: dict[str, Any],
 ) -> None:
     contextos: dict[str, Any] = {}
     requer_cnct = any(ficha_requer_contexto_cnct(ficha) for ficha in grupo["fichas"])
     grupo["requer_contexto_cnct"] = requer_cnct
     if requer_cnct:
         contextos["cnct"] = cnct_contexto
+    requer_fundamentacao = any(ficha_requer_fundamentacao_normativa(ficha) for ficha in grupo["fichas"])
+    grupo["requer_fundamentacao_normativa"] = requer_fundamentacao
+    if requer_fundamentacao:
+        contextos["fundamentacao_normativa"] = fundamentacao_normativa
     grupo["requer_contexto_estrutural"] = True
     contextos["estrutura"] = contexto_estrutural
     anexos_grupo = [
@@ -283,12 +360,14 @@ def montar_grupos_subagents(
     cnct_contexto = gerar_contexto_cnct_rodada(rodada_dir)
     contexto_estrutural = gerar_contexto_estrutural_subagents(rodada_dir)
     anexos_visuais = _anexos_visuais(caminhos)
+    fundamentacao_normativa = contexto_fundamentacao_normativa()
     for grupo in grupos:
         _adicionar_contextos_grupo(
             grupo,
             cnct_contexto=cnct_contexto,
             contexto_estrutural=contexto_estrutural,
             anexos_visuais=anexos_visuais,
+            fundamentacao_normativa=fundamentacao_normativa,
         )
     payload = {
         "rodada_dir": str(caminhos["rodada_dir"]),
@@ -299,6 +378,7 @@ def montar_grupos_subagents(
         "cnct_contexto": cnct_contexto,
         "contexto_estrutural_path": str(caminhos["contexto_estrutural_subagents"]),
         "contexto_estrutural": contexto_estrutural,
+        "fundamentacao_normativa": fundamentacao_normativa,
         "anexos_visuais": anexos_visuais,
         "curso": metadata.get("curso", ""),
         "total_fichas": len(fichas),
@@ -331,11 +411,13 @@ def montar_grupo_avulso(
     cnct_contexto = gerar_contexto_cnct_rodada(rodada_dir)
     contexto_estrutural = gerar_contexto_estrutural_subagents(rodada_dir)
     anexos_visuais = _anexos_visuais(caminhos)
+    fundamentacao_normativa = contexto_fundamentacao_normativa()
     _adicionar_contextos_grupo(
         grupo,
         cnct_contexto=cnct_contexto,
         contexto_estrutural=contexto_estrutural,
         anexos_visuais=anexos_visuais,
+        fundamentacao_normativa=fundamentacao_normativa,
     )
     payload = {
         "rodada_dir": str(caminhos["rodada_dir"]),

@@ -54,7 +54,7 @@ python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py preparar-documento 
 python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py montar-grupos-subagents --rodada-dir .agents/skills/analise-ppc/output/<rodada>
 ```
 
-Depois, o agente principal spawna um sub-agente por grupo em `arquivos-suporte/grupos-subagents.json`. Passe também os blocos `contextos` de cada grupo, incluindo `contextos.cnct`, `contextos.estrutura` e eventuais `contextos.anexos_visuais`. Em seguida, colete as respostas em `arquivos-suporte/resultados-subagents.json`, opcionalmente rode a síntese transversal com `prompts/sintese-transversal.md`, e gere o relatório:
+Depois, o agente principal spawna um sub-agente por grupo em `arquivos-suporte/grupos-subagents.json`. Passe também os blocos `contextos` de cada grupo, incluindo `contextos.cnct`, `contextos.estrutura`, `contextos.fundamentacao_normativa` e eventuais `contextos.anexos_visuais`. Em seguida, colete as respostas em `arquivos-suporte/resultados-subagents.json`, opcionalmente rode a síntese transversal com `prompts/sintese-transversal.md`, e gere o relatório:
 
 ```bash
 python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-html --rodada-dir .agents/skills/analise-ppc/output/<rodada> --resultados resultados-subagents.json
