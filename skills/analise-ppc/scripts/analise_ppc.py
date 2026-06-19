@@ -11,7 +11,12 @@ if str(SCRIPT_DIR) not in sys.path:
 
 from gerar_relatorio_html import gerar_relatorio_html
 from preparar_documento import preparar_documento
-from subagents import mesclar_resultados_avulsos, montar_grupo_avulso, montar_grupos_subagents
+from subagents import (
+    mesclar_resultados_avulsos,
+    montar_grupo_avulso,
+    montar_grupos_subagents,
+    preparar_prompts_subagents,
+)
 
 
 def _print_payload(payload: object) -> None:
@@ -41,6 +46,12 @@ def cmd_montar_grupos_subagents(args: argparse.Namespace) -> int:
         rodada_dir=Path(args.rodada_dir),
         tamanho_grupo=args.tamanho_grupo,
     )
+    _print_payload(payload)
+    return 0
+
+
+def cmd_preparar_prompts_subagents(args: argparse.Namespace) -> int:
+    payload = preparar_prompts_subagents(rodada_dir=Path(args.rodada_dir))
     _print_payload(payload)
     return 0
 
@@ -90,6 +101,13 @@ def build_parser() -> argparse.ArgumentParser:
     parser_grupos.add_argument("--rodada-dir", type=str, required=True, help="Diretório da rodada")
     parser_grupos.add_argument("--tamanho-grupo", type=int, default=20, help="Quantidade de fichas por grupo")
     parser_grupos.set_defaults(func=cmd_montar_grupos_subagents)
+
+    parser_prompts = subparsers.add_parser(
+        "preparar-prompts-subagents",
+        help="Gerar pacotes Markdown autocontidos para cada grupo de sub-agente",
+    )
+    parser_prompts.add_argument("--rodada-dir", type=str, required=True, help="Diretório da rodada")
+    parser_prompts.set_defaults(func=cmd_preparar_prompts_subagents)
 
     parser_avulso = subparsers.add_parser(
         "montar-grupo-avulso",

@@ -1,28 +1,31 @@
 from __future__ import annotations
 
-import csv
 import re
 import unicodedata
 from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 
-from common import APP_DIR, read_json, round_paths, sha256_file, write_json
+from common import BASE_CONHECIMENTO_DIR, read_json, round_paths, sha256_file, write_json
 
-CNCT_CATALOGO_PATH = APP_DIR / "base-analise" / "dados" / "cnct" / "catalogo_cnct.csv"
-CNCT_CAMPOS = (
-    ("Eixo Tecnológico", "eixo_tecnologico"),
-    ("Área Tecnológica", "area_tecnologica"),
-    ("Denominação do Curso", "denominacao"),
-    ("Perfil Profissional de Conclusão", "perfil_profissional"),
-    ("Carga Horária Mínima", "carga_horaria_minima"),
-    ("Descrição Carga Horária Mínima", "descricao_carga_horaria_minima"),
-    ("Pré-Requisitos para Ingresso", "pre_requisitos_ingresso"),
-    ("Itinerários Formativos", "itinerarios_formativos"),
-    ("Campo de Atuação", "campo_atuacao"),
-    ("Ocupações CBO Associadas", "ocupacoes_cbo"),
-    ("Infraestrutura Mínima", "infraestrutura_minima"),
-    ("Legislação Profissional", "legislacao_profissional"),
+CNCT_ROOT = BASE_CONHECIMENTO_DIR / "catalogos" / "cnct"
+CNCT_MANIFEST_PATH = CNCT_ROOT / "manifest.json"
+CNCT_INDEX_PATH = CNCT_ROOT / "index.json"
+CNCT_CAMPOS_COMPLETOS = (
+    "eixo_tecnologico",
+    "area_tecnologica",
+    "denominacao",
+    "perfil_profissional",
+    "carga_horaria_minima",
+    "carga_horaria_minima_horas",
+    "descricao_carga_horaria_minima",
+    "pre_requisitos_ingresso",
+    "itinerarios_formativos",
+    "campo_atuacao",
+    "ocupacoes_cbo",
+    "codigos_cbo",
+    "infraestrutura_minima",
+    "legislacao_profissional",
 )
 
 
@@ -49,10 +52,6 @@ def extrair_numero_horas(valor: Any) -> int | None:
 
 def _texto_limpo(valor: Any) -> str:
     return " ".join(str(valor or "").split())
-
-
-def _normalizar_linha_csv(linha: dict[str, str]) -> dict[str, str]:
-    return {str(chave or "").lstrip("\ufeff").strip(): valor for chave, valor in linha.items()}
 
 
 def _janelas_termo(texto_normalizado: str, termo: str, raio: int = 160) -> list[str]:
@@ -112,30 +111,49 @@ def resumir_estagio_cnct(curso: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def _resolver_path_base_conhecimento(path_value: str) -> Path:
+    path = Path(path_value)
+    if path.is_absolute():
+        return path
+    return BASE_CONHECIMENTO_DIR / path
+
+
+def _carregar_curso_completo(item_index: dict[str, Any]) -> dict[str, Any]:
+    curso = dict(item_index)
+    path_value = str(item_index.get("path") or "")
+    if path_value:
+        caminho_curso = _resolver_path_base_conhecimento(path_value)
+        if caminho_curso.exists():
+            payload = read_json(caminho_curso)
+            if isinstance(payload, dict):
+                curso.update(payload)
+                curso["path"] = path_value
+                curso["arquivo"] = str(caminho_curso)
+    horas = curso.get("carga_horaria_minima_horas")
+    curso.setdefault("carga_horaria_minima", f"{horas} horas" if isinstance(horas, int) else "")
+    curso.setdefault("ocupacoes_cbo", "")
+    curso.setdefault("infraestrutura_minima", "")
+    curso.setdefault("legislacao_profissional", "")
+    curso.setdefault("denominacao_normalizada", normalizar_denominacao_cnct(curso.get("denominacao")))
+    return curso
+
+
 def carregar_catalogo_cnct(catalogo_path: Path | None = None) -> list[dict[str, Any]]:
-    caminho = catalogo_path or CNCT_CATALOGO_PATH
+    caminho = catalogo_path or CNCT_INDEX_PATH
     cursos: list[dict[str, Any]] = []
-    with caminho.open(encoding="utf-8-sig", newline="") as arquivo:
-        reader = csv.DictReader(arquivo, delimiter=";")
-        for indice, linha_bruta in enumerate(reader, start=1):
-            linha = _normalizar_linha_csv(linha_bruta)
-            denominacao = str(linha.get("Denominação do Curso") or "").strip()
-            if not denominacao:
-                continue
-            campos_csv = {campo_csv: str(linha.get(campo_csv) or "").strip() for campo_csv, _ in CNCT_CAMPOS}
-            curso = {
-                "indice": indice,
-                "campos_csv": campos_csv,
-            }
-            for campo_csv, campo_normalizado in CNCT_CAMPOS:
-                curso[campo_normalizado] = campos_csv[campo_csv]
-            curso.update(
-                {
-                    "denominacao_normalizada": normalizar_denominacao_cnct(denominacao),
-                    "carga_horaria_minima_horas": extrair_numero_horas(campos_csv["Carga Horária Mínima"]),
-                }
-            )
-            cursos.append(curso)
+    payload = read_json(caminho)
+    items = payload.get("items") if isinstance(payload, dict) else []
+    if not isinstance(items, list):
+        return cursos
+    for indice, item in enumerate(items, start=1):
+        if not isinstance(item, dict):
+            continue
+        denominacao = str(item.get("denominacao") or "").strip()
+        if not denominacao:
+            continue
+        curso = _carregar_curso_completo(item)
+        curso.setdefault("indice", indice)
+        cursos.append(curso)
     return cursos
 
 
@@ -169,6 +187,8 @@ def _tipo_correspondencia(score: float) -> str:
 def _resumir_curso(curso: dict[str, Any], score: float, completo: bool = False) -> dict[str, Any]:
     resumo = {
         "indice": curso["indice"],
+        "id": curso.get("id", ""),
+        "path": curso.get("path", ""),
         "score": round(score, 4),
         "denominacao": curso["denominacao"],
         "eixo_tecnologico": curso["eixo_tecnologico"],
@@ -181,9 +201,10 @@ def _resumir_curso(curso: dict[str, Any], score: float, completo: bool = False) 
         "estagio": resumir_estagio_cnct(curso),
     }
     if completo:
-        for _, campo_normalizado in CNCT_CAMPOS:
-            resumo[campo_normalizado] = curso[campo_normalizado]
-        resumo["campos_csv"] = curso["campos_csv"]
+        for campo_normalizado in CNCT_CAMPOS_COMPLETOS:
+            resumo[campo_normalizado] = curso.get(campo_normalizado, "")
+        if curso.get("arquivo"):
+            resumo["arquivo"] = curso["arquivo"]
     return resumo
 
 
@@ -364,7 +385,7 @@ def comparar_ppc_com_cnct(
     matriz_payload: dict[str, Any],
     catalogo_path: Path | None = None,
 ) -> dict[str, Any]:
-    caminho_catalogo = catalogo_path or CNCT_CATALOGO_PATH
+    caminho_catalogo = catalogo_path or CNCT_INDEX_PATH
     dados = _dados_extraidos(dados_conversao)
     curso_declarado = _primeiro_valor_preenchido(dados.get("curso_cnct"), metadata.get("curso"), dados.get("nome_curso"))
     eixo_declarado = _primeiro_valor_preenchido(dados.get("eixo_tecnologico"), metadata.get("eixo_tecnologico"))
@@ -375,6 +396,7 @@ def comparar_ppc_com_cnct(
         return {
             "disponivel": False,
             "fonte_catalogo": str(caminho_catalogo),
+            "fonte_manifesto": str(CNCT_MANIFEST_PATH),
             "motivo": "Catálogo CNCT não encontrado.",
             "curso_declarado": curso_declarado,
             "eixo_declarado": eixo_declarado,
@@ -423,7 +445,9 @@ def comparar_ppc_com_cnct(
     return {
         "disponivel": True,
         "fonte_catalogo": str(caminho_catalogo),
+        "fonte_manifesto": str(CNCT_MANIFEST_PATH),
         "catalogo_sha256": sha256_file(caminho_catalogo),
+        "manifesto_sha256": sha256_file(CNCT_MANIFEST_PATH) if CNCT_MANIFEST_PATH.exists() else "",
         "curso_declarado": curso_declarado,
         "eixo_declarado": eixo_declarado,
         "carga_horaria_ppc": carga_ppc,

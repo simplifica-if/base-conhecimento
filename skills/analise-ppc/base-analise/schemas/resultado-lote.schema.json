@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://simplifica-if.local/analise-ppc/resultado-lote.schema.json",
+  "title": "Resultado de lote de fichas PPC",
+  "type": "object",
+  "required": ["resultados"],
+  "properties": {
+    "grupo_id": { "type": "string" },
+    "batch_id": { "type": "string" },
+    "resultados": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "ficha_id",
+          "estado",
+          "confianca",
+          "justificativa",
+          "evidencias",
+          "lacunas",
+          "revisao_humana_obrigatoria"
+        ],
+        "properties": {
+          "ficha_id": { "type": "string" },
+          "estado": { "type": "string", "enum": ["ATENDE", "NAO_ATENDE", "INCONCLUSIVO", "NAO_APLICAVEL"] },
+          "confianca": { "type": "number", "minimum": 0, "maximum": 1 },
+          "justificativa": { "type": "string" },
+          "evidencias": {
+            "type": "array",
+            "items": {
+              "anyOf": [
+                { "type": "string" },
+                {
+                  "type": "object",
+                  "required": ["trecho"],
+                  "properties": {
+                    "trecho": { "type": "string" },
+                    "secao": { "type": "string" },
+                    "localizador": { "type": "string" },
+                    "fonte": { "type": "string" },
+                    "artefato": { "type": "string" }
+                  }
+                }
+              ]
+            }
+          },
+          "lacunas": { "type": "array", "items": { "type": "string" } },
+          "revisao_humana_obrigatoria": { "type": "boolean" },
+          "fundamentacao_normativa": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["status"],
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "CONFIRMADA",
+                    "CONFIRMADA_COM_RESSALVA",
+                    "IMPRECISA",
+                    "SEM_SUPORTE_NA_FONTE",
+                    "CONTRADITORIA",
+                    "FONTE_AUSENTE_OU_NAO_CONSULTADA",
+                    "NAO_NORMATIVA"
+                  ]
+                },
+                "trecho_ppc": { "type": "string" },
+                "norma": { "type": "string" },
+                "fonte": { "type": "string" },
+                "dispositivo": { "type": "string" },
+                "evidencia": { "type": "string" },
+                "analise": { "type": "string" },
+                "recomendacao": { "type": "string" }
+              }
+            }
+          },
+          "feedback_autores": { "type": "string" }
+        }
+      }
+    }
+  }
+}

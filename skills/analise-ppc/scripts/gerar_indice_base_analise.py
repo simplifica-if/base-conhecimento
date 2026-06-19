@@ -64,6 +64,17 @@ def _item_contrato(path: Path) -> dict[str, Any]:
     }
 
 
+def _item_schema(path: Path) -> dict[str, Any]:
+    payload = _read_json(path)
+    return {
+        "categoria": "schema",
+        "id": path.stem,
+        "titulo": str(payload.get("title") or path.name),
+        "schema_id": str(payload.get("$id") or ""),
+        "arquivo": _arquivo_relativo(path),
+    }
+
+
 def gerar_indice(gerado_em: str | None = None) -> dict[str, Any]:
     fichas = [_item_ficha(path) for path in sorted((BASE_ANALISE_DIR / "fichas").glob("*.json"))]
     validacoes = [
@@ -71,7 +82,8 @@ def gerar_indice(gerado_em: str | None = None) -> dict[str, Any]:
         for path in sorted((BASE_ANALISE_DIR / "validacoes-cruzadas").glob("*.json"))
     ]
     contratos = [_item_contrato(path) for path in sorted((BASE_ANALISE_DIR / "contratos").glob("*.json"))]
-    itens = [*fichas, *validacoes, *contratos]
+    schemas = [_item_schema(path) for path in sorted((BASE_ANALISE_DIR / "schemas").glob("*.schema.json"))]
+    itens = [*fichas, *validacoes, *contratos, *schemas]
     return {
         "base_analise_dir": "analise-ppc/base-analise",
         "gerado_em": gerado_em or datetime.now(UTC).replace(microsecond=0).isoformat(),
@@ -79,6 +91,7 @@ def gerar_indice(gerado_em: str | None = None) -> dict[str, Any]:
             "total_fichas": len(fichas),
             "total_validacoes_cruzadas": len(validacoes),
             "total_contratos": len(contratos),
+            "total_schemas": len(schemas),
             "total_itens": len(itens),
         },
         "itens": itens,

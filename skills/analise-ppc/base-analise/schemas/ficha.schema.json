@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://simplifica-if.local/analise-ppc/ficha.schema.json",
+  "title": "Ficha de análise PPC",
+  "type": "object",
+  "required": [
+    "id",
+    "titulo",
+    "dominio",
+    "criticidade",
+    "secoes_preferenciais",
+    "consultas",
+    "pergunta",
+    "rubrica",
+    "boa_evidencia",
+    "ma_evidencia",
+    "evidencia_minima",
+    "estados_permitidos"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "titulo": { "type": "string" },
+    "dominio": { "type": "string", "enum": ["identidade", "curriculo", "suporte", "transversal"] },
+    "criticidade": { "type": "string", "enum": ["BLOQ", "OBRIG", "REC"] },
+    "secoes_preferenciais": { "type": "array", "items": { "type": "string" } },
+    "consultas": { "type": "array", "items": { "type": "string" } },
+    "referencias_normativas": { "type": "array", "items": { "type": "string" } },
+    "pergunta": { "type": "string" },
+    "rubrica": { "type": "string" },
+    "boa_evidencia": { "type": "string" },
+    "ma_evidencia": { "type": "string" },
+    "escalonar_quando": { "type": "string" },
+    "evidencia_minima": { "type": "integer", "minimum": 1 },
+    "estados_permitidos": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["ATENDE", "NAO_ATENDE", "INCONCLUSIVO", "NAO_APLICAVEL"] }
+    },
+    "feedback_autores": {
+      "type": "object",
+      "properties": {
+        "obrigatorio_quando_estado": {
+          "type": "array",
+          "items": { "type": "string", "enum": ["ATENDE", "NAO_ATENDE", "INCONCLUSIVO", "NAO_APLICAVEL"] }
+        },
+        "orientacao": { "type": "string" }
+      }
+    }
+  }
+}

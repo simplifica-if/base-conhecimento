@@ -23,6 +23,7 @@ Use `.agents/skills/analise-ppc` nos exemplos abaixo. Se a skill estiver instala
 ```bash
 python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py preparar-documento caminho/PPC.docx
 python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py montar-grupos-subagents --rodada-dir .agents/skills/analise-ppc/output/<rodada>
+python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py preparar-prompts-subagents --rodada-dir .agents/skills/analise-ppc/output/<rodada>
 ```
 
 Depois disso, o agente principal deve:
@@ -30,11 +31,12 @@ Depois disso, o agente principal deve:
 1. Ler `arquivos-suporte/PPC.md`.
 2. Ler `arquivos-suporte/grupos-subagents.json`.
 3. Ler `prompts/subagent-lote-fichas.md`.
-4. Spawnar um sub-agente por grupo.
-5. Passar a cada sub-agente o PPC completo, o prompt de trabalho, as fichas do grupo e os blocos de `contextos` do grupo, incluindo `contextos.fundamentacao_normativa` quando presente.
-6. Coletar as respostas em `arquivos-suporte/resultados-subagents.json`.
-7. Fazer uma síntese transversal opcional usando `prompts/sintese-transversal.md`, o PPC completo, todos os resultados, `cnct_contexto` e `contexto_estrutural`; salvar o retorno em `alertas_transversais` dentro de `resultados-subagents.json`.
-8. Gerar o relatório:
+4. Preferencialmente ler os pacotes prontos em `arquivos-suporte/prompts-subagents/*.md`.
+5. Spawnar um sub-agente por grupo.
+6. Passar a cada sub-agente o pacote do grupo ou, de forma equivalente, o PPC completo, o prompt de trabalho, as fichas do grupo e os blocos de `contextos` do grupo, incluindo `contextos.fundamentacao_normativa` quando presente.
+7. Coletar as respostas em `arquivos-suporte/resultados-subagents.json`.
+8. Fazer a etapa de validações cruzadas usando `prompts/sintese-transversal.md`, o PPC completo, todos os resultados, `cnct_contexto`, `contexto_estrutural` e `validacoes_cruzadas`; salvar o retorno em `alertas_transversais` dentro de `resultados-subagents.json`.
+9. Gerar o relatório:
 
 ```bash
 python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-html --rodada-dir .agents/skills/analise-ppc/output/<rodada> --resultados resultados-subagents.json
@@ -58,7 +60,15 @@ python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-htm
           "estado": "ATENDE",
           "confianca": 0.9,
           "justificativa": "Decisão fundamentada no PPC.",
-          "evidencias": ["Trecho ou referência textual do PPC"],
+          "evidencias": [
+            {
+              "trecho": "Trecho ou referência textual do PPC.",
+              "secao": "Seção do PPC, quando identificável.",
+              "localizador": "Página, item, título ou outro ponto de localização.",
+              "fonte": "PPC.md",
+              "artefato": "Caminho de artefato estruturado ou visual, quando usado."
+            }
+          ],
           "lacunas": [],
           "revisao_humana_obrigatoria": false,
           "fundamentacao_normativa": [
@@ -81,19 +91,29 @@ python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-htm
 }
 ```
 
-O renderizador valida campos obrigatórios, fichas duplicadas, fichas ausentes, fichas desconhecidas e quantidade mínima de evidências por ficha antes de gerar o HTML.
+O renderizador valida campos obrigatórios, fichas duplicadas, fichas ausentes, fichas desconhecidas e quantidade mínima de evidências por ficha antes de gerar o HTML. `evidencias` aceita strings legadas, mas o formato preferido é objeto estruturado com `trecho`, `secao`, `localizador`, `fonte` e `artefato`.
 Quando uma ficha declarar `feedback_autores.obrigatorio_quando_estado`, o renderizador também valida a presença de `feedback_autores` para os estados indicados.
 O campo `fundamentacao_normativa` é opcional, mas deve ser usado quando a ficha avaliar afirmação do PPC sobre lei, resolução, portaria, nota técnica, regulamento, CNCT ou outro documento normativo. Quando informado, ele aparece no relatório HTML dentro da ficha correspondente.
 
 ## Contexto CNCT
 
-`montar-grupos-subagents` identifica a entrada provável do CNCT para o curso usando o catálogo interno em `base-analise/dados/cnct/catalogo_cnct.csv` e salva o resultado em:
+`montar-grupos-subagents` identifica a entrada provável do CNCT para o curso usando a base unificada em `base-conhecimento/catalogos/cnct/index.json` e os arquivos `base-conhecimento/catalogos/cnct/cursos/*.json`. O contexto é salvo em:
 
 ```text
 arquivos-suporte/cnct-contexto.json
 ```
 
 O mesmo contexto aparece no topo de `grupos-subagents.json` como `cnct_contexto`. Grupos com fichas que mencionam CNCT ou `contexto_estrutural.cnct` recebem também `requer_contexto_cnct: true` e `contextos.cnct`. Passe esse bloco ao sub-agente junto com o PPC e as fichas do grupo.
+
+## Validações cruzadas
+
+`montar-grupos-subagents` também salva:
+
+```text
+arquivos-suporte/validacoes-cruzadas-contexto.json
+```
+
+Esse bloco contém as validações transversais canônicas de `base-analise/validacoes-cruzadas/`. Na etapa de síntese transversal, todo alerta deve informar `validacao_id`, apontando para a validação cruzada que fundamenta o alerta.
 
 ## Contexto estrutural e anexos visuais
 
@@ -136,6 +156,15 @@ python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py mesclar-resultados-
 ```
 
 Depois, rode novamente `gerar-relatorio-html`.
+
+## Manutenção da base de análise
+
+Ao alterar fichas, validações cruzadas, contratos ou schemas, valide a base e regenere o índice:
+
+```bash
+python3 -B .agents/skills/analise-ppc/scripts/validar_base_analise.py
+python3 -B .agents/skills/analise-ppc/scripts/gerar_indice_base_analise.py
+```
 
 ## Entrega do relatório
 

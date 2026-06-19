@@ -26,7 +26,8 @@ Você está revisando um Projeto Pedagógico de Curso técnico do IFPR.
 11. Não trate citação normativa como evidência suficiente. Para concluir `ATENDE`, a fonte consultada deve sustentar a afirmação do PPC quanto a objeto, escopo, nível de ensino, sujeito obrigado, condição e vigência. Se a norma necessária não estiver disponível ou não puder ser lida, registre lacuna e use `INCONCLUSIVO` quando isso impedir o fechamento da ficha.
 12. Em fichas ou achados com afirmação normativa relevante, preencha `fundamentacao_normativa` com uma lista de achados. Use os status: `CONFIRMADA`, `CONFIRMADA_COM_RESSALVA`, `IMPRECISA`, `SEM_SUPORTE_NA_FONTE`, `CONTRADITORIA`, `FONTE_AUSENTE_OU_NAO_CONSULTADA`, `NAO_NORMATIVA`.
 13. Algumas fichas podem declarar `feedback_autores`. Quando isso ocorrer, produza o campo adicional `feedback_autores` na resposta da ficha se o estado estiver listado em `obrigatorio_quando_estado`, ou quando o feedback for útil para a revisão humana.
-14. Retorne somente JSON válido, sem Markdown e sem texto antes ou depois.
+14. Preencha `evidencias` preferencialmente como objetos com `trecho`, `secao`, `localizador`, `fonte` e `artefato`. Use `fonte: "PPC.md"` quando a evidência vier do texto principal. O campo `artefato` pode apontar para JSON ou imagem de apoio quando usado.
+15. Retorne somente JSON válido, sem Markdown e sem texto antes ou depois.
 
 ## Convenções de matriz do modelo IFPR
 
@@ -55,7 +56,15 @@ Na análise de convênios de estágio, diferencie o caso comum de Termo de Compr
       "estado": "ATENDE | NAO_ATENDE | INCONCLUSIVO | NAO_APLICAVEL",
       "confianca": 0.0,
       "justificativa": "Síntese objetiva da decisão.",
-      "evidencias": ["Trecho ou referência textual do PPC"],
+      "evidencias": [
+        {
+          "trecho": "Trecho ou referência textual do PPC.",
+          "secao": "Seção do PPC, quando identificável.",
+          "localizador": "Página, item, título ou outro ponto de localização.",
+          "fonte": "PPC.md",
+          "artefato": "Caminho de artefato estruturado ou visual, quando usado."
+        }
+      ],
       "lacunas": ["Informação ausente ou insuficiente"],
       "revisao_humana_obrigatoria": false,
       "fundamentacao_normativa": [

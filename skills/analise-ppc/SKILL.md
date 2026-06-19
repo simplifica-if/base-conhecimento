@@ -1,7 +1,6 @@
 ---
 name: analise-ppc
 description: Analisar Projetos Pedagógicos de Curso técnico do IFPR em Word DOCX ou Markdown, preparando o PPC.md, coordenando sub-agentes na conversa com fichas canônicas e gerando relatório HTML determinístico. Use quando o usuário solicitar análise de PPC, revisão de PPC, conformidade de Projeto Pedagógico de Curso, matriz curricular, ementário, CNCT ou parecer técnico-pedagógico sobre PPC.
-argument-hint: [caminho-do-PPC.docx|ajuda]
 ---
 
 # Análise de PPC
@@ -31,12 +30,13 @@ Read .claude/skills/analise-ppc/instrucoes.md
 ## Fluxo principal
 
 1. Preparar o documento para criar a rodada e o `PPC.md`.
-2. Montar os grupos de fichas canônicas para sub-agentes, incluindo contexto CNCT, contexto estrutural e anexos visuais quando disponíveis.
+2. Montar os grupos de fichas canônicas para sub-agentes, incluindo contexto CNCT da base unificada, contexto estrutural, validações cruzadas e anexos visuais quando disponíveis.
 3. Incluir contexto de fundamentação normativa para grupos com fichas que citam ou dependem de base legal, usando a base local e o protocolo da skill `verificar-fundamentacao-normativa`.
-4. Spawnar um sub-agente por grupo na conversa atual.
-5. Coletar as respostas em `arquivos-suporte/resultados-subagents.json`, incluindo achados opcionais em `fundamentacao_normativa`.
-6. Opcionalmente executar síntese transversal por sub-agente.
-7. Gerar o relatório HTML determinístico com busca/filtros.
+4. Gerar pacotes de prompt por grupo com `preparar-prompts-subagents`.
+5. Spawnar um sub-agente por grupo na conversa atual.
+6. Coletar as respostas em `arquivos-suporte/resultados-subagents.json`, incluindo evidências estruturadas e achados opcionais em `fundamentacao_normativa`.
+7. Executar síntese transversal por sub-agente usando `validacoes_cruzadas`; cada alerta deve trazer `validacao_id`.
+8. Gerar o relatório HTML determinístico com busca/filtros.
 
 Ao final, informe explicitamente o link de abertura do relatório retornado pelo comando. O relatório final fica em `output/<rodada>/relatorio-analise.html` e os arquivos de suporte da rodada ficam em `output/<rodada>/arquivos-suporte/`.
 

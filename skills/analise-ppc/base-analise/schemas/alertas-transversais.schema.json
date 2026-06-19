@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://simplifica-if.local/analise-ppc/alertas-transversais.schema.json",
+  "title": "Alertas transversais PPC",
+  "type": "object",
+  "required": ["alertas_transversais"],
+  "properties": {
+    "alertas_transversais": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "validacao_id",
+          "titulo",
+          "criticidade",
+          "descricao",
+          "fichas_relacionadas",
+          "evidencias",
+          "revisao_humana_obrigatoria"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "validacao_id": { "type": "string" },
+          "titulo": { "type": "string" },
+          "criticidade": { "type": "string", "enum": ["BLOQ", "OBRIG", "REC"] },
+          "descricao": { "type": "string" },
+          "fichas_relacionadas": { "type": "array", "items": { "type": "string" } },
+          "evidencias": { "type": "array", "items": { "type": "string" } },
+          "revisao_humana_obrigatoria": { "type": "boolean" }
+        }
+      }
+    }
+  }
+}

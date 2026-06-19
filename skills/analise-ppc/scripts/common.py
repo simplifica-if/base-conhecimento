@@ -10,9 +10,13 @@ from pathlib import Path
 from typing import Any, Iterable
 
 APP_DIR = Path(__file__).resolve().parents[1]
+PROJECT_ROOT = APP_DIR.parents[1]
+BASE_CONHECIMENTO_DIR = PROJECT_ROOT / "base-conhecimento"
 PROMPTS_DIR = APP_DIR / "prompts"
 BASE_ANALISE_DIR = APP_DIR / "base-analise"
 FICHAS_DIR = BASE_ANALISE_DIR / "fichas"
+VALIDACOES_CRUZADAS_DIR = BASE_ANALISE_DIR / "validacoes-cruzadas"
+SCHEMAS_DIR = BASE_ANALISE_DIR / "schemas"
 OUTPUT_DIR = APP_DIR / "output"
 
 DEFAULT_GROUP_SIZE = 20
@@ -97,6 +101,19 @@ def sha256_catalogo_fichas(fichas_dir: Path | None = None) -> str:
     return digest.hexdigest()
 
 
+def sha256_catalogo_json(diretorio: Path) -> str:
+    arquivos = list(sorted(diretorio.glob("*.json")))
+    if not arquivos:
+        return sha256_text("[]")
+    digest = hashlib.sha256()
+    for arquivo in arquivos:
+        digest.update(arquivo.name.encode("utf-8"))
+        digest.update(b"\0")
+        digest.update(arquivo.read_bytes())
+        digest.update(b"\0")
+    return digest.hexdigest()
+
+
 def copy_file(src: Path, dst: Path) -> Path:
     ensure_directory(dst.parent)
     shutil.copy2(src, dst)
@@ -136,7 +153,10 @@ def round_paths(rodada_dir: Path) -> dict[str, Path]:
         "preparacao_docx": base_dir / "preparacao-docx.json",
         "cnct_contexto": base_dir / "cnct-contexto.json",
         "contexto_estrutural_subagents": base_dir / "contexto-estrutural-subagents.json",
+        "validacoes_cruzadas_contexto": base_dir / "validacoes-cruzadas-contexto.json",
         "grupos_avulsos_dir": base_dir / "grupos-avulsos",
+        "prompts_subagents_dir": base_dir / "prompts-subagents",
+        "prompts_subagents_manifest": base_dir / "prompts-subagents" / "manifest.json",
         "resultados_subagents": base_dir / "resultados-subagents.json",
         "grupos_subagents": base_dir / "grupos-subagents.json",
         "relatorio_html": rodada_dir / "relatorio-analise.html",
@@ -277,12 +297,15 @@ def update_manifesto_base(
 ) -> dict[str, Any]:
     caminhos = round_paths(rodada_dir)
     prompt_subagent = PROMPTS_DIR / "subagent-lote-fichas.md"
+    prompt_sintese = PROMPTS_DIR / "sintese-transversal.md"
     manifesto = {
         "rodada_id": rodada_dir.name,
         "rodada_dir": str(rodada_dir.resolve()),
         "ppc_sha256": sha256_file(caminhos["ppc"]),
         "fichas_sha256": sha256_catalogo_fichas(fichas_dir),
+        "validacoes_cruzadas_sha256": sha256_catalogo_json(VALIDACOES_CRUZADAS_DIR),
         "prompt_subagent_sha256": sha256_file(prompt_subagent) if prompt_subagent.exists() else "",
+        "prompt_sintese_transversal_sha256": sha256_file(prompt_sintese) if prompt_sintese.exists() else "",
         "execucao": "subagents-na-conversa",
         "criado_em": now_iso(),
     }

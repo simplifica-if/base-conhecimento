@@ -17,14 +17,17 @@ from cnct_catalogo import comparar_ppc_com_cnct
 from subagents import (
     agrupar_fichas,
     carregar_fichas_ordenadas,
+    carregar_validacoes_cruzadas_ordenadas,
     ficha_requer_fundamentacao_normativa,
     ficha_requer_contexto_cnct,
     mesclar_resultados_avulsos,
     montar_grupo_avulso,
     montar_grupos_subagents,
+    preparar_prompts_subagents,
 )
 from common import BASE_ANALISE_DIR, FICHAS_DIR, read_json, round_paths, write_json
 from gerar_indice_base_analise import gerar_indice
+from validar_base_analise import validar_base_analise
 
 
 def _markdown_base() -> str:
@@ -100,7 +103,10 @@ def test_preparar_documento_cria_rodada_markdown_basica(tmp_path: Path) -> None:
         "preparacao_docx",
         "cnct_contexto",
         "contexto_estrutural_subagents",
+        "validacoes_cruzadas_contexto",
         "grupos_avulsos_dir",
+        "prompts_subagents_dir",
+        "prompts_subagents_manifest",
         "resultados_subagents",
         "grupos_subagents",
         "relatorio_html",
@@ -133,6 +139,10 @@ def test_indice_base_analise_esta_atualizado() -> None:
     assert atual == esperado
 
 
+def test_base_analise_valida_contratos_e_schemas() -> None:
+    assert validar_base_analise() == []
+
+
 def test_montar_grupos_subagents_salva_payload_na_rodada(tmp_path: Path) -> None:
     rodada_dir = _criar_rodada(tmp_path)
     caminhos = round_paths(rodada_dir)
@@ -145,8 +155,12 @@ def test_montar_grupos_subagents_salva_payload_na_rodada(tmp_path: Path) -> None
     assert len(payload["grupos"]) == (payload["total_fichas"] + 19) // 20
     assert caminhos["cnct_contexto"].exists()
     assert caminhos["contexto_estrutural_subagents"].exists()
+    assert caminhos["validacoes_cruzadas_contexto"].exists()
     assert payload["cnct_contexto"]["correspondencia"]["denominacao"] == "Técnico em Informática"
+    assert "base-conhecimento/catalogos/cnct/index.json" in payload["cnct_contexto"]["fonte_catalogo"]
     assert payload["sintese_transversal_template"].endswith("sintese-transversal.md")
+    assert payload["validacoes_cruzadas"]["total"] == len(carregar_validacoes_cruzadas_ordenadas())
+    assert payload["validacoes_cruzadas"]["validacoes"][0]["id"].startswith("VC-")
     grupos_com_cnct = [grupo for grupo in payload["grupos"] if grupo["requer_contexto_cnct"]]
     assert grupos_com_cnct
     assert all("contextos" in grupo and "cnct" in grupo["contextos"] for grupo in grupos_com_cnct)
@@ -157,6 +171,22 @@ def test_montar_grupos_subagents_salva_payload_na_rodada(tmp_path: Path) -> None
     assert all("fundamentacao_normativa" in grupo["contextos"] for grupo in grupos_com_fundamentacao)
 
 
+def test_preparar_prompts_subagents_gera_pacotes_por_grupo(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    montar_grupos_subagents(rodada_dir, tamanho_grupo=30)
+
+    manifest = preparar_prompts_subagents(rodada_dir)
+
+    assert manifest["total_pacotes"] == 3
+    primeiro = Path(manifest["arquivos"][0]["arquivo"])
+    assert primeiro.exists()
+    texto = primeiro.read_text(encoding="utf-8")
+    assert "## Prompt de trabalho" in texto
+    assert "## PPC.md" in texto
+    assert "## Grupo e contextos" in texto
+    assert "Curso Técnico em Informática" in texto
+
+
 def test_contexto_cnct_inclui_resumo_estruturado_de_estagio() -> None:
     contexto = comparar_ppc_com_cnct(
         {"curso": "Curso Técnico em Informática"},
@@ -165,10 +195,16 @@ def test_contexto_cnct_inclui_resumo_estruturado_de_estagio() -> None:
     )
 
     assert contexto["correspondencia"]["denominacao"] == "Técnico em Informática"
+    assert "base-conhecimento/catalogos/cnct/index.json" in contexto["fonte_catalogo"]
     assert contexto["correspondencia"]["estagio"]["menciona_estagio"] is True
     assert contexto["correspondencia"]["estagio"]["obrigatoriedade"] == "FACULTADO_A_INSTITUICAO"
     assert contexto["estagio_ppc"]["indicio_estagio_obrigatorio_por_carga"] is False
     assert contexto["comparacoes"]["estagio_cnct"]["status"] == "COMPATIVEL"
+
+
+def test_catalogo_cnct_interno_foi_substituido_pela_base_unificada() -> None:
+    assert not (BASE_ANALISE_DIR / "dados" / "cnct" / "catalogo_cnct.csv").exists()
+    assert Path("base-conhecimento/catalogos/cnct/index.json").exists()
 
 
 def test_ficha_convenios_estagio_declara_hipoteses_da_resolucao_82() -> None:
@@ -291,6 +327,35 @@ def test_gerar_relatorio_html_renderiza_fundamentacao_normativa(tmp_path: Path) 
     assert "RESOLUCAO_CNE-CP_1-2021_dcnept.md" in html
 
 
+def test_gerar_relatorio_html_renderiza_evidencia_estruturada(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    payload["grupos"][0]["resultados"][0]["evidencias"] = [
+        {
+            "trecho": "O PPC identifica o curso como Técnico em Informática.",
+            "secao": "1",
+            "localizador": "Quadro de identificação",
+            "fonte": "PPC.md",
+            "artefato": "",
+        },
+        {
+            "trecho": "A modalidade é integrada.",
+            "secao": "1",
+            "localizador": "Identificação",
+            "fonte": "PPC.md",
+            "artefato": "",
+        },
+    ]
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+    html = caminhos["relatorio_html"].read_text(encoding="utf-8")
+    assert "Quadro de identificação" in html
+    assert "Fonte:</strong> PPC.md" in html
+
+
 def test_gerar_relatorio_html_rejeita_ficha_duplicada(tmp_path: Path) -> None:
     rodada_dir = _criar_rodada(tmp_path)
     caminhos = round_paths(rodada_dir)
@@ -343,6 +408,7 @@ def test_gerar_relatorio_html_renderiza_alertas_transversais(tmp_path: Path) -> 
     payload["alertas_transversais"] = [
         {
             "id": "ALERTA-001",
+            "validacao_id": carregar_validacoes_cruzadas_ordenadas()[0]["id"],
             "titulo": "Inconsistência transversal",
             "criticidade": "OBRIG",
             "descricao": "Perfil e matriz precisam de revisão conjunta.",
@@ -359,6 +425,28 @@ def test_gerar_relatorio_html_renderiza_alertas_transversais(tmp_path: Path) -> 
     html = caminhos["relatorio_html"].read_text(encoding="utf-8")
     assert "Alertas transversais" in html
     assert "ALERTA-001" in html
+    assert "Validação cruzada" in html
+
+
+def test_gerar_relatorio_html_exige_validacao_id_em_alerta_transversal(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    payload["alertas_transversais"] = [
+        {
+            "id": "ALERTA-001",
+            "titulo": "Inconsistência transversal",
+            "criticidade": "OBRIG",
+            "descricao": "Perfil e matriz precisam de revisão conjunta.",
+            "fichas_relacionadas": ["CT-IDENT-01"],
+            "evidencias": ["Evidência transversal"],
+            "revisao_humana_obrigatoria": True,
+        }
+    ]
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    with pytest.raises(ErroResultadosSubagents, match="validacao_id"):
+        gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
 
 
 def test_gerar_relatorio_html_exige_feedback_autores_quando_ficha_solicita(tmp_path: Path) -> None:
@@ -471,4 +559,18 @@ def test_prompt_subagent_declara_contrato_de_saida() -> None:
 def test_prompt_sintese_transversal_declara_contrato() -> None:
     prompt = (SKILL_DIR / "prompts" / "sintese-transversal.md").read_text(encoding="utf-8")
     assert "alertas_transversais" in prompt
+    assert "validacao_id" in prompt
     assert "fichas_relacionadas" in prompt
+
+
+def test_fixtures_qualitativas_exercitam_norma_e_estagio(tmp_path: Path) -> None:
+    fixture_norma = SKILL_DIR / "tests" / "fixtures" / "ppc_norma_sem_suporte.md"
+    fixture_estagio = SKILL_DIR / "tests" / "fixtures" / "ppc_estagio_contraditorio.md"
+    assert "dispensa a consulta ao Catálogo Nacional" in fixture_norma.read_text(encoding="utf-8")
+    assert "estágio é não obrigatório" in fixture_estagio.read_text(encoding="utf-8")
+
+    payload = preparar_documento(fixture_estagio, output_base=tmp_path / "output")
+    grupos = montar_grupos_subagents(payload["rodada_dir"])
+
+    assert grupos["cnct_contexto"]["correspondencia"]["denominacao"] == "Técnico em Informática"
+    assert any(grupo["requer_fundamentacao_normativa"] for grupo in grupos["grupos"])

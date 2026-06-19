@@ -5,7 +5,7 @@ from html import escape
 from pathlib import Path
 from typing import Any
 
-from common import FICHAS_DIR, load_fichas, read_json, round_paths
+from common import FICHAS_DIR, VALIDACOES_CRUZADAS_DIR, load_fichas, read_json, round_paths
 
 ESTADOS_PERMITIDOS = {"ATENDE", "NAO_ATENDE", "INCONCLUSIVO", "NAO_APLICAVEL"}
 STATUS_FUNDAMENTACAO_NORMATIVA = {
@@ -36,6 +36,16 @@ def _resolver_resultados_path(rodada_dir: Path, resultados_path: Path) -> Path:
 def _catalogo_fichas(fichas_dir: Path | None = None) -> dict[str, dict[str, Any]]:
     fichas = sorted(load_fichas(fichas_dir or FICHAS_DIR), key=lambda ficha: str(ficha.get("id", "")))
     return {str(ficha["id"]): ficha for ficha in fichas}
+
+
+def _catalogo_validacoes(validacoes_dir: Path | None = None) -> dict[str, dict[str, Any]]:
+    diretorio = validacoes_dir or VALIDACOES_CRUZADAS_DIR
+    validacoes = []
+    for caminho in sorted(diretorio.glob("*.json")):
+        payload = read_json(caminho)
+        if isinstance(payload, dict):
+            validacoes.append(payload)
+    return {str(item["id"]): item for item in validacoes}
 
 
 def _blocos_resultados(payload: dict[str, Any]) -> list[dict[str, Any]]:
@@ -75,6 +85,42 @@ def _normalizar_fundamentacao_normativa(ficha_id: str, item: dict[str, Any]) -> 
             raise ErroResultadosSubagents(f"Achado normativo {indice} de {ficha_id} não traz conteúdo verificável.")
         normalizados.append(normalizado)
     return normalizados
+
+
+def _normalizar_evidencia(ficha_id: str, valor: Any, indice: int) -> dict[str, str]:
+    if isinstance(valor, dict):
+        normalizada = {
+            "trecho": str(valor.get("trecho") or valor.get("texto") or valor.get("evidencia") or "").strip(),
+            "secao": str(valor.get("secao") or valor.get("seção") or "").strip(),
+            "localizador": str(valor.get("localizador") or valor.get("pagina") or valor.get("linha") or "").strip(),
+            "fonte": str(valor.get("fonte") or "PPC.md").strip(),
+            "artefato": str(valor.get("artefato") or "").strip(),
+        }
+    else:
+        normalizada = {
+            "trecho": str(valor or "").strip(),
+            "secao": "",
+            "localizador": "",
+            "fonte": "PPC.md",
+            "artefato": "",
+        }
+    tem_conteudo = any(
+        normalizada.get(chave)
+        for chave in ("trecho", "secao", "localizador", "artefato")
+    ) or normalizada.get("fonte") not in {"", "PPC.md"}
+    if not tem_conteudo:
+        raise ErroResultadosSubagents(f"Evidência {indice} de {ficha_id} não traz conteúdo verificável.")
+    return normalizada
+
+
+def _normalizar_evidencias(ficha_id: str, evidencias: Any) -> list[dict[str, str]]:
+    if not isinstance(evidencias, list):
+        raise ErroResultadosSubagents(f"`evidencias` precisa ser lista para {ficha_id}.")
+    return [
+        normalizada
+        for indice, valor in enumerate(evidencias, start=1)
+        if any((normalizada := _normalizar_evidencia(ficha_id, valor, indice)).values())
+    ]
 
 
 def validar_resultados_subagents(
@@ -130,9 +176,7 @@ def validar_resultados_subagents(
             evidencias = item.get("evidencias")
             lacunas = item.get("lacunas")
             revisao = item.get("revisao_humana_obrigatoria")
-            if not isinstance(evidencias, list):
-                raise ErroResultadosSubagents(f"`evidencias` precisa ser lista para {ficha_id}.")
-            evidencias_normalizadas = [str(valor).strip() for valor in evidencias if str(valor).strip()]
+            evidencias_normalizadas = _normalizar_evidencias(ficha_id, evidencias)
             evidencia_minima = int(fichas_por_id[ficha_id].get("evidencia_minima", 1))
             if len(evidencias_normalizadas) < evidencia_minima:
                 raise ErroResultadosSubagents(
@@ -171,7 +215,11 @@ def validar_resultados_subagents(
     return sorted(normalizados, key=lambda item: item["ficha_id"])
 
 
-def validar_alertas_transversais(payload: dict[str, Any], fichas_por_id: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+def validar_alertas_transversais(
+    payload: dict[str, Any],
+    fichas_por_id: dict[str, dict[str, Any]],
+    validacoes_por_id: dict[str, dict[str, Any]],
+) -> list[dict[str, Any]]:
     bruto = payload.get("alertas_transversais")
     if bruto is None and isinstance(payload.get("sintese_transversal"), dict):
         bruto = payload["sintese_transversal"].get("alertas_transversais")
@@ -189,6 +237,7 @@ def validar_alertas_transversais(payload: dict[str, Any], fichas_por_id: dict[st
             raise ErroResultadosSubagents(f"Alerta transversal duplicado: {alerta_id}")
         vistos.add(alerta_id)
         titulo = str(item.get("titulo") or "").strip()
+        validacao_id = str(item.get("validacao_id") or "").strip()
         descricao = str(item.get("descricao") or "").strip()
         criticidade = str(item.get("criticidade") or "OBRIG").strip()
         fichas_relacionadas = item.get("fichas_relacionadas") or []
@@ -196,6 +245,10 @@ def validar_alertas_transversais(payload: dict[str, Any], fichas_por_id: dict[st
         revisao = item.get("revisao_humana_obrigatoria")
         if not titulo or not descricao:
             raise ErroResultadosSubagents(f"Alerta transversal {alerta_id} precisa de título e descrição.")
+        if not validacao_id:
+            raise ErroResultadosSubagents(f"Alerta transversal {alerta_id} precisa de `validacao_id`.")
+        if validacao_id not in validacoes_por_id:
+            raise ErroResultadosSubagents(f"Alerta {alerta_id} referencia validação cruzada desconhecida: {validacao_id}")
         if criticidade not in {"BLOQ", "OBRIG", "REC"}:
             raise ErroResultadosSubagents(f"Criticidade inválida para {alerta_id}: {criticidade}")
         if not isinstance(fichas_relacionadas, list):
@@ -212,6 +265,8 @@ def validar_alertas_transversais(payload: dict[str, Any], fichas_por_id: dict[st
         alertas.append(
             {
                 "id": alerta_id,
+                "validacao_id": validacao_id,
+                "validacao_titulo": str(validacoes_por_id[validacao_id].get("titulo") or validacao_id),
                 "titulo": titulo,
                 "criticidade": criticidade,
                 "descricao": descricao,
@@ -242,6 +297,29 @@ def _render_lista(valores: list[str]) -> str:
         return "<span class=\"muted\">Não informado</span>"
     itens = "".join(f"<li>{escape(valor)}</li>" for valor in valores)
     return f"<ul>{itens}</ul>"
+
+
+def _evidencia_texto(evidencia: dict[str, str]) -> str:
+    return " ".join(str(valor) for valor in evidencia.values() if valor)
+
+
+def _render_evidencias(evidencias: list[dict[str, str]]) -> str:
+    if not evidencias:
+        return "<span class=\"muted\">Não informado</span>"
+    itens = []
+    for evidencia in evidencias:
+        detalhes = []
+        for chave, rotulo in (
+            ("secao", "Seção"),
+            ("localizador", "Localizador"),
+            ("fonte", "Fonte"),
+            ("artefato", "Artefato"),
+        ):
+            if evidencia.get(chave):
+                detalhes.append(f"<span><strong>{escape(rotulo)}:</strong> {escape(evidencia[chave])}</span>")
+        detalhes_html = f"<div class=\"evidence-meta\">{' · '.join(detalhes)}</div>" if detalhes else ""
+        itens.append(f"<li><p>{escape(evidencia.get('trecho') or '')}</p>{detalhes_html}</li>")
+    return f"<ul class=\"evidence-list\">{''.join(itens)}</ul>"
 
 
 def _render_feedback_autores(texto: str) -> str:
@@ -303,6 +381,7 @@ def _render_alertas(alertas: list[dict[str, Any]]) -> str:
             "<article class=\"alert-card\">"
             f"<div class=\"finding-heading\"><h3>{escape(alerta['id'])} · {escape(alerta['titulo'])}</h3>"
             f"<span class=\"badge criticidade-{escape(alerta['criticidade'].lower())}\">{escape(alerta['criticidade'])}</span></div>"
+            f"<p><strong>Validação cruzada:</strong> {escape(alerta['validacao_id'])} · {escape(alerta['validacao_titulo'])}</p>"
             f"<p>{escape(alerta['descricao'])}</p>"
             f"<p><strong>Fichas relacionadas:</strong> {escape(fichas)}</p>"
             f"<section><h4>Evidências</h4>{_render_lista(alerta['evidencias'])}</section>"
@@ -333,7 +412,7 @@ def _render_html(
                 item["ficha_id"],
                 item["titulo"],
                 item["justificativa"],
-                " ".join(item["evidencias"]),
+                " ".join(_evidencia_texto(evidencia) for evidencia in item["evidencias"]),
                 " ".join(item["lacunas"]),
                 str(item.get("feedback_autores") or ""),
                 " ".join(
@@ -356,7 +435,7 @@ def _render_html(
             f"<strong>Grupo:</strong> {escape(item['grupo_id'])}</p>"
             f"<p>{escape(item['justificativa'])}</p>"
             "<div class=\"finding-grid\">"
-            f"<section><h4>Evidências</h4>{_render_lista(item['evidencias'])}</section>"
+            f"<section><h4>Evidências</h4>{_render_evidencias(item['evidencias'])}</section>"
             f"<section><h4>Lacunas</h4>{_render_lista(item['lacunas'])}</section>"
             "</div>"
             f"{_render_feedback_autores(str(item.get('feedback_autores') or ''))}"
@@ -401,6 +480,8 @@ th, td { border-bottom: 1px solid #d9e2ec; padding: 10px; text-align: left; vert
 .finding-heading { display: flex; gap: 12px; align-items: start; justify-content: space-between; }
 .finding-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
 .finding-grid section { min-width: 0; }
+.evidence-list p { margin: 0 0 4px; }
+.evidence-meta { color: #52606d; font-size: 13px; }
 .filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; align-items: end; }
 .filters label { display: grid; gap: 6px; font-weight: 700; }
 .filters input, .filters select { min-height: 38px; border: 1px solid #bcccdc; border-radius: 6px; padding: 8px; font: inherit; }
@@ -565,8 +646,9 @@ def gerar_relatorio_html(rodada_dir: Path, resultados_path: Path) -> dict[str, A
     caminho_resultados = _resolver_resultados_path(caminhos["rodada_dir"], resultados_path)
     payload = read_json(caminho_resultados)
     fichas_por_id = _catalogo_fichas()
+    validacoes_por_id = _catalogo_validacoes()
     resultados = validar_resultados_subagents(payload, fichas_por_id)
-    alertas = validar_alertas_transversais(payload, fichas_por_id)
+    alertas = validar_alertas_transversais(payload, fichas_por_id, validacoes_por_id)
     html = _render_html(metadata, resultados, alertas, caminho_resultados)
     destino = caminhos["relatorio_html"]
     destino.write_text(html, encoding="utf-8")

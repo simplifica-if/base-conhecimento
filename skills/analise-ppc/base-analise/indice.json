@@ -1,11 +1,12 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-06-19T13:41:15+00:00",
+  "gerado_em": "2026-06-19T17:03:44+00:00",
   "resumo": {
     "total_fichas": 73,
     "total_validacoes_cruzadas": 28,
     "total_contratos": 3,
-    "total_itens": 104
+    "total_schemas": 4,
+    "total_itens": 108
   },
   "itens": [
     {
@@ -1444,6 +1445,34 @@
         "resultados"
       ],
       "arquivo": "contratos/resposta_lote.exemplo.json"
+    },
+    {
+      "categoria": "schema",
+      "id": "alertas-transversais.schema",
+      "titulo": "Alertas transversais PPC",
+      "schema_id": "https://simplifica-if.local/analise-ppc/alertas-transversais.schema.json",
+      "arquivo": "schemas/alertas-transversais.schema.json"
+    },
+    {
+      "categoria": "schema",
+      "id": "ficha.schema",
+      "titulo": "Ficha de análise PPC",
+      "schema_id": "https://simplifica-if.local/analise-ppc/ficha.schema.json",
+      "arquivo": "schemas/ficha.schema.json"
+    },
+    {
+      "categoria": "schema",
+      "id": "resultado-lote.schema",
+      "titulo": "Resultado de lote de fichas PPC",
+      "schema_id": "https://simplifica-if.local/analise-ppc/resultado-lote.schema.json",
+      "arquivo": "schemas/resultado-lote.schema.json"
+    },
+    {
+      "categoria": "schema",
+      "id": "validacao-cruzada.schema",
+      "titulo": "Validação cruzada PPC",
+      "schema_id": "https://simplifica-if.local/analise-ppc/validacao-cruzada.schema.json",
+      "arquivo": "schemas/validacao-cruzada.schema.json"
     }
   ]
 }

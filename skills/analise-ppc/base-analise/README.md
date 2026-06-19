@@ -7,8 +7,10 @@ Centro canônico da base de análise do `analise-ppc`. Reúne, em um único luga
 - `fichas/` — verificações analíticas executadas por lote sobre o PPC completo.
 - `validacoes-cruzadas/` — verificações transversais de coerência entre seções e achados.
 - `contratos/` — exemplos mínimos de payload e formatos de referência.
-- `dados/cnct/catalogo_cnct.csv` — catálogo CNCT empacotado com a skill.
+- `schemas/` — contratos JSON Schema para fichas, validações cruzadas e respostas.
 - `indice.json` — índice consolidado da base de análise, gerado a partir dos JSONs reais.
+
+O CNCT usado pela skill vem da base unificada em `base-conhecimento/catalogos/cnct/`.
 
 ## Uso recomendado
 
@@ -23,4 +25,10 @@ Centro canônico da base de análise do `analise-ppc`. Reúne, em um único luga
 
 ```bash
 python3 -B scripts/gerar_indice_base_analise.py
+```
+
+- Para validar fichas, validações cruzadas, contratos e schemas:
+
+```bash
+python3 -B scripts/validar_base_analise.py
 ```

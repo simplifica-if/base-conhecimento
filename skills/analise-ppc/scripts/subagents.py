@@ -1,18 +1,24 @@
 from __future__ import annotations
 
+import json
 from copy import deepcopy
 from pathlib import Path
 from typing import Any
 
 from common import (
+    APP_DIR,
+    BASE_CONHECIMENTO_DIR,
     DEFAULT_GROUP_SIZE,
     FICHAS_DIR,
+    PROMPTS_DIR,
+    VALIDACOES_CRUZADAS_DIR,
     ensure_directory,
     load_fichas,
     read_json,
     round_paths,
     sha256_json_payload,
     write_json,
+    write_text,
 )
 from cnct_catalogo import gerar_contexto_cnct_rodada
 
@@ -30,6 +36,18 @@ STATUS_FUNDAMENTACAO_NORMATIVA = [
 
 def carregar_fichas_ordenadas(fichas_dir: Path | None = None) -> list[dict[str, Any]]:
     return sorted(load_fichas(fichas_dir or FICHAS_DIR), key=lambda ficha: str(ficha.get("id", "")))
+
+
+def carregar_validacoes_cruzadas_ordenadas(validacoes_dir: Path | None = None) -> list[dict[str, Any]]:
+    diretorio = validacoes_dir or VALIDACOES_CRUZADAS_DIR
+    validacoes = []
+    for caminho in sorted(diretorio.glob("*.json")):
+        payload = read_json(caminho)
+        if isinstance(payload, dict):
+            item = dict(payload)
+            item["arquivo"] = str(caminho)
+            validacoes.append(item)
+    return sorted(validacoes, key=lambda item: str(item.get("id", "")))
 
 
 def agrupar_fichas(
@@ -109,9 +127,8 @@ def ficha_requer_fundamentacao_normativa(ficha: dict[str, Any]) -> bool:
 
 
 def contexto_fundamentacao_normativa() -> dict[str, Any]:
-    project_root = Path(__file__).resolve().parents[3]
-    base_root = project_root / "base-conhecimento"
-    skill_root = project_root / "skills" / "verificar-fundamentacao-normativa"
+    base_root = BASE_CONHECIMENTO_DIR
+    skill_root = APP_DIR.parent / "verificar-fundamentacao-normativa"
     return {
         "protocolo": "verificar-fundamentacao-normativa",
         "skill_path": str(skill_root) if skill_root.exists() else None,
@@ -132,6 +149,23 @@ def contexto_fundamentacao_normativa() -> dict[str, Any]:
             "Os campos path dentro dos manifestos são relativos a base-conhecimento/."
         ),
     }
+
+
+def contexto_validacoes_cruzadas(rodada_dir: Path, validacoes_dir: Path | None = None) -> dict[str, Any]:
+    caminhos = round_paths(rodada_dir)
+    validacoes = carregar_validacoes_cruzadas_ordenadas(validacoes_dir)
+    contexto = {
+        "total": len(validacoes),
+        "fonte": str((validacoes_dir or VALIDACOES_CRUZADAS_DIR).resolve()),
+        "prompt": str(PROMPTS_DIR / "sintese-transversal.md"),
+        "uso": (
+            "Executar depois da coleta das fichas. Avaliar cada validação cruzada aplicável e, "
+            "quando houver problema transversal, registrar alerta com validacao_id."
+        ),
+        "validacoes": validacoes,
+    }
+    write_json(caminhos["validacoes_cruzadas_contexto"], contexto)
+    return contexto
 
 
 def _read_json_if_exists(path_value: Any) -> dict[str, Any]:
@@ -350,6 +384,7 @@ def montar_grupos_subagents(
     rodada_dir: Path,
     tamanho_grupo: int = DEFAULT_GROUP_SIZE,
     fichas_dir: Path | None = None,
+    validacoes_dir: Path | None = None,
 ) -> dict[str, Any]:
     caminhos = round_paths(rodada_dir)
     if not caminhos["ppc"].exists():
@@ -361,6 +396,7 @@ def montar_grupos_subagents(
     contexto_estrutural = gerar_contexto_estrutural_subagents(rodada_dir)
     anexos_visuais = _anexos_visuais(caminhos)
     fundamentacao_normativa = contexto_fundamentacao_normativa()
+    validacoes_cruzadas = contexto_validacoes_cruzadas(rodada_dir, validacoes_dir=validacoes_dir)
     for grupo in grupos:
         _adicionar_contextos_grupo(
             grupo,
@@ -378,6 +414,8 @@ def montar_grupos_subagents(
         "cnct_contexto": cnct_contexto,
         "contexto_estrutural_path": str(caminhos["contexto_estrutural_subagents"]),
         "contexto_estrutural": contexto_estrutural,
+        "validacoes_cruzadas_path": str(caminhos["validacoes_cruzadas_contexto"]),
+        "validacoes_cruzadas": validacoes_cruzadas,
         "fundamentacao_normativa": fundamentacao_normativa,
         "anexos_visuais": anexos_visuais,
         "curso": metadata.get("curso", ""),
@@ -429,6 +467,57 @@ def montar_grupo_avulso(
     write_json(destino, payload)
     payload["grupo_avulso_path"] = str(destino)
     return payload
+
+
+def _pacote_prompt_grupo(ppc: str, prompt_template: str, grupo: dict[str, Any]) -> str:
+    return "\n\n".join(
+        [
+            f"# Pacote de análise {grupo.get('grupo_id')}",
+            "## Prompt de trabalho",
+            prompt_template.strip(),
+            "## PPC.md",
+            "```markdown\n" + ppc.strip() + "\n```",
+            "## Grupo e contextos",
+            "```json\n" + json.dumps(grupo, ensure_ascii=False, indent=2) + "\n```",
+            "Retorne somente JSON válido no contrato do prompt de trabalho.",
+        ]
+    ) + "\n"
+
+
+def preparar_prompts_subagents(rodada_dir: Path) -> dict[str, Any]:
+    caminhos = round_paths(rodada_dir)
+    if caminhos["grupos_subagents"].exists():
+        payload = read_json(caminhos["grupos_subagents"])
+    else:
+        payload = montar_grupos_subagents(rodada_dir)
+    grupos = payload.get("grupos")
+    if not isinstance(grupos, list):
+        raise ValueError("grupos-subagents.json não contém `grupos[]`.")
+    ppc = caminhos["ppc"].read_text(encoding="utf-8")
+    prompt_template_path = Path(str(payload.get("prompt_template") or PROMPTS_DIR / "subagent-lote-fichas.md"))
+    prompt_template = prompt_template_path.read_text(encoding="utf-8")
+    destino_dir = ensure_directory(caminhos["prompts_subagents_dir"])
+    arquivos = []
+    for grupo in grupos:
+        grupo_id = str(grupo.get("grupo_id") or "grupo")
+        destino = destino_dir / f"{grupo_id}.md"
+        write_text(destino, _pacote_prompt_grupo(ppc, prompt_template, grupo))
+        arquivos.append(
+            {
+                "grupo_id": grupo_id,
+                "arquivo": str(destino),
+                "total_fichas": grupo.get("total_fichas", 0),
+            }
+        )
+    manifest = {
+        "rodada_dir": str(caminhos["rodada_dir"]),
+        "ppc_markdown": str(caminhos["ppc"]),
+        "prompt_template": str(prompt_template_path),
+        "total_pacotes": len(arquivos),
+        "arquivos": arquivos,
+    }
+    write_json(caminhos["prompts_subagents_manifest"], manifest)
+    return manifest
 
 
 def mesclar_resultados_avulsos(

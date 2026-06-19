@@ -7,8 +7,20 @@
       "confianca": 0.88,
       "justificativa": "O PPC apresenta a denominação do curso, modalidade e aderência ao eixo tecnológico correspondente.",
       "evidencias": [
-        "Seção 1, apresentação do curso",
-        "Trecho da identificação institucional do curso"
+        {
+          "trecho": "O PPC apresenta a denominação do Curso Técnico em Informática.",
+          "secao": "1",
+          "localizador": "Identificação do curso",
+          "fonte": "PPC.md",
+          "artefato": ""
+        },
+        {
+          "trecho": "A identificação institucional informa campus, modalidade e eixo tecnológico.",
+          "secao": "1",
+          "localizador": "Quadro de identificação",
+          "fonte": "PPC.md",
+          "artefato": ""
+        }
       ],
       "lacunas": [],
       "revisao_humana_obrigatoria": false,

@@ -9,10 +9,11 @@ Você fará uma revisão transversal depois que todos os sub-agentes concluírem
 3. O `cnct_contexto`, quando disponível.
 4. O `contexto_estrutural`, quando disponível.
 5. Os achados `fundamentacao_normativa` registrados nas respostas das fichas, quando existirem.
+6. O bloco `validacoes_cruzadas`, com as validações transversais canônicas e seus IDs.
 
 ## Tarefa
 
-Procure inconsistências que só aparecem ao comparar respostas de fichas diferentes, como divergências entre identificação, perfil do egresso, matriz, ementário, carga horária, AEE, estágio, infraestrutura, CNCT e base normativa. Em cursos técnicos integrados, verifique especialmente se fundamentos legais, concepção do curso e referências finais tratam de modo coerente a DCNEM vigente e as Diretrizes Curriculares Nacionais Gerais da Educação Profissional e Tecnológica.
+Avalie as validações de `validacoes_cruzadas.validacoes` que forem aplicáveis ao PPC e aos resultados das fichas. Procure inconsistências que só aparecem ao comparar respostas de fichas diferentes, como divergências entre identificação, perfil do egresso, matriz, ementário, carga horária, AEE, estágio, infraestrutura, CNCT e base normativa. Em cursos técnicos integrados, verifique especialmente se fundamentos legais, concepção do curso e referências finais tratam de modo coerente a DCNEM vigente e as Diretrizes Curriculares Nacionais Gerais da Educação Profissional e Tecnológica.
 
 Use os achados `fundamentacao_normativa` para detectar padrões transversais: norma citada sem suporte, norma antiga usada como fundamento vigente principal, afirmação normativa sem fonte consultada, conflito entre CNCT e texto do PPC ou generalização indevida de regra restrita.
 
@@ -20,7 +21,7 @@ Para estágio, use também `cnct_contexto.correspondencia.estagio`, `cnct_contex
 
 Para convênios de estágio, procure contradições entre a seção narrativa, convênios, campos de estágio e responsabilidades do campus, especialmente quando o PPC tratar convênio como exigência indistinta sem separar TCE/Plano de Estágio das hipóteses específicas de convênio prévio.
 
-Não reescreva as respostas das fichas. Registre apenas alertas transversais úteis para a revisão humana.
+Não reescreva as respostas das fichas. Registre apenas alertas transversais úteis para a revisão humana. Todo alerta deve informar `validacao_id` com o ID da validação cruzada canônica que fundamenta o alerta.
 
 ## Convenções de matriz do modelo IFPR
 
@@ -51,6 +52,7 @@ Retorne somente JSON válido:
   "alertas_transversais": [
     {
       "id": "ALERTA-001",
+      "validacao_id": "VC-01-03-11-NORMAS",
       "titulo": "Título curto",
       "criticidade": "BLOQ | OBRIG | REC",
       "descricao": "Descrição objetiva do problema transversal.",
