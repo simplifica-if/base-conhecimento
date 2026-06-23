@@ -11,9 +11,10 @@ SCRIPTS_DIR = SKILL_DIR / "scripts"
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
-from gerar_relatorio_html import ErroResultadosSubagents, gerar_relatorio_html
-from preparar_documento import preparar_documento
+from gerar_relatorio_html import ErroResultadosSubagents, gerar_relatorio_html, validar_resultados_rodada
+from preparar_documento import _mesclar_identificacao_preferindo_preenchidos, preparar_documento
 from cnct_catalogo import comparar_ppc_com_cnct
+from analise_ppc import main as analise_ppc_main
 from subagents import (
     agrupar_fichas,
     carregar_fichas_ordenadas,
@@ -25,7 +26,15 @@ from subagents import (
     montar_grupos_subagents,
     preparar_prompts_subagents,
 )
-from common import BASE_ANALISE_DIR, FICHAS_DIR, read_json, round_paths, write_json
+from common import (
+    BASE_ANALISE_DIR,
+    FICHAS_DIR,
+    extract_identificacao_from_conversion_json,
+    infer_identificacao_from_markdown,
+    read_json,
+    round_paths,
+    write_json,
+)
 from gerar_indice_base_analise import gerar_indice
 from validar_base_analise import validar_base_analise
 
@@ -113,6 +122,55 @@ def test_preparar_documento_cria_rodada_markdown_basica(tmp_path: Path) -> None:
     }
 
 
+def test_inferencia_de_campus_usa_campi_conhecidos_na_capa() -> None:
+    identificacao = infer_identificacao_from_markdown(
+        """# PROJETO PEDAGÓGICO DO CURSO
+
+### TÉCNICO EM INFORMÁTICA PARA INTERNET
+
+Quedas do Iguaçu
+
+## SUMÁRIO
+""",
+        fallback_nome="PPC Técnico em Informática",
+    )
+
+    assert identificacao["campus"] == "Quedas do Iguaçu"
+
+
+def test_extracao_de_campus_ignora_chaves_de_inventario() -> None:
+    identificacao = extract_identificacao_from_conversion_json(
+        {
+            "dados_extraidos": {
+                "nome_curso": "Curso Técnico em Informática para Internet",
+                "unidade_de_fluxo_de_ar": "5",
+                "capela_de_fluxo_laminar": "1",
+            }
+        }
+    )
+
+    assert identificacao["campus"] == "Campus não identificado"
+
+
+def test_mesclagem_identificacao_preserva_campus_inferido_quando_conversao_nao_identifica() -> None:
+    mesclada = _mesclar_identificacao_preferindo_preenchidos(
+        {
+            "curso": "PPC Técnico",
+            "campus": "Quedas do Iguaçu",
+            "modalidade": "Integrado",
+        },
+        {
+            "curso": "Curso Técnico em Informática para Internet",
+            "campus": "Campus não identificado",
+            "modalidade": "Integrado ao Ensino Médio",
+        },
+    )
+
+    assert mesclada["curso"] == "Curso Técnico em Informática para Internet"
+    assert mesclada["campus"] == "Quedas do Iguaçu"
+    assert mesclada["modalidade"] == "Integrado ao Ensino Médio"
+
+
 def test_fichas_sao_agrupadas_em_blocos_estaveis_de_20() -> None:
     fichas = carregar_fichas_ordenadas()
     grupos = agrupar_fichas(fichas, tamanho_grupo=20)
@@ -150,6 +208,7 @@ def test_montar_grupos_subagents_salva_payload_na_rodada(tmp_path: Path) -> None
     payload = montar_grupos_subagents(rodada_dir)
 
     assert caminhos["grupos_subagents"].exists()
+    assert payload["grupos_subagents_path"] == str(caminhos["grupos_subagents"])
     assert payload["ppc_markdown"] == str(caminhos["ppc"])
     assert payload["total_fichas"] == len(list(FICHAS_DIR.glob("*.json")))
     assert len(payload["grupos"]) == (payload["total_fichas"] + 19) // 20
@@ -169,6 +228,18 @@ def test_montar_grupos_subagents_salva_payload_na_rodada(tmp_path: Path) -> None
     assert grupos_com_fundamentacao
     assert payload["fundamentacao_normativa"]["protocolo"] == "verificar-fundamentacao-normativa"
     assert all("fundamentacao_normativa" in grupo["contextos"] for grupo in grupos_com_fundamentacao)
+
+
+def test_cli_montar_grupos_subagents_imprime_resumo_por_padrao(tmp_path: Path, capsys: pytest.CaptureFixture[str]) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+
+    assert analise_ppc_main(["montar-grupos-subagents", "--rodada-dir", str(rodada_dir)]) == 0
+
+    saida = json.loads(capsys.readouterr().out)
+    assert saida["total_fichas"] == len(list(FICHAS_DIR.glob("*.json")))
+    assert saida["grupos_subagents"].endswith("grupos-subagents.json")
+    assert "cnct_contexto" not in saida
+    assert "fichas" not in saida["grupos"][0]
 
 
 def test_preparar_prompts_subagents_gera_pacotes_por_grupo(tmp_path: Path) -> None:
@@ -298,6 +369,21 @@ def test_gerar_relatorio_html_aceita_resultados_validos(tmp_path: Path) -> None:
     assert "CT-IDENT-01" in html
     assert 'id="filtro-busca"' in html
     assert 'id="filtro-feedback"' in html
+
+
+def test_validar_resultados_rodada_retorna_resumo_sem_gerar_html(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", _payload_resultados_completos())
+
+    payload = validar_resultados_rodada(rodada_dir, Path("resultados-subagents.json"))
+
+    assert payload["valido"] is True
+    assert payload["total_fichas"] == len(list(FICHAS_DIR.glob("*.json")))
+    assert payload["total_fichas_esperadas"] == payload["total_fichas"]
+    assert payload["total_alertas_transversais"] == 0
+    assert payload["contagem_estado"] == {"ATENDE": payload["total_fichas"]}
+    assert not caminhos["relatorio_html"].exists()
 
 
 def test_gerar_relatorio_html_renderiza_fundamentacao_normativa(tmp_path: Path) -> None:

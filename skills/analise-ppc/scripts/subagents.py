@@ -408,6 +408,7 @@ def montar_grupos_subagents(
     payload = {
         "rodada_dir": str(caminhos["rodada_dir"]),
         "ppc_markdown": str(caminhos["ppc"]),
+        "grupos_subagents_path": str(caminhos["grupos_subagents"]),
         "prompt_template": str((Path(__file__).resolve().parents[1] / "prompts" / "subagent-lote-fichas.md")),
         "sintese_transversal_template": str((Path(__file__).resolve().parents[1] / "prompts" / "sintese-transversal.md")),
         "cnct_contexto_path": str(caminhos["cnct_contexto"]),

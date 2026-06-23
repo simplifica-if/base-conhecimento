@@ -5,6 +5,7 @@ import json
 import re
 import shutil
 import unicodedata
+from functools import lru_cache
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Iterable
@@ -27,6 +28,7 @@ IDENTIFICACAO_PLACEHOLDERS = {
     "forma de oferta não identificada",
     "modalidade de ensino não identificada",
 }
+_MAX_LINHAS_CAPA_PARA_CAMPUS = 120
 
 
 def ensure_directory(path: Path) -> Path:
@@ -133,6 +135,86 @@ def valor_identificacao_preenchido(valor: Any) -> bool:
     return bool(texto) and texto.casefold() not in IDENTIFICACAO_PLACEHOLDERS
 
 
+def _normalizar_busca(texto: str) -> str:
+    normalized = unicodedata.normalize("NFD", texto or "")
+    normalized = "".join(char for char in normalized if unicodedata.category(char) != "Mn")
+    normalized = normalized.casefold()
+    normalized = re.sub(r"[^a-z0-9]+", " ", normalized)
+    return " ".join(normalized.split())
+
+
+@lru_cache(maxsize=1)
+def _campi_ifpr_conhecidos() -> tuple[tuple[str, str], ...]:
+    indice = BASE_CONHECIMENTO_DIR / "institucional" / "ifpr" / "campi" / "index.json"
+    if not indice.exists():
+        return ()
+    try:
+        payload = read_json(indice)
+    except Exception:
+        return ()
+    items = payload.get("items") if isinstance(payload, dict) else None
+    if not isinstance(items, list):
+        return ()
+    campi = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        nome = str(item.get("nome") or "").strip()
+        if nome:
+            campi.append((nome, _normalizar_busca(nome)))
+    return tuple(campi)
+
+
+def _campus_canonico_no_texto(texto: str) -> str:
+    normalizado = _normalizar_busca(texto)
+    if not normalizado:
+        return ""
+    encontrados = [
+        nome
+        for nome, campus_normalizado in _campi_ifpr_conhecidos()
+        if re.search(rf"(^|\s){re.escape(campus_normalizado)}($|\s)", normalizado)
+    ]
+    return encontrados[0] if len(set(encontrados)) == 1 else ""
+
+
+def _parece_ruido_de_campus(texto: str) -> bool:
+    normalizado = _normalizar_busca(texto)
+    if not normalizado:
+        return True
+    termos_ruido = (
+        "fluxo de ar",
+        "unidade de fluxo",
+        "quantidade",
+        "equipamento",
+        "material",
+        "laboratorio",
+        "capela",
+        "bancada",
+        "microscopio",
+        "computador",
+        "monitor",
+    )
+    return any(termo in normalizado for termo in termos_ruido)
+
+
+def normalizar_campus_identificacao(valor: Any) -> str:
+    texto = _limpar_valor_identificacao(valor)
+    if not texto or texto.casefold() in IDENTIFICACAO_PLACEHOLDERS:
+        return ""
+    canonico = _campus_canonico_no_texto(texto)
+    if canonico:
+        return canonico
+    if _parece_ruido_de_campus(texto):
+        return ""
+    return texto
+
+
+def inferir_campus_por_capa(texto: str) -> str:
+    linhas = [linha.strip() for linha in texto.splitlines() if linha.strip()]
+    trecho_inicial = "\n".join(linhas[:_MAX_LINHAS_CAPA_PARA_CAMPUS])
+    return _campus_canonico_no_texto(trecho_inicial)
+
+
 def round_paths(rodada_dir: Path) -> dict[str, Path]:
     rodada_dir = rodada_dir.resolve()
     legacy_root_files = (
@@ -183,7 +265,9 @@ def infer_identificacao_from_markdown(texto: str, fallback_nome: str = "") -> di
         ],
         default=fallback_nome,
     )
-    campus = _match([r"campus\s*:\s*(.+)", r"unidade\s*:\s*(.+)"])
+    campus = normalizar_campus_identificacao(_match([r"campus\s*:\s*(.+)", r"unidade\s*:\s*(.+)"]))
+    if not campus:
+        campus = inferir_campus_por_capa(texto_unico)
     forma_oferta = _match([r"forma\s+de\s+oferta\s*:\s*(.+)"])
     modalidade_ensino = _match([r"modalidade\s*:\s*(.+)"])
     modalidade = forma_oferta
@@ -220,11 +304,10 @@ def extract_identificacao_from_conversion_json(payload: dict[str, Any], fallback
         or fallback_nome
         or "Curso não identificado"
     )
-    campus = _valor_por_chaves_ou_prefixos(
+    campus = normalizar_campus_identificacao(_valor_por_chaves_ou_prefixos(
         dados,
         chaves=("campus", "Campus", "unidade"),
-        prefixos=("campus_", "unidade_"),
-    ) or "Campus não identificado"
+    )) or "Campus não identificado"
     forma_oferta = _valor_por_chaves_ou_prefixos(
         dados,
         chaves=("forma_oferta", "Forma de oferta", "Forma de Oferta"),

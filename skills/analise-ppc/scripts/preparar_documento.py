@@ -15,6 +15,7 @@ from common import (
     safe_relpath,
     timestamp_slug,
     update_manifesto_base,
+    valor_identificacao_preenchido,
     write_json,
 )
 
@@ -39,6 +40,17 @@ def _preparar_markdown(arquivo: Path, caminhos: dict[str, Path]) -> dict[str, An
     }
 
 
+def _mesclar_identificacao_preferindo_preenchidos(
+    base: dict[str, str],
+    preferencial: dict[str, str],
+) -> dict[str, str]:
+    mesclada = dict(base)
+    for chave, valor in preferencial.items():
+        if valor_identificacao_preenchido(valor):
+            mesclada[chave] = valor
+    return mesclada
+
+
 def _preparar_docx(arquivo: Path, caminhos: dict[str, Path]) -> dict[str, Any]:
     from conversao_docx import ConversionService
 
@@ -57,7 +69,10 @@ def _preparar_docx(arquivo: Path, caminhos: dict[str, Path]) -> dict[str, Any]:
     identificacao = infer_identificacao_from_markdown(caminho_ppc.read_text(encoding="utf-8"), fallback_nome=arquivo.stem)
     if artefatos.dados and artefatos.dados.exists():
         try:
-            identificacao = extract_identificacao_from_conversion_json(read_json(artefatos.dados), fallback_nome=arquivo.stem)
+            identificacao = _mesclar_identificacao_preferindo_preenchidos(
+                identificacao,
+                extract_identificacao_from_conversion_json(read_json(artefatos.dados), fallback_nome=arquivo.stem),
+            )
         except Exception:
             pass
     conversao_docx = {

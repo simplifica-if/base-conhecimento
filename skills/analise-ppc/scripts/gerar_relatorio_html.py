@@ -292,6 +292,37 @@ def _situacao(resultados: list[dict[str, Any]]) -> str:
     return "APROVADO"
 
 
+def validar_resultados_rodada(rodada_dir: Path, resultados_path: Path) -> dict[str, Any]:
+    caminhos = round_paths(rodada_dir)
+    caminho_resultados = _resolver_resultados_path(caminhos["rodada_dir"], resultados_path)
+    payload = read_json(caminho_resultados)
+    fichas_por_id = _catalogo_fichas()
+    validacoes_por_id = _catalogo_validacoes()
+    resultados = validar_resultados_subagents(payload, fichas_por_id)
+    alertas = validar_alertas_transversais(payload, fichas_por_id, validacoes_por_id)
+    contagem_estado = Counter(item["estado"] for item in resultados)
+    contagem_criticidade = Counter(item["criticidade"] for item in resultados)
+    grupos = _blocos_resultados(payload)
+    return {
+        "resultados_path": str(caminho_resultados),
+        "valido": True,
+        "total_fichas": len(resultados),
+        "total_fichas_esperadas": len(fichas_por_id),
+        "total_grupos": len(grupos),
+        "total_alertas_transversais": len(alertas),
+        "situacao": _situacao(resultados),
+        "contagem_estado": dict(sorted(contagem_estado.items())),
+        "contagem_criticidade": dict(sorted(contagem_criticidade.items())),
+        "grupos": [
+            {
+                "grupo_id": str(grupo.get("grupo_id") or ""),
+                "total_resultados": len(grupo.get("resultados") or []),
+            }
+            for grupo in grupos
+        ],
+    }
+
+
 def _render_lista(valores: list[str]) -> str:
     if not valores:
         return "<span class=\"muted\">Não informado</span>"

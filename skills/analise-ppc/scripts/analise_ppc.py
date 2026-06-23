@@ -9,7 +9,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
-from gerar_relatorio_html import gerar_relatorio_html
+from gerar_relatorio_html import gerar_relatorio_html, validar_resultados_rodada
 from preparar_documento import preparar_documento
 from subagents import (
     mesclar_resultados_avulsos,
@@ -32,6 +32,42 @@ def _relatorio_payload(path: Path) -> dict[str, str]:
     }
 
 
+def _resumo_grupos_subagents(payload: dict[str, object]) -> dict[str, object]:
+    grupos = payload.get("grupos") if isinstance(payload.get("grupos"), list) else []
+    cnct = payload.get("cnct_contexto") if isinstance(payload.get("cnct_contexto"), dict) else {}
+    correspondencia = cnct.get("correspondencia") if isinstance(cnct.get("correspondencia"), dict) else {}
+    return {
+        "rodada_dir": payload.get("rodada_dir"),
+        "ppc_markdown": payload.get("ppc_markdown"),
+        "grupos_subagents": payload.get("grupos_subagents_path") or payload.get("grupos_subagents"),
+        "cnct_contexto_path": payload.get("cnct_contexto_path"),
+        "contexto_estrutural_path": payload.get("contexto_estrutural_path"),
+        "validacoes_cruzadas_path": payload.get("validacoes_cruzadas_path"),
+        "curso": payload.get("curso"),
+        "total_fichas": payload.get("total_fichas"),
+        "tamanho_grupo": payload.get("tamanho_grupo"),
+        "total_grupos": len(grupos),
+        "grupos": [
+            {
+                "grupo_id": grupo.get("grupo_id"),
+                "intervalo": grupo.get("intervalo"),
+                "total_fichas": grupo.get("total_fichas"),
+                "requer_contexto_cnct": grupo.get("requer_contexto_cnct", False),
+                "requer_fundamentacao_normativa": grupo.get("requer_fundamentacao_normativa", False),
+                "requer_anexos_visuais": grupo.get("requer_anexos_visuais", False),
+            }
+            for grupo in grupos
+            if isinstance(grupo, dict)
+        ],
+        "cnct_correspondencia": {
+            "denominacao": correspondencia.get("denominacao"),
+            "eixo_tecnologico": correspondencia.get("eixo_tecnologico"),
+            "score": correspondencia.get("score"),
+            "tipo_correspondencia": correspondencia.get("tipo_correspondencia"),
+        },
+    }
+
+
 def cmd_preparar_documento(args: argparse.Namespace) -> int:
     payload = preparar_documento(
         arquivo_entrada=Path(args.arquivo),
@@ -46,7 +82,7 @@ def cmd_montar_grupos_subagents(args: argparse.Namespace) -> int:
         rodada_dir=Path(args.rodada_dir),
         tamanho_grupo=args.tamanho_grupo,
     )
-    _print_payload(payload)
+    _print_payload(payload if args.detalhado else _resumo_grupos_subagents(payload))
     return 0
 
 
@@ -62,6 +98,15 @@ def cmd_gerar_relatorio_html(args: argparse.Namespace) -> int:
         resultados_path=Path(args.resultados),
     )
     _print_payload(_relatorio_payload(payload["relatorio_html"]))
+    return 0
+
+
+def cmd_validar_resultados(args: argparse.Namespace) -> int:
+    payload = validar_resultados_rodada(
+        rodada_dir=Path(args.rodada_dir),
+        resultados_path=Path(args.resultados),
+    )
+    _print_payload(payload)
     return 0
 
 
@@ -100,6 +145,11 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser_grupos.add_argument("--rodada-dir", type=str, required=True, help="Diretório da rodada")
     parser_grupos.add_argument("--tamanho-grupo", type=int, default=20, help="Quantidade de fichas por grupo")
+    parser_grupos.add_argument(
+        "--detalhado",
+        action="store_true",
+        help="Imprimir o JSON completo; por padrão a CLI mostra apenas um resumo e salva o payload completo.",
+    )
     parser_grupos.set_defaults(func=cmd_montar_grupos_subagents)
 
     parser_prompts = subparsers.add_parser(
@@ -150,6 +200,19 @@ def build_parser() -> argparse.ArgumentParser:
         help="JSON coletado dos sub-agentes; relativo a arquivos-suporte quando não absoluto",
     )
     parser_relatorio.set_defaults(func=cmd_gerar_relatorio_html)
+
+    parser_validar_resultados = subparsers.add_parser(
+        "validar-resultados",
+        help="Validar cobertura e contrato do JSON de resultados sem gerar HTML",
+    )
+    parser_validar_resultados.add_argument("--rodada-dir", type=str, required=True, help="Diretório da rodada")
+    parser_validar_resultados.add_argument(
+        "--resultados",
+        type=str,
+        default="resultados-subagents.json",
+        help="JSON coletado dos sub-agentes; relativo a arquivos-suporte quando não absoluto",
+    )
+    parser_validar_resultados.set_defaults(func=cmd_validar_resultados)
 
     return parser
 
