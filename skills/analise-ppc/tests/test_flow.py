@@ -345,6 +345,24 @@ def test_ficha_projeto_final_trata_pfi_como_pratica_profissional_articulada() ->
     assert "TCC acadêmico tradicional" in texto
 
 
+def test_validacao_cruzada_fecha_aritmetica_de_carga_horaria_com_memoria_de_calculo() -> None:
+    validacao = read_json(BASE_ANALISE_DIR / "validacoes-cruzadas" / "vc-05-16.json")
+    prompt = (SKILL_DIR / "prompts" / "sintese-transversal.md").read_text(encoding="utf-8")
+    texto = " ".join(
+        str(validacao.get(campo, ""))
+        for campo in ("titulo", "pergunta", "rubrica", "boa_evidencia", "ma_evidencia")
+    )
+
+    assert validacao["id"] == "VC-05-16"
+    assert validacao["criticidade"] == "BLOQ"
+    assert "memória de cálculo passo a passo" in texto
+    assert "aulas_totais * minutos_hora_aula / 60" in texto
+    assert "dias letivos anuais" in texto
+    assert "hora-relógio" in texto
+    assert "memória de cálculo" in prompt
+    assert "conversão de hora-aula para hora-relógio" in prompt
+
+
 def test_ficha_formacao_docente_aceita_politica_institucional_verificavel() -> None:
     ficha = read_json(FICHAS_DIR / "ct-sup-17.json")
     texto = " ".join(

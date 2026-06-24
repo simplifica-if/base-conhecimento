@@ -1,0 +1,22 @@
+{
+  "id": "VC-05-16",
+  "titulo": "Fechamento aritmético entre horário, dias letivos e carga horária",
+  "dominio": "validacao_cruzada",
+  "criticidade": "BLOQ",
+  "tipo": "consistencia",
+  "secoes_relacionadas": [
+    "01",
+    "05"
+  ],
+  "pergunta": "O PPC permite reconstituir a compatibilidade aritmética entre horário semanal de oferta, duração da hora-aula, dias letivos, duração do curso, matriz curricular e carga horária total em hora-relógio?",
+  "rubrica": "Comparar identificação/apresentação do curso, horário de oferta, duração do curso, dias letivos, duração da hora-aula, matriz curricular, subtotais por série/período e carga horária total. Sempre que houver dados suficientes, apresentar a memória de cálculo passo a passo no alerta ou na justificativa: (1) converter cada janela de horário em minutos; (2) dividir pela duração declarada da hora-aula para estimar aulas possíveis por turno, registrando sobras/resíduos; (3) somar aulas semanais regulares e contraturnos; (4) calcular semanas equivalentes por ano como dias letivos anuais divididos pelos dias letivos semanais regulares, quando aplicável; (5) multiplicar aulas por semana, semanas equivalentes e anos/períodos; (6) converter hora-aula para hora-relógio pela fórmula aulas_totais * minutos_hora_aula / 60; (7) comparar com a carga horária total declarada e com os totais da matriz. Não exigir coincidência exata entre capacidade máxima do horário e carga curricular, pois o horário pode indicar janela de oferta; exigir que diferenças relevantes sejam explicadas por matriz, séries com cargas semanais distintas, arredondamento, semanas não letivas, componentes em hora-relógio, estágio, atividades complementares, PFI/TCC ou outra regra explícita. Considerar inconsistência bloqueante quando o total em hora-relógio não for reconstituível, quando houver mistura de hora-aula e hora-relógio sem fórmula de conversão, quando o total declarado produzir fração de hora-aula sem explicação, quando a carga semanal da matriz exigir contraturnos não descritos, ou quando horário/dias letivos/duração do curso apontarem valor materialmente incompatível com o total declarado.",
+  "boa_evidencia": "O PPC informa duração da hora-aula, dias letivos, duração do curso, matriz com cargas por componente e série/período, subtotais e total; a conversão para hora-relógio é explícita ou reconstituível; eventuais diferenças entre capacidade do horário e carga curricular são explicadas por distribuição anual, contraturnos, arredondamento ou componentes específicos.",
+  "ma_evidencia": "O PPC declara carga horária total, horário semanal, 200 dias letivos e duração de hora-aula, mas não permite fechar a conta; mistura hora-aula e hora-relógio sem conversão; apresenta total que gera fração de hora-aula sem justificativa; ou informa contraturnos/janelas de oferta incompatíveis com a carga semanal da matriz.",
+  "evidencia_minima": 4,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

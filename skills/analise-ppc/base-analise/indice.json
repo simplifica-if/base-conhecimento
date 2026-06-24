@@ -1,12 +1,12 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-06-24T12:25:22+00:00",
+  "gerado_em": "2026-06-24T12:46:55+00:00",
   "resumo": {
     "total_fichas": 73,
-    "total_validacoes_cruzadas": 28,
+    "total_validacoes_cruzadas": 29,
     "total_contratos": 3,
     "total_schemas": 4,
-    "total_itens": 108
+    "total_itens": 109
   },
   "itens": [
     {
@@ -1318,6 +1318,19 @@
         "05"
       ],
       "arquivo": "validacoes-cruzadas/vc-05-15.json"
+    },
+    {
+      "categoria": "validacao_cruzada",
+      "id": "VC-05-16",
+      "titulo": "Fechamento aritmético entre horário, dias letivos e carga horária",
+      "dominio": "validacao_cruzada",
+      "criticidade": "BLOQ",
+      "tipo": "consistencia",
+      "secoes": [
+        "01",
+        "05"
+      ],
+      "arquivo": "validacoes-cruzadas/vc-05-16.json"
     },
     {
       "categoria": "validacao_cruzada",

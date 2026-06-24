@@ -21,6 +21,8 @@ Para estágio, use também `cnct_contexto.correspondencia.estagio`, `cnct_contex
 
 Para convênios de estágio, procure contradições entre a seção narrativa, convênios, campos de estágio e responsabilidades do campus, especialmente quando o PPC tratar convênio como exigência indistinta sem separar TCE/Plano de Estágio das hipóteses específicas de convênio prévio.
 
+Quando uma validação cruzada exigir conferência aritmética, registre a memória de cálculo no próprio alerta. Use a `descricao` para resumir a inconsistência encontrada e inclua em `evidencias` as etapas numéricas essenciais, como conversão de janelas de horário em minutos, quantidade estimada de aulas, semanas equivalentes, conversão de hora-aula para hora-relógio e comparação com a carga horária declarada. Se os dados forem insuficientes para fechar a conta, indique exatamente quais dados faltam ou quais unidades estão ambíguas.
+
 Não reescreva as respostas das fichas. Registre apenas alertas transversais úteis para a revisão humana. Todo alerta deve informar `validacao_id` com o ID da validação cruzada canônica que fundamenta o alerta.
 
 ## Convenções de matriz do modelo IFPR
