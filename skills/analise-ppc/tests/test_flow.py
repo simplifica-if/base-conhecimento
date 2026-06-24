@@ -331,6 +331,20 @@ def test_ficha_eixo_cnct_nao_exige_area_tecnologica_no_ppc() -> None:
     assert "Não escalonar pela simples ausência de área tecnológica no PPC" in texto
 
 
+def test_ficha_formacao_docente_aceita_politica_institucional_verificavel() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-sup-17.json")
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+
+    assert "Resolução CNE/CP nº 1/2021, art. 53" in ficha["referencias_normativas"]
+    assert "Resolução CONSUP/IFPR nº 64/2022, arts. 41 a 43" in ficha["referencias_normativas"]
+    assert "política institucional do IFPR" in texto
+    assert "Não penalizar a simples presença de docentes bacharéis" in texto
+    assert "genérica demais para ser verificável" in texto
+
+
 def test_montar_grupos_subagents_anexa_representacao_grafica_quando_disponivel(tmp_path: Path) -> None:
     rodada_dir = _criar_rodada(tmp_path)
     caminhos = round_paths(rodada_dir)

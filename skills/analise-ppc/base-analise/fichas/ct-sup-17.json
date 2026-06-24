@@ -10,14 +10,22 @@
     "formação pedagógica",
     "complementação pedagógica",
     "formação continuada",
-    "bacharéis"
+    "bacharéis",
+    "docentes não licenciados",
+    "política institucional de formação",
+    "Resolução CNE/CP nº 1/2021",
+    "Resolução CONSUP/IFPR nº 64/2022"
   ],
-  "referencias_normativas": [],
-  "pergunta": "O PPC prevê formação pedagógica adequada para docentes bacharéis e ações de desenvolvimento docente compatíveis com a oferta?",
-  "rubrica": "Avaliar se há previsão de formação pedagógica ou complementação equivalente para docentes bacharéis e se o documento indica políticas ou oportunidades de formação continuada do corpo docente.",
-  "boa_evidencia": "Trechos que explicitam formação pedagógica para bacharéis e também ações ou políticas de desenvolvimento docente continuado.",
-  "ma_evidencia": "Ausência de menção à formação pedagógica necessária ou inexistência de qualquer estratégia de desenvolvimento docente.",
-  "escalonar_quando": "Escalonar se o PPC trouxer apenas uma das dimensões, mas deixar lacuna relevante na outra ou mantiver a previsão em nível muito genérico.",
+  "referencias_normativas": [
+    "LDB, arts. 61 a 63",
+    "Resolução CNE/CP nº 1/2021, art. 53",
+    "Resolução CONSUP/IFPR nº 64/2022, arts. 41 a 43"
+  ],
+  "pergunta": "O PPC ou a política institucional/campus por ele indicada mostram como a formação pedagógica e o desenvolvimento docente sustentam a oferta do curso?",
+  "rubrica": "Avaliar se o PPC, seus anexos ou remissões institucionais claras contemplam formação pedagógica, complementação pedagógica ou estratégias equivalentes para docentes graduados não licenciados que atuam na parte profissional, bem como ações de formação continuada/desenvolvimento docente compatíveis com a oferta do curso técnico integrado. A ficha não exige que o PPC crie um plano próprio e detalhado se houver remissão verificável a política institucional do IFPR, calendário de formação pedagógica, Sepae/coordenação pedagógica, RGE/PPP/PDI do campus ou outro instrumento local que assegure tempos, espaços e oportunidades de formação. Não penalizar a simples presença de docentes bacharéis quando o PPC demonstrar encaminhamento institucional para formação pedagógica e desenvolvimento docente.",
+  "boa_evidencia": "Trechos que: identificam a formação/titulação do corpo docente; indicam política institucional ou local de formação pedagógica e continuada; remetem a ações, tempos ou espaços de formação em serviço; ou preveem complementação/formação pedagógica para docentes não licenciados da parte profissional.",
+  "ma_evidencia": "Ausência de qualquer menção a formação pedagógica, complementação pedagógica, desenvolvimento docente ou política institucional equivalente, especialmente quando o PPC lista docentes graduados não licenciados responsáveis por componentes da parte profissional.",
+  "escalonar_quando": "Escalonar se o PPC listar docentes não licenciados da parte profissional, mas a remissão à formação pedagógica for inexistente, genérica demais para ser verificável, ou restrita a citação histórica/normativa sem encaminhamento institucional. Usar INCONCLUSIVO se houver indícios de política institucional aplicável, mas o PPC não permitir localizar ou verificar sua relação com a oferta.",
   "evidencia_minima": 2,
   "estados_permitidos": [
     "ATENDE",
