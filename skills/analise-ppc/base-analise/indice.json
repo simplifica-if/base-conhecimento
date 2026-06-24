@@ -1,6 +1,6 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-06-24T12:03:37+00:00",
+  "gerado_em": "2026-06-24T12:25:22+00:00",
   "resumo": {
     "total_fichas": 73,
     "total_validacoes_cruzadas": 28,
@@ -187,13 +187,17 @@
     {
       "categoria": "ficha",
       "id": "CT-CURR-14",
-      "titulo": "TFC disciplinado de modo suficiente, quando previsto",
+      "titulo": "Projeto final, TCC/TFC ou componente equivalente disciplinado quando previsto",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
       "secoes": [
         "05"
       ],
-      "referencias_normativas": [],
+      "referencias_normativas": [
+        "Resolução CONSUP/IFPR nº 64/2022, art. 16",
+        "Resolução CNE/CP nº 1/2021, art. 24, V",
+        "Resolução CONSUP/IFPR nº 190/2024, arts. 56, § 4º, e 62, § 4º"
+      ],
       "arquivo": "fichas/ct-curr-14.json"
     },
     {

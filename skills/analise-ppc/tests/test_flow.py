@@ -331,6 +331,20 @@ def test_ficha_eixo_cnct_nao_exige_area_tecnologica_no_ppc() -> None:
     assert "Não escalonar pela simples ausência de área tecnológica no PPC" in texto
 
 
+def test_ficha_projeto_final_trata_pfi_como_pratica_profissional_articulada() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-curr-14.json")
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("titulo", "pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+
+    assert "Resolução CONSUP/IFPR nº 64/2022, art. 16" in ficha["referencias_normativas"]
+    assert "projeto final interdisciplinar" in [consulta.casefold() for consulta in ficha["consultas"]]
+    assert "Projeto Integrador" in texto
+    assert "prática profissional articulada" in texto
+    assert "TCC acadêmico tradicional" in texto
+
+
 def test_ficha_formacao_docente_aceita_politica_institucional_verificavel() -> None:
     ficha = read_json(FICHAS_DIR / "ct-sup-17.json")
     texto = " ".join(

@@ -1,6 +1,6 @@
 {
   "id": "CT-CURR-14",
-  "titulo": "TFC disciplinado de modo suficiente, quando previsto",
+  "titulo": "Projeto final, TCC/TFC ou componente equivalente disciplinado quando previsto",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
@@ -10,15 +10,24 @@
     "tfc",
     "tcc",
     "trabalho final",
+    "projeto final",
+    "projeto final interdisciplinar",
+    "pfi",
+    "projeto integrador",
+    "prática profissional articulada",
     "orientação",
     "avaliação"
   ],
-  "referencias_normativas": [],
-  "pergunta": "Quando o PPC prevê TFC, TCC ou componente equivalente, ele descreve suas condições básicas de funcionamento e avaliação?",
-  "rubrica": "Avaliar se o PPC explicita previsão do TFC, carga horária ou lugar na matriz, orientação docente, modalidades admitidas e critérios de avaliação, quando esse componente existe.",
-  "boa_evidencia": "Trechos que mostram o TFC na organização do curso e detalham orientação, formato e avaliação do componente.",
-  "ma_evidencia": "Citação superficial ao TFC sem explicar sua inserção curricular, sua condução ou os critérios de avaliação.",
-  "escalonar_quando": "Escalonar se o PPC mencionar TFC, mas a descrição ficar incompleta em aspectos centrais como carga horária, orientação ou avaliação.",
+  "referencias_normativas": [
+    "Resolução CONSUP/IFPR nº 64/2022, art. 16",
+    "Resolução CNE/CP nº 1/2021, art. 24, V",
+    "Resolução CONSUP/IFPR nº 190/2024, arts. 56, § 4º, e 62, § 4º"
+  ],
+  "pergunta": "Quando o PPC prevê projeto final, PFI, Projeto Integrador, TCC/TFC ou componente equivalente, ele caracteriza a atividade como prática profissional articulada/interdisciplinar e descreve suas condições básicas de funcionamento e avaliação?",
+  "rubrica": "Aplicar quando o PPC prevê TCC, TFC, Projeto Final de Curso, Projeto Final Interdisciplinar (PFI), Projeto Integrador ou componente equivalente. Em cursos técnicos integrados, observar a Resolução CONSUP/IFPR nº 64/2022, art. 16: não tratar como problema a existência de projeto final quando ele estiver caracterizado como prática profissional articulada, interdisciplinar, de extensão, responsabilidade social, aprendizagem de práticas profissionais ou integração de conhecimentos; escalonar quando o texto configurar TCC acadêmico tradicional sem justificar vínculo com prática profissional. Verificar se o PPC explicita lugar na matriz, carga horária, obrigatoriedade ou não, série/período de oferta, objetivos pedagógicos, relação com perfil do egresso, orientação docente, formato individual ou em grupo, produtos admitidos, critérios de avaliação, apresentação/banca/seminário quando houver, prazos, responsabilidades e regras de aproveitamento/certificação quando tratado como TCC.",
+  "boa_evidencia": "Trechos que mostram a atividade na organização curricular e detalham carga horária/lugar na matriz, orientação, formato, produto esperado, critérios de avaliação, responsabilidades e vínculo com prática profissional articulada ou interdisciplinar.",
+  "ma_evidencia": "Citação superficial ao projeto final/TCC/TFC/PFI sem explicar inserção curricular, condução, orientação ou avaliação; componente obrigatório sem carga horária ou lugar na matriz; ou TCC acadêmico tradicional em curso técnico integrado sem vínculo claro com prática profissional articulada.",
+  "escalonar_quando": "Escalonar se o PPC mencionar projeto final, PFI, Projeto Integrador, TFC ou TCC, mas a descrição ficar incompleta em aspectos centrais como carga horária, orientação, produto, avaliação, responsabilidades ou relação com a prática profissional; ou se houver dúvida se a atividade é prática profissional articulada ou TCC acadêmico tradicional.",
   "evidencia_minima": 2,
   "estados_permitidos": [
     "ATENDE",
