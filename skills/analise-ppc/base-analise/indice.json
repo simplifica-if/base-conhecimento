@@ -1,6 +1,6 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-06-24T14:00:44+00:00",
+  "gerado_em": "2026-06-24T14:22:29+00:00",
   "resumo": {
     "total_fichas": 75,
     "total_validacoes_cruzadas": 29,
@@ -697,13 +697,16 @@
     {
       "categoria": "ficha",
       "id": "CT-SUP-08",
-      "titulo": "Avaliação do curso e acompanhamento de egressos",
+      "titulo": "Avaliação periódica do PPC e acompanhamento de egressos",
       "dominio": "suporte",
       "criticidade": "OBRIG",
       "secoes": [
         "10"
       ],
-      "referencias_normativas": [],
+      "referencias_normativas": [
+        "Resolução CONSUP/IFPR nº 64/2022, arts. 31 e 32",
+        "Portaria PROENS/IFPR nº 121/2024, arts. 67 a 69"
+      ],
       "arquivo": "fichas/ct-sup-08.json"
     },
     {

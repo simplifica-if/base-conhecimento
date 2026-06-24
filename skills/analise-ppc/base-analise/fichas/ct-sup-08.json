@@ -1,24 +1,36 @@
 {
   "id": "CT-SUP-08",
-  "titulo": "Avaliação do curso e acompanhamento de egressos",
+  "titulo": "Avaliação periódica do PPC e acompanhamento de egressos",
   "dominio": "suporte",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
     "10"
   ],
   "consultas": [
+    "avaliação do projeto pedagógico do curso",
+    "avaliação do PPC",
     "avaliação do curso",
     "egressos",
+    "colegiado de curso",
+    "Sepae",
+    "Diepex",
+    "atas",
+    "avaliação emancipatória",
     "cpa",
     "autoavaliação",
-    "indicadores"
+    "indicadores",
+    "Resolução CONSUP/IFPR nº 64/2022",
+    "Portaria PROENS/IFPR nº 121/2024"
   ],
-  "referencias_normativas": [],
-  "pergunta": "O PPC prevê mecanismos de avaliação do curso e acompanhamento de egressos com finalidade de melhoria contínua?",
-  "rubrica": "Verificar se há dispositivos de autoavaliação institucional, revisão do curso e acompanhamento pós-formação.",
-  "boa_evidencia": "Trechos sobre indicadores, CPA, colegiado, revisão periódica ou acompanhamento de egressos.",
-  "ma_evidencia": "Avaliação do curso ausente ou reduzida a uma declaração sem método.",
-  "escalonar_quando": "Escalonar se houver menções esparsas sem processo claro de acompanhamento.",
+  "referencias_normativas": [
+    "Resolução CONSUP/IFPR nº 64/2022, arts. 31 e 32",
+    "Portaria PROENS/IFPR nº 121/2024, arts. 67 a 69"
+  ],
+  "pergunta": "O PPC prevê avaliação periódica do próprio projeto pedagógico, com responsáveis, periodicidade, registro e finalidade de melhoria, conforme a Resolução CONSUP/IFPR nº 64/2022 e a Portaria PROENS/IFPR nº 121/2024?",
+  "rubrica": "Verificar se a seção de avaliação do PPC ou avaliação do curso descreve processo contínuo e anual de acompanhamento do Projeto Pedagógico do Curso pelo Colegiado de Curso, em diálogo com a Sepae e, quando pertinente, com apoio da Diepex e da Coordenação do Curso, na perspectiva da avaliação emancipatória e priorizando aspectos qualitativos dos processos de ensino e aprendizagem. Para cursos técnicos integrados, observar também a Resolução CONSUP/IFPR nº 64/2022, arts. 31 e 32: avaliação anual pelo colegiado, avaliação permanente do andamento do curso, coerência entre planejamento e materialização, possibilidade de avaliação na metade do período total do curso, eventual ajuste curricular e participação estudantil. Pela Portaria PROENS/IFPR nº 121/2024, arts. 67 a 69, verificar registro das avaliações em atas, juntada ao processo do PPC e proposição de ações estratégicas de melhoria. Acompanhamento de egressos, CPA, indicadores e autoavaliação institucional são evidências complementares, mas não substituem a explicitação mínima do processo de avaliação periódica do PPC.",
+  "boa_evidencia": "Trechos que indicam avaliação contínua e anual do PPC pelo Colegiado de Curso, diálogo com Sepae e apoio institucional quando aplicável, participação estudantil, registro em atas anexadas ao processo do PPC, foco nos objetivos do curso e proposição de ações estratégicas de melhoria, além de indicadores, CPA ou acompanhamento de egressos como subsídios.",
+  "ma_evidencia": "Avaliação do PPC ausente, reduzida a declaração genérica de melhoria contínua ou limitada a CPA/acompanhamento de egressos sem definir responsáveis, periodicidade, registro, participação estudantil ou uso dos resultados para revisão/ajuste do PPC.",
+  "escalonar_quando": "Escalonar se houver menções esparsas a avaliação, CPA, colegiado, egressos ou indicadores, mas não for possível confirmar processo anual/contínuo de avaliação do PPC; se não houver previsão de atas ou registro no processo; se a participação estudantil estiver omitida; ou se a seção citar normas antigas ou genéricas sem enfrentar a Resolução CONSUP/IFPR nº 64/2022 e a Portaria PROENS/IFPR nº 121/2024.",
   "evidencia_minima": 2,
   "estados_permitidos": [
     "ATENDE",

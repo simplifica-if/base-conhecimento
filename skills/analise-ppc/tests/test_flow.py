@@ -395,6 +395,24 @@ def test_ficha_assistencia_estudantil_exige_resolucao_239_e_revogacao_das_antiga
     assert "ensino, pesquisa, extensão e inovação" in texto
 
 
+def test_ficha_avaliacao_ppc_exige_periodicidade_registro_e_normas_vigentes() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-sup-08.json")
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("titulo", "pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+    consultas = [consulta.casefold() for consulta in ficha["consultas"]]
+
+    assert "Resolução CONSUP/IFPR nº 64/2022, arts. 31 e 32" in ficha["referencias_normativas"]
+    assert "Portaria PROENS/IFPR nº 121/2024, arts. 67 a 69" in ficha["referencias_normativas"]
+    assert "avaliação do ppc" in consultas
+    assert "avaliação emancipatória" in texto
+    assert "participação estudantil" in texto
+    assert "registro em atas" in texto
+    assert "ações estratégicas de melhoria" in texto
+    assert "não substituem a explicitação mínima do processo de avaliação periódica do PPC" in texto
+
+
 def test_ficha_biblioteca_exige_acessibilidade_fisica_do_espaco() -> None:
     ficha = read_json(FICHAS_DIR / "ct-sup-25.json")
     texto = " ".join(
