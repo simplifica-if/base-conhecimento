@@ -1,0 +1,36 @@
+{
+  "id": "CT-SUP-25",
+  "titulo": "Biblioteca descrita com acessibilidade física e condições de acesso",
+  "dominio": "suporte",
+  "criticidade": "OBRIG",
+  "secoes_preferenciais": [
+    "09"
+  ],
+  "consultas": [
+    "biblioteca",
+    "acessibilidade",
+    "piso térreo",
+    "térreo",
+    "rampa",
+    "elevador",
+    "escada",
+    "circulação",
+    "mobiliário acessível",
+    "atendimento acessível"
+  ],
+  "referencias_normativas": [
+    "Lei nº 13.146/2015"
+  ],
+  "pergunta": "A seção de biblioteca informa condições físicas de acesso ao espaço, incluindo localização, piso e recursos de acessibilidade quando a biblioteca não estiver no térreo?",
+  "rubrica": "Verificar se o PPC descreve a biblioteca como espaço físico acessível e utilizável pelos estudantes. A análise deve procurar informação sobre a localização da biblioteca no campus, se está no piso térreo ou em outro pavimento, e, quando não estiver no térreo, se há rampa, elevador ou outro meio acessível de circulação vertical. Também considerar menções a circulação interna, mobiliário, atendimento, sinalização, banheiros próximos ou outras condições que tornem o uso da biblioteca acessível. Não basta a seção dizer genericamente que o campus possui acessibilidade; a biblioteca deve aparecer como espaço contemplado ou a política de acessibilidade deve ser claramente aplicável a ela.",
+  "boa_evidencia": "Trechos que indicam onde a biblioteca está localizada, informam que fica no térreo ou descrevem o meio de acesso acessível quando situada em outro pavimento, e registram condições mínimas de uso acessível do espaço, como circulação, atendimento, mobiliário ou sinalização.",
+  "ma_evidencia": "A biblioteca é descrita apenas por acervo, área ou serviços, sem informação sobre localização e acessibilidade física; o PPC informa que a biblioteca fica em pavimento superior sem indicar rampa, elevador ou alternativa acessível; ou há apenas declaração genérica de acessibilidade do campus sem vinculação ao espaço da biblioteca.",
+  "escalonar_quando": "Escalonar se houver seção de biblioteca, mas não for possível confirmar se ela fica no térreo ou se possui acesso acessível; se rampa/elevador/escada forem mencionados sem relação clara com a biblioteca; ou se a acessibilidade aparecer apenas em outra seção sem permitir concluir sua aplicação ao espaço da biblioteca.",
+  "evidencia_minima": 2,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

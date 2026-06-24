@@ -395,6 +395,25 @@ def test_ficha_assistencia_estudantil_exige_resolucao_239_e_revogacao_das_antiga
     assert "ensino, pesquisa, extensão e inovação" in texto
 
 
+def test_ficha_biblioteca_exige_acessibilidade_fisica_do_espaco() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-sup-25.json")
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("titulo", "pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+    consultas = [consulta.casefold() for consulta in ficha["consultas"]]
+
+    assert "biblioteca" in consultas
+    assert "piso térreo" in consultas
+    assert "rampa" in consultas
+    assert "elevador" in consultas
+    assert "Lei nº 13.146/2015" in ficha["referencias_normativas"]
+    assert "localização da biblioteca" in texto
+    assert "não estiver no térreo" in texto
+    assert "circulação interna" in texto
+    assert "declaração genérica de acessibilidade do campus" in texto
+
+
 def test_montar_grupos_subagents_anexa_representacao_grafica_quando_disponivel(tmp_path: Path) -> None:
     rodada_dir = _criar_rodada(tmp_path)
     caminhos = round_paths(rodada_dir)

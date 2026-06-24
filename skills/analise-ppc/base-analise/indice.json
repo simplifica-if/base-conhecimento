@@ -1,12 +1,12 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-06-24T13:41:11+00:00",
+  "gerado_em": "2026-06-24T14:00:44+00:00",
   "resumo": {
-    "total_fichas": 74,
+    "total_fichas": 75,
     "total_validacoes_cruzadas": 29,
     "total_contratos": 3,
     "total_schemas": 4,
-    "total_itens": 110
+    "total_itens": 111
   },
   "itens": [
     {
@@ -939,6 +939,20 @@
         "Lei nº 14.914/2024"
       ],
       "arquivo": "fichas/ct-sup-24.json"
+    },
+    {
+      "categoria": "ficha",
+      "id": "CT-SUP-25",
+      "titulo": "Biblioteca descrita com acessibilidade física e condições de acesso",
+      "dominio": "suporte",
+      "criticidade": "OBRIG",
+      "secoes": [
+        "09"
+      ],
+      "referencias_normativas": [
+        "Lei nº 13.146/2015"
+      ],
+      "arquivo": "fichas/ct-sup-25.json"
     },
     {
       "categoria": "ficha",
