@@ -377,6 +377,24 @@ def test_ficha_formacao_docente_aceita_politica_institucional_verificavel() -> N
     assert "genérica demais para ser verificável" in texto
 
 
+def test_ficha_assistencia_estudantil_exige_resolucao_239_e_revogacao_das_antigas() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-sup-24.json")
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("titulo", "pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+
+    assert "Resolução CONSUP/IFPR nº 239/2025" in ficha["referencias_normativas"]
+    assert "Lei nº 14.914/2024" in ficha["referencias_normativas"]
+    assert "política institucional de assistência estudantil" in [
+        consulta.casefold() for consulta in ficha["consultas"]
+    ]
+    assert "Resolução nº 11/2009" in texto
+    assert "Resolução nº 53/2011" in texto
+    assert "normas revogadas" in texto
+    assert "ensino, pesquisa, extensão e inovação" in texto
+
+
 def test_montar_grupos_subagents_anexa_representacao_grafica_quando_disponivel(tmp_path: Path) -> None:
     rodada_dir = _criar_rodada(tmp_path)
     caminhos = round_paths(rodada_dir)

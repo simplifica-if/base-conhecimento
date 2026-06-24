@@ -1,12 +1,12 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-06-24T12:46:55+00:00",
+  "gerado_em": "2026-06-24T13:41:11+00:00",
   "resumo": {
-    "total_fichas": 73,
+    "total_fichas": 74,
     "total_validacoes_cruzadas": 29,
     "total_contratos": 3,
     "total_schemas": 4,
-    "total_itens": 109
+    "total_itens": 110
   },
   "itens": [
     {
@@ -924,6 +924,21 @@
         "Manual de Competências do IFPR"
       ],
       "arquivo": "fichas/ct-sup-23.json"
+    },
+    {
+      "categoria": "ficha",
+      "id": "CT-SUP-24",
+      "titulo": "Política de assistência estudantil adequada à Resolução CONSUP/IFPR nº 239/2025",
+      "dominio": "suporte",
+      "criticidade": "OBRIG",
+      "secoes": [
+        "07"
+      ],
+      "referencias_normativas": [
+        "Resolução CONSUP/IFPR nº 239/2025",
+        "Lei nº 14.914/2024"
+      ],
+      "arquivo": "fichas/ct-sup-24.json"
     },
     {
       "categoria": "ficha",
