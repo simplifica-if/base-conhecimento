@@ -1,6 +1,6 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-06-19T17:03:44+00:00",
+  "gerado_em": "2026-06-24T11:44:18+00:00",
   "resumo": {
     "total_fichas": 73,
     "total_validacoes_cruzadas": 28,
@@ -528,7 +528,7 @@
     {
       "categoria": "ficha",
       "id": "CT-IDENT-13",
-      "titulo": "Eixo e área tecnológica compatíveis com o CNCT",
+      "titulo": "Eixo tecnológico compatível com o CNCT",
       "dominio": "identidade",
       "criticidade": "OBRIG",
       "secoes": [

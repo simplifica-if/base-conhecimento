@@ -319,6 +319,18 @@ def test_fichas_estagio_tem_escopos_separados() -> None:
     assert "instituições públicas ou privadas" not in texto_convenios
 
 
+def test_ficha_eixo_cnct_nao_exige_area_tecnologica_no_ppc() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-ident-13.json")
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+
+    assert "ausência de área tecnológica no PPC" in texto
+    assert "não constitui lacuna" in texto
+    assert "Não escalonar pela simples ausência de área tecnológica no PPC" in texto
+
+
 def test_montar_grupos_subagents_anexa_representacao_grafica_quando_disponivel(tmp_path: Path) -> None:
     rodada_dir = _criar_rodada(tmp_path)
     caminhos = round_paths(rodada_dir)

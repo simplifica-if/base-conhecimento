@@ -1,6 +1,6 @@
 {
   "id": "CT-IDENT-13",
-  "titulo": "Eixo e área tecnológica compatíveis com o CNCT",
+  "titulo": "Eixo tecnológico compatível com o CNCT",
   "dominio": "identidade",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
@@ -17,11 +17,11 @@
   "referencias_normativas": [
     "CNCT"
   ],
-  "pergunta": "O eixo tecnológico e a área tecnológica declarados ou inferidos no PPC são compatíveis com a correspondência do CNCT?",
-  "rubrica": "Comparar as menções do PPC a eixo tecnológico e área tecnológica com `contexto_estrutural.cnct.comparacao_catalogo.correspondencia.eixo_tecnologico` e `area_tecnologica`, verificando se a identidade do curso não desloca a formação para outro eixo ou área.",
-  "boa_evidencia": "O PPC declara eixo tecnológico e, quando houver, área tecnológica compatíveis com os campos `Eixo Tecnológico` e `Área Tecnológica` do CNCT.",
-  "ma_evidencia": "Eixo tecnológico ausente, divergente do CNCT ou associado a área tecnológica incompatível com a habilitação.",
-  "escalonar_quando": "Escalonar se o PPC não declarar eixo ou área, se houver divergência parcial ou se a correspondência CNCT estiver incerta.",
+  "pergunta": "O eixo tecnológico declarado no PPC é compatível com a correspondência do CNCT?",
+  "rubrica": "Comparar as menções do PPC a eixo tecnológico com `contexto_estrutural.cnct.comparacao_catalogo.correspondencia.eixo_tecnologico`, verificando se a identidade do curso não desloca a formação para outro eixo. O campo estruturado `area_tecnologica` pode ser usado como pista auxiliar de contexto quando existir na base, mas sua ausência no PPC não constitui lacuna, pois a Área Tecnológica não deve ser exigida como campo declaratório do PPC. Se o PPC declarar área tecnológica, verificar apenas se ela não contradiz a correspondência CNCT.",
+  "boa_evidencia": "O PPC declara eixo tecnológico compatível com o campo `Eixo Tecnológico` do CNCT. Quando o PPC também declarar área tecnológica, ela deve ser materialmente compatível com a habilitação, mas sua ausência não impede o atendimento da ficha.",
+  "ma_evidencia": "Eixo tecnológico ausente, divergente do CNCT ou, quando houver área tecnológica declarada pelo PPC, área explicitamente incompatível com a habilitação.",
+  "escalonar_quando": "Escalonar se o PPC não declarar eixo tecnológico, se houver divergência do eixo em relação ao CNCT, se a correspondência CNCT estiver incerta, ou se o PPC declarar área tecnológica incompatível. Não escalonar pela simples ausência de área tecnológica no PPC.",
   "evidencia_minima": 2,
   "estados_permitidos": [
     "ATENDE",
