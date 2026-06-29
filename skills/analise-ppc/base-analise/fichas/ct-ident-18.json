@@ -1,0 +1,43 @@
+{
+  "id": "CT-IDENT-18",
+  "titulo": "Acompanhamento de egressos previsto com finalidade formativa",
+  "dominio": "identidade",
+  "criticidade": "OBRIG",
+  "secoes_preferenciais": [
+    "04",
+    "10"
+  ],
+  "consultas": [
+    "acompanhamento do egresso",
+    "acompanhamento de egressos",
+    "egressos",
+    "formação continuada",
+    "mundo do trabalho",
+    "avaliação do curso",
+    "avaliação do PPC",
+    "colegiado",
+    "CPA"
+  ],
+  "referencias_normativas": [
+    "Portaria PROENS/IFPR nº 121/2024, arts. 67 a 69"
+  ],
+  "pergunta": "O PPC prevê acompanhamento de egressos com responsáveis, instrumentos ou estratégias de coleta de informações e uso dos resultados para retroalimentar o curso?",
+  "rubrica": "Localizar a seção temática de acompanhamento de egressos ou trechos equivalentes, independentemente da numeração. Verificar se o PPC indica como o campus/curso acompanhará os egressos, quem participa do acompanhamento, quais informações serão observadas ou coletadas, como a comunicação com egressos será mantida e como os resultados poderão subsidiar avaliação, atualização curricular, formação continuada, relação com o mundo do trabalho ou melhoria do PPC. Não exigir formato único, sistema específico ou periodicidade rígida quando a norma não o fizer, mas avaliar se a previsão é operacional o bastante para sair da declaração genérica.",
+  "boa_evidencia": "Trechos que indicam ações como cadastro ou contato com egressos, pesquisas, consulta a inserção profissional, diálogo com setor produtivo, oferta/divulgação de formação continuada, responsáveis institucionais e uso dos dados na avaliação ou melhoria do curso.",
+  "ma_evidencia": "Menção genérica à importância dos egressos ou à formação continuada sem indicar estratégias, responsáveis, instrumentos, periodicidade aproximada ou uso dos resultados.",
+  "escalonar_quando": "Escalonar se houver seção ou menção a egressos, mas a redação não permitir confirmar como o acompanhamento será executado ou como seus resultados serão usados pelo curso.",
+  "evidencia_minima": 1,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ],
+  "feedback_autores": {
+    "obrigatorio_quando_estado": [
+      "NAO_ATENDE",
+      "INCONCLUSIVO"
+    ],
+    "orientacao": "Quando houver fragilidade, produzir orientação objetiva para tornar a seção operacional, sem transformar acompanhamento de egressos em obrigação burocrática excessiva."
+  }
+}

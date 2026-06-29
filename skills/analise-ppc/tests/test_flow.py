@@ -13,6 +13,7 @@ if str(SCRIPTS_DIR) not in sys.path:
 
 from gerar_relatorio_html import (
     ErroResultadosSubagents,
+    _resolver_anchor_evidencia,
     gerar_blocos_ppc,
     gerar_relatorio_html,
     remover_sumario_markdown,
@@ -669,6 +670,7 @@ def test_gerar_relatorio_html_renderiza_fundamentacao_normativa(tmp_path: Path) 
 
     html = caminhos["relatorio_html"].read_text(encoding="utf-8")
     assert "Fundamentação normativa verificada" in html
+    assert 'class="normative-section normative-confirmada-com-ressalva"' in html
     assert "CONFIRMADA_COM_RESSALVA" in html
     assert "RESOLUCAO_CNE-CP_1-2021_dcnept.md" in html
 
@@ -705,6 +707,35 @@ def test_gerar_relatorio_html_renderiza_evidencia_estruturada(tmp_path: Path) ->
     assert "Artefato:" not in html
 
 
+def test_resolver_anchor_por_titulo_de_secao_sem_depender_de_numeracao() -> None:
+    blocos = gerar_blocos_ppc(
+        """# Curso
+
+## 7.2 Acompanhamento do Egresso
+
+O PPC prevê pesquisas com egressos e uso dos resultados na avaliação do curso.
+
+## 7.3 Registro Profissional
+
+O PPC trata o registro junto ao conselho profissional.
+"""
+    )
+
+    anchor_id, quote = _resolver_anchor_evidencia(
+        {
+            "trecho": "pesquisas com egressos",
+            "secao": "Acompanhamento do Egresso",
+            "fonte": "PPC.md",
+        },
+        blocos,
+    )
+
+    bloco = next(bloco for bloco in blocos if bloco.id == anchor_id)
+    assert bloco.kind == "paragraph"
+    assert "pesquisas com egressos" in bloco.text
+    assert quote == "pesquisas com egressos"
+
+
 def test_gerar_relatorio_html_usa_assets_externos_e_ppc_anotado(tmp_path: Path) -> None:
     rodada_dir = _criar_rodada(tmp_path)
     caminhos = round_paths(rodada_dir)
@@ -739,7 +770,9 @@ def test_gerar_relatorio_html_usa_assets_externos_e_ppc_anotado(tmp_path: Path) 
     assert "Achados detalhados por ficha" not in html
     assert 'id="achados-detalhados"' not in html
     assert 'id="ppc-b00002"' in html
-    assert '<mark class="evidence-highlight">' in html
+    assert 'class="evidence-link evidence-state-nao-atende" href="#ann-001" data-evidence-ref="ann-001"' in html
+    assert '<span class="evidence-ref" aria-hidden="true">CT-CURR-01</span>' in html
+    assert 'title="Evidência de CT-CURR-01:' in html
     assert "Curso: Curso Técnico em Informática" in html
     assert 'href="#ann-001"' in html
     assert 'href="#ppc-b00002"' in html

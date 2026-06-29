@@ -7,6 +7,7 @@
   const contador = document.getElementById("contador-visivel");
   const anotacoes = Array.from(document.querySelectorAll(".annotation-card.finding"));
   const marcadores = Array.from(document.querySelectorAll(".annotation-marker"));
+  const destaques = Array.from(document.querySelectorAll(".evidence-link"));
   const blocos = Array.from(document.querySelectorAll(".ppc-block"));
   const margem = document.querySelector(".review-margin");
 
@@ -17,6 +18,16 @@
   const marcadorPorAnotacao = new Map(
     marcadores.map((marcador) => [marcador.dataset.annotationRef, marcador])
   );
+  const destaquesPorAnotacao = new Map();
+  for (const destaque of destaques) {
+    const id = destaque.dataset.evidenceRef;
+    if (!id) {
+      continue;
+    }
+    const lista = destaquesPorAnotacao.get(id) || [];
+    lista.push(destaque);
+    destaquesPorAnotacao.set(id, lista);
+  }
 
   function normalizar(texto) {
     return (texto || "").toLocaleLowerCase("pt-BR");
@@ -40,6 +51,13 @@
         bloco.classList.add("is-active");
       }
     }
+    for (const destaque of destaquesPorAnotacao.get(id) || []) {
+      destaque.classList.add("is-active");
+      const bloco = destaque.closest(".ppc-block");
+      if (bloco) {
+        bloco.classList.add("is-active");
+      }
+    }
   }
 
   function rolarNaMargem(anotacao) {
@@ -59,6 +77,15 @@
       return;
     }
     elemento.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  function revelarAnotacaoSeFiltrada(id) {
+    const anotacao = document.getElementById(id);
+    if (!anotacao || !anotacao.hidden) {
+      return;
+    }
+    modo.value = "todos";
+    aplicarFiltros();
   }
 
   function aplicarFiltros() {
@@ -100,22 +127,30 @@
   });
 
   document.addEventListener("click", (event) => {
-    const link = event.target.closest("[data-annotation-ref], .backlink");
+    const link = event.target.closest("[data-annotation-ref], [data-evidence-ref], .backlink");
     if (!link) {
       return;
     }
-    const id = link.dataset.annotationRef || link.getAttribute("href")?.slice(1);
+    const id = link.dataset.annotationRef || link.dataset.evidenceRef || link.getAttribute("href")?.slice(1);
     if (!id) {
       return;
     }
     event.preventDefault();
     history.replaceState(null, "", `#${id}`);
+    revelarAnotacaoSeFiltrada(id);
     destacar(id);
-    if (link.dataset.annotationRef) {
+    if (link.dataset.annotationRef || link.dataset.evidenceRef) {
       const alvo = document.getElementById(id);
       rolarNaMargem(alvo);
     } else {
       rolarNaPagina(document.getElementById(id));
+    }
+  });
+
+  document.addEventListener("focusin", (event) => {
+    const destaque = event.target.closest(".evidence-link[data-evidence-ref]");
+    if (destaque?.dataset.evidenceRef) {
+      destacar(destaque.dataset.evidenceRef);
     }
   });
 

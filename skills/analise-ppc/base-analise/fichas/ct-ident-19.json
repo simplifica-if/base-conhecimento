@@ -1,0 +1,49 @@
+{
+  "id": "CT-IDENT-19",
+  "titulo": "Registro profissional descrito com conselho e base aplicável",
+  "dominio": "identidade",
+  "criticidade": "OBRIG",
+  "secoes_preferenciais": [
+    "04",
+    "01",
+    "11"
+  ],
+  "consultas": [
+    "registro profissional",
+    "conselho profissional",
+    "conselho regional",
+    "conselho federal",
+    "CRT",
+    "CFT",
+    "técnicos industriais",
+    "legislação profissional",
+    "habilitará seus egressos",
+    "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.legislacao_profissional"
+  ],
+  "referencias_normativas": [
+    "CNCT",
+    "Lei nº 5.524/1968",
+    "Decreto nº 90.922/1985",
+    "Lei nº 13.639/2018",
+    "Resolução CFT nº 89/2019"
+  ],
+  "pergunta": "O PPC trata o registro profissional de forma compatível com o conselho competente e com a legislação profissional aplicável à habilitação indicada pelo CNCT?",
+  "rubrica": "Localizar a seção de registro profissional ou trechos equivalentes, independentemente da numeração. Verificar se o PPC identifica adequadamente o conselho ou sistema profissional aplicável, descreve com precisão a possibilidade de registro dos egressos, evita promessa automática indevida quando o registro depende de requerimento e regras do conselho, e mantém coerência com a legislação profissional indicada pelo CNCT e com as referências finais. Esta ficha avalia a seção temática; a ficha CT-SUP-21 continua responsável por verificar transversalmente o conjunto da legislação profissional no PPC.",
+  "boa_evidencia": "Seção que identifica CFT/CRT ou conselho competente, trata o registro como possibilidade ou procedimento do egresso junto ao conselho, cita ou remete à legislação profissional pertinente e mantém coerência com dados gerais e referências.",
+  "ma_evidencia": "Seção ausente, conselho equivocado ou impreciso, promessa automática de registro, ausência de legislação profissional essencial indicada pelo CNCT, ou divergência entre seção de registro, dados gerais e referências.",
+  "escalonar_quando": "Escalonar se o PPC mencionar conselho profissional ou registro, mas houver dúvida sobre a legislação aplicável, sobre a vigência da norma citada ou sobre a suficiência da redação para orientar autores e avaliadores.",
+  "evidencia_minima": 1,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ],
+  "feedback_autores": {
+    "obrigatorio_quando_estado": [
+      "NAO_ATENDE",
+      "INCONCLUSIVO"
+    ],
+    "orientacao": "Quando houver fragilidade, apontar se o problema está na identificação do conselho, na redação sobre o procedimento de registro ou na ausência/inconsistência da legislação profissional aplicável."
+  }
+}

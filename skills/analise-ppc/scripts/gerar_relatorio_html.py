@@ -526,6 +526,14 @@ def _normalizar_texto(texto: str) -> str:
     return " ".join(normalizado.split())
 
 
+def _css_slug(valor: str) -> str:
+    return valor.lower().replace("_", "-")
+
+
+def _classe_estado(valor: str) -> str:
+    return "transversal" if valor == "TRANSVERSAL" else _css_slug(valor)
+
+
 def _inline_markdown(texto: str) -> str:
     marcador_br = "\u0000BR\u0000"
     texto = re.sub(r"<br\s*/?>", marcador_br, texto, flags=re.IGNORECASE)
@@ -673,6 +681,36 @@ def _evidencia_texto(evidencia: dict[str, Any]) -> str:
     return " ".join(partes)
 
 
+def _titulo_sem_numero(texto: str) -> str:
+    return re.sub(r"^\s*\d+(?:\.\d+)*\s+", "", texto or "").strip()
+
+
+def _bloco_secao_por_titulo(secao: str, blocos: list[PPCBlock]) -> PPCBlock | None:
+    secao_normalizada = _normalizar_texto(_titulo_sem_numero(secao))
+    if not secao_normalizada:
+        return None
+    for bloco in blocos:
+        if bloco.kind != "heading":
+            continue
+        titulo_normalizado = _normalizar_texto(_titulo_sem_numero(bloco.text))
+        if secao_normalizada == titulo_normalizado or secao_normalizada in titulo_normalizado:
+            return bloco
+    return None
+
+
+def _blocos_da_secao(heading: PPCBlock, blocos: list[PPCBlock]) -> list[PPCBlock]:
+    try:
+        indice = blocos.index(heading)
+    except ValueError:
+        return []
+    relacionados = [heading]
+    for bloco in blocos[indice + 1 :]:
+        if bloco.kind == "heading" and bloco.level <= heading.level:
+            break
+        relacionados.append(bloco)
+    return relacionados
+
+
 def _resolver_anchor_evidencia(evidencia: dict[str, Any], blocos: list[PPCBlock]) -> tuple[str, str]:
     por_id = {bloco.id: bloco for bloco in blocos}
     anchor = evidencia.get("anchor") if isinstance(evidencia.get("anchor"), dict) else {}
@@ -681,11 +719,21 @@ def _resolver_anchor_evidencia(evidencia: dict[str, Any], blocos: list[PPCBlock]
     if block_id in por_id:
         return block_id, quote or str(evidencia.get("trecho") or "")
 
+    secao = str(evidencia.get("secao") or "")
+    bloco_secao = _bloco_secao_por_titulo(secao, blocos)
+    if bloco_secao:
+        trecho_normalizado = _normalizar_texto(str(evidencia.get("trecho") or quote))
+        if trecho_normalizado:
+            for bloco in _blocos_da_secao(bloco_secao, blocos):
+                if trecho_normalizado in _normalizar_texto(bloco.text):
+                    return bloco.id, quote or str(evidencia.get("trecho") or "")
+        return bloco_secao.id, quote or str(evidencia.get("trecho") or bloco_secao.text)
+
     candidatos = [
         quote,
         str(evidencia.get("trecho") or ""),
         str(evidencia.get("localizador") or ""),
-        str(evidencia.get("secao") or ""),
+        secao,
     ]
     for candidato in candidatos:
         normalizado = _normalizar_texto(candidato)
@@ -804,6 +852,14 @@ def _render_fundamentacao_normativa(achados: list[dict[str, str]]) -> str:
     if not achados:
         return ""
     cards = []
+    status_classes = [
+        "normative-section",
+        *[
+            f"normative-{_css_slug(achado['status'])}"
+            for achado in achados
+            if achado.get("status")
+        ],
+    ]
     for achado in achados:
         detalhes = [
             ("Trecho do PPC", achado["trecho_ppc"]),
@@ -821,12 +877,12 @@ def _render_fundamentacao_normativa(achados: list[dict[str, str]]) -> str:
         )
         cards.append(
             "<article class=\"normative-finding\">"
-            f"<h5><span class=\"badge norma-{escape(achado['status'].lower().replace('_', '-'))}\">{escape(achado['status'])}</span></h5>"
+            f"<h5><span class=\"badge norma-{escape(_css_slug(achado['status']))}\">{escape(achado['status'])}</span></h5>"
             f"{itens}"
             "</article>"
         )
     return (
-        "<section class=\"normative-section\">"
+        f"<section class=\"{escape(' '.join(status_classes))}\">"
         "<h4>Fundamentação normativa verificada</h4>"
         f"{''.join(cards)}"
         "</section>"
@@ -886,7 +942,7 @@ def _render_marcadores(anotacoes: list[dict[str, Any]]) -> str:
     links = []
     for anotacao in anotacoes:
         estado = str(anotacao.get("estado") or "")
-        classe_estado = "transversal" if estado == "TRANSVERSAL" else estado.lower().replace("_", "-")
+        classe_estado = _classe_estado(estado)
         rotulo = str(anotacao.get("ficha_id") or anotacao.get("id") or "")
         links.append(
             f"<a class=\"annotation-marker estado-{escape(classe_estado)}\" "
@@ -897,15 +953,33 @@ def _render_marcadores(anotacoes: list[dict[str, Any]]) -> str:
     return f"<div class=\"annotation-markers\" aria-label=\"Anotações do bloco\">\n{chr(10).join(links)}\n</div>"
 
 
-def _aplicar_destaques(html: str, quotes: list[str]) -> str:
+def _aplicar_destaques(html: str, anotacoes: list[dict[str, Any]]) -> str:
     renderizado = html
-    for quote in quotes:
+    for anotacao in anotacoes:
+        quote = str(anotacao.get("quote") or "")
         texto = quote.strip()
         if not texto:
             continue
         alvo = escape(texto)
         if alvo in renderizado:
-            renderizado = renderizado.replace(alvo, f"<mark class=\"evidence-highlight\">{alvo}</mark>", 1)
+            annotation_id = escape(str(anotacao.get("annotation_id") or ""))
+            ficha_id = escape(str(anotacao.get("ficha_id") or annotation_id))
+            titulo = escape(str(anotacao.get("titulo") or ficha_id), quote=True)
+            estado = str(anotacao.get("estado") or "")
+            classe_estado = _classe_estado(estado)
+            renderizado = renderizado.replace(
+                alvo,
+                (
+                    f"<a class=\"evidence-link evidence-state-{escape(classe_estado)}\" href=\"#{annotation_id}\" "
+                    f"data-evidence-ref=\"{annotation_id}\" "
+                    f"title=\"Evidência de {ficha_id}: {titulo}\" "
+                    f"aria-label=\"Trecho usado como evidência de {ficha_id}\">"
+                    f"<mark class=\"evidence-highlight\">{alvo}</mark>"
+                    f"<span class=\"evidence-ref\" aria-hidden=\"true\">{ficha_id}</span>"
+                    "</a>"
+                ),
+                1,
+            )
     return renderizado
 
 
@@ -913,8 +987,7 @@ def _render_ppc(blocos: list[PPCBlock], anotacoes_por_bloco: dict[str, list[dict
     rendered = []
     for bloco in blocos:
         anotacoes = anotacoes_por_bloco.get(bloco.id, [])
-        quotes = [str(anotacao.get("quote") or "") for anotacao in anotacoes]
-        bloco_html = _aplicar_destaques(bloco.html, quotes)
+        bloco_html = _aplicar_destaques(bloco.html, anotacoes)
         rendered.append(
             f"<section id=\"{escape(bloco.id)}\" class=\"ppc-block ppc-block-{escape(bloco.kind)}\" "
             f"data-block-id=\"{escape(bloco.id)}\" data-annotations=\"{len(anotacoes)}\">"
@@ -943,7 +1016,7 @@ def _render_anotacao(item: dict[str, Any], compacta: bool = True) -> str:
         "<header>"
         f"<p class=\"annotation-kicker\">{escape(item['ficha_id'])} · {escape(item['criticidade'])}</p>"
         f"<h3>{escape(item['titulo'])}</h3>"
-        f"<span class=\"badge estado-{escape(item['estado'].lower().replace('_', '-'))}\">{escape(item['estado'])}</span>"
+        f"<span class=\"badge estado-{escape(_css_slug(item['estado']))}\">{escape(item['estado'])}</span>"
         "</header>"
         f"{quote_html}"
         f"<p>{escape(item['justificativa'])}</p>"
@@ -1037,7 +1110,7 @@ def _render_html(
       <h1>{escape(str(metadata.get('curso') or 'Curso não identificado'))}</h1>
       <p class="lead">{escape(resumo)}</p>
       <div class="status-row">
-        <span><strong>Situação:</strong> <span class="badge estado-{escape(situacao.lower().replace('_', '-'))}">{escape(situacao)}</span></span>
+        <span><strong>Situação:</strong> <span class="badge estado-{escape(_css_slug(situacao))}">{escape(situacao)}</span></span>
         <span><strong>Campus:</strong> {escape(str(metadata.get('campus') or 'Não informado'))}</span>
         <span><strong>Modalidade:</strong> {escape(str(metadata.get('modalidade') or 'Não informada'))}</span>
       </div>

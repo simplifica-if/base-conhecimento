@@ -1,12 +1,12 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-06-29T14:10:25+00:00",
+  "gerado_em": "2026-06-29T16:28:01+00:00",
   "resumo": {
-    "total_fichas": 75,
+    "total_fichas": 77,
     "total_validacoes_cruzadas": 29,
     "total_contratos": 3,
     "total_schemas": 4,
-    "total_itens": 111
+    "total_itens": 113
   },
   "itens": [
     {
@@ -606,6 +606,41 @@
     },
     {
       "categoria": "ficha",
+      "id": "CT-IDENT-18",
+      "titulo": "Acompanhamento de egressos previsto com finalidade formativa",
+      "dominio": "identidade",
+      "criticidade": "OBRIG",
+      "secoes": [
+        "04",
+        "10"
+      ],
+      "referencias_normativas": [
+        "Portaria PROENS/IFPR nº 121/2024, arts. 67 a 69"
+      ],
+      "arquivo": "fichas/ct-ident-18.json"
+    },
+    {
+      "categoria": "ficha",
+      "id": "CT-IDENT-19",
+      "titulo": "Registro profissional descrito com conselho e base aplicável",
+      "dominio": "identidade",
+      "criticidade": "OBRIG",
+      "secoes": [
+        "04",
+        "01",
+        "11"
+      ],
+      "referencias_normativas": [
+        "CNCT",
+        "Lei nº 5.524/1968",
+        "Decreto nº 90.922/1985",
+        "Lei nº 13.639/2018",
+        "Resolução CFT nº 89/2019"
+      ],
+      "arquivo": "fichas/ct-ident-19.json"
+    },
+    {
+      "categoria": "ficha",
       "id": "CT-SUP-01",
       "titulo": "Sistema de avaliação coerente com o IFPR",
       "dominio": "suporte",
@@ -892,6 +927,7 @@
       "dominio": "suporte",
       "criticidade": "OBRIG",
       "secoes": [
+        "04",
         "01",
         "11"
       ],

@@ -4,10 +4,12 @@
   "dominio": "suporte",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
+    "04",
     "01",
     "11"
   ],
   "consultas": [
+    "registro profissional",
     "legislação profissional",
     "legislacao profissional",
     "profissão regulamentada",
