@@ -38,7 +38,14 @@
                     "secao": { "type": "string" },
                     "localizador": { "type": "string" },
                     "fonte": { "type": "string" },
-                    "artefato": { "type": "string" }
+                    "artefato": { "type": "string" },
+                    "anchor": {
+                      "type": "object",
+                      "properties": {
+                        "block_id": { "type": "string" },
+                        "quote": { "type": "string" }
+                      }
+                    }
                   }
                 }
               ]

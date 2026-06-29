@@ -26,7 +26,32 @@
           "criticidade": { "type": "string", "enum": ["BLOQ", "OBRIG", "REC"] },
           "descricao": { "type": "string" },
           "fichas_relacionadas": { "type": "array", "items": { "type": "string" } },
-          "evidencias": { "type": "array", "items": { "type": "string" } },
+          "evidencias": {
+            "type": "array",
+            "items": {
+              "anyOf": [
+                { "type": "string" },
+                {
+                  "type": "object",
+                  "required": ["trecho"],
+                  "properties": {
+                    "trecho": { "type": "string" },
+                    "secao": { "type": "string" },
+                    "localizador": { "type": "string" },
+                    "papel": { "type": "string" },
+                    "fonte": { "type": "string" },
+                    "anchor": {
+                      "type": "object",
+                      "properties": {
+                        "block_id": { "type": "string" },
+                        "quote": { "type": "string" }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
           "revisao_humana_obrigatoria": { "type": "boolean" }
         }
       }

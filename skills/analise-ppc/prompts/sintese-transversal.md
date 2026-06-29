@@ -23,6 +23,8 @@ Para convênios de estágio, procure contradições entre a seção narrativa, c
 
 Quando uma validação cruzada exigir conferência aritmética, registre a memória de cálculo no próprio alerta. Use a `descricao` para resumir a inconsistência encontrada e inclua em `evidencias` as etapas numéricas essenciais, como conversão de janelas de horário em minutos, quantidade estimada de aulas, semanas equivalentes, conversão de hora-aula para hora-relógio e comparação com a carga horária declarada. Se os dados forem insuficientes para fechar a conta, indique exatamente quais dados faltam ou quais unidades estão ambíguas.
 
+Preencha `evidencias` preferencialmente como objetos estruturados com `trecho`, `secao`, `localizador`, `papel`, `fonte` e, quando houver âncoras do PPC disponíveis, `anchor`. Use uma evidência por ponto relevante do PPC. O campo `papel` deve indicar a função daquele ponto no problema transversal, por exemplo `ponto_de_conflito`, `dado_matriz`, `dado_texto_narrativo`, `memoria_de_calculo` ou `fundamento_normativo`. Se não houver âncora, ainda assim informe `secao` e `trecho` para permitir localização posterior.
+
 Não reescreva as respostas das fichas. Registre apenas alertas transversais úteis para a revisão humana. Todo alerta deve informar `validacao_id` com o ID da validação cruzada canônica que fundamenta o alerta.
 
 ## Convenções de matriz do modelo IFPR
@@ -59,7 +61,19 @@ Retorne somente JSON válido:
       "criticidade": "BLOQ | OBRIG | REC",
       "descricao": "Descrição objetiva do problema transversal.",
       "fichas_relacionadas": ["CT-IDENT-01"],
-      "evidencias": ["Trecho ou referência textual"],
+      "evidencias": [
+        {
+          "secao": "5.6 Matriz curricular",
+          "trecho": "Trecho ou referência textual",
+          "localizador": "Título, item ou página, quando identificável",
+          "papel": "ponto_de_conflito",
+          "fonte": "PPC.md",
+          "anchor": {
+            "block_id": "ppc-b00042",
+            "quote": "Trecho exato dentro do bloco, quando disponível"
+          }
+        }
+      ],
       "revisao_humana_obrigatoria": true
     }
   ]

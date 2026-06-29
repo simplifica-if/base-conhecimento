@@ -1,11 +1,17 @@
 from __future__ import annotations
 
+import re
+import shutil
+import textwrap
+import unicodedata
 from collections import Counter
+from dataclasses import dataclass
+from html.parser import HTMLParser
 from html import escape
 from pathlib import Path
 from typing import Any
 
-from common import FICHAS_DIR, VALIDACOES_CRUZADAS_DIR, load_fichas, read_json, round_paths
+from common import APP_DIR, FICHAS_DIR, VALIDACOES_CRUZADAS_DIR, load_fichas, read_json, round_paths
 
 ESTADOS_PERMITIDOS = {"ATENDE", "NAO_ATENDE", "INCONCLUSIVO", "NAO_APLICAVEL"}
 STATUS_FUNDAMENTACAO_NORMATIVA = {
@@ -17,10 +23,154 @@ STATUS_FUNDAMENTACAO_NORMATIVA = {
     "FONTE_AUSENTE_OU_NAO_CONSULTADA",
     "NAO_NORMATIVA",
 }
+STATUS_NORMATIVOS_ACIONAVEIS = {
+    "CONFIRMADA_COM_RESSALVA",
+    "IMPRECISA",
+    "SEM_SUPORTE_NA_FONTE",
+    "CONTRADITORIA",
+    "FONTE_AUSENTE_OU_NAO_CONSULTADA",
+}
 
 
 class ErroResultadosSubagents(ValueError):
     pass
+
+
+class _HTMLPrettyPrinter(HTMLParser):
+    _INLINE_TAGS = {"abbr", "b", "br", "code", "em", "small", "span", "strong"}
+    _VOID_TAGS = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "track", "wbr"}
+    _PRESERVE_TAGS = {"script", "style", "textarea", "pre"}
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=False)
+        self.parts: list[str] = []
+        self.level = 0
+        self.inline_depth = 0
+        self.preserve_depth = 0
+
+    def _attrs(self, attrs: list[tuple[str, str | None]]) -> str:
+        if not attrs:
+            return ""
+        rendered = []
+        for name, value in attrs:
+            if value is None:
+                rendered.append(name)
+            else:
+                rendered.append(f'{name}="{escape(value, quote=True)}"')
+        return " " + " ".join(rendered)
+
+    def _newline(self) -> None:
+        if self.inline_depth or self.preserve_depth:
+            return
+        if self.parts and not self.parts[-1].endswith("\n"):
+            self.parts.append("\n")
+        self.parts.append("  " * self.level)
+
+    def handle_decl(self, decl: str) -> None:
+        self.parts.append(f"<!{decl}>\n")
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        tag_lower = tag.lower()
+        if tag_lower not in self._INLINE_TAGS:
+            self._newline()
+        self.parts.append(f"<{tag}{self._attrs(attrs)}>")
+        if tag_lower in self._PRESERVE_TAGS:
+            self.preserve_depth += 1
+        if tag_lower in self._VOID_TAGS:
+            return
+        if tag_lower in self._INLINE_TAGS or tag_lower in self._PRESERVE_TAGS:
+            self.inline_depth += 1
+        elif tag_lower not in self._VOID_TAGS:
+            self.level += 1
+
+    def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        self._newline()
+        self.parts.append(f"<{tag}{self._attrs(attrs)}>")
+
+    def handle_endtag(self, tag: str) -> None:
+        tag_lower = tag.lower()
+        if tag_lower in self._INLINE_TAGS or tag_lower in self._PRESERVE_TAGS:
+            self.parts.append(f"</{tag}>")
+            self.inline_depth = max(0, self.inline_depth - 1)
+            if tag_lower in self._PRESERVE_TAGS:
+                self.preserve_depth = max(0, self.preserve_depth - 1)
+            return
+        self.level = max(0, self.level - 1)
+        self._newline()
+        self.parts.append(f"</{tag}>")
+
+    def handle_data(self, data: str) -> None:
+        if self.preserve_depth or self.inline_depth:
+            self.parts.append(data)
+            return
+        texto = data.strip()
+        if texto:
+            linhas = textwrap.wrap(texto, width=110, break_long_words=False, break_on_hyphens=False)
+            if not linhas:
+                return
+            self.parts.append(linhas[0])
+            for linha in linhas[1:]:
+                self.parts.append("\n")
+                self.parts.append("  " * self.level)
+                self.parts.append(linha)
+
+    def handle_entityref(self, name: str) -> None:
+        self.parts.append(f"&{name};")
+
+    def handle_charref(self, name: str) -> None:
+        self.parts.append(f"&#{name};")
+
+    def handle_comment(self, data: str) -> None:
+        self._newline()
+        self.parts.append(f"<!--{data}-->")
+
+    def pretty(self, html: str) -> str:
+        self.feed(html)
+        self.close()
+        return _quebrar_linhas_longas_fonte("".join(self.parts).strip()) + "\n"
+
+
+def _quebrar_linhas_longas_fonte(html: str, largura: int = 180) -> str:
+    linhas_formatadas: list[str] = []
+    for linha in html.splitlines():
+        if len(linha) <= largura:
+            linhas_formatadas.append(linha)
+            continue
+        indent = re.match(r"^\s*", linha).group(0)
+        partes = re.split(r"(<[^>]+>)", linha.strip())
+        atual = indent
+        for parte in partes:
+            if not parte:
+                continue
+            if parte.startswith("<") and parte.endswith(">"):
+                if atual.strip() and len(atual) + len(parte) > largura:
+                    linhas_formatadas.append(atual.rstrip())
+                    atual = indent + parte
+                else:
+                    atual += parte
+                continue
+            for trecho in textwrap.wrap(parte.strip(), width=max(40, largura - len(indent)), break_long_words=False, break_on_hyphens=False):
+                if not trecho:
+                    continue
+                if atual.strip() and len(atual) + len(trecho) + 1 > largura:
+                    linhas_formatadas.append(atual.rstrip())
+                    atual = indent + trecho
+                else:
+                    if atual.strip() and not atual.endswith((">", " ")):
+                        atual += " "
+                    atual += trecho
+        if atual.strip():
+            linhas_formatadas.append(atual.rstrip())
+    return "\n".join(linhas_formatadas)
+
+
+@dataclass(frozen=True)
+class PPCBlock:
+    id: str
+    kind: str
+    text: str
+    html: str
+    level: int = 0
 
 
 def _resolver_resultados_path(rodada_dir: Path, resultados_path: Path) -> Path:
@@ -87,15 +237,28 @@ def _normalizar_fundamentacao_normativa(ficha_id: str, item: dict[str, Any]) -> 
     return normalizados
 
 
-def _normalizar_evidencia(ficha_id: str, valor: Any, indice: int) -> dict[str, str]:
+def _normalizar_anchor(valor: Any) -> dict[str, str]:
+    if not isinstance(valor, dict):
+        return {}
+    block_id = str(valor.get("block_id") or valor.get("id") or "").strip()
+    quote = str(valor.get("quote") or valor.get("trecho") or "").strip()
+    if not block_id and not quote:
+        return {}
+    return {"block_id": block_id, "quote": quote}
+
+
+def _normalizar_evidencia(ficha_id: str, valor: Any, indice: int) -> dict[str, Any]:
     if isinstance(valor, dict):
-        normalizada = {
+        normalizada: dict[str, Any] = {
             "trecho": str(valor.get("trecho") or valor.get("texto") or valor.get("evidencia") or "").strip(),
             "secao": str(valor.get("secao") or valor.get("seção") or "").strip(),
             "localizador": str(valor.get("localizador") or valor.get("pagina") or valor.get("linha") or "").strip(),
             "fonte": str(valor.get("fonte") or "PPC.md").strip(),
             "artefato": str(valor.get("artefato") or "").strip(),
         }
+        anchor = _normalizar_anchor(valor.get("anchor"))
+        if anchor:
+            normalizada["anchor"] = anchor
     else:
         normalizada = {
             "trecho": str(valor or "").strip(),
@@ -106,20 +269,54 @@ def _normalizar_evidencia(ficha_id: str, valor: Any, indice: int) -> dict[str, s
         }
     tem_conteudo = any(
         normalizada.get(chave)
-        for chave in ("trecho", "secao", "localizador", "artefato")
+        for chave in ("trecho", "secao", "localizador", "artefato", "anchor")
     ) or normalizada.get("fonte") not in {"", "PPC.md"}
     if not tem_conteudo:
         raise ErroResultadosSubagents(f"Evidência {indice} de {ficha_id} não traz conteúdo verificável.")
     return normalizada
 
 
-def _normalizar_evidencias(ficha_id: str, evidencias: Any) -> list[dict[str, str]]:
+def _normalizar_evidencias(ficha_id: str, evidencias: Any) -> list[dict[str, Any]]:
     if not isinstance(evidencias, list):
         raise ErroResultadosSubagents(f"`evidencias` precisa ser lista para {ficha_id}.")
     return [
         normalizada
         for indice, valor in enumerate(evidencias, start=1)
         if any((normalizada := _normalizar_evidencia(ficha_id, valor, indice)).values())
+    ]
+
+
+def _normalizar_evidencia_transversal(alerta_id: str, valor: Any, indice: int) -> dict[str, Any]:
+    if isinstance(valor, dict):
+        normalizada: dict[str, Any] = {
+            "trecho": str(valor.get("trecho") or valor.get("texto") or valor.get("evidencia") or "").strip(),
+            "secao": str(valor.get("secao") or valor.get("seção") or "").strip(),
+            "localizador": str(valor.get("localizador") or valor.get("pagina") or valor.get("linha") or "").strip(),
+            "papel": str(valor.get("papel") or "").strip(),
+            "fonte": str(valor.get("fonte") or "PPC.md").strip(),
+        }
+        anchor = _normalizar_anchor(valor.get("anchor"))
+        if anchor:
+            normalizada["anchor"] = anchor
+    else:
+        normalizada = {
+            "trecho": str(valor or "").strip(),
+            "secao": "",
+            "localizador": "",
+            "papel": "",
+            "fonte": "PPC.md",
+        }
+    if not any(normalizada.get(chave) for chave in ("trecho", "secao", "localizador", "papel", "anchor")):
+        raise ErroResultadosSubagents(f"Evidência transversal {indice} de {alerta_id} não traz conteúdo verificável.")
+    return normalizada
+
+
+def _normalizar_evidencias_transversais(alerta_id: str, evidencias: Any) -> list[dict[str, Any]]:
+    if not isinstance(evidencias, list):
+        raise ErroResultadosSubagents(f"`evidencias` precisa ser lista para {alerta_id}.")
+    return [
+        _normalizar_evidencia_transversal(alerta_id, valor, indice)
+        for indice, valor in enumerate(evidencias, start=1)
     ]
 
 
@@ -173,15 +370,14 @@ def validar_resultados_subagents(
                     raise ErroResultadosSubagents(
                         f"`feedback_autores` ausente para {ficha_id}; obrigatório quando estado={estado}."
                     )
-            evidencias = item.get("evidencias")
-            lacunas = item.get("lacunas")
-            revisao = item.get("revisao_humana_obrigatoria")
-            evidencias_normalizadas = _normalizar_evidencias(ficha_id, evidencias)
+            evidencias_normalizadas = _normalizar_evidencias(ficha_id, item.get("evidencias"))
             evidencia_minima = int(fichas_por_id[ficha_id].get("evidencia_minima", 1))
             if len(evidencias_normalizadas) < evidencia_minima:
                 raise ErroResultadosSubagents(
                     f"{ficha_id} trouxe {len(evidencias_normalizadas)} evidências; mínimo exigido: {evidencia_minima}."
                 )
+            lacunas = item.get("lacunas")
+            revisao = item.get("revisao_humana_obrigatoria")
             if not isinstance(lacunas, list):
                 raise ErroResultadosSubagents(f"`lacunas` precisa ser lista para {ficha_id}.")
             if not isinstance(revisao, bool):
@@ -258,8 +454,7 @@ def validar_alertas_transversais(
             raise ErroResultadosSubagents(
                 f"Alerta {alerta_id} referencia fichas desconhecidas: " + ", ".join(map(str, desconhecidas))
             )
-        if not isinstance(evidencias, list):
-            raise ErroResultadosSubagents(f"`evidencias` precisa ser lista para {alerta_id}.")
+        evidencias_normalizadas = _normalizar_evidencias_transversais(alerta_id, evidencias)
         if not isinstance(revisao, bool):
             raise ErroResultadosSubagents(f"`revisao_humana_obrigatoria` precisa ser booleano para {alerta_id}.")
         alertas.append(
@@ -271,7 +466,7 @@ def validar_alertas_transversais(
                 "criticidade": criticidade,
                 "descricao": descricao,
                 "fichas_relacionadas": [str(ficha_id) for ficha_id in fichas_relacionadas],
-                "evidencias": [str(valor).strip() for valor in evidencias if str(valor).strip()],
+                "evidencias": evidencias_normalizadas,
                 "revisao_humana_obrigatoria": revisao,
             }
         )
@@ -323,6 +518,252 @@ def validar_resultados_rodada(rodada_dir: Path, resultados_path: Path) -> dict[s
     }
 
 
+def _normalizar_texto(texto: str) -> str:
+    normalizado = unicodedata.normalize("NFD", texto or "")
+    normalizado = "".join(char for char in normalizado if unicodedata.category(char) != "Mn")
+    normalizado = normalizado.casefold()
+    normalizado = re.sub(r"[^a-z0-9]+", " ", normalizado)
+    return " ".join(normalizado.split())
+
+
+def _inline_markdown(texto: str) -> str:
+    marcador_br = "\u0000BR\u0000"
+    texto = re.sub(r"<br\s*/?>", marcador_br, texto, flags=re.IGNORECASE)
+    html = escape(texto).replace(marcador_br, "<br>")
+    html = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", html)
+    html = re.sub(r"\*(.+?)\*", r"<em>\1</em>", html)
+    return html
+
+
+def _render_markdown_table(linhas: list[str]) -> str:
+    rows = []
+    for linha in linhas:
+        cells = [cell.strip() for cell in linha.strip().strip("|").split("|")]
+        if cells and all(re.fullmatch(r":?-{3,}:?", cell or "") for cell in cells):
+            continue
+        rows.append(cells)
+    if not rows:
+        return ""
+    largura = max(len(row) for row in rows)
+    rows = [row + [""] * (largura - len(row)) for row in rows]
+    header, *body = rows
+    thead = "".join(f"<th scope=\"col\">{_inline_markdown(cell)}</th>" for cell in header)
+    tbody = "".join(
+        "<tr>" + "".join(f"<td>{_inline_markdown(cell)}</td>" for cell in row) + "</tr>"
+        for row in body
+    )
+    return f"<table><thead><tr>{thead}</tr></thead><tbody>{tbody}</tbody></table>"
+
+
+def _render_block_html(kind: str, text: str, level: int = 0) -> str:
+    if kind == "heading":
+        nivel = min(max(level, 1), 6)
+        return f"<h{nivel}>{_inline_markdown(text)}</h{nivel}>"
+    if kind == "table":
+        return _render_markdown_table(text.splitlines())
+    if kind == "list":
+        itens = []
+        for linha in text.splitlines():
+            item = re.sub(r"^\s*(?:[-*+]|\d+[.)])\s+", "", linha).strip()
+            if item:
+                itens.append(f"<li>{_inline_markdown(item)}</li>")
+        return f"<ul>{''.join(itens)}</ul>"
+    paragrafos = [parte.strip() for parte in text.split("\n") if parte.strip()]
+    return "".join(f"<p>{_inline_markdown(paragrafo)}</p>" for paragrafo in paragrafos)
+
+
+def _linha_sumario(linha: str) -> bool:
+    texto = re.sub(r"^#{1,6}\s+", "", linha.strip())
+    texto = texto.replace("*", "").strip()
+    return _normalizar_texto(texto) in {"sumario", "sumario do documento"}
+
+
+def _linha_inicio_corpo_apos_sumario(linha: str) -> bool:
+    stripped = linha.strip()
+    if not re.match(r"^#{1,3}\s+", stripped):
+        return False
+    texto = re.sub(r"^#{1,3}\s+", "", stripped).strip()
+    return bool(re.match(r"^\d+\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ]", texto))
+
+
+def remover_sumario_markdown(markdown: str) -> str:
+    linhas = markdown.replace("\r\n", "\n").replace("\r", "\n").split("\n")
+    resultado: list[str] = []
+    ignorando_sumario = False
+    removeu_sumario = False
+
+    for linha in linhas:
+        if not ignorando_sumario and not removeu_sumario and _linha_sumario(linha):
+            ignorando_sumario = True
+            removeu_sumario = True
+            continue
+        if ignorando_sumario:
+            if _linha_inicio_corpo_apos_sumario(linha):
+                ignorando_sumario = False
+                resultado.append(linha)
+            continue
+        resultado.append(linha)
+    return "\n".join(resultado)
+
+
+def gerar_blocos_ppc(markdown: str) -> list[PPCBlock]:
+    linhas = remover_sumario_markdown(markdown).replace("\r\n", "\n").replace("\r", "\n").split("\n")
+    blocos: list[PPCBlock] = []
+    indice = 0
+    atual: list[str] = []
+    kind_atual = "paragraph"
+
+    def tipo_linha(linha: str) -> tuple[str, int]:
+        stripped = linha.strip()
+        if not stripped:
+            return ("blank", 0)
+        heading = re.match(r"^(#{1,6})\s+(.+)$", stripped)
+        if heading:
+            return ("heading", len(heading.group(1)))
+        if "|" in stripped and stripped.startswith("|"):
+            return ("table", 0)
+        if re.match(r"^\s*(?:[-*+]|\d+[.)])\s+", linha):
+            return ("list", 0)
+        return ("paragraph", 0)
+
+    def flush(level: int = 0) -> None:
+        nonlocal atual, kind_atual, indice
+        texto = "\n".join(linha.rstrip() for linha in atual).strip()
+        if not texto:
+            atual = []
+            return
+        indice += 1
+        if kind_atual == "heading":
+            texto = re.sub(r"^#{1,6}\s+", "", texto).strip()
+        bloco_id = f"ppc-b{indice:05d}"
+        blocos.append(PPCBlock(bloco_id, kind_atual, texto, _render_block_html(kind_atual, texto, level), level))
+        atual = []
+
+    level_atual = 0
+    for linha in linhas:
+        kind, level = tipo_linha(linha)
+        if kind == "blank":
+            flush(level_atual)
+            level_atual = 0
+            kind_atual = "paragraph"
+            continue
+        if not atual:
+            atual = [linha]
+            kind_atual = kind
+            level_atual = level
+            continue
+        if kind != kind_atual or kind == "heading":
+            flush(level_atual)
+            atual = [linha]
+            kind_atual = kind
+            level_atual = level
+        else:
+            atual.append(linha)
+    flush(level_atual)
+    return blocos
+
+
+def _evidencia_texto(evidencia: dict[str, Any]) -> str:
+    partes: list[str] = []
+    for chave, valor in evidencia.items():
+        if chave == "anchor" and isinstance(valor, dict):
+            partes.extend(str(item) for item in valor.values() if item)
+        elif valor:
+            partes.append(str(valor))
+    return " ".join(partes)
+
+
+def _resolver_anchor_evidencia(evidencia: dict[str, Any], blocos: list[PPCBlock]) -> tuple[str, str]:
+    por_id = {bloco.id: bloco for bloco in blocos}
+    anchor = evidencia.get("anchor") if isinstance(evidencia.get("anchor"), dict) else {}
+    block_id = str(anchor.get("block_id") or "").strip() if isinstance(anchor, dict) else ""
+    quote = str(anchor.get("quote") or "").strip() if isinstance(anchor, dict) else ""
+    if block_id in por_id:
+        return block_id, quote or str(evidencia.get("trecho") or "")
+
+    candidatos = [
+        quote,
+        str(evidencia.get("trecho") or ""),
+        str(evidencia.get("localizador") or ""),
+        str(evidencia.get("secao") or ""),
+    ]
+    for candidato in candidatos:
+        normalizado = _normalizar_texto(candidato)
+        if not normalizado:
+            continue
+        for bloco in blocos:
+            if normalizado in _normalizar_texto(bloco.text):
+                return bloco.id, quote or str(evidencia.get("trecho") or candidato)
+    return "", quote or str(evidencia.get("trecho") or "")
+
+
+def _item_acionavel(item: dict[str, Any]) -> bool:
+    if item["estado"] in {"NAO_ATENDE", "INCONCLUSIVO"}:
+        return True
+    if item["revisao_humana_obrigatoria"] or item.get("lacunas") or item.get("feedback_autores"):
+        return True
+    return any(
+        achado.get("status") in STATUS_NORMATIVOS_ACIONAVEIS
+        for achado in item.get("fundamentacao_normativa", [])
+    )
+
+
+def _preparar_anotacoes(resultados: list[dict[str, Any]], blocos: list[PPCBlock]) -> dict[str, Any]:
+    por_bloco: dict[str, list[dict[str, Any]]] = {}
+    soltas: list[dict[str, Any]] = []
+    anotacoes: list[dict[str, Any]] = []
+    for indice, item in enumerate(resultados, start=1):
+        anchor_id = ""
+        quote = ""
+        for evidencia in item["evidencias"]:
+            anchor_id, quote = _resolver_anchor_evidencia(evidencia, blocos)
+            if anchor_id:
+                break
+        anotacao = {
+            **item,
+            "annotation_id": f"ann-{indice:03d}",
+            "anchor_id": anchor_id,
+            "quote": quote,
+            "acionavel": _item_acionavel(item),
+        }
+        anotacoes.append(anotacao)
+        if anchor_id:
+            por_bloco.setdefault(anchor_id, []).append(anotacao)
+        else:
+            soltas.append(anotacao)
+    return {"anotacoes": anotacoes, "por_bloco": por_bloco, "soltas": soltas}
+
+
+def _preparar_alertas_transversais(alertas: list[dict[str, Any]], blocos: list[PPCBlock]) -> dict[str, Any]:
+    por_bloco: dict[str, list[dict[str, Any]]] = {}
+    preparados: list[dict[str, Any]] = []
+    for indice_alerta, alerta in enumerate(alertas, start=1):
+        ocorrencias = []
+        for indice_evidencia, evidencia in enumerate(alerta["evidencias"], start=1):
+            anchor_id, quote = _resolver_anchor_evidencia(evidencia, blocos)
+            ocorrencia = {
+                **evidencia,
+                "occurrence_id": f"trans-{indice_alerta:03d}-{indice_evidencia:02d}",
+                "anchor_id": anchor_id,
+                "quote": quote,
+            }
+            ocorrencias.append(ocorrencia)
+            if anchor_id:
+                por_bloco.setdefault(anchor_id, []).append(
+                    {
+                        **alerta,
+                        "annotation_id": alerta["id"],
+                        "ficha_id": alerta["id"],
+                        "estado": "TRANSVERSAL",
+                        "occurrence_id": ocorrencia["occurrence_id"],
+                        "anchor_id": anchor_id,
+                        "quote": quote,
+                    }
+                )
+        preparados.append({**alerta, "annotation_id": alerta["id"], "ocorrencias": ocorrencias})
+    return {"alertas": preparados, "por_bloco": por_bloco}
+
+
 def _render_lista(valores: list[str]) -> str:
     if not valores:
         return "<span class=\"muted\">Não informado</span>"
@@ -330,26 +771,16 @@ def _render_lista(valores: list[str]) -> str:
     return f"<ul>{itens}</ul>"
 
 
-def _evidencia_texto(evidencia: dict[str, str]) -> str:
-    return " ".join(str(valor) for valor in evidencia.values() if valor)
-
-
-def _render_evidencias(evidencias: list[dict[str, str]]) -> str:
+def _render_evidencias(evidencias: list[dict[str, Any]]) -> str:
     if not evidencias:
         return "<span class=\"muted\">Não informado</span>"
     itens = []
     for evidencia in evidencias:
         detalhes = []
-        for chave, rotulo in (
-            ("secao", "Seção"),
-            ("localizador", "Localizador"),
-            ("fonte", "Fonte"),
-            ("artefato", "Artefato"),
-        ):
-            if evidencia.get(chave):
-                detalhes.append(f"<span><strong>{escape(rotulo)}:</strong> {escape(evidencia[chave])}</span>")
+        if evidencia.get("secao"):
+            detalhes.append(f"<span><strong>Seção:</strong> {escape(str(evidencia['secao']))}</span>")
         detalhes_html = f"<div class=\"evidence-meta\">{' · '.join(detalhes)}</div>" if detalhes else ""
-        itens.append(f"<li><p>{escape(evidencia.get('trecho') or '')}</p>{detalhes_html}</li>")
+        itens.append(f"<li><p>{escape(str(evidencia.get('trecho') or ''))}</p>{detalhes_html}</li>")
     return f"<ul class=\"evidence-list\">{''.join(itens)}</ul>"
 
 
@@ -402,6 +833,33 @@ def _render_fundamentacao_normativa(achados: list[dict[str, str]]) -> str:
     )
 
 
+def _rotulo_ocorrencia(ocorrencia: dict[str, Any], indice: int) -> str:
+    for chave in ("secao", "localizador", "papel"):
+        if ocorrencia.get(chave):
+            return str(ocorrencia[chave])
+    return f"Ponto {indice}"
+
+
+def _render_pontos_transversais(ocorrencias: list[dict[str, Any]]) -> str:
+    if not ocorrencias:
+        return "<p class=\"muted\">Nenhum ponto específico informado.</p>"
+    itens = []
+    for indice, ocorrencia in enumerate(ocorrencias, start=1):
+        rotulo = _rotulo_ocorrencia(ocorrencia, indice)
+        trecho = str(ocorrencia.get("trecho") or ocorrencia.get("quote") or "").strip()
+        papel = str(ocorrencia.get("papel") or "").strip()
+        destino = str(ocorrencia.get("anchor_id") or "").strip()
+        botao = (
+            f"<a class=\"backlink alert-point-link\" href=\"#{escape(destino)}\">{escape(rotulo)}</a>"
+            if destino
+            else f"<span class=\"alert-point-label\">{escape(rotulo)}</span>"
+        )
+        detalhes = f"<p>{escape(trecho)}</p>" if trecho else ""
+        papel_html = f"<p class=\"annotation-meta\"><strong>Papel:</strong> {escape(papel)}</p>" if papel else ""
+        itens.append(f"<li>{botao}{detalhes}{papel_html}</li>")
+    return f"<ol class=\"alert-points\">{''.join(itens)}</ol>"
+
+
 def _render_alertas(alertas: list[dict[str, Any]]) -> str:
     if not alertas:
         return "<p class=\"muted\">Nenhum alerta transversal registrado.</p>"
@@ -409,25 +867,137 @@ def _render_alertas(alertas: list[dict[str, Any]]) -> str:
     for alerta in alertas:
         fichas = ", ".join(alerta["fichas_relacionadas"]) or "Sem fichas específicas"
         cards.append(
-            "<article class=\"alert-card\">"
+            f"<article class=\"alert-card\" id=\"{escape(alerta['id'])}\">"
             f"<div class=\"finding-heading\"><h3>{escape(alerta['id'])} · {escape(alerta['titulo'])}</h3>"
             f"<span class=\"badge criticidade-{escape(alerta['criticidade'].lower())}\">{escape(alerta['criticidade'])}</span></div>"
             f"<p><strong>Validação cruzada:</strong> {escape(alerta['validacao_id'])} · {escape(alerta['validacao_titulo'])}</p>"
             f"<p>{escape(alerta['descricao'])}</p>"
             f"<p><strong>Fichas relacionadas:</strong> {escape(fichas)}</p>"
-            f"<section><h4>Evidências</h4>{_render_lista(alerta['evidencias'])}</section>"
+            f"<section><h4>Pontos no PPC</h4>{_render_pontos_transversais(alerta.get('ocorrencias') or alerta['evidencias'])}</section>"
             f"<p><strong>Revisão humana obrigatória:</strong> {'Sim' if alerta['revisao_humana_obrigatoria'] else 'Não'}</p>"
             "</article>"
         )
     return "".join(cards)
 
 
+def _render_marcadores(anotacoes: list[dict[str, Any]]) -> str:
+    if not anotacoes:
+        return ""
+    links = []
+    for anotacao in anotacoes:
+        estado = str(anotacao.get("estado") or "")
+        classe_estado = "transversal" if estado == "TRANSVERSAL" else estado.lower().replace("_", "-")
+        rotulo = str(anotacao.get("ficha_id") or anotacao.get("id") or "")
+        links.append(
+            f"<a class=\"annotation-marker estado-{escape(classe_estado)}\" "
+            f"href=\"#{escape(anotacao['annotation_id'])}\" "
+            f"data-annotation-ref=\"{escape(anotacao['annotation_id'])}\" "
+            f"aria-label=\"Anotação {escape(rotulo)}\">{escape(rotulo)}</a>"
+        )
+    return f"<div class=\"annotation-markers\" aria-label=\"Anotações do bloco\">\n{chr(10).join(links)}\n</div>"
+
+
+def _aplicar_destaques(html: str, quotes: list[str]) -> str:
+    renderizado = html
+    for quote in quotes:
+        texto = quote.strip()
+        if not texto:
+            continue
+        alvo = escape(texto)
+        if alvo in renderizado:
+            renderizado = renderizado.replace(alvo, f"<mark class=\"evidence-highlight\">{alvo}</mark>", 1)
+    return renderizado
+
+
+def _render_ppc(blocos: list[PPCBlock], anotacoes_por_bloco: dict[str, list[dict[str, Any]]]) -> str:
+    rendered = []
+    for bloco in blocos:
+        anotacoes = anotacoes_por_bloco.get(bloco.id, [])
+        quotes = [str(anotacao.get("quote") or "") for anotacao in anotacoes]
+        bloco_html = _aplicar_destaques(bloco.html, quotes)
+        rendered.append(
+            f"<section id=\"{escape(bloco.id)}\" class=\"ppc-block ppc-block-{escape(bloco.kind)}\" "
+            f"data-block-id=\"{escape(bloco.id)}\" data-annotations=\"{len(anotacoes)}\">"
+            f"<div class=\"block-content\">{bloco_html}</div>"
+            f"{_render_marcadores(anotacoes)}"
+            "</section>"
+        )
+    return "".join(rendered)
+
+
+def _render_anotacao(item: dict[str, Any], compacta: bool = True) -> str:
+    destino_bloco = item.get("anchor_id") or "ppc-anotado"
+    quote = str(item.get("quote") or "").strip()
+    quote_html = f"<blockquote>{escape(quote)}</blockquote>" if quote else ""
+    lacunas = f"<section><h4>Lacunas</h4>{_render_lista(item['lacunas'])}</section>" if item.get("lacunas") else ""
+    evidencia = ""
+    if not compacta:
+        evidencia = f"<section><h4>Evidências</h4>{_render_evidencias(item['evidencias'])}</section>"
+    return (
+        "<article class=\"annotation-card finding\" "
+        f"id=\"{escape(item['annotation_id'])}\" "
+        f"data-estado=\"{escape(item['estado'])}\" "
+        f"data-criticidade=\"{escape(item['criticidade'])}\" "
+        f"data-revisao=\"{'sim' if item['revisao_humana_obrigatoria'] else 'nao'}\" "
+        f"data-acionavel=\"{'sim' if item['acionavel'] else 'nao'}\">"
+        "<header>"
+        f"<p class=\"annotation-kicker\">{escape(item['ficha_id'])} · {escape(item['criticidade'])}</p>"
+        f"<h3>{escape(item['titulo'])}</h3>"
+        f"<span class=\"badge estado-{escape(item['estado'].lower().replace('_', '-'))}\">{escape(item['estado'])}</span>"
+        "</header>"
+        f"{quote_html}"
+        f"<p>{escape(item['justificativa'])}</p>"
+        f"{lacunas}"
+        f"{evidencia}"
+        f"{_render_feedback_autores(str(item.get('feedback_autores') or '')) if not compacta else ''}"
+        f"{_render_fundamentacao_normativa(item.get('fundamentacao_normativa') or []) if not compacta else ''}"
+        f"<p class=\"annotation-meta\"><strong>Confiança:</strong> {item['confianca']:.2f} · "
+        f"<strong>Grupo:</strong> {escape(item['grupo_id'])} · "
+        f"<strong>Revisão humana:</strong> {'Sim' if item['revisao_humana_obrigatoria'] else 'Não'}</p>"
+        f"<a class=\"backlink\" href=\"#{escape(destino_bloco)}\">Ver no PPC</a>"
+        "</article>"
+    )
+
+
+def _render_anotacoes_laterais(
+    anotacoes: list[dict[str, Any]],
+    soltas: list[dict[str, Any]],
+    alertas: list[dict[str, Any]],
+) -> str:
+    cards = "".join(_render_anotacao(item, compacta=False) for item in anotacoes)
+    if soltas:
+        cards += (
+            "<section class=\"unanchored-notes\">"
+            "<h3>Anotações sem âncora precisa</h3>"
+            + "".join(_render_anotacao(item, compacta=False) for item in soltas)
+            + "</section>"
+        )
+    if alertas:
+        cards += (
+            "<section class=\"transversal-notes\">"
+            "<h3>Alertas transversais</h3>"
+            f"{_render_alertas(alertas)}"
+            "</section>"
+        )
+    return cards
+
+
 def _render_html(
     metadata: dict[str, Any],
     resultados: list[dict[str, Any]],
     alertas: list[dict[str, Any]],
-    resultados_path: Path,
+    ppc_markdown: str,
 ) -> str:
+    blocos = gerar_blocos_ppc(ppc_markdown)
+    contexto_anotacoes = _preparar_anotacoes(resultados, blocos)
+    contexto_alertas = _preparar_alertas_transversais(alertas, blocos)
+    anotacoes = contexto_anotacoes["anotacoes"]
+    anotacoes_por_bloco = contexto_anotacoes["por_bloco"]
+    for block_id, alertas_do_bloco in contexto_alertas["por_bloco"].items():
+        anotacoes_por_bloco.setdefault(block_id, []).extend(alertas_do_bloco)
+    alertas_renderizados = contexto_alertas["alertas"]
+    soltas = contexto_anotacoes["soltas"]
+
     contagem_estado = Counter(item["estado"] for item in resultados)
     contagem_criticidade = Counter(item["criticidade"] for item in resultados)
     situacao = _situacao(resultados)
@@ -436,44 +1006,7 @@ def _render_html(
     fundamentacoes_normativas = sum(len(item.get("fundamentacao_normativa") or []) for item in resultados)
     nao_atende = sum(1 for item in resultados if item["estado"] == "NAO_ATENDE")
     inconclusivos = sum(1 for item in resultados if item["estado"] == "INCONCLUSIVO")
-    linhas = []
-    for item in resultados:
-        texto_indexado = " ".join(
-            [
-                item["ficha_id"],
-                item["titulo"],
-                item["justificativa"],
-                " ".join(_evidencia_texto(evidencia) for evidencia in item["evidencias"]),
-                " ".join(item["lacunas"]),
-                str(item.get("feedback_autores") or ""),
-                " ".join(
-                    " ".join(str(valor) for valor in achado.values())
-                    for achado in item.get("fundamentacao_normativa", [])
-                ),
-            ]
-        )
-        linhas.append(
-            "<article class=\"finding\" "
-            f"data-estado=\"{escape(item['estado'])}\" "
-            f"data-criticidade=\"{escape(item['criticidade'])}\" "
-            f"data-revisao=\"{'sim' if item['revisao_humana_obrigatoria'] else 'nao'}\" "
-            f"data-feedback=\"{'sim' if item.get('feedback_autores') else 'nao'}\" "
-            f"data-texto=\"{escape(texto_indexado.casefold())}\">"
-            f"<div class=\"finding-heading\"><h3>{escape(item['ficha_id'])} · {escape(item['titulo'])}</h3>"
-            f"<span class=\"badge estado-{escape(item['estado'].lower().replace('_', '-'))}\">{escape(item['estado'])}</span></div>"
-            f"<p><strong>Criticidade:</strong> {escape(item['criticidade'])} · "
-            f"<strong>Confiança:</strong> {item['confianca']:.2f} · "
-            f"<strong>Grupo:</strong> {escape(item['grupo_id'])}</p>"
-            f"<p>{escape(item['justificativa'])}</p>"
-            "<div class=\"finding-grid\">"
-            f"<section><h4>Evidências</h4>{_render_evidencias(item['evidencias'])}</section>"
-            f"<section><h4>Lacunas</h4>{_render_lista(item['lacunas'])}</section>"
-            "</div>"
-            f"{_render_feedback_autores(str(item.get('feedback_autores') or ''))}"
-            f"{_render_fundamentacao_normativa(item.get('fundamentacao_normativa') or [])}"
-            f"<p><strong>Revisão humana obrigatória:</strong> {'Sim' if item['revisao_humana_obrigatoria'] else 'Não'}</p>"
-            "</article>"
-        )
+    acionaveis = sum(1 for item in anotacoes if item["acionavel"])
 
     estados_html = "".join(
         f"<tr><th scope=\"row\">{escape(estado)}</th><td>{quantidade}</td></tr>"
@@ -484,146 +1017,46 @@ def _render_html(
         for criticidade, quantidade in sorted(contagem_criticidade.items())
     )
     resumo = (
-        f"A análise revisou {len(resultados)} fichas por sub-agentes na conversa. "
+        f"A análise revisou {len(resultados)} fichas. "
         f"Foram identificados {nao_atende} itens não atendidos, {inconclusivos} inconclusivos "
         f"e {revisao_humana} itens com revisão humana obrigatória."
     )
-    css = """
-body { margin: 0; font-family: Arial, sans-serif; color: #1f2933; background: #f5f7fa; }
-.page { max-width: 1120px; margin: 0 auto; padding: 32px 20px 48px; }
-.report-header, .section, .finding { background: #fff; border: 1px solid #d9e2ec; border-radius: 8px; padding: 20px; margin-bottom: 16px; }
-.eyebrow { color: #52606d; text-transform: uppercase; font-size: 12px; letter-spacing: .08em; }
-h1, h2, h3, h4 { color: #102a43; margin-top: 0; }
-.lead { font-size: 18px; line-height: 1.5; }
-.metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; }
-.metric { border: 1px solid #d9e2ec; border-radius: 8px; padding: 14px; background: #f8fafc; }
-.metric strong { display: block; font-size: 24px; color: #102a43; }
-table { width: 100%; border-collapse: collapse; }
-th, td { border-bottom: 1px solid #d9e2ec; padding: 10px; text-align: left; vertical-align: top; }
-.badge { display: inline-block; border-radius: 999px; padding: 5px 10px; font-size: 12px; font-weight: 700; background: #d9e2ec; }
-.estado-atende { background: #d1fae5; color: #065f46; }
-.estado-nao-atende { background: #fee2e2; color: #991b1b; }
-.estado-inconclusivo { background: #fef3c7; color: #92400e; }
-.estado-nao-aplicavel { background: #e0e8f9; color: #334e68; }
-.criticidade-bloq { background: #fee2e2; color: #991b1b; }
-.criticidade-obrig { background: #fef3c7; color: #92400e; }
-.criticidade-rec { background: #dbeafe; color: #1e40af; }
-.finding-heading { display: flex; gap: 12px; align-items: start; justify-content: space-between; }
-.finding-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
-.finding-grid section { min-width: 0; }
-.evidence-list p { margin: 0 0 4px; }
-.evidence-meta { color: #52606d; font-size: 13px; }
-.filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; align-items: end; }
-.filters label { display: grid; gap: 6px; font-weight: 700; }
-.filters input, .filters select { min-height: 38px; border: 1px solid #bcccdc; border-radius: 6px; padding: 8px; font: inherit; }
-.alert-card { border-left: 4px solid #d97706; padding: 14px 16px; background: #fffbeb; margin-bottom: 12px; }
-.author-feedback { border: 1px solid #bfdbfe; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; padding: 14px 16px; margin: 16px 0; }
-.author-feedback h4 { color: #1e3a8a; }
-.normative-section { border: 1px solid #c7d2fe; border-left: 4px solid #4f46e5; border-radius: 8px; background: #eef2ff; padding: 14px 16px; margin: 16px 0; }
-.normative-section h4 { color: #312e81; }
-.normative-finding { border-top: 1px solid #c7d2fe; padding-top: 10px; margin-top: 10px; }
-.normative-finding h5 { margin: 0 0 8px; }
-.norma-confirmada { background: #d1fae5; color: #065f46; }
-.norma-confirmada-com-ressalva { background: #fef3c7; color: #92400e; }
-.norma-imprecisa { background: #fde68a; color: #78350f; }
-.norma-sem-suporte-na-fonte, .norma-contraditoria { background: #fee2e2; color: #991b1b; }
-.norma-fonte-ausente-ou-nao-consultada { background: #e5e7eb; color: #374151; }
-.norma-nao-normativa { background: #dbeafe; color: #1e40af; }
-.quick-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
-.quick-links a { color: #1d4ed8; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 999px; padding: 6px 10px; text-decoration: none; font-weight: 700; }
-.summary-note { color: #52606d; margin-top: 8px; }
-.muted { color: #627d98; }
-"""
     return f"""<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Relatório de análise · {escape(str(metadata.get('curso') or 'PPC'))}</title>
-  <style>{css}</style>
+  <title>PPC anotado · {escape(str(metadata.get('curso') or 'PPC'))}</title>
+  <link rel="stylesheet" href="assets/analise-ppc.css">
+  <script src="assets/analise-ppc.js" defer></script>
 </head>
-<body>
-  <main class="page">
-    <header class="report-header">
-      <p class="eyebrow">Análise de PPC · sub-agentes na conversa</p>
+<body data-annotation-mode="acionaveis">
+  <main class="review-shell">
+    <header class="review-header">
+      <p class="eyebrow">PPC anotado · revisão técnico-pedagógica</p>
       <h1>{escape(str(metadata.get('curso') or 'Curso não identificado'))}</h1>
       <p class="lead">{escape(resumo)}</p>
-      <p><strong>Situação:</strong> <span class="badge estado-{escape(situacao.lower().replace('_', '-'))}">{escape(situacao)}</span></p>
-      <nav class="quick-links" aria-label="Seções do relatório">
-        <a href="#resumo">Resumo</a>
-        <a href="#filtros">Filtros</a>
-        <a href="#alertas">Alertas</a>
-        <a href="#achados">Achados</a>
-      </nav>
+      <div class="status-row">
+        <span><strong>Situação:</strong> <span class="badge estado-{escape(situacao.lower().replace('_', '-'))}">{escape(situacao)}</span></span>
+        <span><strong>Campus:</strong> {escape(str(metadata.get('campus') or 'Não informado'))}</span>
+        <span><strong>Modalidade:</strong> {escape(str(metadata.get('modalidade') or 'Não informada'))}</span>
+      </div>
     </header>
-    <section class="section">
-      <h2>Metadados</h2>
-      <table>
-        <tbody>
-          <tr><th scope="row">Campus</th><td>{escape(str(metadata.get('campus') or ''))}</td></tr>
-          <tr><th scope="row">Modalidade</th><td>{escape(str(metadata.get('modalidade') or ''))}</td></tr>
-          <tr><th scope="row">Arquivo de resultados</th><td>{escape(str(resultados_path))}</td></tr>
-          <tr><th scope="row">Rodada</th><td>{escape(str(metadata.get('rodada_dir') or ''))}</td></tr>
-        </tbody>
-      </table>
-    </section>
-    <section class="section" id="resumo">
+
+    <section class="summary-panel" id="resumo">
       <h2>Resumo executivo</h2>
       <div class="metrics">
         <div class="metric"><span>Total de fichas</span><strong>{len(resultados)}</strong></div>
+        <div class="metric"><span>Acionáveis</span><strong>{acionaveis}</strong></div>
         <div class="metric"><span>Não atendidas</span><strong>{nao_atende}</strong></div>
         <div class="metric"><span>Inconclusivas</span><strong>{inconclusivos}</strong></div>
         <div class="metric"><span>Revisão humana</span><strong>{revisao_humana}</strong></div>
-        <div class="metric"><span>Alertas transversais</span><strong>{len(alertas)}</strong></div>
+        <div class="metric"><span>Alertas</span><strong>{len(alertas)}</strong></div>
         <div class="metric"><span>Feedback aos autores</span><strong>{feedbacks_autores}</strong></div>
-        <div class="metric"><span>Fundamentações verificadas</span><strong>{fundamentacoes_normativas}</strong></div>
+        <div class="metric"><span>Fundamentações</span><strong>{fundamentacoes_normativas}</strong></div>
       </div>
-      <p class="summary-note">Use os filtros para isolar não conformidades, itens inconclusivos, criticidade ou fichas que pedem revisão humana.</p>
     </section>
-    <section class="section" id="filtros">
-      <h2>Filtros</h2>
-      <div class="filters">
-        <label>Busca
-          <input id="filtro-busca" type="search" placeholder="Ficha, justificativa, evidência ou lacuna">
-        </label>
-        <label>Estado
-          <select id="filtro-estado">
-            <option value="">Todos</option>
-            <option value="ATENDE">ATENDE</option>
-            <option value="NAO_ATENDE">NAO_ATENDE</option>
-            <option value="INCONCLUSIVO">INCONCLUSIVO</option>
-            <option value="NAO_APLICAVEL">NAO_APLICAVEL</option>
-          </select>
-        </label>
-        <label>Criticidade
-          <select id="filtro-criticidade">
-            <option value="">Todas</option>
-            <option value="BLOQ">BLOQ</option>
-            <option value="OBRIG">OBRIG</option>
-            <option value="REC">REC</option>
-          </select>
-        </label>
-        <label>Revisão humana
-          <select id="filtro-revisao">
-            <option value="">Todas</option>
-            <option value="sim">Sim</option>
-            <option value="nao">Não</option>
-          </select>
-        </label>
-        <label>Feedback aos autores
-          <select id="filtro-feedback">
-            <option value="">Todos</option>
-            <option value="sim">Com feedback</option>
-            <option value="nao">Sem feedback</option>
-          </select>
-        </label>
-      </div>
-      <p class="muted">Itens visíveis: <strong id="contador-visivel">{len(resultados)}</strong></p>
-    </section>
-    <section class="section" id="alertas">
-      <h2>Alertas transversais</h2>
-      {_render_alertas(alertas)}
-    </section>
+
     <section class="section">
       <h2>Contagens</h2>
       <div class="finding-grid">
@@ -631,44 +1064,74 @@ th, td { border-bottom: 1px solid #d9e2ec; padding: 10px; text-align: left; vert
         <section><h3>Por criticidade</h3><table><tbody>{criticidade_html}</tbody></table></section>
       </div>
     </section>
-    <section class="section" id="achados">
-      <h2>Achados por ficha</h2>
-      {''.join(linhas)}
+
+    <section class="control-panel" id="filtros" aria-label="Filtros da revisão">
+      <label class="search-control">Busca
+        <input id="filtro-busca" type="search" placeholder="Ficha, justificativa, evidência ou lacuna">
+      </label>
+      <label>Modo
+        <select id="filtro-modo">
+          <option value="acionaveis" selected>Acionáveis</option>
+          <option value="todos">Todos os achados</option>
+        </select>
+      </label>
+      <label>Estado
+        <select id="filtro-estado">
+          <option value="">Todos</option>
+          <option value="ATENDE">ATENDE</option>
+          <option value="NAO_ATENDE">NAO_ATENDE</option>
+          <option value="INCONCLUSIVO">INCONCLUSIVO</option>
+          <option value="NAO_APLICAVEL">NAO_APLICAVEL</option>
+        </select>
+      </label>
+      <label>Criticidade
+        <select id="filtro-criticidade">
+          <option value="">Todas</option>
+          <option value="BLOQ">BLOQ</option>
+          <option value="OBRIG">OBRIG</option>
+          <option value="REC">REC</option>
+        </select>
+      </label>
+      <label>Revisão humana
+        <select id="filtro-revisao">
+          <option value="">Todas</option>
+          <option value="sim">Sim</option>
+          <option value="nao">Não</option>
+        </select>
+      </label>
+      <p class="visible-count">Anotações visíveis: <strong id="contador-visivel">{acionaveis}</strong></p>
     </section>
+
+    <section class="reader-layout" id="ppc-anotado" aria-label="PPC com anotações de revisão">
+      <article class="ppc-document" aria-label="Conteúdo do PPC">
+        {_render_ppc(blocos, anotacoes_por_bloco)}
+      </article>
+      <aside class="review-margin" aria-label="Anotações da revisão">
+        <div class="margin-heading">
+          <p class="eyebrow">Margem de revisão</p>
+          <h2>Anotações</h2>
+        </div>
+        {_render_anotacoes_laterais(anotacoes, soltas, alertas_renderizados)}
+      </aside>
+    </section>
+
   </main>
-  <script>
-    const busca = document.getElementById("filtro-busca");
-    const estado = document.getElementById("filtro-estado");
-    const criticidade = document.getElementById("filtro-criticidade");
-    const revisao = document.getElementById("filtro-revisao");
-    const feedback = document.getElementById("filtro-feedback");
-    const contador = document.getElementById("contador-visivel");
-    const itens = Array.from(document.querySelectorAll(".finding"));
-
-    function aplicarFiltros() {{
-      const termo = (busca.value || "").toLocaleLowerCase("pt-BR");
-      let visiveis = 0;
-      for (const item of itens) {{
-        const okBusca = !termo || item.dataset.texto.includes(termo);
-        const okEstado = !estado.value || item.dataset.estado === estado.value;
-        const okCriticidade = !criticidade.value || item.dataset.criticidade === criticidade.value;
-        const okRevisao = !revisao.value || item.dataset.revisao === revisao.value;
-        const okFeedback = !feedback.value || item.dataset.feedback === feedback.value;
-        const visivel = okBusca && okEstado && okCriticidade && okRevisao && okFeedback;
-        item.hidden = !visivel;
-        if (visivel) visiveis += 1;
-      }}
-      contador.textContent = String(visiveis);
-    }}
-
-    [busca, estado, criticidade, revisao, feedback].forEach((elemento) => {{
-      elemento.addEventListener("input", aplicarFiltros);
-      elemento.addEventListener("change", aplicarFiltros);
-    }});
-  </script>
 </body>
 </html>
 """
+
+
+def _copiar_assets(destino_dir: Path) -> list[str]:
+    origem = APP_DIR / "assets"
+    destino = destino_dir / "assets"
+    destino.mkdir(parents=True, exist_ok=True)
+    copiados: list[str] = []
+    for nome in ("analise-ppc.css", "analise-ppc.js"):
+        origem_arquivo = origem / nome
+        destino_arquivo = destino / nome
+        shutil.copyfile(origem_arquivo, destino_arquivo)
+        copiados.append(str(destino_arquivo))
+    return copiados
 
 
 def gerar_relatorio_html(rodada_dir: Path, resultados_path: Path) -> dict[str, Any]:
@@ -680,11 +1143,14 @@ def gerar_relatorio_html(rodada_dir: Path, resultados_path: Path) -> dict[str, A
     validacoes_por_id = _catalogo_validacoes()
     resultados = validar_resultados_subagents(payload, fichas_por_id)
     alertas = validar_alertas_transversais(payload, fichas_por_id, validacoes_por_id)
-    html = _render_html(metadata, resultados, alertas, caminho_resultados)
+    ppc_markdown = caminhos["ppc"].read_text(encoding="utf-8")
+    html = _HTMLPrettyPrinter().pretty(_render_html(metadata, resultados, alertas, ppc_markdown))
     destino = caminhos["relatorio_html"]
     destino.write_text(html, encoding="utf-8")
+    assets = _copiar_assets(caminhos["rodada_dir"])
     return {
         "relatorio_html": destino,
+        "assets": assets,
         "total_fichas": len(resultados),
         "total_alertas_transversais": len(alertas),
         "situacao": _situacao(resultados),

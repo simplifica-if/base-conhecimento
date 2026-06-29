@@ -2,9 +2,9 @@
 
 ## Resumo
 
-Esta skill executa análise de PPC por sub-agentes dentro da conversa. Os scripts Python são deliberadamente pequenos: convertem o documento para `PPC.md`, montam grupos de fichas e renderizam o relatório HTML a partir do JSON coletado dos sub-agentes.
+Esta skill executa análise de PPC por sub-agentes dentro da conversa. Os scripts Python são deliberadamente pequenos: convertem o documento para `PPC.md`, montam grupos de fichas e renderizam o PPC HTML anotado a partir do JSON coletado dos sub-agentes.
 
-O output padrão fica em `analise-ppc/output/<rodada>/`. O relatório final fica em `relatorio-analise.html`; os artefatos de suporte ficam em `arquivos-suporte/`.
+O output padrão fica em `analise-ppc/output/<rodada>/`. O relatório final fica em `relatorio-analise.html`; os assets do leitor ficam em `assets/`; os artefatos de suporte ficam em `arquivos-suporte/`.
 
 ## Dependências
 
@@ -66,7 +66,11 @@ python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-htm
               "secao": "Seção do PPC, quando identificável.",
               "localizador": "Página, item, título ou outro ponto de localização.",
               "fonte": "PPC.md",
-              "artefato": "Caminho de artefato estruturado ou visual, quando usado."
+              "artefato": "Caminho de artefato estruturado ou visual, quando usado.",
+              "anchor": {
+                "block_id": "ppc-b00042",
+                "quote": "Trecho exato dentro do bloco, quando disponível."
+              }
             }
           ],
           "lacunas": [],
@@ -91,7 +95,8 @@ python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-htm
 }
 ```
 
-O renderizador valida campos obrigatórios, fichas duplicadas, fichas ausentes, fichas desconhecidas e quantidade mínima de evidências por ficha antes de gerar o HTML. `evidencias` aceita strings legadas, mas o formato preferido é objeto estruturado com `trecho`, `secao`, `localizador`, `fonte` e `artefato`.
+O renderizador valida campos obrigatórios, fichas duplicadas, fichas ausentes, fichas desconhecidas e quantidade mínima de evidências por ficha antes de gerar o HTML. `evidencias` aceita strings legadas, mas o formato preferido é objeto estruturado com `trecho`, `secao`, `localizador`, `fonte`, `artefato` e `anchor`.
+O campo opcional `anchor` deve conter `block_id` e `quote`; quando ausente, o renderizador tenta localizar a anotação por trecho, localizador ou seção.
 Quando uma ficha declarar `feedback_autores.obrigatorio_quando_estado`, o renderizador também valida a presença de `feedback_autores` para os estados indicados.
 O campo `fundamentacao_normativa` é opcional, mas deve ser usado quando a ficha avaliar afirmação do PPC sobre lei, resolução, portaria, nota técnica, regulamento, CNCT ou outro documento normativo. Quando informado, ele aparece no relatório HTML dentro da ficha correspondente.
 

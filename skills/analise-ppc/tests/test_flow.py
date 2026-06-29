@@ -11,7 +11,13 @@ SCRIPTS_DIR = SKILL_DIR / "scripts"
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
-from gerar_relatorio_html import ErroResultadosSubagents, gerar_relatorio_html, validar_resultados_rodada
+from gerar_relatorio_html import (
+    ErroResultadosSubagents,
+    gerar_blocos_ppc,
+    gerar_relatorio_html,
+    remover_sumario_markdown,
+    validar_resultados_rodada,
+)
 from preparar_documento import _mesclar_identificacao_preferindo_preenchidos, preparar_documento
 from cnct_catalogo import comparar_ppc_com_cnct
 from analise_ppc import main as analise_ppc_main
@@ -121,6 +127,58 @@ def test_preparar_documento_cria_rodada_markdown_basica(tmp_path: Path) -> None:
         "grupos_subagents",
         "relatorio_html",
     }
+
+
+def test_gerar_blocos_ppc_cria_ids_estaveis_por_bloco() -> None:
+    blocos = gerar_blocos_ppc(_markdown_base())
+
+    assert [bloco.id for bloco in blocos[:3]] == ["ppc-b00001", "ppc-b00002", "ppc-b00003"]
+    assert blocos[0].kind == "heading"
+    assert blocos[0].text == "Curso Técnico em Informática"
+    assert any("objetivos" in bloco.text for bloco in blocos)
+
+
+def test_gerar_blocos_ppc_remove_sumario_convertido_antes_de_ancorar() -> None:
+    markdown = """# CAPA
+
+**Sumário**
+1. APRESENTAÇÃO DO PROJETO 4
+
+## 1.1 IDENTIFICAÇÃO 4
+## 5.7 EMENTÁRIO 30
+### 5.7.1 Componentes curriculares obrigatórios 30
+# 1 APRESENTAÇÃO DO PROJETO
+
+## 1.1 IDENTIFICAÇÃO
+
+Texto do corpo.
+"""
+
+    sem_sumario = remover_sumario_markdown(markdown)
+    blocos = gerar_blocos_ppc(markdown)
+
+    assert "5.7 EMENTÁRIO 30" not in sem_sumario
+    assert [bloco.text for bloco in blocos] == [
+        "CAPA",
+        "1 APRESENTAÇÃO DO PROJETO",
+        "1.1 IDENTIFICAÇÃO",
+        "Texto do corpo.",
+    ]
+
+
+def test_gerar_blocos_ppc_preserva_br_html_como_quebra_de_linha() -> None:
+    blocos = gerar_blocos_ppc(
+        """## Ementário
+
+| Campo |
+|---|
+| Linha 1<br>Linha 2 |
+"""
+    )
+
+    html_tabela = next(bloco.html for bloco in blocos if bloco.kind == "table")
+    assert "Linha 1<br>Linha 2" in html_tabela
+    assert "&lt;br&gt;" not in html_tabela
 
 
 def test_inferencia_de_campus_usa_campi_conhecidos_na_capa() -> None:
@@ -478,11 +536,11 @@ def test_gerar_relatorio_html_aceita_resultados_validos(tmp_path: Path) -> None:
     assert payload["total_fichas"] == len(list(FICHAS_DIR.glob("*.json")))
     assert payload["total_alertas_transversais"] == 0
     html = caminhos["relatorio_html"].read_text(encoding="utf-8")
-    assert "Análise de PPC · sub-agentes na conversa" in html
+    assert "PPC anotado" in html
     assert "Curso Técnico em Informática" in html
     assert "CT-IDENT-01" in html
     assert 'id="filtro-busca"' in html
-    assert 'id="filtro-feedback"' in html
+    assert 'id="filtro-modo"' in html
 
 
 def test_publicar_site_surge_chama_cli_com_pasta_e_dominio(tmp_path: Path) -> None:
@@ -565,6 +623,8 @@ def test_cli_gerar_relatorio_html_publica_surge_por_padrao(
     surge_index = caminhos["suporte_dir"] / "surge-site" / "index.html"
     assert surge_index.exists()
     assert "<script" in surge_index.read_text(encoding="utf-8").casefold()
+    assert (caminhos["suporte_dir"] / "surge-site" / "assets" / "analise-ppc.css").exists()
+    assert (caminhos["suporte_dir"] / "surge-site" / "assets" / "analise-ppc.js").exists()
     publicacao = read_json(caminhos["suporte_dir"] / "surge-publicacao.json")
     assert publicacao["domain"] == "relatorio-ppc.surge.sh"
     assert publicacao["site_dir"] == str((caminhos["suporte_dir"] / "surge-site").resolve())
@@ -638,8 +698,56 @@ def test_gerar_relatorio_html_renderiza_evidencia_estruturada(tmp_path: Path) ->
     gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
 
     html = caminhos["relatorio_html"].read_text(encoding="utf-8")
-    assert "Quadro de identificação" in html
-    assert "Fonte:</strong> PPC.md" in html
+    assert "O PPC identifica o curso como Técnico em Informática." in html
+    assert "Seção:</strong> 1" in html
+    assert "Localizador:" not in html
+    assert "Fonte:</strong> PPC.md" not in html
+    assert "Artefato:" not in html
+
+
+def test_gerar_relatorio_html_usa_assets_externos_e_ppc_anotado(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    primeiro = payload["grupos"][0]["resultados"][0]
+    primeiro["estado"] = "NAO_ATENDE"
+    primeiro["revisao_humana_obrigatoria"] = True
+    primeiro["lacunas"] = ["Falta detalhar a aderência da identificação."]
+    primeiro["evidencias"] = [
+        {
+            "trecho": "Curso: Curso Técnico em Informática",
+            "secao": "Identificação",
+            "localizador": "Cabeçalho",
+            "fonte": "PPC.md",
+            "artefato": "",
+            "anchor": {
+                "block_id": "ppc-b00002",
+                "quote": "Curso: Curso Técnico em Informática",
+            },
+        }
+        for _ in range(3)
+    ]
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+    html = caminhos["relatorio_html"].read_text(encoding="utf-8")
+    assert '<link rel="stylesheet" href="assets/analise-ppc.css">' in html
+    assert '<script src="assets/analise-ppc.js" defer></script>' in html
+    assert "<style>" not in html
+    assert "PPC anotado" in html
+    assert "Achados detalhados por ficha" not in html
+    assert 'id="achados-detalhados"' not in html
+    assert 'id="ppc-b00002"' in html
+    assert '<mark class="evidence-highlight">' in html
+    assert "Curso: Curso Técnico em Informática" in html
+    assert 'href="#ann-001"' in html
+    assert 'href="#ppc-b00002"' in html
+    assert '\n          <section id="ppc-b00002"' in html
+    assert '></section><section id=' not in html
+    assert max(len(linha) for linha in html.splitlines()) < 260
+    assert (rodada_dir / "assets" / "analise-ppc.css").exists()
+    assert (rodada_dir / "assets" / "analise-ppc.js").exists()
 
 
 def test_gerar_relatorio_html_rejeita_ficha_duplicada(tmp_path: Path) -> None:
@@ -712,6 +820,60 @@ def test_gerar_relatorio_html_renderiza_alertas_transversais(tmp_path: Path) -> 
     assert "Alertas transversais" in html
     assert "ALERTA-001" in html
     assert "Validação cruzada" in html
+    assert 'id="alertas"' not in html
+    assert "transversal-notes" in html
+
+
+def test_gerar_relatorio_html_renderiza_alerta_transversal_com_multiplas_ancoras(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+    payload["alertas_transversais"] = [
+        {
+            "id": "ALERTA-001",
+            "validacao_id": carregar_validacoes_cruzadas_ordenadas()[0]["id"],
+            "titulo": "Divergência entre identificação e apresentação",
+            "criticidade": "OBRIG",
+            "descricao": "Dois pontos do PPC precisam ser lidos em conjunto.",
+            "fichas_relacionadas": ["CT-IDENT-01"],
+            "evidencias": [
+                {
+                    "secao": "Capa",
+                    "trecho": "Curso: Curso Técnico em Informática",
+                    "papel": "ponto_de_conflito",
+                    "fonte": "PPC.md",
+                    "anchor": {
+                        "block_id": "ppc-b00002",
+                        "quote": "Curso: Curso Técnico em Informática",
+                    },
+                },
+                {
+                    "secao": "Apresentação",
+                    "trecho": "O curso apresenta objetivos",
+                    "papel": "ponto_de_conflito",
+                    "fonte": "PPC.md",
+                    "anchor": {
+                        "block_id": "ppc-b00004",
+                        "quote": "O curso apresenta objetivos",
+                    },
+                },
+            ],
+            "revisao_humana_obrigatoria": True,
+        }
+    ]
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+    html = caminhos["relatorio_html"].read_text(encoding="utf-8")
+    assert 'id="ALERTA-001"' in html
+    assert 'href="#ALERTA-001"' in html
+    assert 'href="#ppc-b00002"' in html
+    assert 'href="#ppc-b00004"' in html
+    assert "Pontos no PPC" in html
+    assert "ponto_de_conflito" in html
+    assert "estado-transversal" in html
+    assert 'id="alertas"' not in html
 
 
 def test_gerar_relatorio_html_exige_validacao_id_em_alerta_transversal(tmp_path: Path) -> None:

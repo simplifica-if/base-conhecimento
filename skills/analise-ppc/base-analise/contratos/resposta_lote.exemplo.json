@@ -12,7 +12,11 @@
           "secao": "1",
           "localizador": "Identificação do curso",
           "fonte": "PPC.md",
-          "artefato": ""
+          "artefato": "",
+          "anchor": {
+            "block_id": "ppc-b00012",
+            "quote": "O PPC apresenta a denominação do Curso Técnico em Informática."
+          }
         },
         {
           "trecho": "A identificação institucional informa campus, modalidade e eixo tecnológico.",

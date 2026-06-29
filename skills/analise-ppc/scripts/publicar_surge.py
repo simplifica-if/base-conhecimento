@@ -32,9 +32,14 @@ def dominio_surge_padrao(rodada_dir: Path) -> str:
 
 
 def preparar_site_surge(relatorio_html: Path, destino_dir: Path) -> Path:
+    if destino_dir.exists():
+        shutil.rmtree(destino_dir)
     destino_dir.mkdir(parents=True, exist_ok=True)
     destino = destino_dir / "index.html"
     shutil.copyfile(relatorio_html, destino)
+    assets_origem = relatorio_html.parent / "assets"
+    if assets_origem.exists():
+        shutil.copytree(assets_origem, destino_dir / "assets")
     return destino_dir
 
 

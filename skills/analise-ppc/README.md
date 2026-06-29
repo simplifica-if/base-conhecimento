@@ -1,6 +1,6 @@
 # Análise de PPC
 
-Esta skill analisa Projetos Pedagógicos de Curso técnico do IFPR a partir de um arquivo Word (`.docx`) ou Markdown (`.md`). A IA roda por sub-agentes na conversa atual; os scripts Python preparam o `PPC.md`, organizam as fichas e geram o relatório HTML final.
+Esta skill analisa Projetos Pedagógicos de Curso técnico do IFPR a partir de um arquivo Word (`.docx`) ou Markdown (`.md`). A IA roda por sub-agentes na conversa atual; os scripts Python preparam o `PPC.md`, organizam as fichas e geram o PPC HTML anotado final.
 
 ## Formato aceito
 
@@ -42,10 +42,11 @@ analise-ppc/output/<rodada>/
 
 Dentro da rodada:
 
-- `relatorio-analise.html` é o relatório final que deve ser aberto.
+- `relatorio-analise.html` é o PPC anotado final que deve ser aberto.
+- `assets/` guarda CSS e JavaScript do leitor anotado.
 - `arquivos-suporte/` guarda os arquivos usados para produzir o relatório.
 
-O relatório HTML é autocontido. Ao gerar o relatório pelo comando da skill, ele também é publicado no Surge por padrão, preservando os filtros em JavaScript; a URL pública é retornada nos campos `publicacao_url` e `surge_url`, e os metadados da publicação ficam em `arquivos-suporte/surge-publicacao.json`. A pasta enviada ao Surge fica em `arquivos-suporte/surge-site/`. Para publicação real, autentique a CLI do Surge previamente ou configure as credenciais de automação do Surge no ambiente. Use `--sem-surge` apenas quando quiser gerar somente o arquivo local.
+O relatório HTML referencia assets locais em `assets/`. Ao gerar o relatório pelo comando da skill, ele também é publicado no Surge por padrão, preservando o CSS e os filtros em JavaScript; a URL pública é retornada nos campos `publicacao_url` e `surge_url`, e os metadados da publicação ficam em `arquivos-suporte/surge-publicacao.json`. A pasta enviada ao Surge fica em `arquivos-suporte/surge-site/`. Para publicação real, autentique a CLI do Surge previamente ou configure as credenciais de automação do Surge no ambiente. Use `--sem-surge` apenas quando quiser gerar somente o arquivo local.
 
 ## Fluxo técnico
 
