@@ -50,53 +50,7 @@ Tânia Christina Simões
 
 3 
 
-## **SUMÁRIO** 
-
 |**1. IDENTIFICAÇÃO DO PROJETO**<br>..............................................................<br>**2. CARACTERÍSTICAS DO CURSO**<br>............................................................|04<br>05|
-|---|---|
-|**3. ESTRUTURA E FUNCIONAMENTO**<br>........................................................|06|
-|3.1. JUSTIFICATIVA DA OFERTA DO CURSO ...............................................|06|
-|3.2. OBJETIVOS DO CURSO ...........................................................................|09|
-|3.3. PERFIL PROFISSIONAL DE CONCLUSÃO .............................................|11|
-|3.4. CRITÉRIOS DE AVALIAÇÃO DA APRENDIZAGEM ................................|13|
-|3.4.1. Critérios de aproveitamento de estudos anteriores e procedimentos de<br>avaliação de competências anteriormente desenvolvidas........................|16|
-|3.4.1.1. Aproveitamento de estudos anteriores<br>...............................................|17|
-|3.4.1.2. Certificação de conhecimentos anteriores<br>.........................................|17|
-|3.4.2. Regime domiciliar de estudos<br>..............................................................|18|
-|3.4.3. Terminalidade específica<br>.......................................................................<br>3.5. INSTALAÇÕES E EQUIPAMENTOS, RECURSOS TECNOLÓGICOS E|19|
-|BIBLIOTECA..................................................................................................|19|
-|3.5.1. Instalações<br>............................................................................................|19|
-|3.5.2. Equipamentos e recursos tecnológicos .................................................|20|
-|3.5.2.1. Laboratório de prática profissional em saúde bucal ............................|20|
-|3.5.2.2. Laboratório de informática<br>..................................................................|21|
-|3.5.2.3. Sala de aula<br>........................................................................................|21|
-|3.5.2.4. Laboratório de anatomia<br>.....................................................................|21|
-|3.5.3. Seção de biblioteca<br>...............................................................................<br>3.6. RECURSOS ESPECÍFICOS<br>.....................................................................|23<br>23|
-|3.7. PESSOAS ENVOLVIDAS<br>.........................................................................|24|
-|3.7.1. Docentes ................................................................................................|24|
-|3.7.2. Técnicos<br>................................................................................................|24|
-|3.8.<br>DESCRIÇÃO<br>DE<br>DIPLOMAS<br>E<br>CERTIFICADOS<br>A<br>SEREM||
-|EXPEDIDOS.............................................................................................|24|
-|3.9. ORGANIZAÇÃO CURRICULAR ................................................................|25|
-|3.9.1. Matriz Curricular<br>...................................................................................|27|
-|3.9.2. Ementas dos componentes curriculares<br>...............................................|42|
-|3.9.3. Estágio curricular obrigatório<br>................................................................|66|
-|3.9.4. Trabalho de conclusão de curso ............................................................|66|
-|**REFERÊNCIAS**................................................................................................|68|
-|**APÊNDICES**<br>....................................................................................................|73|
-|**APÊNDICE A**<br>Regulamento do estágio supervisionado do curso técnico em||
-|saúde bucal do IFPR - câmpus londrina...................................<br>**APÊNDICE B**<br>Regulamento do trabalho de conclusão do curso técnico em<br>saúde bucal do IFPR - câmpus londrina...................................|74<br>81|
-|**ANEXOS**<br>.........................................................................................................|87|
-|**ANEXO 1**<br>Termo de convênio entre Instituto Federal do Paraná e o Hospital<br>do Coração de Londrina Ltda..........................................................|88|
-|Termo de convênio entre Instituto Federal de Educação, Ciência||
-|**ANEXO 2**<br>e Tecnologia do Paraná e o Instituto de Câncer de|98|
-|Londrina...........................................................................................||
-|**ANEXO 3**<br>Termo de convênio entre Instituto Federal do Paraná e a<br>Universidade estadual de Londrina.................................................|108|
-
-
-
-4 
-
 ## **1. IDENTIFICAÇÃO DO PROJETO** 
 
 **PROCESSO NÚMERO: 23403.000265/2017-27** 

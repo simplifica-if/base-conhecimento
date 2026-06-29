@@ -37,49 +37,6 @@ Fernando Accorsi
 
 Fernanda de Oliveira Martins
 
-SUMÁRIO 1. IDENTIFICAÇÃO DO PROJETO .................................................................................................... 5 2. CARACTERÍSTICAS DO CURSO .................................................................................................. 6 3. ESTRUTURA E FUNCIONAMENTO ............................................................................................... 7 3.1 Justificativa da Oferta do Curso ....................................................................................... 7 3.1.1 Panorama Sócio-Histórico do Município de Londrina ....................................... 8 3.1.2 Outras perspectivas além da mercadológica como a potencialização do ser humano, a construção e resgate da cidadania, a transformação social, a verticalização ................................................................................................................... 15 3.1.3 Eixos Tecnológicos já existentes no Campus .................................................... 17 3.2 Construção coletiva do curso ........................................................................................... 18 3.3 Caracterização Institucional .............................................................................................. 18 3.4 Objetivos do Curso ............................................................................................................ 19 3.4.1 Objetivo Geral ........................................................................................................ 19 3.4.2 Objetivos Específicos ............................................................................................ 20 3.5 Perfil Profissional de Conclusão ....................................................................................... 20 3.6 Requisitos de Acesso ao Curso ....................................................................................... 22 3.7 Critérios de avaliação de aprendizagem ......................................................................... 23 3.7.1 Recuperação Paralela .......................................................................................... 24 3.8 Certificação de Conhecimentos e Aproveitamento de Estudos ................................... 26 3.8.1 Aproveitamento de Estudos para fins de avanço ou dispensa de frequência em Componente Curricular ......................................................................... 27 3.9 Instalações e Equipamentos, Recursos Tecnológicos e Biblioteca ............................. 27 3.9.1 Instalações e Equipamentos, Recursos Tecnológicos e Biblioteca - UNIDADE ALAGOAS ..................................................................................................... 28 3.9.1.1 Espaços Disponíveis ................................................................................... 28 3.9.1.2 Equipamentos/ Recursos Tecnológicos .................................................... 28 3.9.1.3 Acervo e Infraestrutura da Biblioteca ........................................................ 31 3.9.1.4 Recursos  Específicos  para  Atendimento  aos  Estudantes  com Deficiências ou Transtornos Globais do Desenvolvimento ou Dificuldades de Aprendizagem Constantes no NAPNE do Campus Londrina ....................... 32 3.9.2 Instalações e Equipamentos, Recursos Tecnológicos e Biblioteca - UNIDADE DOM BOSCO ................................................................................................ 32 3.9.2.1 Espaços Disponíveis ................................................................................... 32 3.9.2.2 Equipamentos/ Recursos Tecnológicos .................................................... 33 3.9.2.3 Acervo e Infraestrutura da Biblioteca ........................................................ 34 3.9.2.4 Lista dos Itens a serem Adquiridos pelo Campus ................................... 34 3.10 Pessoas envolvidas – Docentes e Técnicos ................................................................ 35 3.10.1 Corpo Docente .................................................................................................... 35
-
-|3.10.2 Seção Pedagógica e de Assuntos Estudantis.................................................37|
-|---|
-|3.10.2.1 Equipe e Funções.....................................................................................37|
-|3.10.2.2<br>Núcleo<br>de<br>Atendimento<br>às<br>Pessoas<br>com<br>Necessidades|
-|Educacionais Específicas........................................................................................40|
-|3.10.3 Outros servidores docentes, técnicos administrativos e pedagógicos|
-|envolvidos........................................................................................................................40|
-|3.10.4 Demandas Atuais do Curso– Docentes............................................................42|
-|3.10.5 Lista de servidores técnico-administrativos a serem contratados.................43|
-|3.11 Descrição de Diplomas e Certificados a Serem Expedidos........................................43|
-|3.12 Organização Curricular...................................................................................................43|
-|3.12.1 Pressupostos Pedagógicos................................................................................44|
-|3.12.2 Orientações Metodológicas................................................................................45|
-|3.12.2.1 Bases Metodológicas................................................................................45|
-|3.12.2.2. Cinema Nacional......................................................................................47|
-|3.12.2.3 Língua Estrangeira Moderna – Espanhol...............................................48|
-|3.12.2.4 Temas Transversais.................................................................................48|
-|3.12.2.5 História e Cultura Afro-Brasileira e Indígena..........................................49|
-|3.12.2.6 Empreendedorismo e cooperativismo....................................................50|
-|3.12.3 Descrição Conceitual da Matriz Curricular – as Razões da Escolha dos|
-|Componentes, Carga horária e Distribuição nas Séries............................................51|
-|3.12.4 Componentes Curriculares.................................................................................51|
-|3.12.5 Ementas dos Componentes Curriculares.........................................................55|
-|3.12.5.1<br>Componentes Curriculares Obrigatórios..................................55|
-|3.12.5.2<br>Componentes Curriculares Optativos.......................................119|
-|3.13 Trabalho de Conclusão de Curso..................................................................................123|
-|3.14 Estágio Não Obrigatório..................................................................................................125|
-|4. DOCUMENTOS ANEXOS...............................................................................................................126|
-|ANEXO I – REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO (TCC)|
-|PARA O CURSO TÉCNICO EM BIOTECNOLOGIA INTEGRADO AO ENSINO|
-|MÉDIO DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO|
-|PARANÁ (IFPR) CAMPUS LONDRINA.................................................................................126|
-|ANEXO II – REGULAMENTO DO ESTÁGIO NÃO-OBRIGATÓRIO PARA O CURSO|
-|TÉCNICO EM BIOTECNOLOGIA INTEGRADO AO ENSINO MÉDIO DO INSTITUTO|
-|FEDERAL  DE  EDUCAÇÃO,  CIÊNCIA  E  TECNOLOGIA  DO  PARANÁ  (IFPR)|
-|CAMPUS LONDRINA..............................................................................................................136|
-|ANEXO III – ATA DE APROVAÇÃO PELO COLEGIADO DO AJUSTE DO PROJETO|
-|PEDAGÓGICO DO CURSO TÉCNICO EM BIOTECNOLOGIA INTEGRADO AO|
-|ENSINO MÉDIO.........................................................................................................................140|
-|5. REFERÊNCIAS..................................................................................................................................142|
-
 ## **1. IDENTIFICAÇÃO DO PROJETO**
 
 **PROCESSO NÚMERO:** 23403.000337/2014-93

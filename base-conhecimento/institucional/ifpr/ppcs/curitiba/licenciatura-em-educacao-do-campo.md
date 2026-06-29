@@ -139,122 +139,11 @@ Ministerio da Educacao
 
 ## INSTITUTOFEDERAL
 
-|**1.APRESENTAÇÃO DO PROJETO**|**6**|
-|---|---|
-|1.1 IDENTIFICAÇÃO|6|
-|1.1.1 Denominação do Curso|6|
-|1.1.2 Área do Conhecimento/Eixo Tecnológico|6|
-|1.1.3 Modalidade|6|
-|1.1.4 Grau|6|
-|1.1.5 Regime Letivo (Periodicidade)|6|
-|1.1.6 Turno principal do curso|6|
-|1.1.7 Horário de oferta do curso|6|
-|1.1.8 Prazo de Integralização Curricular|7|
-|1.1.9 Carga-Horária total do Curso|7|
-|1.1.10 Vagas totais (anual)|7|
-|1.1.11 Escolaridade mínima exigida|7|
-|1.1.12 Coordenador|7|
-|1.1.13 Coordenador substituto (se houver)|7|
-|1.1.14 Endereço de Oferta|7|
-|1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR|8|
-|1.2.1 O Instituto Federal do Paraná|8|
-|1.2.2 O Curso Superior de Nome do Curso|8|
-|1.2.3 Missão, Visão e Valores|8|
-|1.3 O PROJETO PEDAGÓGICO DO CURSO|8|
-|1.3.1 Integração do Projeto ao PDI, PPI e PPP.|8|
-|1.3.2 Fundamentos Legais e Normativos da Área|8|
-|1.3.3 Integração do Projeto com o SINAES|9|
-|**2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**|**9**|
-|2.1 JUSTIFICATIVA|10|
-|2.2 OBJETIVOS|10|
-|2.2.1 Objetivo Geral|10|
-|2.2.2 Objetivos Específicos|10|
-|2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL|10|
-|2.3.1 A Responsabilidade Social do Curso|10|
-|2.3.2 Meio Ambiente e Desenvolvimento Humano|11|
-
-3
-
 ## INSTITUTOFEDERAL
 
 ## Parana
 
 Ministerio da Educacao
-
-|2.3.3 Memória, Patrimônio Artístico e Cultural|11|
-|---|---|
-|2.3.4 Comunicação e Relações com a Comunidade|11|
-|2.4 CONCEPÇÃO DO CURSO|11|
-|2.5 PERFIL DO EGRESSO|13|
-|2.5.1 Áreas de Atuação do Egresso|13|
-|2.5.2 Acompanhamento de Egressos|13|
-|2.5.3 Registro Profissional|13|
-|**3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**|**13**|
-|3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO|14|
-|3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE||
-|ENSINO-APRENDIZAGEM|14|
-|3.3 ESTRATÉGIAS DE ENSINO E APRENDIZAGEM|15|
-|3.3.2 Mecanismos de Interação entre docentes, tutores e estudantes|15|
-|3.3.3 Atividades de Tutoria|15|
-|3.3.4 Ambiente Virtual de Aprendizagem (AVA)|15|
-|**4. ORGANIZAÇÃO CURRICULAR**|**16**|
-|4.1 ESTRUTURA CURRICULAR|16|
-|4.1.1 Representação Gráfica do Processo Formativo|17|
-|4.1.2 Matriz Curricular|18|
-|4.1.3 Componentes Optativos|20|
-|4.1.4 Componentes Eletivos|20|
-|4.2 EMENTÁRIO E BIBLIOGRAFIAS|21|
-|4.3 AVALIAÇÃO|22|
-|4.3.1 Avaliação da Aprendizagem|22|
-|4.3.2 Plano de Avaliação Institucional|22|
-|4.3.3 Avaliação do Curso|22|
-|4.3.4 Avaliação do Projeto Pedagógico do Curso|22|
-|4.4 ESTÁGIO CURRICULAR|23|
-|4.4.1 Características do Estágio|24|
-|4.4.2 Convênios de Estágio|24|
-|4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES|24|
-|4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de|4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de|
-|ensino para licenciaturas|25|
-|4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de||
-
-||||
-|---|---|---|
-|INSTITUTOFEDERAL|
-|Parana|Ministerio da Educacao|
-|atividades práticas de ensino para áreas da saúde|25|
-|4.5.3|Integração com os setores públicos, civis e privados|25|
-|4.6 TRABALHO DE CONCLUSÃO DE CURSO|25|
-|4.7 ATIVIDADES COMPLEMENTARES|26|
-|5.|POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES|26|
-|5.1 FORMAS DE ACESSO E PERMANÊNCIA|26|
-|5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação,|Inclusão Social e Assitência|
-|estudantil|26|
-|5.1.2 Aproveitamento de Estudos Anteriores|26|
-|5.1.3|Certificação de Conhecimentos Anteriores|26|
-|5.1.4|Expedição de Diplomas e Certificados|27|
-|5.1.5|Acessibilidade|27|
-|5.1.6|Educação Inclusiva|27|
-|5.1.7|Mobilidade Estudantil e Internacionalização|27|
-|6. EQUIPE MULTIDISCIPLINAR|28|
-|6.1. CORPO DOCENTE|28|
-|6.1.1 Atribuições do Coordenador|28|
-|6.1.2 Experiência do Coordenador|28|
-|6.1.3 Núcleo Docente Estruturante (NDE)|28|
-|6.1.4 Relação do Corpo docente|28|
-|6.1.5 Colegiado de Curso|28|
-|6.1.6 Políticas de Capacitação do Corpo Docente|29|
-|6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|29|
-|6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação|29|
-|6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA|29|
-|6.3.1 Funcionamento dos Colegiados de Gestão|29|
-|6.3.2 Representatividade da Comunidade Acadêmica|30|
-|6.3.3 Participação da Sociedade Civil na Gestão do Curso|30|
-|7. INFRAESTRUTURA|30|
-|7.1 ÁREAS DE ENSINO ESPECÍFICAS|30|
-|7.2 ÁREAS DE ESTUDO GERAL|31|
-|7.3 ÁREAS DE ESTUDO ESPECÍFICO|31|
-|7.4 ÁREAS DE ESPORTE E VIVÊNCIA|31|
-|7.5 ÁREAS DE ATENDIMENTO DISCENTE|32|
 
 Ministerio da Educacao
 
@@ -267,22 +156,6 @@ Ministerio da Educacao
 Ministerio da Educacao
 
 ||||
-|---|---|---|
-|7.6 ÁREAS DE APOIO|32|
-|7.7 BIBLIOTECA|32|
-|8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE|FINANCEIRA|33|
-|8.1 EXPANSÃO DO QUADRO DOCENTE|33|
-|8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO|33|
-|8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO|33|
-|REFERÊNCIAS|33|
-|APÊNDICES|34|
-|APÊNDICE A - REGULAMENTO DE TRABALHO DE CONCLUSÃO DE CURSO|34|
-|APÊNDICE B - REGULAMENTO DE ATIVIDADES COMPLEMENTARES|34|
-|APÊNDICE C - REGULAMENTO DE ATIVIDADES PARA CREDITAÇÃO DA EXTENSÃO|34|
-|ANEXOS|35|
-
-6
-
 ## INSTITUTOFEDERAL
 
 ## Parana

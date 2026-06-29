@@ -11,46 +11,6 @@
 **CASCAVEL/PR 2021**
 
 |||||
-|---|---|---|---|
-||**1. IDENTIFICAÇÃO DO CURSO**|**4**||
-||Características do Curso|6||
-||**2. JUSTIFICATIVA**|**7**||
-||**3. OBJETIVOS DO CURSO**|**10**||
-||3.1 Objetivo Geral|10||
-||3.2 Objetivos Específicos|11||
-||**4. PERFIL PROFISSIONAL DE CONCLUSÃO**|**12**||
-||**5. CERTIFICADOS E DIPLOMAS A SEREM EMITIDOS**|**13**||
-||**6. ORGANIZAÇÃO CURRICULAR**|**13**||
-||6.1 Pressupostos Pedagógicos|13||
-||6.2  Orientação Metodológica|15||
-||6.3 Avaliação do processo ensino-aprendizagem|16||
-||6.3.1  Concepção de Avaliação|16||
-||6.3.2 Recuperação Paralela|19||
-||6.3.3  Forma de emissão de resultados|20||
-||6.3.4 Condições de Aprovação|20||
-||6.3.5 Progressão Parcial|21||
-||6.3.6  Certificação de Conhecimentos|21||
-||6.3.7 Aproveitamento de Estudos|22||
-||6.4 Práticas Profissionais|23||
-||6.4.1 Práticas previstas em sala de aula|23||
-||6.4.2 Estágio – Prática profissional no campo de trabalho|23||
-||6.5 Conteúdos Obrigatórios|24||
-||6.6 Componentes Obrigatórios|25||
-||6.7 Razões  e  objetivos  pedagógicos  para  o(s) turno(s)  e  horários  do curso|26||
-||6.8 Duração da hora-aula|26||
-||6.9 Critérios para isonomia na oferta dos Componentes Curriculares|26||
-||6.10 Atividades Complementares|27||
-||6.11 Trabalho de Conclusão de Curso (TCC)|27||
-||6.12 Visitas técnicas e/ou eventos do curso|27||
-||6.13 Temas transversais|28||
-||6.14 Matriz Curricular|29||
-||6.15 Ementas dos Componentes Curriculares|30||
-||**7. INFRAESTRUTURA MÍNIMA REQUERIDA**|**71**||
-||**8. INFRAESTRUTURA PARA ATENDIMENTO ÀS NECESSIDADES ESPECIAIS**|**73**||
-||**9. PERFIL DO PESSOAL DOCENTE E TÉCNICO**|**74**||
-
-**10. AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO (PPC) 77 REFERÊNCIAS 78 ANEXO 84**
-
 ## **1. IDENTIFICAÇÃO DO CURSO**
 
 **NÚMERO DO PROCESSO: 23411.005067/2021-37**

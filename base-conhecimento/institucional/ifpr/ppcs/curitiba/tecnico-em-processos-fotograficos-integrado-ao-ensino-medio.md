@@ -55,28 +55,6 @@ Ministerio da Educacao InstitutoFederal doParana
 
 INSTITUTOFEDERAL PARANA
 
-## **SUMÁRIO**
-
-|**1.**<br>**IDENTIFICAÇÃO DO PROJETO .................................................................................... 4**|
-|---|
-|**2.**<br>**CARACTERÍSTICAS DO CURSO .................................................................................. 5**|
-|**3.**<br>**ESTRUTURA E FUNCIONAMENTO .............................................................................. 6**|
-|3.1. Justificativa da oferta do Curso ................................................................................... 6|
-|3.1. Objetivos do Curso ...................................................................................................... 8|
-|3.2. Perfil profissional de Conclusão .................................................................................. 9|
-|3.3. Avaliação da aprendizagem ...................................................................................... 10|
-|3.4. Critérios de aproveitamento de estudos anteriores e procedimentos de avaliação de|
-|competências anteriormente desenvolvidas: ...................................................................... 11|
-|3.5. Instalações e equipamentos, recursos tecnológicos e biblioteca .............................. 12|
-|3.6. Pessoas envolvidas –  docentes e técnicos .............................................................. 13|
-|3.7. Descrição de diplomas e certificados a serem expedidos ......................................... 15|
-|3.8. Organização Curricular ............................................................................................. 16|
-|3.9. Ementas dos Componentes Curriculares .................................................................. 19|
-|**4.**<br>**Documentos Anexos:.................................................................................................. 65**|
-|**5.**<br>**Referências: ................................................................................................................. 72**|
-
-INSTITUTOFEDERAL PABANA
-
 Ministerio da Educacao<br>InstitutoFederal doParana<br>## **1. IDENTIFICAÇÃO DO PROJETO**
 
 **PROCESSO NÚMERO: 23397.000338/2014-64**

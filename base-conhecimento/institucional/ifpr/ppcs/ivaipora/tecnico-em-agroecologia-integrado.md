@@ -64,31 +64,6 @@ Ricardo Rodrigues de Souza
 
 ## **INSTITUTO FEDERAL DO PARANÁ PRÓ-REITORIA DE ENSINO – PROENS DIRETORIA DE ENSINO MÉDIO E TÉCNICO COORDENAÇÃO DE ENSINO MÉDIO E TÉCNICO** 
 
-## **SUMÁRIO** 
-
-|**1**|**IDENTIFICAÇÃO DO PROJETO...........................................................................**<br>|5||
-|---|---|---|---|
-|**2**|**CARACTERÍSTICAS DO CURSO.........................................................................**|6||
-|**3**|**ESTRUTURA E FUNCIONAMENTO.....................................................................**|7||
-|3.1|Justificativa de oferta do curso................................................................................|7||
-|3.2|Objetivos do curso....................................................................................................|10||
-|3.3|Perfil profissional do egresso................................................................................|11||
-|3.4|Avaliação da aprendizagem.................................................................................|12||
-|3.4.1|Requisitos para aprovação nos componentes curriculares e estágios|14||
-|3.4.2|Regime de Progressão|14||
-|3.4.3|Regime de recuperação paralela|14||
-|3.4.4|Regime de Dependência Anual|15||
-|3.5|Critérios de aproveitamento de estudos anteriores e procedimentos de avaliação<br>de competências anteriormente desenvolvidas........................................................|15||
-|3.6|Instalações e equipamentos, recursos tecnológicos e biblioteca.............................|16||
-|3.6.1|Instalações e equipamentos|16||
-|3.6.2|Biblioteca|22||
-|3.7|Pessoas envolvidas: docentes etécnicos.................................................................|22||
-|3.8|Descrição de diplomas e certificados a serem expedidos|24||
-|3.9|Organização curricular..............................................................................................|24||
-|3.9.1|Matriz curricular.........................................................................................................|27||
-|3.9.2|Ementas dos componentes curriculares..................................................................|32||
-|3.10|Trabalho de conclusão de curso...............................................................................|116||
-|**4**|**DOCUMENTOS ANEXOS.....................................................................................**|119||
 ||**Referências**|122||
 
 

@@ -15,127 +15,12 @@
 
 **INSTITUTO FEDERAL DO PARANÁ | Pró-Reitoria de Ensino - PROENS** Av. Victor Ferreira do Amaral, 306 - Tarumã, Curitiba - PR | CEP 82530-230 - Brasil
 
-2 de 157
-
 ## **QUEDAS DO IGUAÇU**
 
 ## **2018**
 
-## **SUMÁRIO**
-
-|**1. IDENTIFICAÇÃO DO CURSO**|**1. IDENTIFICAÇÃO DO CURSO**|**6**|
-|---|---|---|
-|1.1|CARACTERÍSTICAS DO CURSO|7|
-|**2. JUSTIFICATIVA**||**9**|
-|**3. OBJETIVOS DO CURSO**||**12**|
-|3.1|OBJETIVO GERAL|12|
-|3.2|OBJETIVOS ESPECÍFICOS|12|
-|**4. PERFIL PROFISSIONAL DE CONCLUSÃO**||**13**|
-|**5. CERTIFICADOS E DIPLOMAS A SEREM EMITIDOS**||**15**|
-|**6. ORGANIZAÇÃO CURRICULAR**||**15**|
-|6.1|PRESSUPOSTOS PEDAGÓGICOS|18|
-|6.2|ORIENTAÇÃO METODOLÓGICA|21|
-|6.3|AVALIAÇÃO DO PROCESSO ENSINO-APRENDIZAGEM|22|
-||6.3.1 CONCEPÇÃO DE AVALIAÇÃO|24|
-||6.3.2 RECUPERAÇÃO PARALELA|24|
-||6.3.3 FORMA DE EMISSÃO DE RESULTADOS|25|
-||6.3.4 CONDIÇÕES DE APROVAÇÃO|26|
-||6.3.5 PROGRESSÃO PARCIAL|26|
-||6.3.6 CERTIFICAÇÃO DE CONHECIMENTOS|27|
-||6.3.7 APROVEITAMENTO DE ESTUDOS|27|
-|6.4|PRÁTICAS PROFISSIONAIS|28|
-||6.4.1 PRÁTICAS PREVISTAS EM SALA DE AULA|28|
-||6.4.2 ESTÁGIO – PRÁTICA PROFISSIONAL NO CAMPO DE TRABALHO|29|
-|6.5|CONTEÚDOS OBRIGATÓRIOS|29|
-|6.6|COMPONENTES|30|
-||6.6.1 OBRIGATÓRIOS|30|
-||6.6.2 ELETIVOS|31|
-||6.6.3 OPTATIVOS|31|
 |6.7|RAZÕES E OBJETIVOS PEDAGÓGICOS PARA O/S TURNO/S E HORÁRIOS DO CURSO||
 |32|||
-|6.8|DURAÇÃO DA HORA-AULA:|33|
-|6.9|CRITÉRIOS PARA ISONOMIA NA OFERTA DOS COMPONENTES CURRICULARES|33|
-|6.10 ATIVIDADES COMPLEMENTARES||34|
-
-**INSTITUTO FEDERAL DO PARANÁ | Pró-Reitoria de Ensino - PROENS**
-
-Av. Victor Ferreira do Amaral, 306 - Tarumã, Curitiba - PR | CEP 82530-230 - Brasil 3 de 157
-
-|6.11 PROJETO FINAL INTERDISCIPLINAR|34|
-|---|---|
-|6.12 VISITAS TÉCNICAS E/OU EVENTOS DO CURSO|36|
-|6.13 TEMAS TRANSVERSAIS|37|
-|6.14 MATRIZ CURRICULAR|39|
-|6.15 EMENTAS DOS COMPONENTES CURRICULARES|42|
-|6.15.1 EMENTÁRIO - 1° ANO|42|
-|Componente Curricular: Arte I|43|
-|Componente Curricular: Biologia I|45|
-|Componente Curricular: Educação Física I|47|
-|Componente Curricular: Filosofa I|49|
-|Componente Curricular: Física I|51|
-|Componente Curricular: Geografa I|53|
-|Componente curricular: História I|55|
-|Componente Curricular: Língua Estrangeira Moderna I – Espanhol|57|
-|Componente Curricular: Língua Portuguesa e Literatura Brasileira I|59|
-|Componente Curricular: Matemática I|61|
-|Componente curricular: Química I|63|
-|Componente Curricular: Sociologia I|65|
-|Componente Curricular: Fundamentos da Informática|67|
-|Componente Curricular: Algoritmos e Estrutura de Dados I|69|
-|Componente Curricular: Sistemas Operacionais|71|
-|6.15.2 EMENTÁRIO - 2° ANO|73|
-|Componente Curricular: Biologia II|73|
-|Componente Curricular: Filosofa II|75|
-|Componente Curricular: Física II|77|
-|Componente Curricular: Geografa II|79|
-|Componente Curricular: História II|81|
-|Componente Curricular: Língua Estrangeira Moderna II – Inglês|83|
-|Componente Curricular: Língua Portuguesa e Literatura Brasileira II|85|
-|Componente Curricular: Matemática II|87|
-|Componente Curricular: Química II|89|
-|Componente Curricular: Sociologia II|91|
-|Componente Curricular: Banco de Dados|93|
-|Componente Curricular: Desenvolvimento Web|95|
-|Componente Curricular: Engenharia de Software|97|
-|Componente Curricular: Algoritmos e Estrutura de Dados II|99|
-|Componente Curricular: Programação Orientada a Objetos|101|
-|6.15.3 EMENTÁRIO - 3° ANO|103|
-|Componente Curricular: Arte II|103|
-|Componente Curricular: Biologia III|105|
-
-## **INSTITUTO FEDERAL DO PARANÁ | Pró-Reitoria de Ensino - PROENS**
-
-Av. Victor Ferreira do Amaral, 306 - Tarumã, Curitiba - PR | CEP 82530-230 - Brasil
-
-4 de 157
-
-|Componente Curricular: Educação Física II|107|
-|---|---|
-|Componente Curricular: Filosofa III|109|
-|Componente Curricular: Física III|111|
-|Componente Curricular: Geografa III|113|
-|Componente Curricular: História III|115|
-|Componente Curricular: Língua Estrangeira Moderna III – Inglês|117|
-|Componente Curricular: Língua Portuguesa e Literatura Brasileira III|119|
-|Componente Curricular: Matemática III|121|
-|Componente Curricular: Química III|123|
-|Componente Curricular: Sociologia III|125|
-|Componente Curricular: Desenvolvimento Desktop|127|
-|Componente Curricular: Educação Empreendedora e Inovação|129|
-|Componente Curricular: Desenvolvimento para Dispositivos Móveis|131|
-|Componente Curricular: Projeto Final Interdisciplinar|133|
-|Componente Curricular: Redes de Computadores|135|
-|**7. INFRAESTRUTURA MÍNIMA REQUERIDA**|**137**|
-|**8. INFRAESTRUTURA PARA ATENDIMENTO ÀS NECESSIDADES ESPECIAIS**|**138**|
-|**9. PERFIL DO PESSOAL DOCENTE E TÉCNICO**|**139**|
-|**10. AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO (PPC)**|**141**|
-|**11. REFERÊNCIAS**|**142**|
-|**REGULAMENTAÇÃO DO ESTÁGIO NÃO-OBRIGATÓRIO**|**150**|
-
-**INSTITUTO FEDERAL DO PARANÁ | Pró-Reitoria de Ensino - PROENS** Av. Victor Ferreira do Amaral, 306 - Tarumã, Curitiba - PR | CEP 82530-230 - Brasil
-
-5 de 157
-
 ## **1. IDENTIFICAÇÃO DO CURSO**
 
 **NÚMERO DO PROCESSO: 23411.002413/2015-87**

@@ -41,25 +41,6 @@ Ednéia Martins Ferreira de Souza
 
 Ingrid Trioni Nunes Machado
 
-## **SUMÁRIO**
-
-|1. IDENTIFICAÇÃO<br>DO<br>PROJETO<br>......................................................................................................<br>4|
-|---|
-|2-CARACTERÍSTICAS<br>DO CURSO<br>...................................................................................................<br>5|
-|3.ESTRUTURA<br>E<br>FUNCIONAMENTO<br>...............................................................................................<br>6|
-|3.1 -Justificativa da oferta<br>do<br>Curso<br>...............................................................................................<br>6|
-|3.2 -Objetivos<br>do<br>Curso<br>................................................................................................................<br>11|
-|3.3 -Perfil profissional<br>de<br>Conclusão<br>...............................................................................................<br>12|
-|3.4 –Critérios de Avaliação<br>da<br>aprendizagem<br>...............................................................................<br>13|
-|3.5 -Instalações e equipamentos, recursos tecnológicos<br>e<br>biblioteca<br>.............................................<br>17|
-|3.6 -Pessoas envolvidas–docentes<br>e<br>técnicos<br>..........................................................................<br>18|
-|3.7 -Descrição de diplomas e certificados a<br>serem expedidos<br>....................................................<br>19|
-|3.8 -<br>Organização<br>Curricular<br>........................................................................................................<br>19|
-|3.8.1 Matriz Curricular–Curso Técnico<br>em Informática ………………………………………23|
-|3.8.2 Ementas dos<br>Componentes<br>Curriculares<br>.................................................................................<br>2<br>4|
-|4.DOCUMENTOS<br>ANEXOS<br>.............................................................................................................76|
-|5. REFERÊNCIAS............................................................................................................................82|
-
 **1. IDENTIFICAÇÃO DO CURSO PROCESSO NÚMERO: 23411.001100/2016-92**
 
 **NOME DO CURSO: Técnico em Informática EIXO TECNOLÓGICO: Informação e Comunicação COORDENAÇÃO: Ingrid Trioni Nunes Machado LOCAL DE REALIZAÇÃO/CÂMPUS:** IFPR – Campus Avançado Goioerê **Endereço:** PR 180 – Trevo da UEM – Jardim Universitário – CEP- 87360-000 **TEL:** http://reitoria.ifpr.edu.br/campusavancado- **E-mail:** (44) 9713-1611 goioere/ secretaria.goioere@ifpr.edu.br

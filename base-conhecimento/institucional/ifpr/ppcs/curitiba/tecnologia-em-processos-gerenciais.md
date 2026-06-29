@@ -44,101 +44,6 @@ Adriano Fuzzaro Adriano Stadler Alexandre Fernandes Aline Cristina Coleto Hellen
 
 1
 
-|**SUMÁRIO**||
-|---|---|
-|IDENTIFICAÇÃO|4|
-|1. APRESENTAÇÃO DO PROJETO|6|
-|1.2. HISTÓRICO|7|
-|1.2.1 O Instituto Federal do Paraná|7|
-|1.2.2 O Curso Superior de Tecnologia em Processos Gerenciais|10|
-|1.2.3 Missão, Visão e Valores|10|
-|2. ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA|11|
-|2.2 OBJETIVOS|16|
-|2.2.1 Objetivo Geral|17|
-|2.2.2 Objetivos Específicos|17|
-|2.3 CONCEPÇÃO DO CURSO|17|
-|2.4 PERFIL DO EGRESSO|18|
-|2.4.1 Áreas de Atuação do Egresso|19|
-|2.4.2 Acompanhamento de Egressos|19|
-|Será mantido um cadastro com os dados atualizados dos egressos, objetivando divulgar||
-|cursos e serviços ofertados pelo IFPR, bem como manter a interação entre egressos e||
-|estudantes, visando trazer para o contexto escolar as realidades do mercado de trabalho.|19|
-|2.4.3 Registro Profissional|19|
-|2.5 METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS|19|
-|2.5.1 Relação entre Ensino, Pesquisa, Extensão e Inovação|20|
-|2.5.2 Tecnologias Digitais de Informação e Comunicação no processo de ensino-||
-|aprendizagem|21|
-|2.5.3 Educação Inclusiva|21|
-|2.5.4 Integração|21|
-|2.5.4.1 Integração com a Pós-Graduação|21|
-|2.5.4.2 Mobilidade Estudantil e Internacionalização|21|
-|2.5.5 Material Didático|22|
-|2.5.6 Mecanismos de Interação entre docentes, tutores e estudantes|22|
-|2.5.6.1 Atividades de Tutoria|22|
-|2.5.7 Atividades Práticas de Ensino|22|
-|Não se aplica|22|
-|2.6 ESTRUTURA CURRICULAR|22|
-|* o aluno deverá optar por uma das disciplinas optativas.|23|
-|6.1 Representação Gráfica do Processo Formativo|24|
-|2.6.2Matriz Curricular|25|
-|2.6.3 Componentes Optativos|26|
-|GITMAN, L. J. Princípios da Administração Financeira. 12ª Ed, Editora Pearson, São Paulo.||
-|2010.|40|
-|2.8 AVALIAÇÃO|54|
-|2.8.1 Avaliação da Aprendizagem|54|
-|2.8.2 Plano de Avaliação Institucional|55|
-|2.8.3 Avaliação do Curso|55|
-|2.8.4 Avaliação do Projeto Pedagógico do Curso|56|
-|2.9 ESTÁGIO CURRICULAR SUPERVISIONADO|56|
-|2.9.1 Convênios de Estágio|56|
-
-|2.10 TRABALHO DE CONCLUSÃO DE CURSO|57|
-|---|---|
-|2.11 ATIVIDADES COMPLEMENTARES|57|
-|2.12 FORMAS DE ACESSO, PERMANÊNCIA|58|
-|2.12.1 Bolsas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta|58|
-|2.12.2 Aproveitamento de Estudos Anteriores|60|
-|2.12.3 Certificação de Conhecimentos Anteriores|60|
-|2.12.4 Expedição de Diplomas e Certificados|61|
-|2.12.5 Acessibilidade|61|
-|2.12.6 Mobilidade Acadêmica|63|
-|3. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|64|
-|3.1. CORPO DOCENTE|64|
-|3.1.1 Atribuições do Coordenador|64|
-|3.1.2 Experiência do Coordenador|64|
-|3.1.3 Núcleo Docente Estruturante (NDE)|64|
-|3.1.4 Relação do Corpo docente|65|
-|3.1.5 Colegiado de Curso|65|
-|3.1.6 Políticas de Capacitação Docente|66|
-|3.1.7 Plano de Cargos e Salários dos Docentes|66|
-|3.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|67|
-|3.2.1 Políticas de Capacitação do Técnico Administrativo em Educação|69|
-|3.2.2 Plano de Cargos e Salários dos Servidores Técnico-Administrativos em Educação|69|
-|4. INFRAESTRUTURA|71|
-|4.2 ÁREAS DE ESTUDO GERAL|71|
-|4.3 ÁREAS DE ESTUDO ESPECÍFICO|71|
-|4.4 ÁREAS DE ESPORTE E VIVÊNCIA|72|
-|4.5 ÁREAS DE ATENDIMENTO DISCENTE|72|
-|4.6 ÁREAS DE APOIO|72|
-|4.7 BIBLIOTECA|73|
-|5. PLANEJAMENTO ECONÔMICO FINANCEIRO|75|
-|5.1 EXPANSÃO DO QUADRO DOCENTE|75|
-|5.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO|75|
-|5.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO|76|
-|REFERÊNCIAS|77|
-|**APÊNDICE B - Regulamento de TCC**|81|
-|**APÊNDICE C**|82|
-|CAPÍTULO II|82|
-|CAPÍTULO III|82|
-|CAPÍTULO IV|84|
-|**FICHA DE VALIDAÇÃO DE ATIVIDADES COMPLEMENTARES PARA**||
-|**PREENCHIMENTO DO ESTUDANTE**|86|
-|**LISTA DE ATIVIDADES FORMATIVAS COMPLEMENTARES PARA O CURSO**||
-|**SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS***|0|
-|ANEXOS|1|
-
-3
-
 ## **IDENTIFICAÇÃO**
 
 ## **Denominação do Curso:**
@@ -192,16 +97,6 @@ Mínimo 2 anos Máximo 3 anos* * conforme Resolução 55/2011 IFPR
 40 vagas anuais Ressalta-se que a distribuição das vagas se dará conforme edital de Seleção do IFPR. A distribuição das 40 vagas pode ser observada por meio do quadro a seguir.
 
 |**Porcentual de**<br>**Vagas**|**Categorias**|**Número de**<br>**vagas**|
-|---|---|---|
-||||
-|**20%**|Concorrência Geral|8|
-|**60%**|Candidatos oriundos de escolas públicas, sendo metade deste<br>montante para famílias com renda de até 1,5 salário mínimo per<br>capita e a outra metade superior a 1,5salário mínimoper capita.|24|
-||||
-|**10%**|Autodeclaradospretos oupardos|4|
-|**5%**|Indígenas|2|
-|**5%**|Deficientes|2|
-|**TOTAL**||40 vagas|
-
 ## **Escolaridade mínima exigida:**
 
 Ensino Médio completo

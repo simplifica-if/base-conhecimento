@@ -69,127 +69,6 @@ Thiago André Guimarães William Simão de Deus
 
 Luciana Pereira Jasinski Vieira
 
-|**SUMÁRIO**||
-|---|---|
-|1.APRESENTAÇÃO DO PROJETO|8|
-|1.1 IDENTIFICAÇÃO|8|
-|1.1.1 Denominação do Curso:|8|
-|1.1.2 Área do Conhecimento/Eixo Tecnológico|8|
-|1.1.3 Modalidade|8|
-|1.1.4 Grau|8|
-|1.1.5 Regime Letivo (Periodicidade)|8|
-|1.1.6 Turno principal do curso|8|
-|1.1.7 Horário de oferta do curso|8|
-|1.1.8 Prazo de Integralização Curricular|8|
-|1.1.9 Carga-Horário total do Curso|8|
-|1.1.10 Vagas totais (anual)|8|
-|1.1.11 Escolaridade mínima exigida|8|
-|1.1.12 Coordenador|8|
-|1.1.13 Endereço de Oferta|9|
-|1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR|10|
-|1.2.1 O Instituto Federal do Paraná|10|
-|1.2.2 O Curso Superior de Graduação em Administração|13|
-|1.2.3 Missão, Visão e Valores|14|
-|1.3 O PROJETO PEDAGÓGICO DO CURSO|15|
-|1.3.1 Integração do Projeto ao PDI, PPI e PPP.|15|
-|1.3.2 Fundamentos Legais e Normativos da Área|17|
-|1.3.3 Integração do Projeto com o SINAES|18|
-|1.3.4 Disponibilização de Informações Acadêmicas|19|
-|2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS|21|
-|2.1 JUSTIFICATIVA|21|
-|2.2 OBJETIVOS|28|
-
-|2.2.1 Objetivo Geral|28|
-|---|---|
-|2.2.2 Objetivos Específicos|28|
-|2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL|28|
-|2.3.1 A Responsabilidade Social do Curso|28|
-|2.3.2 Meio Ambiente e Desenvolvimento Humano|30|
-|2.3.3 Memória, Patrimônio Artístico e Cultural|30|
-|2.3.4 Comunicação e Relações com a Comunidade|33|
-|2.4 CONCEPÇÃO DO CURSO|33|
-|2.5 PERFIL DO EGRESSO|37|
-|2.5.1 Áreas de Atuação do Egresso|39|
-|2.5.2 Acompanhamento de Egressos|39|
-|2.5.3 Registro Profissional|41|
-|3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS|43|
-|3.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO|52|
-|3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO|NOS|
-|PROCESSOS DE ENSINO E DE APRENDIZAGEM|54|
-|3.3 METODOLOGIA DA OFERTA DA CARGA HORÁRIA NA MODALIDADE||
-|DE EDUCAÇÃO A DISTÂNCIA – EAD|56|
-|3.4 A BIBLIOTECA NO PROCESSO PEDAGÓGICO|60|
-|4. ORGANIZAÇÃO CURRICULAR|63|
-|4.1 ESTRUTURA CURRICULAR|64|
-|4.1.1 Representação Gráfica do Processo Formativo|70|
-|4.1.2 Matriz Curricular|73|
-|4.1.3 Componentes Curriculares|75|
-|4.1.3.1 Componentes Curriculares Optativos e Eletivos|76|
-|4.1.3.2 Componentes Curriculares a Distância|77|
-|4.1.4 Ementário e Bibliografias|82|
-|4.2 ATIVIDADES DO CURSO|83|
-|4. 2.1 Práticas Integradoras Supervisionadas (PIS)|83|
-||5|
-
-|4.2.2 Práticas de Extensão (PEX)|84|
-|---|---|
-|4.2.3 Estágio Supervisionado (ES)|87|
-|4.2.4 Atividades Complementares (AC)|89|
-|4.2.5 Trabalho de Conclusão de Curso (TCC)|90|
-|4.3 AVALIAÇÃO|91|
-|4.3.1 Avaliação da Aprendizagem|91|
-|4.3.2 Plano de Avaliação Institucional|94|
-|4.3.3 Avaliação do Curso|97|
-|4.3.4 Avaliação do Projeto Pedagógico do Curso|99|
-|4.4 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E||
-|PARTICULARES|100|
-|5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES|101|
-|5.1 FORMAS DE ACESSO E PERMANÊNCIA|101|
-|5.1.1 Programas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e||
-|Bolsa-Atleta|102|
-|5.1.2 Aproveitamento de Estudos Anteriores|104|
-|5.1.3 Certificação de Conhecimentos Anteriores|104|
-|5.1.4 Expedição de Diplomas e Certificados|105|
-|5.1.5 Acessibilidade|105|
-|5.1.6 Educação Inclusiva|109|
-|5.1.7 Mobilidade Estudantil e Internacionalização|112|
-|6. CORPO DOCENTE, CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO E||
-|EQUIPE MULTIDISCIPLINAR|114|
-|6.1. CORPO DOCENTE|114|
-|6.1.1 Atribuições do Coordenador|114|
-|6.1.2 Experiência do Coordenador|114|
-|6.1.3 Núcleo Docente Estruturante (NDE)|115|
-|6.1.4 Relação do Corpo docente|117|
-|6.1.5 Colegiado de Curso|119|
-
-|6.1.6 Políticas de Capacitação do Corpo Docente||120|
-|---|---|---|
-|6.2 EQUIPE MULTIDISCIPLINAR||121|
-|6.3 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO||122|
-|6.3.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação 124|||
-|6.4 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA||124|
-|6.4.1 Funcionamento dos Colegiados de Gestão||124|
-|6.4.2 Representatividade da Comunidade Acadêmica||128|
-|6.4.3 Participação da Sociedade Civil na Gestão do Curso||128|
-|7. INFRAESTRUTURA||130|
-|7.1 ÁREAS DE ENSINO ESPECÍFICAS||131|
-|7.2 ÁREAS DE ESTUDO GERAL||1311|
-|7.3 ÁREAS DE ESTUDO ESPECÍFICO||132|
-|7.4 ÁREAS DE ESPORTE E VIVÊNCIA||132|
-|7.5 ÁREAS DE ATENDIMENTO DISCENTE||132|
-|7.6 ÁREAS DE APOIO||133|
-|7.7 BIBLIOTECA||133|
-|8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA||137|
-|8.1 EXPANSÃO DO QUADRO DOCENTE||137|
-|8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS|PERMANENTES E||
-|CONSUMO||138|
-|8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO||138|
-|REFERÊNCIAS||139|
-|APÊNDICE A – EMENTÁRIO E BIBLIOGRAFIAS||143|
-|APÊNDICE<br>B-<br>REGULAMENTO<br>DE<br>ATIVIDADES|COMPLEMENTARES||
-|BACHARELADO EM ADMINISTRAÇÃO||196|
-|ANEXOS||200|
-
 ## **1.APRESENTAÇÃO DO PROJETO**
 
 A seguir apresentam-se os dados gerais do curso, que foi criado a partir do Processo SEI 23411.002688/2022-40 e ajustado pelo Processo SEI nº 23411.021655/2024-61.
@@ -1085,7 +964,8 @@ de 60 minutos, os ajustes na operacionalização da oferta dos componentes serã
 
 **g) Conteúdos de requisitos legais** -   a organização do curso atende aos requisitos legais como pode ser verificado nos itens que seguem:
 
-- Relações étnico-raciais e para o ensino de história e cultura afro-brasileira e indígena: As diretrizes curriculares nacionais para a educação das relações étnicoraciais e para o ensino de história e cultura afro-brasileira e indígena (Lei N° 11.645 de 10/03/2008; Resolução CNE/CP N° 01 de 17 de junho de 2004), têm por meta promover a educação de cidadãos atuantes e conscientes, no seio da sociedade multicultural e pluriétnica do Brasil, buscando relações étnico-sociais positivas, rumo à construção de uma nação plenamente democrática. Em consideração à Resolução CEP nº 01, de 17.06.2004, e à Lei nº 11.645/2008, a questão das relações étnico-raciais, bem como a história e cultura afro-brasileira e indígena, é tratada no curso de forma transversal, sobretudo nas atividades extraclasse(extracurriculares) e de extensão, nas ações das semanas temáticas institucionais do Campus e dos Núcleos como o Núcleo de Estudos Afro-Brasileiros e Indígenas (NEABI), Núcleo de Arte e Cultura (NAC) e Núcleo de Educação em Direitos Humanos (NUDH). Também é contemplada nas ementas de componentes curriculares como Diversidade Sociocultural e Direitos Humanos(66h) e Sociologia do Trabalho e das Organizações.
+- Relações étnico-raciais e para o ensino de história e cultura
+afro-brasileira e indígena: As diretrizes curriculares nacionais para a educação das relações étnicoraciais e para o ensino de história e cultura afro-brasileira e indígena (Lei N° 11.645 de 10/03/2008; Resolução CNE/CP N° 01 de 17 de junho de 2004), têm por meta promover a educação de cidadãos atuantes e conscientes, no seio da sociedade multicultural e pluriétnica do Brasil, buscando relações étnico-sociais positivas, rumo à construção de uma nação plenamente democrática. Em consideração à Resolução CEP nº 01, de 17.06.2004, e à Lei nº 11.645/2008, a questão das relações étnico-raciais, bem como a história e cultura afro-brasileira e indígena, é tratada no curso de forma transversal, sobretudo nas atividades extraclasse(extracurriculares) e de extensão, nas ações das semanas temáticas institucionais do Campus e dos Núcleos como o Núcleo de Estudos Afro-Brasileiros e Indígenas (NEABI), Núcleo de Arte e Cultura (NAC) e Núcleo de Educação em Direitos Humanos (NUDH). Também é contemplada nas ementas de componentes curriculares como Diversidade Sociocultural e Direitos Humanos(66h) e Sociologia do Trabalho e das Organizações.
 
 - Língua brasileira de sinais – LIBRAS: Em atendimento ao Decreto 5.626/2005 e viabilizando seus princípios de educação inclusiva, é ofertado o componente curricular Língua Brasileira de Sinais – LIBRAS (66h), instrumentalizada em caráter optativo, proporcionando uma maior democratização e integração entre os componentes da comunidade educacional do IFPR - Campus Pinhais, bem como suscitando a acessibilidade atitudinal.
 

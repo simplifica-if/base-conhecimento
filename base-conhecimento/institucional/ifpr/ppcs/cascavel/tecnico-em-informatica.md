@@ -67,35 +67,6 @@ Graziela Cantelle de Pinho Lineker Alan Gabriel Nunes
 Maria Inês Ehrat Zils Nelson Bellincanta Filho Priscilla Alves Soares Roqueli Dalcin Correa Tiago Soares Santos
 
 |||**CASCAVEL**|**CASCAVEL**|**CASCAVEL**|||||
-|---|---|---|---|---|---|---|---|---|
-|||**2017**|||||||
-|||**SUMÁRIO**|||||||
-|1 IDENTIFICAÇÃO DO PROJETO||4|||||||
-|2 CARACTERÍSTICAS DO CURSO||5|||||||
-|3 ESTRUTURA E FUNCIONAMENTO||5|||||||
-|3.1 Justificativa da Oferta do Curso||5|||||||
-|3.2 Objetivos<br>7|||||||||
-|3.2.1 Objetivo Geral<br>7|||||||||
-|3.2.2 Objetivos Específicos<br>8|||||||||
-|3.3 Requisitos de Acesso<br>8|||||||||
-|3.4 Perfil do Ingressante<br>9|||||||||
-|3.5 Perfil Profissional de Conclusão||9|||||||
-|3.6 Critérios de Avaliação de Aprendizagem|||10||||||
-|3.7  Critérios  de  Aproveitamento|e|Procedimentos|||de  Avaliação||de|Competências|
-|Anteriormente Desenvolvidas<br>12|||||||||
-|3.7.1 Aproveitamento de Estudos Anteriores|||12||||||
-|3.7.2 Certificação de Conhecimentos Anteriores||||13|||||
-|3.8 Instalações e Equipamentos, Recursos Tecnológicos|||||e Biblioteca||14||
-|3.9 Pessoas Envolvidas<br>15|||||||||
-|3.10 Descrição de Diplomas e Certificados a Serem Expedidos||||||19|||
-|3.11 Organização Curricular<br>19|||||||||
-|3.11.1 Matriz Curricular<br>24|||||||||
-|3.11.2 Ementas dos Componentes Curriculares||||29|||||
-
-3.12 Projeto Final de Curso 84 4 REFERÊNCIAS 85
-
-5 DOCUMENTOS ANEXOS 90 Regulamentação do Estágio Não-obrigatório 90
-
 5.1 Regulamentação do Estágio Não-Obrigatório 5.2 Portaria n° 013 de 06 de Março de 2017 5.3 Ata de Aprovação do Ajuste Curricular do Curso pelo Colegiado 5.4 Ata de Aprovação do Ajuste Curricular do Curso pelo Conselho Diretor do Campus 5.5 Resolução n° 33, de 09 de Dezembro de 2013 que Autoriza a criação do Curso 5.6 Regulamento do Trabalho de Conclusão do Curso 5.7 Parecer de Avaliação PPC Ensino Médio Técnico n° 01/2017 - SEPAE
 
 ## **1 IDENTIFICAÇÃO DO PROJETO**

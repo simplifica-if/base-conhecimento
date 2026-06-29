@@ -42,8 +42,6 @@ Aline Fabiane Barbieri Angélica de Sousa Hrusyk Clayton Pereira de Sá Daniel R
 
 Gustavo Leoni Bordin Jéssica Almeida Moreira Maicon Rogério de Souza Marcio Miguel de Aguiar;
 
-## SUMÁRIO
-
 ## IDENTIFICAÇÃO6
 
 1. APRESENTAÇÃO DO PROJETO8

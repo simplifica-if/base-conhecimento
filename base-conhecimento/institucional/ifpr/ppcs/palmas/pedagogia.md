@@ -55,56 +55,7 @@ Marcia de Campos Biezeki - servidora docente Allan Andrei Steimbach - servidor d
 
 Alexandre Collares Baiocchi - servidor docente Carine Piano - servidora docente Ildo dos Santos Ferreira - servidor docente Maria Isabel Cabral da Silva – servidora docente David Ferreira Severo - servidor docente Paulo Roberto Masella Lopes - servidor docente Patrike Soares de Oliveira - servidor docente Josiane Comarella -servidora técnica -bibliotecária Márcia Adriana Andrade Silva - servidora técnica - pedagoga Paula Fernanda Stingelin - representante discente Tamires Schapuis Wendling - representante discente
 
-## **SUMÁRIO**
-
-1. **IDENTIFICAÇÃO E LOCAL DE FUNCIONAMENTO DO CURSO ......................** 07 2. **APRESENTAÇÃO DO PROJETO POLÍTICO PEDAGÓGICO ...........................** 08 2.1 O CONTEXTO HISTÓRICO DO INSTITUTO FEDERAL DO PARANÁ. ............. 09 2.2 MISSÃO, VISÃO E VALORES ............................................................................ 14 2.3 O CAMPUS PALMAS DO INSTITUTO FEDERAL DO PARANÁ. ....................... 15 3. **ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA ......................................................** 20 3.1 CONCEPÇÃO DO CURSO, PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS 20 3.1.1 Histórico do Curso ............................................................................................ 23 3.2 JUSTIFICATIVA .................................................................................................. 25 3.3 OBJETIVOS ........................................................................................................ 27 3.4 POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES ....................................... 29 3.4.1 Formas de Acesso ........................................................................................... 30 3.4.2 Atendimento ao Estudante ............................................................................... 32 3.4.3 Permanência .................................................................................................... 34 3.4.4 Mobilidade acadêmica. ..................................................................................... 37 3.4.5 Programa de Bolsas de Pesquisa, Bolsas de Extensão, Inovação  Inclusão Social..38 3.4.6 Aproveitamento e Certificação de Estudos Anteriores. ..................................... 43 3.4.7 Expedição de Diplomas e Certificados ............................................................. 44 3.4.8 Acompanhamento junto à Secretaria Acadêmica. ............................................ 46 3.5 PERFIL DO EGRESSO. ..................................................................................... 47 3.5.1 Áreas de Atuação do Egresso .......................................................................... 49 3.5.2 Acompanhamento de Egressos. ...................................................................... 50 3.6 PERFIL DO CURSO. .......................................................................................... 52 3.6.1 Princípios norteadores. .................................................................................... 55 3.6.2 Indissociabilidade entre Ensino, Pesquisa e Extensão e Inovação ...................... 56 3.6.2.1 Integração com a Pós-Graduação ................................................................. 59 3.6.3 Estratégias Pedagógicas .................................................................................. 60 3.6.4 Tecnologias Digitais de Informação e Comunicação ........................................ 63 3.6.5 Educação Inclusiva .......................................................................................... 64 3.6.6 Acessibilidade .................................................................................................. 69 3.6.7 Responsabilidade Social, Ambiental e Patrimonial do curso ............................ 73 3.6.7.1 Responsabilidade Social do curso. ............................................................... 73 3.6.7.2 Meio Ambiente e Desenvolvimento Humano ................................................. 75 3.6.7.3 Memória, Patrimônio Artístico e Cultural. ...................................................... 77 3.6.7.4. Comunicação e Relações com a Comunidade ............................................. 79 3.7 AVALIAÇÃO ........................................................................................................ 81 3.7.1 Avaliação da Aprendizagem ............................................................................. 81 3.7.2 Plano de Avaliação Institucional. ...................................................................... 87 3.7.3 Avaliação do Curso. ......................................................................................... 89
-
 ||||
-|---|---|---|
-|3.7.4 Avaliação do Projeto Pedagógico de Curso. .................................................... 91|
-|3.8 ESTRUTURA CURRICULAR. ............................................................................. 92|
-|3.8.1 Matriz Curricular. .............................................................................................. 93|
-|3.8.2 Componentes Curriculares Optativos. ............................................................ 101|
-|3.8.3 Componentes Curriculares Eletivos. .............................................................. 101|
-|3.8.4 Representação Gráfica do Processo Formativo ............................................. 102|
-|3.9 EMENTÁRIO E BIBLIOGRAFIAS ..................................................................... 113|
-|3.9.1 CURRICULARIZAÇÃO DA EXTENSÃO ........................................................ 180|
-|3.9.1.1|Princípios da Extensão ................................................................................ 181|
-|3.9.1.2|Objetivos da Extensão ................................................................................ 183|
-|3.9.1.3|Áreas Temáticas, Linhas e Ações de Extensão no Curso de Licenciatura em|
-|Pedagogia. .............................................................................................................. 186|
-|3.9.1.4|. A articulação entre as atividades de extensão e as atividades de ensino, pesquisa e|
-|inovação realizadas no curso. ................................................................................. 193|
-|3.9.1.5|Participação dos Estudantes nas atividades de extensão ........................... 196|
-|3.9.1.6|Formas de creditação/validação e registro: atividades de extensão ........... 197|
-|3.9.1.7|Avaliação e autoavaliação da extensão ...................................................... 198|
-|3.10 ESTÁGIO CURRICULAR SUPERVISIONADO. .............................................. 199|
-|3.10.1 Estágio remunerado ..................................................................................... 202|
-|3.11 TRABALHO DE CONCLUSÃO DE CURSO .................................................... 203|
-|3.12 A PRÁTICA COMO COMPONENTE CURRICULAR. ..................................... 206|
-|3.13 ATIVIDADES COMPLEMENTARES ............................................................... 209|
-|3.14|ATIVIDADES PEDAGÓGICAS COM USO DE TECNOLOGIAS DA|
-|INFORMAÇÃO E COMUNICAÇÃO ........................................................................ 211|
-|4|CORPO DOCENTE E TÉCNICO ADMINISTRATIVO .........................................|212|
-|4.1 CORPO DOCENTE .......................................................................................... 212|
-|4.1.1 Atribuições do Coordenador. .......................................................................... 212|
-|4.1.2 Experiência do Coordenador. ......................................................................... 214|
-|4.1.3 Núcleo Docente Estruturante ......................................................................... 215|
-|4.1.4 Colegiado do Curso........................................................................................ 216|
-|4.1.5 Políticas de Capacitação Docente .................................................................. 219|
-|4.1.6 Plano de Cargos e Salários dos Docentes. .................................................... 223|
-|4.2 CORPO TÉCNICO ADMINISTRATIVO. ............................................................ 224|
-|4.2.1 Políticas de Capacitação do Técnico Administrativo ...................................... 228|
-|4.2.2 Plano de Cargos e Salários dos Servidores Técnicos Administrativos. .......... 230|
-|4.3. INSTRUMENTOS DA GESTÃO DEMOCRÁTICA............................................ 230|
-|4.3.1. Representatividade da comunidade acadêmica. ........................................... 230|
-|4.4 PARTICIPAÇÃO DA SOCIEDADE CIVIL NA GESTÃO DO CURSO. ............... 233|
-|5|INSTALAÇÕES FÍSICAS ....................................................................................|234|
-|5.1 ÁREAS DE ENSINO ESPECÍFICAS ................................................................. 235|
-|5.2 ÁREAS DE ESTUDO GERAL ........................................................................... 237|
-
-5.3 ÁREAS DE ATENDIMENTO DISCENTE .......................................................... 238 5.4 ÁREAS DE APOIO ............................................................................................ 238 5.5 ÁREAS DE ESPORTE E CONVIVÊNCIA ......................................................... 239 5.6 BIBLIOTECA ..................................................................................................... 240 5.6.1 Acervo Bibliográfico. ....................................................................................... 245 6 PLANEJAMENTO ECONÔMICO-FINANCEIRO. ................................................. 245 6.1 EXPANSÃO DO QUADRO DE SERVIDORES TÉCNICOS .............................. 245 6.2 EXPANSÃO DO QUADRO DOCENTE. ............................................................ 246 6.3 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO. 250 6.4 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO. ........................ 251 REFERÊNCIAS ....................................................................................................... 257 ANEXO 1 - REGULAMENTO DE ESTÁGIO OBRIGATÓRIO ................................. 273 ANEXO 2 - REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO TC 285 ANEXO 3 - REGULAMENTO DAS ATIVIDADES COMPLEMENTARES ................ 292 ANEXO 4 – REGULAMENTO DA BRINQUEDOTECA ........................................... 295
-
 ## **1. IDENTIFICAÇÃO E LOCAL DE FUNCIONAMENTO DO CURSO**
 
 Número do processo de ajustes SEI: 23411.012809/2020-08

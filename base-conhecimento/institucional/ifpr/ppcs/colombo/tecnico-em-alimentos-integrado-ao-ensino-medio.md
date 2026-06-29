@@ -64,34 +64,7 @@ Ministerio da Educagao
 
 ## Parana
 
-## **SUMÁRIO**
-
-|**1. Identificação**|**1**|
-|---|---|
-|**2. Características do Curso**|3|
-|**3. Estrutura e Funcionamento**|4|
-|3.1 Apresentação|4|
-|3.2  Justificativa da oferta do curso|5|
 |3.2.1 Concepção e Construção do Curso                                                                            8|3.2.1 Concepção e Construção do Curso                                                                            8|
-|3.3 Finalidades e Objetivos do Curso|10|
-|3.4 Perfil Profissional de Conclusão|11|
-|3.5 Avaliação da aprendizagem|13|
-|3.5.1 Aproveitamento de Estudos                                                                                     17|3.5.1 Aproveitamento de Estudos                                                                                     17|
-|3.5.2 Certificação de Reconhecimento de saberes anteriores                                           17|3.5.2 Certificação de Reconhecimento de saberes anteriores                                           17|
-|3.6 Instalações e equipamentos, recursos tecnológicos e biblioteca|18|
-|3.7 Pessoas envolvidas|25|
-|3.8 Descrição de diplomas e certificados|26|
-|3.9 Organização curricular|27|
-|3.9.1 Matriz curricular|33|
-|3.9.2 Objetivos de aprendizagem|39|
-|3.9.3 Ementas relacionadas ao Objetivos de Aprendizagem|72|
-|**4. Referências**|159|
-|**Anexo I**– Planilhas de Estimativa Orçamentária dos itens de biblioteca 2015 a 2017      163||
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Colombo** Rua Antônio Chemin, 28 – São Gabriel, Colombo - PR | CEP 83.403- 515 - Brasil
-
-INSTITUTOFEDERAL Parana
-
 Ministerio da Educagao
 
 ## **1. IDENTIFICAÇÃO DO PROJETO**

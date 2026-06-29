@@ -16,9 +16,9 @@ from gerar_relatorio_html import (
     _resolver_anchor_evidencia,
     gerar_blocos_ppc,
     gerar_relatorio_html,
-    remover_sumario_markdown,
     validar_resultados_rodada,
 )
+from conversao_docx.markdown_normalizer import MarkdownNormalizer
 from preparar_documento import _mesclar_identificacao_preferindo_preenchidos, preparar_documento
 from cnct_catalogo import comparar_ppc_com_cnct
 from analise_ppc import main as analise_ppc_main
@@ -130,6 +130,31 @@ def test_preparar_documento_cria_rodada_markdown_basica(tmp_path: Path) -> None:
     }
 
 
+def test_preparar_documento_markdown_remove_sumario_do_ppc_canonico(tmp_path: Path) -> None:
+    arquivo_md = tmp_path / "PPC.md"
+    arquivo_md.write_text(
+        """# Curso Técnico em Informática
+
+**Sumário**
+1. APRESENTAÇÃO 4
+1.1 IDENTIFICAÇÃO 5
+5.7 EMENTÁRIO 30
+
+# 1 APRESENTAÇÃO
+
+Texto do corpo.
+""",
+        encoding="utf-8",
+    )
+
+    payload = preparar_documento(arquivo_md, output_base=tmp_path / "output")
+    ppc = round_paths(payload["rodada_dir"])["ppc"].read_text(encoding="utf-8")
+
+    assert "5.7 EMENTÁRIO 30" not in ppc
+    assert "# 1 APRESENTAÇÃO" in ppc
+    assert "Texto do corpo." in ppc
+
+
 def test_gerar_blocos_ppc_cria_ids_estaveis_por_bloco() -> None:
     blocos = gerar_blocos_ppc(_markdown_base())
 
@@ -139,7 +164,7 @@ def test_gerar_blocos_ppc_cria_ids_estaveis_por_bloco() -> None:
     assert any("objetivos" in bloco.text for bloco in blocos)
 
 
-def test_gerar_blocos_ppc_remove_sumario_convertido_antes_de_ancorar() -> None:
+def test_normalizador_markdown_remove_sumario_convertido_antes_do_html() -> None:
     markdown = """# CAPA
 
 **Sumário**
@@ -155,16 +180,126 @@ def test_gerar_blocos_ppc_remove_sumario_convertido_antes_de_ancorar() -> None:
 Texto do corpo.
 """
 
-    sem_sumario = remover_sumario_markdown(markdown)
-    blocos = gerar_blocos_ppc(markdown)
+    normalizado = MarkdownNormalizer().normalize(markdown).markdown_normalizado
+    blocos = gerar_blocos_ppc(normalizado)
 
-    assert "5.7 EMENTÁRIO 30" not in sem_sumario
+    assert "5.7 EMENTÁRIO 30" not in normalizado
     assert [bloco.text for bloco in blocos] == [
         "CAPA",
         "1 APRESENTAÇÃO DO PROJETO",
         "1.1 IDENTIFICAÇÃO",
         "Texto do corpo.",
     ]
+
+
+def test_normalizador_markdown_remove_sumario_em_tabela_sem_titulo() -> None:
+    markdown = """# CAPA
+
+|---|---|---|
+|1.1|CARACTERÍSTICAS DO CURSO|7|
+|**2. JUSTIFICATIVA**||**9**|
+||6.3.1 CONCEPÇÃO DE AVALIAÇÃO|24|
+|6.15.1 EMENTÁRIO - 1° ANO|42|
+|Componente Curricular: Arte I|43|
+
+## **1. IDENTIFICAÇÃO DO CURSO**
+
+Texto do corpo.
+"""
+
+    normalizado = MarkdownNormalizer().normalize(markdown).markdown_normalizado
+
+    assert "CARACTERÍSTICAS DO CURSO|7" not in normalizado
+    assert "Componente Curricular: Arte I|43" not in normalizado
+    assert "1. IDENTIFICAÇÃO DO CURSO" in normalizado
+    assert "Texto do corpo." in normalizado
+
+
+def test_normalizador_markdown_remove_sumario_com_varios_itens_na_mesma_linha() -> None:
+    markdown = """# CAPA
+
+## **SUMÁRIO**
+**1.APRESENTAÇÃO DO PROJETO ........ 5** 1.1 IDENTIFICAÇÃO ....... 5 1.2 CONTEXTO HISTÓRICO ....... 7
+**2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS ........ 16** 2.1 JUSTIFICATIVA ....... 17
+
+## **1.APRESENTAÇÃO DO PROJETO**
+
+Texto do corpo.
+"""
+
+    normalizado = MarkdownNormalizer().normalize(markdown).markdown_normalizado
+
+    assert "1.1 IDENTIFICAÇÃO ....... 5" not in normalizado
+    assert "2.1 JUSTIFICATIVA ....... 17" not in normalizado
+    assert "1.APRESENTAÇÃO DO PROJETO" in normalizado
+    assert "Texto do corpo." in normalizado
+
+
+def test_normalizador_markdown_remove_sumario_com_pontilhado_unicode() -> None:
+    markdown = """# CAPA
+
+**SUMÁRIO 1. IDENTIFICAÇÃO DO CURSO** …………………………………...…………………………..……...….….3 1.1. CARACTERÍSTICAS DO CURSO…………………………………………………………..……...….…..5
+
+**INSTITUTO FEDERAL DO PARANÁ | Pró-Reitoria de Ensino - PROENS**
+
+Av. Victor Ferreira do Amaral, 306 - Tarumã, Curitiba - PR
+
+10. AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO (PPC)......................................41 REFERÊNCIAS…………………………………………………………………………………………………………..42
+
+## **1. IDENTIFICAÇÃO DO CURSO**
+
+Texto do corpo.
+"""
+
+    normalizado = MarkdownNormalizer().normalize(markdown).markdown_normalizado
+
+    assert "SUMÁRIO 1. IDENTIFICAÇÃO" not in normalizado
+    assert "REFERÊNCIAS…………………………………………" not in normalizado
+    assert "1. IDENTIFICAÇÃO DO CURSO" in normalizado
+    assert "Texto do corpo." in normalizado
+
+
+def test_normalizador_markdown_remove_sumario_com_numero_titulo_pagina_em_celulas() -> None:
+    markdown = """# CAPA
+
+## **SUMÁRIO**
+|**1**|**IDENTIFICAÇÃO DO CURSO**|**4**|
+
+4
+
+## **1 IDENTIFICAÇÃO DO CURSO**
+
+Texto do corpo.
+"""
+
+    normalizado = MarkdownNormalizer().normalize(markdown).markdown_normalizado
+
+    assert "|**1**|**IDENTIFICAÇÃO DO CURSO**|**4**|" not in normalizado
+    assert "## **1 IDENTIFICAÇÃO DO CURSO**" in normalizado
+    assert "Texto do corpo." in normalizado
+
+
+def test_normalizador_markdown_nao_remove_tabela_do_corpo_com_numeracao() -> None:
+    markdown = """# CAPA
+
+## **1. IDENTIFICAÇÃO DA PROPOSTA**
+
+|---|---|---|
+|2.3 Vagas ofertadas|
+|a) Mínimo: 100 vagas|
+|2.4 Público-alvo|
+|Professores da rede pública|
+
+## **2. DADOS DO CURSO**
+
+Texto do corpo.
+"""
+
+    normalizado = MarkdownNormalizer().normalize(markdown).markdown_normalizado
+
+    assert "|2.3 Vagas ofertadas|" in normalizado
+    assert "|2.4 Público-alvo|" in normalizado
+    assert "Texto do corpo." in normalizado
 
 
 def test_gerar_blocos_ppc_preserva_br_html_como_quebra_de_linha() -> None:

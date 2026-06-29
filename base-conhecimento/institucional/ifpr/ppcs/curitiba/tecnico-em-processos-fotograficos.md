@@ -14,10 +14,6 @@ INSTITUTOFEDERAL Parana
 
 Ministerio da Educacao
 
-## **SUMÁRIO**
-
-**1. IDENTIFICAÇÃO DO PROJETO ........................................................................................ 3 2 . CARACTERÍSTICAS DO CURSO ..................................................................................... 5 3 . ESTRUTURA E FUNCIONAMENTO .................................................................................. 6** 3.1 - Justificativa da oferta do Curso..................................................................................... 6 3.2 - Objetivos do Curso ....................................................................................................... 9 3.3 - Perfil profissional de Conclusão: ................................................................................... 9 3.4 – Critérios de Avaliação da aprendizagem: .................................................................. 10 3.5 - Critérios de aproveitamento de estudos anteriores e procedimentos de avaliação de competências anteriormente desenvolvidas: ...................................................................... 11 3.6 - Instalações e equipamentos, recursos tecnológicos e biblioteca: .............................. 12 3.7 - Pessoas envolvidas – docentes e técnicos: ............................................................... 13 3.7 - Descrição de diplomas e certificados a serem expedidos: ......................................... 16 3.8 - Organização Curricular ............................................................................................... 16 3.9. Matriz curricular do curso técnico subsequente em processos fotográficos ................ 20 3.9.1 Ementas dos Componentes Curriculares ...................................................... 21 **4. DOCUMENTOS ANEXOS ................................................................................................. 44 5. REFERÊNCIAS ................................................................................................................. 53**
-
 1 [INSTITUTOFEDERAL]<br>Parana<br>
 
 Ministerio da Educacao<br>

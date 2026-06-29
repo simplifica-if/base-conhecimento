@@ -68,8 +68,6 @@ Ministerio da Educacao
 
 .
 
-## **SUMÁRIO**
-
 ## **1 APRESENTAÇÃO DO PROJETO6**
 
 - 1.1 IDENTIFICAÇÃO6

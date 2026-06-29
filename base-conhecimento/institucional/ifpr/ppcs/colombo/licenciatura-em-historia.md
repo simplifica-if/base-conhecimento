@@ -71,91 +71,9 @@ Ministerio da Educacao
 4
 
 ||INSTITUTOFEDERAL|||
-|---|---|---|---|
-||Parana|Ministerio da Educacao||
-||2.5.2 Acompanhamento de Egressos||52|
-||2.5.3 Registro Profissional||54|
-|**3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**|**3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**||**54**|
-||3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO||60|
-||3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO||3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO|
-||DE ENSINO-APRENDIZAGEM||63|
-|**4. ORGANIZAÇÃO CURRICULAR**|**4. ORGANIZAÇÃO CURRICULAR**||**64**|
-||4.1 ESTRUTURA CURRICULAR||64|
-||4.1.1 Representação Gráfica do Processo Formativo||67|
-||4.1.2  Matriz Curricular||68|
-||4.1.3 Componentes Optativos||75|
-||4.1.4 Componentes Eletivos||84|
-||4.1.5 Curricularização da Extensão||84|
-||4.2 EMENTÁRIO E BIBLIOGRAFIAS||89|
-||4.3 AVALIAÇÃO||138|
-||4.3.1 Avaliação da Aprendizagem||138|
-||4.3.2 Plano de Avaliação Institucional||141|
-||4.3.3 Avaliação do Curso||143|
-||4.3.4 Avaliação do Projeto Pedagógico do Curso||143|
-||4.4 ESTÁGIO CURRICULAR||144|
-||4.4.1 Características do Estágio||145|
-||4.4.2 Convênios de Estágio||146|
-||4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES|||
-||||146|
-||4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de|4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de||
-||ensino para licenciaturas||147|
-||4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades|4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades||
-||práticas de ensino para áreas da saúde||147|
-||4.5.3  Integração com os setores públicos, civis e privados||148|
-||4.6 TRABALHO DE CONCLUSÃO DE CURSO||149|
-||4.7 ATIVIDADES COMPLEMENTARES||151|
-|**5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**|**5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**||**154**|
-||5.1 FORMAS DE ACESSO E PERMANÊNCIA||154|
-||5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação,  Inclusão Social e Assistência|||
-||estudantil||155|
-
-5
-
 ## INSTITUTOFEDERAL Parana
 
 |INSTITUTOFEDERAL<br>Parana|||
-|---|---|---|
-|Parana|Ministerio da Educacao||
-|5.1.2 Aproveitamento de Estudos Anteriores||160|
-|5.1.3  Certificação de Conhecimentos Anteriores||161|
-|5.1.4  Expedição de Diplomas e Certificados||163|
-|5.1.5  Acessibilidade||163|
-|5.1.6  Educação Inclusiva||165|
-|5.1.7  Mobilidade Estudantil e Internacionalização||167|
-|**6. EQUIPE MULTIDISCIPLINAR**||**170**|
-|6.1. CORPO DOCENTE||170|
-|6.1.1 Atribuições do Coordenador||170|
-|6.1.2 Experiência do Coordenador||171|
-|6.1.3 Núcleo Docente Estruturante (NDE)||172|
-|6.1.4 Relação do Corpo docente||173|
-|6.1.5 Colegiado de Curso||174|
-|6.1.6 Políticas de Capacitação do Corpo Docente||175|
-|6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO||176|
-|6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação||177|
-|6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA||179|
-|6.3.1 Funcionamento dos Colegiados de Gestão||179|
-|6.3.2 Representatividade da Comunidade Acadêmica||180|
-|6.3.3 Participação da Sociedade Civil na Gestão do Curso||181|
-|**7. INFRAESTRUTURA**||**181**|
-|7.1 ÁREAS DE ENSINO ESPECÍFICAS||181|
-|7.2 ÁREAS DE ESTUDO GERAL||182|
-|7.3 ÁREAS DE ESPORTE E VIVÊNCIA||183|
-|7.4 ÁREAS DE ATENDIMENTO DISCENTE||184|
-|7.5 ÁREAS DE APOIO||184|
-|7.6 BIBLIOTECA||184|
-|**8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA**||**186**|
-|8.1 EXPANSÃO DO QUADRO DOCENTE||186|
-|8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO||188|
-|8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO||188|
-|**REFERÊNCIAS**||**189**|
-|**APÊNDICES**||**199**|
-|APÊNDICE A - ACERVO DA BIBLIOTECA DO CAMPUS COLOMBO|APÊNDICE A - ACERVO DA BIBLIOTECA DO CAMPUS COLOMBO|199|
-|APÊNDICE B - REGULAMENTO GERAL DE ESTÁGIO DO CAMPUS COLOMBO 211|APÊNDICE B - REGULAMENTO GERAL DE ESTÁGIO DO CAMPUS COLOMBO 211|APÊNDICE B - REGULAMENTO GERAL DE ESTÁGIO DO CAMPUS COLOMBO 211|
-
-6
-
-INSTITUTOFEDERAL Parana
-
 Ministerio da Educacao
 
 7

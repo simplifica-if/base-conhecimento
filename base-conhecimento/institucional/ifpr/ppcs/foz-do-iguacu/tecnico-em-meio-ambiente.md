@@ -38,38 +38,6 @@ Roseli Bernardete Dahlem
 
 Kayla Walquiria Garmus
 
-|**Sumário**<br>1 IDENTIFICAÇÃO DO PROJETO<br>4|**Sumário**<br>1 IDENTIFICAÇÃO DO PROJETO<br>4|**Sumário**<br>1 IDENTIFICAÇÃO DO PROJETO<br>4|
-|---|---|---|
-|<br>2|<br>CARACTERÍSTICAS DO CURSO<br>5||
-|3|ESTRUTURA E FUNCIONAMENTO<br>6||
-|<br>  <br> <br> <br>  <br>  <br>  <br>  <br> <br> <br> <br> <br>  <br>  <br> <br> <br>4|3.1 Justificativa da oferta do curso:<br>6||
-||3.2 Objetivos do curso:<br>10||
-||<br> 3.2.1 Objetivo Geral:<br>10<br>  3.2.2 Objetivos Específicos:<br>10<br>3.3 Perfil profissional de conclusão:<br>1<br>1|<br>3.2.1 Objetivo Geral:<br>10|
-|||<br> 3.2.2 Objetivos Específicos:<br>10|
-||<br>3.4 Avaliação da Aprendizagem:<br>1<br>2||
-||<br>3.5 Instalações e equipamentos, recursos tecnológicos e biblioteca:<br>1<br>5||
-||<br>3.6<br>Pessoas envolvidas–docentes e técnicos:<br>1<br>9||
-||3.6.1 Pessoas envolvidas–docentes e técnicos<br>19<br> 3.6.2 Profissionais docentes atuais do Campus Foz do Iguaçu<br>20<br> 3.6.3 Profissionais TAEs necessários para o Campus Foz do Iguaçu<br>23<br> 3.6.3 Profissionais docentes necessários para o Campus Foz do Iguaçu<br>23<br>3.7<br>Descrição de diplomas e certificados a serem expedidos:<br>2<br>4|3.6.1 Pessoas envolvidas–docentes e técnicos<br>19|
-|||3.6.2 Profissionais docentes atuais do Campus Foz do Iguaçu<br>20|
-|||<br>3.6.3 Profissionais TAEs necessários para o Campus Foz do Iguaçu<br>23|
-|||<br>3.6.3 Profissionais docentes necessários para o Campus Foz do Iguaçu<br>23|
-||<br>3.8 Organização Curricular:<br>2<br>4||
-||<br> 3.8.1 Matriz Curricular<br>30<br> 3.8.2 Ementas dos Componentes Curriculares<br>33<br>BIBLIOGRAFIA<br>8<br>5|<br>3.8.1 Matriz Curricular<br>30|
-|||3.8.2 Ementas dos Componentes Curriculares<br>33|
-|5|DOCUMENTOS ANEXOS:<br>8<br>6||
-|Anexo I-Projeto de Conclusão de Curso<br>8<br>7|||
-|<br>ANEXO II-REGULAMENTO DE ESTÁGIO NÃO OBRIGATÓRIO<br>8<br>9|||
-|Anexo III-Ofício 009/2016-Parque das Aves<br>9<br>2|||
-|<br>Anexo IV: Ofício 0221/16 Copel<br>9<br>3|||
-|<br>Anexo V: Ofício 055/2016 SMMA-Prefeitura Municipal de Foz do Iguaçu<br>9<br>4|||
-|<br>Anexo VI: Ofício 0421/16-Fundação PTI-Brasil<br>9<br>5|||
-|<br>Anexo VII: 015591/2016-Itaipu Binacional-Brasil<br>9<br>6|||
-|<br>Anexo VIII: Ofício 0188/2016-Sanepar<br>9<br>7|||
-|<br>Anexo IX: Ata Reunião CODIC Foz do Iguaçu<br>98|||
-||||
-
-4
-
 ## **1   IDENTIFICAÇÃO DO PROJETO**
 
 **PROCESSO NÚMERO: 23398.000352/2016-10**

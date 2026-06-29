@@ -46,14 +46,6 @@ Julyana Salette Biavatti
 
 2
 
-## **SUMÁRIO**
-
-1. IDENTIFICAÇÃO DO PROJETO ............................................................................4 2. CARACTERÍSTICAS DO CURSO ..........................................................................5 3. ESTRUTURA E FUNCIONAMENTO…………………………………………………...6 3.1 Justificativas da Oferta do Curso………………………………………………………6 3.2 Objetivos do Curso…………………………………………………………………….18 3.3 Objetivos Específicos………………………………………………………………….19 3.4 Requisitos de Acesso………………………………………………………………….21 3.5 Perfil Profissional de Conclusão……………………………………………………...21 3.6 Avaliação da Aprendizagem…………………………………………………………..23 3.6.1 Aproveitamento de Estudos Anteriores……………………………………………26 3.6.2 Certificação de Conhecimentos Anteriores……………………………………….26 3.7 Instalações, Equipamentos, Recursos Tecnológicos e Biblioteca..….......…........27 3.8 Pessoas Envolvidas – Docentes e Técnicos.........…………………………...........30 3.9 Descrições de Diplomas e Certificados a Serem Expedidos……………………...31 4 ORGANIZAÇÃO CURRICULAR………………………………………………………..31 4.1 Matriz curricular do curso técnico em produção de moda.............…...................37 4.2 Ementas dos componentes curriculares...…........................................................39 5 DOCUMENTOS ANEXOS...................................…………………………..............102 REFERÊNCIAS..…….............…………………………………………….....................118
-
-**INSTITUTO FEDERAL DO PARANÁ – CAMPUS AVANÇADO GOIOERÊ** Rodovia PR-180, ao lado da Polícia Rodoviária Federal, próximo ao trevo da UEM CEP – 87360-000 – Goioerê - Paraná
-
-3
-
 ## **1. IDENTIFICAÇÃO DO PROJETO**
 
 PROCESSO NÚMERO: **23404.000422/2015-22** NOME DO CURSO: **Técnico em Produção de Moda** EIXO TECNOLÓGICO: **Produção Cultural e Design** COORDENAÇÃO: **Julyana Salette Biavatti**

@@ -35,33 +35,8 @@ Carlos Eduardo Barão
 
 Carlos Eduardo Barão Caroline Mongruel Eleutério dos Santos Keren Hapuque Pinheiro Fernando Sanches de Lima Michele Rosset Rosemeire Carvalho da Silva Suellen Jensen Klososki Tatiana Colombo Pimentel Vanessa Aparecida Monteiro
 
-## SUMÁRIO
-
-|1-<br>IDENTIFICAÇÃO DA PROPOSTA|8|
-|---|---|
-|2-<br>DADOS DO PROPONENTE|8|
-|3. DADOS DO CURSO|9|
-|4. CARACTERIZAÇÃO DA PROPOSTA|19|
-|5. OBJETIVOS DA PROPOSTA|26|
-|6. ORGANIZAÇÃO DO CURSO|27|
-|7. Cronograma das atividades|29|
-|8. CORPO DOCENTE|31|
 |9. METODOLOGIA DE TRABALHO E AVALIAÇÃO DO DESEMPENHO DO|ESTUDANTE|
 |36||
-|10. CRITÉRIOS DE APROVEITAMENTO DE ESTUDOS ANTERIORES|39|
-|Observa-se o seguinte artigo da Resolução CONSUP/IFPR nº 09/2014:|39|
-|11. MATRIZ CURRICULAR|41|
-|12. EMENTA, BIBLIOGRAFIA E CARGA HORÁRIA DOS COMPONENTES||
-|CURRICULARES|42|
-|13. EXPEDIÇÃO DE DIPLOMAS E CERTIFICADOS|55|
-|14. PERFIL DO EGRESSO|55|
-|15. TRABALHO DE CONCLUSÃO DE CURSO|56|
-|16. EXPERIÊNCIA DO COORDENADOR(A)|56|
-|17. EXPERIÊNCIA DO VICE-COORDENADOR(A)|57|
-|18. PLANEJAMENTO ECONÔMICO FINANCEIRO|58|
-|19.  INSTALAÇÕES FÍSICAS|58|
-|20. ANEXOS|75|
-
 ## **1- IDENTIFICAÇÃO DA PROPOSTA**
 
 1.1 Nome do curso: Especialização em Gestão da Qualidade e Tecnologia de Alimentos

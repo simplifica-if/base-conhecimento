@@ -37,34 +37,7 @@ Ricardo töws
 
 Carlos Alexandre Bertoncelo
 
-## **SUMÁRIO**
-
-|**1. IDENTIFICAÇÃO DO PROJETO**||||**04**||
-|---|---|---|---|---|---|
-|**2 - CARACTERÍSTICAS DO CURSO**||||**05**||
-|**3. ESTRUTURA E FUNCIONAMENTO**||||**06**||
-|**3.1 - Justificativa da oferta do Curso**||||**06**||
-|**3.2 - Objetivos do Curso**||||**07**||
-|**3.3 – Requisitos de acesso**||||**07**||
-|**3.4 – Perfil professional de conclusão**||||**07**||
-|**3.5 – Organização curricular**||||**09**||
-|**3.5.1 – Prática Profissional: Estágio não**|**obrigatório**|||**10**||
-|**3.6 – Critérios de avaliação de aprendizagem**||||**10**||
-|**3.7 - Critérios de aproveitamento e procedimentos de avaliação de  competências**||||||
 |**anteriormente desenvolvidas**||||**13**||
-|**3.8 - Instalações e equipamentos, recursos tecnológicos e biblioteca**||||**14**||
-|**3.9 – Pessoas Envolvidas – docentes e técnicos**||||**15**||
-|**3.10 – Descrição de diplomas e certificados a serem**||**expedidos**||**16**||
-|**3.11- Organização curricular**||||**16**||
-|**3.12- Programa do curso**||||**21**||
-|**3.12.1- Componentes Curriculares**||||**21**||
-|**4.-Trabalho de conclusão de curso**||||**64**||
-|**5.- Regulamento do estágio curricular não obrigatório**||||**do curso do**||
-|**Campus**<br>**Londrina**<br>**do**<br>**Instituto**|**Federal**|**do**|<br>**Paraná,**|**curso**|**técnico**|
-|**Subsequente em Prótese Dentária**||||**66**||
-|**6.- Referências**||||**72**||
-|**7.-Anexos**||||**74**||
-
 **MINISTÉRIO DA INSTITUTO EDUCAÇÃO FEDERAL PARANÁ Campus Londrina**
 
 ## **PLANO PEDAGÓGICO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA**

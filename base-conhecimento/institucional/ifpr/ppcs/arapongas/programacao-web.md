@@ -66,69 +66,6 @@ Rua Surucuá Açu, 321 — Vila Araponguinha, Arapongas–PR | CEP 86705-590 - B
 
 INSTITUTOFEDERAL Parana 
 
-## **SUMÁRIO** 
-
-|**1 APRESENTAÇÃO DO PROJETO**|**6**|
-|---|---|
-|1.1 Identificação|6|
-|1.2 Processo|6|
-|1.3 Informação do_campus_|6|
-|1.4 Nome do curso|6|
-|1.4.1 Experimental (X) Sim  (  ) Não|6|
-|1.5 Eixo tecnológico|6|
-|1.6 Modalidade|7|
-|1.7 Turno do curso|7|
-|1.8 Horário de oferta do curso|7|
-|1.9 Tempo de duração do curso|7|
-|1.10 Carga horária total do curso|7|
-|1.11 Vagas totais|7|
-|1.12 Público Alvo|7|
-|1.13 Escolaridade mínima exigida/requisito de acesso ao curso|8|
-|1.14 Forma de acesso ao curso|8|
-|1.15 Endereço de realização do curso|8|
-|1.16 Instituição conveniada|8|
-|**2 FUNDAMENTOS LEGAIS E NORMATIVOS**|**8**|
-|**3 JUSTIFICATIVA PARA A OFERTA DO CURSO**|**9**|
-|**4 OBJETIVOS**|**10**|
-|4.1 Objetivo geral|10|
-|4.2 Objetivos específicos|11|
-|**5 PERFIL DO EGRESSO**|**11**|
-|**6 EXPEDIÇÃO DE CERTIFICADO DE CONCLUSÃO DE CURSO E DECLARAÇÕES DE**||
-|**PARTICIPAÇÃO**|**12**|
-|**7 INSTALAÇÕES E EQUIPAMENTOS, RECURSOS TECNOLÓGICOS E BIBLIOTECA**|**12**|
-|**8 PESSOAS ENVOLVIDAS NO CURSO**|**15**|
-|**9  AVALIAÇÃO DA APRENDIZAGEM**|**16**|
-|**10 RECONHECIMENTO DE SABERES, CERTIFICAÇÃO DE CONHECIMENTOS ANTERIORES E**||
-|**APROVEITAMENTO DE ESTUDOS ANTERIORES**|**19**|
-|**11 POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**|**19**|
-|11.1  Ações de acolhimento e permanência do estudante|19|
-|11.2 Acessibilidade|20|
-|11.3  Educação inclusiva|22|
-|**12  AVALIAÇÃO DO CURSO**|**23**|
-
-
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Avançado Arapongas** 
-
-Rua Surucuá Açu, 321 — Vila Araponguinha, Arapongas–PR | CEP 86705-590 - Brasil 
-
-INSTITUTOFEDERAL Parana 
-
-|**13 ORGANIZAÇÃO CURRICULAR**|**25**|
-|---|---|
-|13.1 Atividade complementares|25|
-|13.2  Estágio curricular|25|
-|13.3 Organização nos tempos e espaços escolares|25|
-|13.4 Matriz curricular|25|
-|13.5 Ementas dos Componentes Curriculares|26|
-|**REFERÊNCIAS**|**29**|
-
-
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Avançado Arapongas** Rua Surucuá Açu, 321 — Vila Araponguinha, Arapongas–PR | CEP 86705-590 - Brasil 
-
-INSTITUTOFEDERAL Parana 
-
 ## **1 APRESENTAÇÃO DO PROJETO** 
 
 ## **1.1 Identificação** 

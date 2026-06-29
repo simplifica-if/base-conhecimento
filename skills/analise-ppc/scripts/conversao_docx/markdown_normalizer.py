@@ -37,6 +37,10 @@ class MarkdownNormalizer:
     ]
 
     _TOC_LINE_PATTERN = re.compile(r"^\s*\d+(\.\d+)*\s+.+\.{2,}\s*\d+\s*$")
+    _TOC_LINE_LOOSE_PATTERN = re.compile(r"^\s*(#{1,6}\s*)?\d+(\.\d+)*[.)]?\s+.+\s+\d+\s*$")
+    _TOC_DOT_LEADER_PATTERN = re.compile(
+        r"(?:^|\s)\*{0,2}\d+(?:\.\d+)*[.)]?\s*[^.\u2026]{2,}?[.\u2026]{5,}\s*\d+"
+    )
     _SECTION_NUMBER_PATTERN = re.compile(r"^\s*(\d+(?:\.\d+)*)[.)]?\s+(.+?)\s*$")
     _HEADING_PATTERN = re.compile(r"^\s*(#{1,6})\s*(.+?)\s*$")
     _LIST_PATTERN = re.compile(r"^\s*(?:[-*+]|\d+[.)])\s+")
@@ -48,6 +52,7 @@ class MarkdownNormalizer:
         linhas = self._corrigir_heading_quebrado(linhas)
         linhas = [self._limpar_linha(linha) for linha in linhas]
         linhas = self._remover_ruidos(linhas)
+        linhas = self.remover_sumario(linhas)
         linhas = self._normalizar_headings(linhas)
         linhas = self._remover_blocos_duplicados(linhas)
         linhas = self._consolidar_paragrafos(linhas)
@@ -92,8 +97,6 @@ class MarkdownNormalizer:
     def _remover_ruidos(self, linhas: List[str]) -> List[str]:
         """Remove cabeçalhos, rodapés e artefatos de paginação conhecidos."""
         filtradas: List[str] = []
-        dentro_sumario = False
-        sumario_visto = False
 
         for linha in linhas:
             conteudo = linha.strip()
@@ -107,25 +110,215 @@ class MarkdownNormalizer:
             if re.fullmatch(r"[_\-–—]{3,}", conteudo):
                 continue
 
-            if conteudo.lower() in {"sumário", "sumario"}:
-                if sumario_visto:
-                    dentro_sumario = True
-                    continue
-                sumario_visto = True
-                filtradas.append("## Sumário")
-                continue
-
-            if dentro_sumario:
-                if self._TOC_LINE_PATTERN.match(conteudo):
-                    continue
-                if self._parece_heading(conteudo):
-                    dentro_sumario = False
-                else:
-                    continue
-
             filtradas.append(linha)
 
         return filtradas
+
+    def remover_sumario(self, linhas: List[str]) -> List[str]:
+        """Remove blocos de sumário/índice antes de gerar o Markdown canônico."""
+        resultado: List[str] = []
+        indice = 0
+
+        while indice < len(linhas):
+            conteudo = linhas[indice].strip()
+            if indice < 260 and self._eh_residuo_sumario_isolado(conteudo):
+                indice += 1
+                continue
+            if self._eh_inicio_bloco_sumario(linhas, indice):
+                indice = self._fim_bloco_sumario(linhas, indice)
+                continue
+
+            if not self._eh_titulo_sumario(conteudo):
+                resultado.append(linhas[indice])
+                indice += 1
+                continue
+
+            indice = self._fim_bloco_sumario_apos_titulo(linhas, indice)
+
+        return resultado
+
+    def _eh_titulo_sumario(self, conteudo: str) -> bool:
+        conteudo = re.sub(r"^#{1,6}\s+", "", conteudo).replace("*", "").strip()
+        return conteudo.casefold() in {"sumário", "sumario", "sumário do documento", "sumario do documento"}
+
+    def _linha_contem_titulo_sumario(self, conteudo: str) -> bool:
+        texto = re.sub(r"^#{1,6}\s+", "", conteudo)
+        texto = texto.replace("*", "").replace("<br>", " ").replace("<br/>", " ").replace("<br />", " ")
+        return bool(re.match(r"^\s*sum[aá]rio\b", texto, re.IGNORECASE))
+
+    def _eh_inicio_bloco_sumario(self, linhas: List[str], indice: int) -> bool:
+        conteudo = linhas[indice].strip()
+        if not conteudo:
+            return False
+        if self._linha_contem_titulo_sumario(conteudo) and self._eh_linha_sumario(conteudo):
+            return True
+        if self._linha_tabela_tem_titulo_sumario(conteudo):
+            return True
+        if indice < 250 and self._linha_tabela_separador(conteudo):
+            janela = [linha.strip() for linha in linhas[indice + 1 : min(len(linhas), indice + 10)] if linha.strip()]
+            linhas_sumario = sum(1 for linha in janela if self._eh_linha_sumario(linha))
+            return linhas_sumario >= 3
+        if indice < 250 and self._eh_linha_sumario(conteudo):
+            janela = [linha.strip() for linha in linhas[indice : min(len(linhas), indice + 12)] if linha.strip()]
+            linhas_sumario = sum(1 for linha in janela if self._eh_linha_sumario(linha))
+            return linhas_sumario >= 3
+        return False
+
+    def _fim_bloco_sumario(self, linhas: List[str], inicio: int) -> int:
+        fim = inicio
+        linhas_sumario = 0
+        tabela_sumario = "|" in linhas[inicio]
+        while fim < len(linhas):
+            atual = linhas[fim].strip()
+            if not atual:
+                fim += 1
+                continue
+            if self._eh_linha_sumario(atual):
+                linhas_sumario += 1
+                fim += 1
+                continue
+            if tabela_sumario and linhas_sumario > 0 and "|" in atual:
+                fim += 1
+                continue
+            if linhas_sumario > 0 and self._eh_ruido_em_bloco_sumario(atual):
+                fim += 1
+                continue
+            if linhas_sumario > 0 and self._eh_continuacao_titulo_sumario(atual):
+                fim += 1
+                continue
+            break
+        return fim
+
+    def _fim_bloco_sumario_apos_titulo(self, linhas: List[str], inicio: int) -> int:
+        fim = inicio + 1
+        viu_linha_sumario = False
+        while fim < len(linhas):
+            atual = linhas[fim].strip()
+            if not atual:
+                fim += 1
+                continue
+            if self._eh_linha_sumario(atual) or self._eh_linha_sumario_textual_apos_titulo(atual):
+                viu_linha_sumario = True
+                fim += 1
+                continue
+            if self._eh_ruido_em_bloco_sumario(atual):
+                fim += 1
+                continue
+            if viu_linha_sumario and self._eh_continuacao_titulo_sumario(atual):
+                fim += 1
+                continue
+            break
+        return fim
+
+    def _eh_linha_sumario(self, conteudo: str) -> bool:
+        texto = conteudo.replace("<br>", " ").replace("<br/>", " ").replace("<br />", " ")
+        texto = texto.replace("**", "").strip()
+        if self._linha_tabela_sumario(texto):
+            return True
+        if self._TOC_DOT_LEADER_PATTERN.search(texto):
+            return True
+        if self._TOC_LINE_PATTERN.match(texto) or self._TOC_LINE_LOOSE_PATTERN.match(texto):
+            return True
+        if "|" in texto:
+            celulas = [celula.strip() for celula in texto.strip("|").split("|") if celula.strip()]
+            if len(celulas) >= 2 and re.fullmatch(r"\d+", celulas[-1]):
+                primeira = celulas[0]
+                if self._comeca_com_numero_secao(primeira):
+                    return True
+        return False
+
+    def _linha_tabela_sumario(self, conteudo: str) -> bool:
+        if "|" not in conteudo:
+            return False
+        texto = conteudo.replace("**", "").strip()
+        celulas = [celula.strip() for celula in texto.strip("|").split("|")]
+        celulas_nao_vazias = [celula for celula in celulas if celula]
+        if not celulas_nao_vazias:
+            return False
+        if self._linha_tabela_tem_titulo_sumario(texto):
+            return True
+        if self._linha_tabela_separador(texto):
+            return True
+        if len(celulas_nao_vazias) >= 2 and re.fullmatch(r"\d+", celulas_nao_vazias[-1]):
+            if len(celulas_nao_vazias) >= 3 and re.fullmatch(r"\d{1,2}(\.\d+)*[.)]?", celulas_nao_vazias[0]):
+                return True
+            return self._comeca_com_numero_secao(celulas_nao_vazias[0])
+        if len(celulas_nao_vazias) == 1:
+            unica = celulas_nao_vazias[0]
+            return bool(self._TOC_DOT_LEADER_PATTERN.search(unica))
+        return False
+
+    def _linha_tabela_tem_titulo_sumario(self, conteudo: str) -> bool:
+        if "|" not in conteudo:
+            return False
+        texto = conteudo.replace("**", "").strip()
+        celulas = [celula.strip() for celula in texto.strip("|").split("|") if celula.strip()]
+        return any(self._eh_titulo_sumario(celula) or self._linha_contem_titulo_sumario(celula) for celula in celulas)
+
+    def _comeca_com_numero_secao(self, texto: str) -> bool:
+        return bool(re.match(r"^\d{1,2}(?:\.\d+)*[.)]?(?=\s|[A-ZÁÀÂÃÉÊÍÓÔÕÚÜÇ]|$)", texto))
+
+    def _eh_linha_sumario_textual_apos_titulo(self, conteudo: str) -> bool:
+        if "|" not in conteudo:
+            return False
+        texto = conteudo.replace("**", "").strip()
+        celulas = [celula.strip() for celula in texto.strip("|").split("|") if celula.strip()]
+        if len(celulas) != 2 or not re.fullmatch(r"\d+", celulas[-1]):
+            return False
+        return bool(re.fullmatch(r"[A-ZÁÀÂÃÉÊÍÓÔÕÚÜÇ0-9 .,:;()/–-]{6,}", celulas[0]))
+
+    def _eh_residuo_sumario_isolado(self, conteudo: str) -> bool:
+        texto = conteudo.replace("**", "").replace("_", "").strip()
+        tem_pontilhado_pagina = bool(re.search(r"[.\u2026]{5,}\s*\d+", texto))
+        if not tem_pontilhado_pagina:
+            return False
+        if self._comeca_com_numero_secao(texto):
+            return True
+        if "|" in texto:
+            celulas = [celula.strip() for celula in texto.strip("|").split("|") if celula.strip()]
+            if any(self._comeca_com_numero_secao(celula) for celula in celulas):
+                return True
+            texto = " ".join(celulas)
+        return bool(
+            re.match(
+                r"^(REFER[EÊ]NCIAS|ANEXOS?|AP[EÊ]NDICES?|AP[EÊ]NDICE\b|CURRICULARES\b)",
+                texto,
+                re.IGNORECASE,
+            )
+        )
+
+    def _linha_tabela_separador(self, conteudo: str) -> bool:
+        if "|" not in conteudo:
+            return False
+        celulas = [celula.strip() for celula in conteudo.strip().strip("|").split("|") if celula.strip()]
+        return bool(celulas) and all(re.fullmatch(r":?-{3,}:?", celula) for celula in celulas)
+
+    def _eh_ruido_em_bloco_sumario(self, conteudo: str) -> bool:
+        texto = conteudo.replace("**", "").strip()
+        if re.fullmatch(r"\d{1,3}", texto):
+            return True
+        if re.fullmatch(r"ass\.?:\s*(<br>)?", texto, re.IGNORECASE):
+            return True
+        if re.fullmatch(r"\d+\s+de\s+\d+", texto, re.IGNORECASE):
+            return True
+        if texto.casefold().startswith("instituto federal do paraná"):
+            return True
+        if texto.casefold().startswith("institutofederal"):
+            return True
+        if texto.casefold().startswith("av. "):
+            return True
+        if texto.casefold().startswith("rua "):
+            return True
+        return False
+
+    def _eh_continuacao_titulo_sumario(self, conteudo: str) -> bool:
+        texto = conteudo.replace("**", "").strip()
+        if "|" in texto:
+            celulas = [celula.strip() for celula in texto.strip("|").split("|") if celula.strip()]
+            if len(celulas) == 1 and not re.fullmatch(r"\d+", celulas[0]):
+                return True
+            return False
+        return bool(re.fullmatch(r"[A-ZÁÀÂÃÉÊÍÓÔÕÚÜÇ0-9 ,;:/()–-]{8,}", texto))
 
     def _normalizar_headings(self, linhas: List[str]) -> List[str]:
         """Corrige níveis de heading e promove títulos numéricos plausíveis."""

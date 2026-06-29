@@ -106,38 +106,6 @@ Paulo Antônio Cypriano Pereira Ana Carolina de Athayde Raymundi Braz Dão Pedro
 |Comunicação e linguagem III|33|
 |<br>Biologia de campo|17|
 
-|**7. INFRAESTRUTURA**|**164**|
-|---|---|
-|7.1 ÁREAS DE ENSINO ESPECÍFICAS|165|
-|7.2 ÁREAS DE ESTUDO GERAL|166|
-|7.3 ÁREAS DE ESTUDO ESPECÍFICO|166|
-|7.4 ÁREAS DE ESPORTE E VIVÊNCIA|173|
-|7.5 ÁREAS DE ATENDIMENTO DISCENTE|173|
-|7.6 ÁREAS DE APOIO|174|
-|7.7 BIBLIOTECA|174|
-|**8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA**|**175**|
-|8.1 EXPANSÃO DO QUADRO DOCENTE|175|
-|8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO|175|
-|8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO|176|
-|**REFERÊNCIAS**|**177**|
-|**APÊNDICES**|**184**|
-|APÊNDICE A - REGULAMENTO DE TRABALHO DE CONCLUSÃO DE CURSO|185|
-|APÊNDICE B - REGULAMENTO DE ATIVIDADES COMPLEMENTARES|190|
-|APÊNDICE C - REGULAMENTOS DE ESTÁGIOS|200|
-
-7
-
-|Tópicos em Alimentos|33|
-|---|---|
-|<br>Tópicos em Saúde|33|
-|<br>Tópicos em BiologiaMolecular|33|
-|Evolução Humana|33|
-|Saneamento Ambiental|33|
-|Microbiologia de Alimentos.|33|
-|<br>Legislação Profissional e Ambiental|33|
-|Comunicação e linguagem III|33|
-|<br>Biologia de campo|17|
-
 ## **1. APRESENTAÇÃO DO PROJETO**
 
 1.1 IDENTIFICAÇÃO

@@ -18,6 +18,7 @@ from common import (
     valor_identificacao_preenchido,
     write_json,
 )
+from conversao_docx.markdown_normalizer import MarkdownNormalizer
 
 
 def _criar_rodada(output_base: Path, nome_base: str) -> Path:
@@ -31,8 +32,10 @@ def _criar_rodada(output_base: Path, nome_base: str) -> Path:
 
 
 def _preparar_markdown(arquivo: Path, caminhos: dict[str, Path]) -> dict[str, Any]:
-    caminho_ppc = copy_file(arquivo, caminhos["ppc"])
-    texto = caminho_ppc.read_text(encoding="utf-8")
+    texto = arquivo.read_text(encoding="utf-8")
+    normalizado = MarkdownNormalizer().normalize(texto).markdown_normalizado
+    caminhos["ppc"].write_text(normalizado, encoding="utf-8")
+    caminho_ppc = caminhos["ppc"]
     identificacao = infer_identificacao_from_markdown(texto, fallback_nome=arquivo.stem)
     return {
         "ppc_path": caminho_ppc,
@@ -63,7 +66,11 @@ def _preparar_docx(arquivo: Path, caminhos: dict[str, Path]) -> dict[str, Any]:
     )
     if artefatos.markdown is None:
         raise RuntimeError("A conversão DOCX não gerou Markdown normalizado.")
-    caminho_ppc = copy_file(artefatos.markdown, caminhos["ppc"])
+    texto_markdown = artefatos.markdown.read_text(encoding="utf-8")
+    normalizado = MarkdownNormalizer().normalize(texto_markdown).markdown_normalizado
+    artefatos.markdown.write_text(normalizado, encoding="utf-8")
+    caminhos["ppc"].write_text(normalizado, encoding="utf-8")
+    caminho_ppc = caminhos["ppc"]
     if artefatos.markdown_bruto:
         copy_file(artefatos.markdown_bruto, caminhos["ppc_bruto"])
     identificacao = infer_identificacao_from_markdown(caminho_ppc.read_text(encoding="utf-8"), fallback_nome=arquivo.stem)

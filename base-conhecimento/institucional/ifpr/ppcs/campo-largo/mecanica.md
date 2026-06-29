@@ -15,12 +15,6 @@ CAMPO LARGO
 
 2019
 
-## **Sumário**
-
-Sumário .................................................................................................................................................................. 3 1. **IDENTIFICAÇÃO DO CURSO** ....................................................................................................................... 5 **1.1 CARACTERÍSTICAS DO CURSO** .............................................................................................................. 6 **2. JUSTIFICATIVA** ............................................................................................................................................... 7 **3. RELAÇÕES COM O PLANEJAMENTO INSTITUCIONAL** .................................................................... 12 **3.1.1 Relação com o Plano de Desenvolvimento Institucional (PDI)** .................................................. 12 **3.1.2.  Relação com o itinerário formativo do** _**Campus**_ ........................................................................... 13 **3.2. Objetivo Geral** ............................................................................................................................................ 14 **3.2.1 Objetivos Específicos** ............................................................................................................................ 14 **3.2.2 Público Alvo** ............................................................................................................................................. 15 **4. PERFIL PROFISSIONAL DE CONCLUSÃO** ............................................................................................ 15 **5. CERTIFICADOS E DIPLOMAS A SEREM EMITIDOS** ........................................................................... 15 **6.1 PRESSUPOSTOS PEDAGÓGICOS** ........................................................................................................ 18 **6.2.  ORIENTAÇÃO METODOLÓGICA** ......................................................................................................... 18 **6.3.  AVALIAÇÃO DO PROCESSO ENSINO-APRENDIZAGEM** .............................................................. 19 **6.3.1 CONCEPÇÃO DE AVALIAÇÃO** ............................................................................................................ 21 **6.3.2 RECUPERAÇÃO PARALELA** ............................................................................................................... 21 **6.3.3 FORMA DE EMISSÃO DE RESULTADOS** ......................................................................................... 22 **6.3.4 CONDIÇÕES DE APROVAÇÃO** ........................................................................................................... 22 **6.3.5 PROGRESSÃO PARCIAL** ...................................................................................................................... 23 **6.3.6 CERTIFICAÇÃO DE CONHECIMENTOS** ............................................................................................ 23 **6.3.7 APROVEITAMENTO DE ESTUDOS** .................................................................................................... 24 **6.4 PRÁTICAS PROFISSIONAIS** .................................................................................................................... 24 **6.4.1 PRÁTICAS PREVISTAS EM SALA DE AULA** ................................................................................... 24 **6.4.2 ESTÁGIO – PRÁTICA PROFISSIONAL NO CAMPO DE TRABALHO** ......................................... 25 **6.5 CONTEÚDOS OBRIGATÓRIOS** ............................................................................................................... 25 **6.6 COMPONENTES: MATRIZ CURRICULAR** ............................................................................................ 25 **6.6.1 OBRIGATÓRIOS** ...................................................................................................................................... 25 **6.6.2. ELETIVOS** ................................................................................................................................................ 26 **6.6.3. OPTATIVOS** ............................................................................................................................................. 26 **6.7. RAZÕES E OBJETIVOS PEDAGÓGICOS PARA O/S TURNO/S E HORÁRIOS DO  CURSO** ... 26 **6.8.  DURAÇÃO DA HORA-AULA** .................................................................................................................. 26 **6.9. CRITÉRIOS PARA ISONOMIA NA OFERTA DOS COMPONENTES CURRICULARES** ............. 26 **6.10. ATIVIDADES COMPLEMENTARES** .................................................................................................... 27 **6.11. TRABALHO DE CONCLUSÃO DE CURSO (TCC)** ........................................................................... 27
-
-**6.12. VISITAS TÉCNICAS E/OU EVENTOS DO CURSO** ........................................................................... 27 **6.13 TEMAS TRANSVERSAIS** ........................................................................................................................ 27 **6.14.  MATRIZ CURRICULAR** ......................................................................................................................... 29 **6.15 EMENTAS DOS COMPONENTES CURRICULARES** ........................................................................ 30 **1º ANO** ................................................................................................................................................................. 30 **7. INFRAESTRUTURA MÍNIMA REQUERIDA** ............................................................................................. 70 **8. INFRAESTRUTURA PARA ATENDIMENTO ÀS NECESSIDADES ESPECIAIS** .............................. 70 **9. PERFIL DO PESSOAL DOCENTE E TÉCNICO** ...................................................................................... 71 **10. AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO** ................................................................... 72 **REFERÊNCIAS** .................................................................................................................................................. 72 **ANEXOS** .............................................................................................................................................................. 73
-
 ## 1. **IDENTIFICAÇÃO DO CURSO**
 
 NÚMERO DO PROCESSO: 23410.000498/2018-11
@@ -146,84 +140,6 @@ Fonte: IBGE - Censo Demográfico - Dados da amostra.
 ||**65**|**2.209**|
 ||||
 |Metalúrgica|||
-||63|506|
-||||
-|Mecânica|||
-||21|594|
-||||
-|Material elétrico e de comunicações|||
-||15|383|
-||||
-|Material de transporte|||
-||8|565|
-||||
-|**Madeira e do mobiliário**|||
-||**68**|**615**|
-||||
-|**Papel, papelão, editorial e gráfica**|||
-||**26**|**885**|
-||||
-|Borracha, fumo, couros, peles e produtos similares e<br>indústria diversa|13||
-|||88|
-||||
-|Química, de produtos farmacêuticos, veterinários, de<br>perfumaria, sabões, velas e matérias plásticas|32||
-|||481|
-||||
-||||
-|Têxtil, do vestuário e artefatos de tecidos|||
-||21|981|
-||||
-|Calçados|||
-||-|-|
-||||
-|Produtos alimentícios, de bebida e álcool etílico|||
-||83|990|
-||||
-|Serviços industriais de utilidade pública|5|137|
-|**CONSTRUÇÃO CIVIL**|||
-||**166**|**1.040**|
-||||
-|**COMÉRCIO**|||
-||**1.007**|**6.362**|
-||||
-|Comércio varejista|||
-||898|5.544|
-||||
-|Comércio atacadista|||
-||109|818|
-||||
-|**SERVIÇOS**|||
-||**834**|**12.214**|
-||||
-|Instituições de crédito, seguros e de capitalização|||
-||20|186|
-||||
-
-|Administradoras de imóveis, valores mobiliários, serviços<br>técnicos profissionais, auxiliar de atividade econômica|206||
-|---|---|---|
-|||2.924|
-||||
-|Transporte e comunicações|||
-||199|1.972|
-||||
-|Serviços de alojamento, alimentação, reparo, manutenção,<br>radiodifusão e televisão|266|1.173|
-|Serviços médicos, odontológicos e veterinários.|||
-||94|2.136|
-||||
-|Ensino|||
-||47|1.048|
-||||
-|Administração pública direta e indireta|||
-||2|2.775|
-||||
-|**AGROPECUÁRIA**(agricultura, silvicultura, criação de<br>animais, extração vegetal e pesca)|**93**|**236**|
-|**ATIVIDADE NÃO ESPECIFICADA**<br>CLASSIFICADA|||
-||**-**|**-**|
-||||
-|**TOTAL**|||
-||**2.536**|**28.712**|
-||||
-
 **Fonte** : MTE/RAIS NOTA: Posição em 31 de dezembro. O total das atividades econômicas refere-se à soma dos grandes setores: Indústria; Construção Civil; Comércio; Serviços; Agropecuária; e Atividade não Especificada ou Classificada. (1) INDÚSTRIA: extração de minerais; transformação; serviços industriais utilidade pública. TRANSFORMAÇÃO: minerais não metálicos; metalúrgica; mecânica; elétrico, comunicações; material transporte; madeira, mobiliário; papel, papelão, editorial, gráfica; borracha, fumo, couros, peles, similares, indústria diversa; química, farmacêuticos, veterinários, perfumaria, sabões, velas, matérias plásticas; têxtil, vestuário, artefatos tecidos; calçados, produtos alimentícios, bebidas, álcool etílico.
 
 Desta forma, o _Campus_ Campo Largo, buscando atender às demandas locais, desenvolve possibilidades de inserção e qualificação da população da região para o mundo do trabalho por meio da oferta de Cursos de Nível Médio (integrados e subsequentes) e de Nível Superior. São ofertados atualmente à comunidade: Curso de Ensino Médio Integrado em Eletromecânica; Curso de Ensino Médio Integrado em Automação Industrial; Curso Técnico em Administração; Curso Técnico em Administração – Modalidade Proeja; Curso Técnico em Cerâmica; Curso Técnico em Eletrotécnica; Curso Técnico em Mecânica e Curso Superior de Tecnologia em Agroecologia e Pós-Graduação em Gestão Empresarial. Para o ano de 2020, estão em fase de estruturação o Curso Superior de Engenharia Elétrica e a Licenciatura em Matemática.

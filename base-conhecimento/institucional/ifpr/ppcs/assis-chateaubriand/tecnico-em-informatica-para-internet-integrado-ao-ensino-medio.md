@@ -9,63 +9,7 @@
 
 ## **ASSIS CHATEAUBRIAND 2019**
 
-## **SUMÁRIO**
-
-|**1.**IDENTIFICAÇÃO DO CURSO|**6**|
-|---|---|
-|1.1 COMISSÃO DE ESTRUTURAÇÃO DO CURSO (CEC)|7|
-|1.2 CARACTERÍSTICA DO CURSO|8|
-|**2.**JUSTIFICATIVA|**8**|
-|**3.**OBJETIVOS DO CURSO|**15**|
-|3.1 OBJETIVO GERAL|15|
-|3.2 OBJETIVOS ESPECÍFICOS|15|
-|**4.**PERFIL PROFISSIONAL DE CONCLUSÃO|**16**|
-|**5.**CERTIFICADOS E DIPLOMAS A SEREM EMITIDOS|**16**|
-|**6.**RAZÕES E OBJETIVOS PEDAGÓGICOS PARA O(S) TURNO(S) E HORÁRIOS DO||
 |CURSO|**17**|
-|6.1 DURAÇÃO DA HORA-AULA|17|
-|**7.**ORGANIZAÇÃO CURRICULAR|**17**|
-|**8.**PRESSUPOSTOS PEDAGÓGICOS|**21**|
-|8.1 ORIENTAÇÃO METODOLÓGICA|23|
-|8.2 AVALIAÇÃO DO PROCESSO ENSINO-APRENDIZAGEM|24|
-|8.2.1 Concepção de avaliação|25|
-|8.2.2 Recuperação Paralela|27|
-|8.2.3 Forma de emissão de resultados|28|
-|8.2.4 Condições de aprovação|28|
-|8.2.5   Progressão Parcial|29|
-|8.2.6 Certificação de Conhecimentos|29|
-|8.2.7 Aproveitamento de Estudos|30|
-
-|8.2.8 Plano de ação para permanência e êxito dos estudantes|8.2.8 Plano de ação para permanência e êxito dos estudantes|30|
-|---|---|---|
-|**9.**PRÁTICAS PROFISSIONAIS||**32**|
-|9.1 PRÁTICAS PREVISTAS EM SALA DE AULA||32|
-|**10. ESTÁGIO – PRÁTICA PROFISSIONAL NO CAMPO DE TRABALHO**||**34**|
-|O Regulamento do Estágio Não-obrigatório encontra-se no Anexo B. Nele estão as|||
-|informações necessárias para a realização desse tipo de prática profissional.||34|
-|**11. CONTEÚDOS OBRIGATÓRIOS**||**34**|
-|11.1 COMPONENTES||35|
-|11.2 OBRIGATÓRIOS||35|
-|11.3 ELETIVOS||36|
-|11.4  OPTATIVOS||36|
-|11.5 CRITÉRIOS PARA|ISONOMIA NA OFERTA DOS COMPONENTES||
-|CURRICULARES||36|
-|11.6 TEMAS TRANSVERSAIS||37|
-|11. 7 COMPONENTE COMPLEMENTAR||39|
-|**12. TRABALHO DE CONCLUSÃO DE CURSO (TCC)**||**39**|
-|**13.  VISITAS TÉCNICAS E/OU EVENTOS DO CURSO**||**39**|
-|**14. MATRIZ CURRICULAR**||**41**|
-|14.1 EMENTAS DOS COMPONENTES CURRICULARES||43|
-|**15 INFRAESTRUTURA MÍNIMA REQUERIDA**||**88**|
-|15.1 INFRAESTRUTURA PARA ATENDIMENTO ÀS NECESSIDADES ESPECIAIS|||
-|||89|
-|**16 PERFIL DO PESSOAL DOCENTE E TÉCNICO**||**92**|
-|**17. AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO (PPC)**||**92**|
-|**18. REFERÊNCIAS**||**94**|
-|**19. ANEXOS**|**Erro! Indicador não definido.**||
-|ANEXO A||97|
-|ANEXO B<br>105|||
-
 ## **1. IDENTIFICAÇÃO DO CURSO**
 
 - **NÚMERO DO PROCESSO:** 23411.006935/2018 09

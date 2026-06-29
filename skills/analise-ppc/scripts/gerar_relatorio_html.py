@@ -580,42 +580,8 @@ def _render_block_html(kind: str, text: str, level: int = 0) -> str:
     return "".join(f"<p>{_inline_markdown(paragrafo)}</p>" for paragrafo in paragrafos)
 
 
-def _linha_sumario(linha: str) -> bool:
-    texto = re.sub(r"^#{1,6}\s+", "", linha.strip())
-    texto = texto.replace("*", "").strip()
-    return _normalizar_texto(texto) in {"sumario", "sumario do documento"}
-
-
-def _linha_inicio_corpo_apos_sumario(linha: str) -> bool:
-    stripped = linha.strip()
-    if not re.match(r"^#{1,3}\s+", stripped):
-        return False
-    texto = re.sub(r"^#{1,3}\s+", "", stripped).strip()
-    return bool(re.match(r"^\d+\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ]", texto))
-
-
-def remover_sumario_markdown(markdown: str) -> str:
-    linhas = markdown.replace("\r\n", "\n").replace("\r", "\n").split("\n")
-    resultado: list[str] = []
-    ignorando_sumario = False
-    removeu_sumario = False
-
-    for linha in linhas:
-        if not ignorando_sumario and not removeu_sumario and _linha_sumario(linha):
-            ignorando_sumario = True
-            removeu_sumario = True
-            continue
-        if ignorando_sumario:
-            if _linha_inicio_corpo_apos_sumario(linha):
-                ignorando_sumario = False
-                resultado.append(linha)
-            continue
-        resultado.append(linha)
-    return "\n".join(resultado)
-
-
 def gerar_blocos_ppc(markdown: str) -> list[PPCBlock]:
-    linhas = remover_sumario_markdown(markdown).replace("\r\n", "\n").replace("\r", "\n").split("\n")
+    linhas = markdown.replace("\r\n", "\n").replace("\r", "\n").split("\n")
     blocos: list[PPCBlock] = []
     indice = 0
     atual: list[str] = []

@@ -31,85 +31,6 @@ Thiago Vinícius Moreira Guimarães
 
 Adriano José Ortiz Ailton da Silva Ferreira Cleiton Fabio da Roza Fausto Neves da Silva João Vitor Fagundes José Eduardo Pimentel Filho Nathália Cristina Ortiz da Silva Thiago Queiroz Costa Thiago Vinícius Moreira Guimarães
 
-||**SUMÁRIO**||||
-|---|---|---|---|---|
-||**1. IDENTIFICAÇÃO E LOCAL DE FUNCIONAMENTO DO CURSO**|||**05**|
-||**2. APRESENTAÇÃO DO PROJETO**|||**06**|
-||2.1. O INSTITUTO FEDERAL DO PARANÁ – CAMPUS|IVAIPORÃ||06|
-||2.2. MISSÃO, VISÃO E VALORES|||07|
-||**3. ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA**|||**11**|
-||3.1. CONCEPÇÃO DO CURSO|||11|
-||3.2. JUSTIFICATIVA|||11|
-||3.3. OBJETIVOS|||16|
-||3.4. FORMAS DE ACESSO, PERMANÊNCIA E MOBILIDADE||ACADÊMICA 17||
-||3.4.1. Bolsas de Pesquisa, Bolsas de Extensão e Inclusão Social|||18|
-||3.4.2. Aproveitamento de Estudos Anteriores|||20|
-||3.4.3. Certificação de Conhecimentos Anteriores|||21|
-||3.4.4. Expedição de Diplomas e Certificados|||21|
-||3.5. PERFIL DO EGRESSO|||21|
-||3.5.1. Áreas de Atuação do Egresso|||23|
-||3.5.2. Acompanhamento de Egressos|||23|
-||3.6. PERFIL DO CURSO|||24|
-||3.6.1. Relação entre Ensino, Pesquisa, Extensão e Inovação|||25|
-||3.6.2. Metodologia e Estratégias Pedagógicas|||26|
-||3.6.3. Atendimento ao Discente|||27|
-||3.6.4. Educação Inclusiva<br>28||||
-||3.6.5. Integração com a Pós-Graduação|||28|
-||3.6.6.Tecnologias<br>Digitais<br>de<br>Informação|e|Comunicação||
-|29|||||
-||3.7. AVALIAÇÃO|||31|
-|3.7.1. Avaliação da Aprendizagem<br>31|||||
-||3.7.1.1. Requisitos para aprovação nos componentes curriculares<br>34||||
-||3.7.1.2. Regime de Progressão<br>34||||
-||3.7.1.3. Regime de Recuperação Paralela|||35|
-||3.7.2. Plano de Avaliação Institucional|||35|
-||3.7.3. Avaliação do Curso|||36|
-||3.7.4. Avaliação do projeto Pedagógico do Curso|||39|
-||3.7.5. Representação gráfica do Processo Formativo|||39|
-||3.8. ESTRUTURA CURRICULAR|||41|
-||3.8.1. Matriz Curricular|||46|
-||3.8.2. Componentes Optativos<br>50||||
-||3.9. EMENTÁRIO E BIBLIOGRAFIAS|||53|
-||3.9.1. Componentes Curriculares Obrigatórias|||53|
-||3.9.2. Componentes Curriculares Optativos|||102|
-||3.10. ESTÁGIO CURRICULAR SUPERVISIONADO|||137|
-||3.11. TRABALHO DE CONCLUSÃO DE CURSO|||138|
-||3.12. CURRICULARIZAÇÃO DA EXTENSÃO|||139|
-||3.13. ATIVIDADES COMPLEMENTARES|||140|
-
-||**4. CORPO DOCENTE E TÉCNICO ADMINISTRATIVO**|**4. CORPO DOCENTE E TÉCNICO ADMINISTRATIVO**|**4. CORPO DOCENTE E TÉCNICO ADMINISTRATIVO**|**142**|
-|---|---|---|---|---|
-||4.1. CORPO DOCENTE|||142|
-||4.1.1. Atribuições do Coordenador|||143|
-||4.1.2. Experiência do Coordenador|||144|
-||4.1.3. Núcleo Docente Estruturante|||145|
-||4.1.4. Colegiado do Curso|||145|
-||4.1.5. Políticas de Capacitação Docente|||146|
-||4.1.6. Plano de Cargos e Salários dos Docentes|||146|
-||4.2. CORPO TÉCNICO ADMINISTRATIVO|||147|
-||4.2.1. Políticas de Capacitação do Técnico|Administrativo||148|
-||4.2.2. Plano de Cargos e Salários dos Servidores||Técnicos Administrativos 149||
-||4.2.3. Contratação Técnicos Administrativos|||149|
-||**5. INSTALAÇÕES FÍSICAS**|||**149**|
-||5.1. ÁREAS DE ENSINO ESPECÍFICAS|||149|
-||5.2. ÁREAS DE ESTUDO GERAL|||150|
-||5.3 ÁREAS DE ESTUDO ESPECÍFICAS||||
-|150|||||
-||5.4. ÁREAS DE ESPORTE E VIVÊNCIA|||150|
-||5.5. ÁREAS DE ATENDIMENTO DISCENTE|||151|
-||5.6. ÁREAS DE APOIO|||151|
-||5.7. BIBLIOTECA|||151|
-||**6. PLANEJAMENTO ECONÔMICO FINANCEIRO**|||**154**|
-||6.1<br>EXPANSÃO<br>DO||QUADRO|<br>DOCENTE|
-|154|||||
-||6.2 PROJEÇÃO DA AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO||||
-|154|||||
-||6.3<br>PROJEÇÃO<br>DE<br>AQUISIÇÃO|DE|ACERVO|BIBLIOGRÁFICO|
-|154|||||
-||**7. REGULAMENTO ESTÁGIO**|||**155**|
-||**8. ANEXOS**||**161**||
-||**9. REFERÊNCIAS BIBLIOGRÁFICAS**|||**170**|
-
 ## **1. IDENTIFICAÇÃO E LOCAL DE FUNCIONAMENTO DO CURSO**
 
 **Curso:** Licenciatura em Física **.**
@@ -3064,8 +2985,6 @@ Assinatura do Estudante                                 Assinatura do Professor(
 Quanto aos aspectos de formatação o Relatório deve conter:
 
 Capa com os dados da instituição que oferta o curso Nome do curso Título do Estágio e ano do curso que pertence o estágio Nome do Estagiário Nome do Orientador de Estágio Cidade, mês e ano
-
-## Sumário
 
 Formatação do texto utilizando fonte Arial ou Times New Roman, tamanho 12, espaçamento 1,5. Consultar o caderno de normas do IFPR quanto a formatação das citações, referências, tabelas, quadros, entre outros. Começar a numeração a partir da primeira folha da introdução, considerando as páginas anteriores para a contagem. O relatório deve apresentar entre 10 a 20 páginas.
 

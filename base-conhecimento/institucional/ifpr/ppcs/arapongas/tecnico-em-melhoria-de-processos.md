@@ -14,71 +14,8 @@
 
 **2021**
 
-## **SUMÁRIO**
-
-|**1**|**IDENTIFICAÇÃO DO CURSO**|**4**|
-|---|---|---|
-||1.1 COMISSÃO DE ESTRUTURAÇÃO DO CURSO (CEC) ou COMISSÃO DE AJUSTE||
-||CURRICULAR (CAJ)|5|
-||1.2 CARACTERÍSTICAS DO CURSO|7|
-|**2**|**JUSTIFICATIVA**|**9**|
-||2.1 CONTEXTUALIZAÇÃO DE OFERTA DO CURSO|9|
-||2.1.1 Cenário histórico global|9|
-||2.1.2 Cenário histórico local|15|
-|**3**|**OBJETIVOS DO CURSO**|**23**|
-||3.1 DA OFERTA EXPERIMENTAL|23|
-||3.2 DAS AÇÕES REALIZADAS PARA O EMBASAMENTO DA OFERTA DO CURSO|25|
-||3.3 OBJETIVO GERAL|28|
-||3.4 OBJETIVOS ESPECÍFICOS|28|
-|**4**|**PERFIL PROFISSIONAL DE CONCLUSÃO**|**29**|
-||4.1 DO PERFIL DO EGRESSO|29|
-|**5**|**CERTIFICADOS E DIPLOMAS A SEREM EMITIDOS**|**32**|
-|**6**|**ORGANIZAÇÃO CURRICULAR**|**34**|
-||6.1 PRESSUPOSTOS PEDAGÓGICOS|34|
-||6.1.1  Biblioteca do campus avançado Arapongas|39|
-||6.2 ORIENTAÇÃO METODOLÓGICA|40|
-||6.2.1 Curricularização da pesquisa, extensão, inovação e empreendedorismo|43|
-||6.3  AVALIAÇÃO DO PROCESSO ENSINO-APRENDIZAGEM|44|
-||6.3.1  Concepção de avaliação|44|
-||6.3.2  Recuperação contínua paralela|47|
-||6.3.3  Forma de emissão de resultados|48|
-||6.3.4  Condições de aprovação|49|
-||6.3.5  Progressão parcial|49|
-||6.3.6  Certificação de conhecimentos|50|
-||6.3.7  Aproveitamento de estudos|51|
-||6.4  PRÁTICAS PROFISSIONAIS|52|
-||6.4.1 Práticas previstas em sala de aula|52|
-||6.4.2 Práticas integradoras com o mundo do trabalho|53|
-||6.4.3 Bolsas de estudos e ações voluntárias|53|
-||6.4.4  Estágio – prática profissional no campo de trabalho|53|
-||6.5 CONTEÚDOS OBRIGATÓRIOS|53|
-||6.6  COMPONENTES CURRICULARES|54|
-||6.6.1  Obrigatórios|54|
-||6.6.2  Eletivos|54|
-||6.6.3  Optativos|54|
-
-|6.6.4 Organização da integralização de projetos interdisciplinares|54|
-|---|---|
 |6.7   RAZÕES  E  OBJETIVOS  PEDAGÓGICOS  PARA  O TURNO  E  HORÁRIOS|DO|
 |CURSO|55|
-|6.8  DURAÇÃO DA HORA-AULA|55|
-|6.9  CRITÉRIOS PARA ISONOMIA NA OFERTA DOS COMPONENTES||
-|CURRICULARES|55|
-|6.10  ATIVIDADES COMPLEMENTARES|56|
-|6.11  TRABALHO DE CONCLUSÃO DE CURSO (TCC)|56|
-|6.12  VISITAS TÉCNICAS E/OU EVENTOS DO CURSO|56|
-|6.13  TEMAS TRANSVERSAIS|56|
-|6.14  ORGANIZAÇÃO CURRICULAR|57|
-|6.14.1 Matriz curricular|58|
-|6.15  EMENTAS DOS COMPONENTES CURRICULARES|63|
-|**7  INFRAESTRUTURA MÍNIMA REQUERIDA**|**84**|
-|**8  INFRAESTRUTURA PARA ATENDIMENTO ÀS NECESSIDADES ESPECIAIS**|**87**|
-|**9 PERFIL DO PESSOAL DOCENTE E TÉCNICO**|**89**|
-|9.1 INFORMAÇÕES SOBRE A ATUAÇÃO DOS SERVIDORES ELENCADOS|89|
-|**10  AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO (PPC)**|**97**|
-|**REFERÊNCIAS**|**99**|
-|**ANEXOS**|**107**|
-
 ## **1 IDENTIFICAÇÃO DO CURSO**
 
 **NÚMERO DO PROCESSO: 23411.017355/2020-53**

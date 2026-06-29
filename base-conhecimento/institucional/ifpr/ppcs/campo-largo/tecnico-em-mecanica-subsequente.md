@@ -44,12 +44,6 @@ CoordenacaodoCurso MartaGomesFrancisco
 
 > FI 416
 
-## SUMARIO
-
-Ass.:<br>
-
-## 1. IDENTIFICACAODOPROJETO 2. CARACTERISTICASDOCURSO 3. ESTRUTURAEFUNCIONAMENTO.. 6 6
-
 - 3.1Justificativadaofertadocurso
 
 - 3.2Objetivos do curso...

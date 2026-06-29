@@ -66,114 +66,14 @@ Valmir Xavier de Oliveira Rodrigo Ribas Marta Rodrigues de Souza Silvana Barboza
 
 Ana Carolina de Athayde Raymundi Braz Berenice Tomoko Tatibana Danielle Hiromi Nakagawa Denis Fabricio Marchi Dão Pedro de Carvalho Neto Isaque Bispo Adriano Jayme Marrone Junior Luciana Fernandes de Oliveira Karen Alves Andrade Moscardini Karen Cristina Archangelo Perdigão Marlene Aparecida Ferrarini Bigarelli Paola Gisela Carvalho Santos Romualdo Rubens de Freitas Rosana Cláudia de Assunção Thiago Pereira do Nascimento
 
-|**1. APRESENTAÇÃO DO PROJETO**|**6**|
-|---|---|
-|1.1 IDENTIFICAÇÃO|6|
-|1.1.1 Denominação do Curso|6|
-|1.1.2 Área do Conhecimento/Eixo Tecnológico|6|
-|1.1.3 Modalidade|6|
-|1.1.4 Grau|6|
-|1.1.5 Regime Letivo (Periodicidade)|6|
-|1.1.6 Turno principal do curso|6|
-|1.1.7 Horário de oferta do curso|6|
-|1.1.8 Prazo de Integralização Curricular|6|
-|1.1.9 Carga-Horária total do Curso|6|
-|1.1.10 Vagas totais (anual)|7|
-|1.1.11 Escolaridade mínima exigida|7|
-|1.1.12 Coordenador|7|
-
-2
-
 ## INSTITUTOFEDERAL Parana
 
 Ministerio da Educacao
 
 |||
-|---|---|
-|1.1.13 Coordenador substituto|7|
-|1.1.14 Endereço de Oferta|7|
-|1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR|8|
-|1.2.1 O Instituto Federal do Paraná|8|
-|1.2.2 O Curso Superior de Tecnologia em Processos Gerenciais|11|
-|1.2.3 Missão, Visão e Valores|12|
-|1.3 O PROJETO PEDAGÓGICO DO CURSO|14|
-|1.3.1 Integração do Projeto ao PDI, PPI e PPP.|14|
-|1.3.2 Fundamentos Legais e Normativos da Área|16|
-|1.3.3 Integração do Projeto com o SINAES|19|
-|2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS|21|
-|2.1 JUSTIFICATIVA|23|
-|2.2 OBJETIVOS|28|
-|2.2.1 Objetivo Geral|28|
-|2.2.2 Objetivos Específicos|28|
-|2.3  RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL|29|
-|2.3.1 A Responsabilidade Social do Curso|29|
-|2.3.2 Meio Ambiente e Desenvolvimento Humano|30|
-|2.3.3 Memória, Patrimônio Artístico e Cultural|32|
-|2.3.4 Comunicação e Relações com a Comunidade|33|
-|2.4 CONCEPÇÃO DO CURSO|34|
-|2.5 PERFIL DO EGRESSO|39|
-|2.5.1 Áreas de Atuação do Egresso|39|
-|2.5.2 Acompanhamento de Egressos|40|
-|2.5.3 Registro Profissional|41|
-|3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS|41|
-|3.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO|41|
-|3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO|
-|DE ENSINO-APRENDIZAGEM|43|
-|3.3 ESTRATÉGIAS DE ENSINO E APRENDIZAGEM|44|
-|3.3.2 Mecanismos de Interação entre Docentes, Tutores e Estudantes|47|
-|3.3.3 Atividades de Tutoria|47|
-|3.3.4 Ambiente Virtual de Aprendizagem (AVA)|48|
-|4. ORGANIZAÇÃO CURRICULAR|49|
-|4.1 ESTRUTURA CURRICULAR|49|
-|4.1.1 Representação Gráfica do Processo Formativo|50|
-
-3
-
-INSTITUTOFEDERAL Parana
-
 Ministerio da Educacao
 
 |||
-|---|---|
-|4.1.2  Matriz Curricular|51|
-|4.1.3 Componentes Optativos|53|
-|4.1.4 Componentes Eletivos|56|
-|4.1.5 Atividades Curriculares de Extensão|56|
-|4.2 EMENTÁRIO E BIBLIOGRAFIAS|58|
-|4.3 AVALIAÇÃO|91|
-|4.3.1 Avaliação da Aprendizagem|91|
-|4.3.2 Plano de Avaliação Institucional|94|
-|4.3.3 Avaliação do Curso|97|
-|4.3.4 Avaliação do Projeto Pedagógico do Curso|98|
-|4.4 ESTÁGIO CURRICULAR|99|
-|4.4.1 Características do Estágio|100|
-|4.4.2 Convênios de Estágio|100|
-|4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES|
-|100|
-|4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de|
-|ensino para licenciaturas|100|
-|4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades|
-|práticas de ensino para áreas da saúde|100|
-|4.5.3  Integração com os setores públicos, civis e privados|101|
-|4.6 TRABALHO DE CONCLUSÃO DE CURSO|101|
-|4.7 ATIVIDADES COMPLEMENTARES|101|
-|5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES|102|
-|5.1 FORMAS DE ACESSO E PERMANÊNCIA|102|
-|5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência|
-|estudantil|103|
-|5.1.2 Aproveitamento de Estudos Anteriores|106|
-|5.1.3  Certificação de Conhecimentos Anteriores|107|
-|5.1.4  Expedição de Diplomas e Certificados|108|
-|5.1.5  Acessibilidade|109|
-|5.1.6  Educação Inclusiva|111|
-|5.1.7  Mobilidade Estudantil e Internacionalização|112|
-|6. EQUIPE MULTIDISCIPLINAR|113|
-|6.1. CORPO DOCENTE|113|
-|6.1.1 Atribuições do Coordenador|113|
-|6.1.2 Experiência do Coordenador|114|
-
-4
-
 ## INSTITUTOFEDERAL
 
 Parana
@@ -181,37 +81,6 @@ Parana
 Ministerio da Educacao
 
 |||
-|---|---|
-|6.1.3 Núcleo Docente Estruturante (NDE)|114|
-|6.1.4 Relação do Corpo docente|115|
-|6.1.5 Colegiado de Curso|116|
-|6.1.6 Políticas de Capacitação do Corpo Docente|117|
-|6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|118|
-|6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação|119|
-|6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA|120|
-|6.3.1 Funcionamento dos Colegiados de Gestão|120|
-|6.3.2 Representatividade da Comunidade Acadêmica|121|
-|6.3.3 Participação da Sociedade Civil na Gestão do Curso|121|
-|7. INFRAESTRUTURA|122|
-|7.1 ÁREAS DE ENSINO ESPECÍFICAS|122|
-|7.2 ÁREAS DE ESTUDO GERAL|122|
-|7.3 ÁREAS DE ESTUDO ESPECÍFICO|123|
-|7.4 ÁREAS DE ESPORTE E VIVÊNCIA|123|
-|7.5 ÁREAS DE ATENDIMENTO DISCENTE|123|
-|7.7 BIBLIOTECA|123|
-|8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA|124|
-|8.1 EXPANSÃO DO QUADRO DOCENTE|124|
-|8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO|125|
-|REFERÊNCIAS|126|
-|APÊNDICES|131|
-|APÊNDICE A - REGULAMENTO DE ATIVIDADES COMPLEMENTARES|131|
-|APÊNDICE B - REGULAMENTO DE ATIVIDADES DE EXTENSÃO|137|
-|APÊNDICE C - REGULAMENTO DA OFERTA DO PROJETO INTEGRADOR|141|
-|ANEXOS|143|
-|ANEXO A - CARTAS DE APOIO|143|
-
-5
-
 ## INSTITUTOFEDERAL Parana
 
 Ministerio da Educacao<br>

@@ -14,66 +14,12 @@ Ministerio da Educacao
 
 Parana Campus Curitiba
 
-## **SUMÁRIO**
-
-|**1. IDENTIFICAÇÃO DO CU**<br>**RSO**|4|
-|---|---|
-|1.1 CARACTERÍSTIC**A**<br>S DO CURSO|5|
-|**2. JUSTIFICATIVA**|6|
-|**3. OBJETIVOS DO CURSO**|9|
-|3.1 OBJETIVO GERA**L**|10|
-|3.2 OBJETIVOS ESPE<br>CÍFICOS|10|
-|**4. PERFIL PROFISSIONA**<br>**L DE CONCLUSÃO**|12|
-|**5. CERTIFICADOS E DIPL**<br>**OMAS A SEREM EMITIDOS**|12|
-|**6. ORGANIZAÇÃO CURR**<br>**ICULAR**|13|
-|6.1 PRESSUPOSTOS<br>PEDAGÓGICOS|14|
-|6.2 ORIENTAÇÃO ME**T**<br>ODOLÓGICA|16|
-|6.3 AVALIAÇÃO DO P**R**<br>OCESSO ENSINO APRENDIZAGEM|17|
-|6.3.1 Concepção d**e**<br>avaliação|17|
-|6.3.2 Recuperação<br>de Estudos|18|
-|6.3.3 Forma de Em<br>issão de Resultados|19|
-|6.3.4 Condição de**a**<br>provação|19|
-|6.3.5 Aproveitame**n**<br>to de Estudos Anteriores|20|
-|6.3.6 Certificação**d**<br>e Conhecimentos Anteriores|20|
-|6.4 PRÁTICAS PROFIS**S**<br>IONAIS|20|
-|6.4.1 Práticas previ<br>stas em sala de aula|21|
-|6.4.2 Estágio - Prát<br>ica Profissional no campo de trabalho|21|
-|6.5 CONTEÚDOS OB**R**<br>IGATÓRIOS|21|
-|6.6 COMPONENTES|22|
-|6.6.1 Componente**s**<br>Obrigatórios|22|
-|6.6.2 Componente**s**<br>Eletivos|22|
-|6.6.3 Componente**s**<br>Optativos|22|
-|6.7 RAZÕES E OBJE**T**<br>IVOS PEDAGÓGICOS PARA O(S) TURNO**(**<br>S) E HORÁRIOS DO||
 |CURSO|22|
-|6.8 DURAÇÃO DA HO<br>RA-AULA|23|
-|6.9 CRITÉRIOS PARA<br>ISONOMIA NA OFERTA DOS COMPONE**N**<br>TES||
-|CURRICULARES|23|
-|6.10 ATIVIDADES CO**M**<br>PLEMENTARES|23|
-|6.11 TRABALHO DE**C**<br>ONCLUSÃO DE CURSO (TCC)|23|
-|6.12 VISITAS TÉCNIC**A**<br>S E/OU EVENTOS DO CURSO|23|
-
-2
-
 Parana Campus Curitiba
 
 ## INSTITUTOFEDERAL
 
 |INSTITUTOFEDERAL<br>Parana|||
-|---|---|---|
-|Campus Curitiba|Ministerio da Educacao||
-|6.13 TEMAS TRANSVERSAIS||23|
-|6.14 MATRIZ CURRICULAR||25|
-|6.15 EMENTAS DOS COMPONENTES CURRICULARES||27|
-|**7. INFRAESTRUTURA MÍNIMA REQUERIDA**||51|
-|**8. INFRAESTRUTURA PARA ATENDIMENTO ÀS NECESSIDADES ESPECIAIS**||51|
-|**9. PERFIL DO PESSOAL DOCENTE E TÉCNICO**||53|
-|**10. AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO (PPC)**||55|
-|**REFERÊNCIAS**||56|
-|**ANEXO  - REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA**|||
-|**AUTORIZADO PELO PARECER CONSEPE Nº06/2021**||63|
-
-3
-
 Parana Campus Curitiba
 
 ## INSTITUTOFEDERAL

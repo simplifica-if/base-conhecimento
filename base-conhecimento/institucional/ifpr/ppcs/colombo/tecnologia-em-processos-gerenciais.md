@@ -158,79 +158,7 @@ Ministerio da Educacao
 
 ## INSTITUTOFEDERAL Parana
 
-## **SUMÁRIO**
-
-|**Sumário**||
-|---|---|
-|**1. APRESENTAÇÃO DO PROJETO**|**8**|
-|**1.1 IDENTIFICAÇÃO**|**8**|
-|1.1.1 Denominação do Curso|8|
-|1.1.2 Área do Conhecimento/Eixo Tecnológico|8|
-|1.1.3 Modalidade|8|
-|1.1.4 Grau|8|
-|1.1.5 Regime Letivo (Periodicidade)|8|
-|1.1.6 Turno principal do curso|8|
-|1.1.7 Horário de oferta do curso|8|
-|1.1.8 Prazo de Integralização Curricular|9|
-|1.1.9 Carga Horária total do Curso|9|
-|1.1.10 Vagas totais (anual)|10|
-|1.1.11 Escolaridade mínima exigida|10|
-|1.1.12 Coordenadora|10|
-|1.1.13 Endereço de Oferta|10|
-|**1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR**|**10**|
-|1.2.1 O Instituto Federal do Paraná|10|
-|1.2.2 O_Campus_Colombo|11|
-|1.2.3 O Curso Superior de Tecnologia em Processos Gerenciais|13|
-|1.2.4 Missão, Visão e Valores|14|
-|**1.3 O PROJETO PEDAGÓGICO DO CURSO**|**14**|
-|1.3.1 Integração do Projeto ao PDI, PPI e PPP|14|
-|1.3.2 Fundamentos Legais e Normativos da Área|16|
-|1.3.3 Integração do Projeto com o SINAES|16|
-|**2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**|**18**|
-|**2.1 JUSTIFICATIVA**|**18**|
-|2.1.1 Legislação vigente e documentos institucionais|18|
-|2.1.2 Indicadores sociais, econômicos e, educacionais do Município de Colombo|22|
-
-5
-
-|INSTITUTOFEDERAL|||
-|---|---|---|
 |Parana|Ministerio da Educacao|Ministerio da Educacao|
-|**2.2 OBJETIVOS**||**27**|
-|2.2.1 Objetivo Geral||27|
-|2.2.2 Objetivos Específicos||27|
-|**2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL**||**28**|
-|2.3.1 A Responsabilidade Social do Curso||28|
-|**2.4 CONCEPÇÃO DO CURSO**||**34**|
-|**2.5. PERFIL DO EGRESSO**||**39**|
-|**3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**||**41**|
-|**3.1. RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO**||**46**|
-|**3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO**|||
-|**DE ENSINO-APRENDIZAGEM**||**48**|
-|**4. ORGANIZAÇÃO CURRICULAR**||**49**|
-|**4.1 ESTRUTURA CURRICULAR**||**50**|
-|4.1.1 Oferta na modalidade EAD||51|
-|4.1.2 Temas transversais||53|
-|4.1.3 Representação Gráfica do Processo Formativo||55|
-|4.1.4 Matriz Curricular||56|
-|4.1.5 Componente Optativo||59|
-|4.1.6 Componentes Eletivos||59|
-|4.1.7 Curricularização da extensão||59|
-|**4.2 EMENTÁRIO E BIBLIOGRAFIAS**||**61**|
-|**4.3 AVALIAÇÃO**||**86**|
-|**4.4 ESTÁGIO**||**92**|
-|**4.5 ATIVIDADES COMPLEMENTARES**||**92**|
-|**4.6 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES**|||
-|**93**|||
-|**5. POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**||**94**|
-|**5.1 FORMAS DE ACESSO E PERMANÊNCIA**||**94**|
-|**6. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO**||**108**|
-|**6.1 CORPO DOCENTE**||**108**|
-|**6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO**||**114**|
-|**6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA**||**116**|
-|**7. INFRAESTRUTURA**||**119**|
-|**7.1 ÁREAS DE ENSINO ESPECÍFICAS**||**119**|
-
 Ministerio da Educacao
 
 6
@@ -238,25 +166,6 @@ Ministerio da Educacao
 ## INSTITUTOFEDERAL
 
 |INSTITUTOFEDERAL|||
-|---|---|---|
-|Parana|Ministerio da Educacao||
-|**7.2 ÁREAS DE ESTUDO GERAL**||**119**|
-|**7.4 ÁREAS DE ESPORTE E VIVÊNCIA**||**120**|
-|**7.5 ÁREAS DE ATENDIMENTO DISCENTE**||**120**|
-|**7.6 ÁREAS DE APOIO**||**121**|
-|**7.7 BIBLIOTECA**||**121**|
-|**8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA**||**123**|
-|**8.1 EXPANSÃO DO QUADRO DOCENTE**||**123**|
-|**8.2 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO**||**123**|
-|**REFERÊNCIAS**||**124**|
-|**APÊNDICE A - Regulamento Geral de Estágio do campus Colombo autorizado**|**APÊNDICE A - Regulamento Geral de Estágio do campus Colombo autorizado**||
-|**pelo Parecer CONSEPE Nº 39/2020**||**132**|
-|**APÊNDICE B - Projeto Integrador Aplicado às Organizações**||**141**|
-|**APÊNDICE C - Resolução sobre a realização de atividades complementares**||**145**|
-|APÊNDICE D - Revisão Bibliografia ementário                                                             150|APÊNDICE D - Revisão Bibliografia ementário                                                             150|APÊNDICE D - Revisão Bibliografia ementário                                                             150|
-
-7
-
 ## INSTITUTOFEDERAL
 
 Parana

@@ -46,14 +46,6 @@ Vilmar Fernandes
 
 Marinei do Rocio Pacheco dos Santos
 
-## **SUMÁRIO**
-
-**1. IDENTIFICAÇÃO DO PROJETO ..................................................................................................... 5 2. CARACTERÍSTICAS DO CURSO ................................................................................................... 7 3. ESTRUTURA E FUNCIONAMENTO.................................................................................................8** 3.1 - Justificativa da oferta do Curso..................................................................................................8 3.2 - Objetivos do Curso....................................................................................................................9 3.3 - Perfil profissional de Conclusão...............................................................................................11 3.4 – Critérios de Avaliação da aprendizagem................................................................................13 3.5 - Critérios de aproveitamento de estudos anteriores e procedimentos de avaliação de competências anteriormente desenvolvidas......................................................................................15 3.6 - Instalações e equipamentos, recursos tecnológicos e biblioteca............................................16 3.7 - Pessoas envolvidas – docentes e técnicos.............................................................................17 3.8 - Descrição de diplomas e certificados a serem expedidos.......................................................18 3.9 - Organização Curricular............................................................................................................19 **4 REGULAMENTO DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO DOS CURSOS TÉCNICOS DO IFPR- CAMPUS CURITIBA...........................................................................................................46 5 REGULAMENTO DO ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ......................................................65 6 TRABALHO DE CONCLUSÃO DE CURSO...................................................................................69**
-
-5
-
-1INSTITUTOFEDERAL PARANA
-
 Ministerioda Educacao InstitutoFederaldoParana
 
 ## **1. IDENTIFICAÇÃO DO PROJETO**

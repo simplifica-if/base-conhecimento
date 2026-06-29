@@ -66,139 +66,17 @@ Ministerio da Educacao
 
 ## 1[INSTITUTOFEDERAL] Parana
 
-|**SUMÁRIO**||
-|---|---|
-|1.APRESENTAÇÃO DO PROJETO|8|
-|1.1 IDENTIFICAÇÃO|8|
-|1.1.1 Denominação do Curso|8|
-|1.1.2 Área do Conhecimento/Eixo Tecnológico|8|
-|1.1.3 Modalidade|8|
-|1.1.4 Grau|8|
-|1.1.5 Regime Letivo (Periodicidade)|8|
-|1.1.6 Turno principal do curso|8|
-|1.1.7 Horário de oferta do curso|8|
-|1.1.8 Prazo de Integralização Curricular|9|
-|1.1.9 Carga-Horário total do Curso|9|
-|1.1.10 Vagas totais (anual)|9|
-|1.1.11 Escolaridade mínima exigida|9|
-|1.1.12 Coordenador|9|
-|1.1.13 Endereço de Oferta|9|
-|1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR|10|
-|1.2.1 O Instituto Federal do Paraná|10|
-|1.2.2 O Curso superior de Análise e Desenvolvimento de Sistemas|11|
-|1.2.3 Missão, Visão e Valores|13|
-|1.3 O PROJETO PEDAGÓGICO DO CURSO|13|
-|1.3.1 Integração do Projeto ao PDI, PPI e PPP.|13|
-|1.3.2 Fundamentos Legais e Normativos da Área|15|
-|1.3.3 Integração do Projeto com o SINAES|15|
-|2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS|17|
-|2.1 JUSTIFICATIVA|17|
-|2.2 OBJETIVOS|20|
-|2.2.1 Objetivo Geral|20|
-|2.2.2 Objetivos Específicos|20|
-|2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL|20|
-|2.3.1 A Responsabilidade Social do Curso|20|
+1[INSTITUTOFEDERAL] Parana
 
-4
+Ministerio da Educacao
 
 1[INSTITUTOFEDERAL] Parana
 
 Ministerio da Educacao
 
-||2.3.2 Meio Ambiente e Desenvolvimento Humano|2.3.2 Meio Ambiente e Desenvolvimento Humano|||21|
-|---|---|---|---|---|---|
-||2.3.3 Memória, Patrimônio Artístico e Cultural|2.3.3 Memória, Patrimônio Artístico e Cultural|||21|
-||2.3.4 Comunicação e Relações com a Comunidade||||22|
-||2.4 CONCEPÇÃO DO CURSO||||23|
-||2.5 PERFIL DO EGRESSO||||25|
-||2.5.1 Áreas de Atuação do Egresso||||26|
-||2.5.2 Acompanhamento de Egressos||||26|
-||2.5.3 Registro Profissional||||28|
-|3.|METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS||||28|
-||3.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO||||30|
-||3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO|||PROCESSO||
-||DE ENSINO-APRENDIZAGEM||||31|
-|4.|ORGANIZAÇÃO CURRICULAR||||32|
-||4.1 ESTRUTURA CURRICULAR||||32|
-||4.1.1 Representação Gráfica do Processo Formativo||||33|
-||4.1.2 Matriz Curricular||||35|
-||4.1.3 Componentes Optativos||||37|
-||4.1.4 Componentes Eletivos||||37|
-||4.1.5 Curricularização da Extensão||||38|
-||4.2 EMENTÁRIO E BIBLIOGRAFIAS||||43|
-||4.3**AVALIAÇÃO**||||70|
-||4.3.1 Avaliação da Aprendizagem||||70|
-||4.3.2 Plano de Avaliação Institucional||||72|
-||4.3.3 Avaliação do Curso||||72|
-||4.3.3.1 Avaliação Externa||||72|
-||4.3.3.2 Avaliação Interna||||73|
-||4.3.4 Avaliação do Projeto Pedagógico do Curso||||73|
-||4.4**ESTÁGIO CURRICULAR**||||73|
-||4.4.1 Convênios de Estágio||||74|
-||4.5**INTEGRAÇÃO**<br>**COM**<br>**AS**|**ORGANIZAÇÕES**|**PÚBLICAS,**|**CIVIS**|**E**|
-||**PARTICULARES**||||74|
-||4.5.1 Integração com os setores públicos, civis e privados||||74|
-
-5
-
 1[INSTITUTOFEDERAL] Parana
 
 Ministerio da Educacao
-
-||4.6**TRABALHO DE CONCLUSÃO DE CURSO**|74|
-|---|---|---|
-||4.7**ATIVIDADES COMPLEMENTARES**|75|
-|5.|POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES|75|
-||5.1**FORMAS DE ACESSO E PERMANÊNCIA**|75|
-|5.1.1 Programas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta|||
-|76|||
-||5.1.2 Aproveitamento de Estudos Anteriores|78|
-||5.1.3 Certificação de Conhecimentos Anteriores|78|
-||5.1.4 Expedição de Diplomas e Certificados|79|
-||5.1.5 Acessibilidade|79|
-||5.1.6 Educação Inclusiva|79|
-||5.1.7 Mobilidade Estudantil e Internacionalização|80|
-|6.|CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|81|
-||6.1. CORPO DOCENTE|81|
-||6.1.1 Atribuições do Coordenador|81|
-||6.1.2 Experiência do Coordenador|82|
-||6.1.3 Núcleo Docente Estruturante (NDE)|82|
-||6.1.4 Relação do Corpo docente|85|
-||6.1.5 Colegiado de Curso|87|
-||6.1.6 Políticas de Capacitação do Corpo Docente|87|
-||6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|88|
-||6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação|89|
-||6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA|89|
-||6.3.1 Funcionamento dos Colegiados de Gestão|89|
-||6.3.2 Representatividade da Comunidade Acadêmica|90|
-||6.3.3 Participação da Sociedade Civil na Gestão do Curso|91|
-|7.|INFRAESTRUTURA|91|
-||7.1 ÁREAS DE ENSINO ESPECÍFICAS|91|
-||7.2 ÁREAS DE ESTUDO GERAL|92|
-||7.3 ÁREAS DE ESTUDO ESPECÍFICO|94|
-||7.4 ÁREAS DE ESPORTE E VIVÊNCIA|94|
-
-6
-
-1[INSTITUTOFEDERAL] Parana
-
-Ministerio da Educacao
-
-|7.5 ÁREAS DE ATENDIMENTO DISCENTE|94|
-|---|---|
-|7.6 ÁREAS DE APOIO|94|
-|7.7 BIBLIOTECA|94|
-|8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA|96|
-|8.1 EXPANSÃO DO QUADRO DOCENTE|96|
-|8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTES E DE CONSUMO|96|
-|8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO|96|
-|REFERÊNCIAS|98|
-|APÊNDICES|104|
-|ANEXOS|121|
-
-7
-
-INSTITUTOFEDERAL Parana
 
 Ministerio da Educacao
 

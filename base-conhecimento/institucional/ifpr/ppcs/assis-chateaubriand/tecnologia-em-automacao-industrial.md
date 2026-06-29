@@ -66,150 +66,16 @@ INSTITUTOFEDERAL Parana
 
 Ministerio da Educacao<br>
 
-## **SUMÁRIO**
-
-|**1. APRESENTAÇÃO DO PROJETO**|**7**|
-|---|---|
-|1.1 IDENTIFICAÇÃO|7|
-|1.1.1 Denominação do Curso|7|
-|1.1.2 Área do Conhecimento/Eixo Tecnológico|7|
-|1.1.3 Modalidade|7|
-|1.1.4 Grau|7|
-|1.1.5 Regime Letivo (Periodicidade)|7|
-|1.1.6 Turno principal do curso|7|
-|1.1.7 Horário de oferta do curso|7|
-|1.1.8 Prazo de Integralização Curricular|7|
-|1.1.9 Carga-Horária total do Curso|7|
-|1.1.10 Vagas totais (anual)|7|
-|1.1.11 Escolaridade mínima exigida|7|
-|1.1.12 Coordenador|8|
-|1.1.14 Endereço de Oferta|8|
-|1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR|9|
-|1.2.1 O Instituto Federal do Paraná|9|
-|1.2.2 O Curso Superior de Tecnologia em Automação Industrial|14|
-|1.2.3 Missão, Visão e Valores|15|
-|1.3 O PROJETO PEDAGÓGICO DO CURSO|17|
-|1.3.1 Integração do Projeto ao PDI, PPI e PPP|17|
-|1.3.2 Fundamentos Legais e Normativos da Área|19|
-|1.3.3 Integração do Projeto com o SINAES|20|
-|**2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**|**22**|
-|2.1 JUSTIFICATIVA|22|
-|2.2 OBJETIVOS|24|
-|2.2.1 Objetivo Geral|24|
-|2.2.2 Objetivos Específicos|25|
-|2.3  RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL|26|
-|2.3.1 A Responsabilidade Social do Curso|26|
-|2.3.2 Meio Ambiente e Desenvolvimento Humano|28|
-|2.3.3 Memória, Patrimônio Artístico e Cultural|29|
-|2.3.4 Comunicação e Relações com a Comunidade|31|
-|2.4 CONCEPÇÃO DO CURSO|32|
-
-3
-
 ## INSTITUTOFEDERAL Parana
 
 Ministerio da Educacao
 
 |||
-|---|---|
-|2.5 PERFIL DO EGRESSO|33|
-|2.5.1 Áreas de Atuação do Egresso|34|
-|2.5.2 Acompanhamento de Egressos|35|
-|2.5.3 Registro Profissional|37|
-|3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS|38|
-|3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO|40|
-|3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO|
-|PROCESSO DE ENSINO-APRENDIZAGEM|43|
-|3.3 ESTRATÉGIAS DE ENSINO E APRENDIZAGEM À DISTÂNCIA|45|
-|3.3.1.1 Material Didático para cursos a distância|45|
-|3.3.1.2 Mecanismos de Interação entre docentes, tutores e estudantes|45|
-|3.3.1.3 Atividades de Tutoria|45|
-|3.1.1.4 Ambiente Virtual de Aprendizagem (AVA)|45|
-|4. ORGANIZAÇÃO CURRICULAR|46|
-|4.1 ESTRUTURA CURRICULAR|46|
-|4.1.1 Representação Gráfica do Processo Formativo|48|
-|4.1.2  Matriz Curricular|49|
-|4.1.3 Atividades complementares|51|
-|4.1.4 Componentes Optativos (CO)|53|
-|4.1.5 Componentes Eletivos|55|
-|4.2 EMENTÁRIO E BIBLIOGRAFIAS|58|
-|4.3 AVALIAÇÃO|111|
-|4.3.1 Avaliação da Aprendizagem|111|
-|4.3.2 Plano de Avaliação Institucional|114|
-|4.3.3 Avaliação do Curso|116|
-|4.3.4 Avaliação do Projeto Pedagógico do Curso|117|
-|4.4 ESTÁGIO CURRICULAR|118|
-|4.4.1 Características do Estágio|119|
-|4.4.2 Convênios de Estágio|119|
-|4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E|
-|PARTICULARES|121|
-|4.5.1 Integração com as redes públicas de ensino e proposição de atividades|
-|práticas de ensino para licenciaturas|123|
-|4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de|
-|atividades práticas de ensino para áreas da saúde|123|
-|4.5.3  Integração com os setores públicos, civis e privados|123|
-
-4
-
 ## INSTITUTOFEDERAL
 
 Parana
 
 Ministerio da Educacao
-
-||4.6 TRABALHO DE CONCLUSÃO DE CURSO / PROJETO INTEGRADOR|124|
-|---|---|---|
-||4.7 ATIVIDADES COMPLEMENTARES|125|
-|**5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**|**5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**|**126**|
-||5.1 FORMAS DE ACESSO E PERMANÊNCIA|126|
-||5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação,  Inclusão Social e|5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação,  Inclusão Social e|
-||Assistência estudantil|126|
-||5.1.2 Aproveitamento de Estudos Anteriores|129|
-||5.1.3  Certificação de Conhecimentos Anteriores|130|
-||5.1.4  Expedição de Diplomas e Certificados|131|
-||5.1.5  Acessibilidade|132|
-||5.1.6  Educação Inclusiva|133|
-|**6. EQUIPE MULTIDISCIPLINAR**|**6. EQUIPE MULTIDISCIPLINAR**|**137**|
-||6.1. CORPO DOCENTE|137|
-||6.1.1 Atribuições do Coordenador|137|
-||6.1.2 Experiência do Coordenador|138|
-||6.1.3 Núcleo Docente Estruturante (NDE)|138|
-||6.1.4 Relação do Corpo docente|139|
-||6.1.5 Colegiado de Curso|140|
-||6.1.6 Políticas de Capacitação do Corpo Docente|141|
-||6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|142|
-||6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo|143|
-||6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA|145|
-||6.3.1 Funcionamento dos Colegiados de Gestão|145|
-||6.3.2 Representatividade da Comunidade Acadêmica|146|
-||6.3.3 Participação da Sociedade Civil na Gestão do Curso|147|
-|**7. INFRAESTRUTURA**|**7. INFRAESTRUTURA**|**148**|
-||7.1 ÁREAS DE ENSINO ESPECÍFICAS|148|
-||7.2 ÁREAS DE ESTUDO GERAL|148|
-||7.3 ÁREAS DE ESTUDO ESPECÍFICO|149|
-||7.4 ÁREAS DE ESPORTE E VIVÊNCIA|149|
-||7.5 ÁREAS DE ATENDIMENTO DISCENTE|149|
-||7.6 ÁREAS DE APOIO|150|
-||7.7 BIBLIOTECA|150|
-|**8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA**|**8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA**|**151**|
-||8.1 EXPANSÃO DO QUADRO DOCENTE|151|
-||8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 152||
-
-5
-
-INSTITUTOFEDERAL Parana
-
-|||
-|---|---|
-|Parana|Ministerio da Educacao|
-|8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO|152|
-|REFERÊNCIAS|154|
-|APÊNDICES|156|
-|APÊNDICE A - REGULAMENTO DE ATIVIDADES COMPLEMENTARES|157|
-|APÊNDICE B - REGULAMENTO DE ATIVIDADES PARA CREDITAÇÃO DA|
-|EXTENSÃO|162|
-
-6
 
 ## INSTITUTOFEDERAL
 

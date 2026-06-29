@@ -7,18 +7,6 @@
 
 Av. Victor Ferreira do Amaral, 306 - Tarumã,  Curitiba - PR | CEP 82530-230  - Brasil
 
-**SUMÁRIO 1. IDENTIFICAÇÃO DO CURSO** …………………………………...…………………………..……...….….3 1.1. CARACTERÍSTICAS DO CURSO…………………………………………………………..……...….…..5 **2. JUSTIFICATIVA** ………………………………………………………………………………….….……...….….6 **3. OBJETIVOS DO CURSO** …………………………………………………………………………..…...….....7 **4. PERFIL PROFISSIONAL DE CONCLUSÃO** ………………………………………………..……...….8 **5. CERTIFICADOS E DIPLOMAS A SEREM EMITIDOS** …………………………….….……....……8 **6. ORGANIZAÇÃO CURRICULAR** …………………………………………………………..……….....…….9 6.1 PRESSUPOSTOS PEDAGÓGICOS……………………………………………………..…………….….14 6.2 ORIENTAÇÃO METODOLÓGICA………………………………………………………...………...…..15 6.3 AVALIAÇÃO DO PROCESSO ENSINO-APRENDIZAGEM…………………...…………….……17 6.3.1 CONCEPÇÃO DE AVALIAÇÃO……………………………………...……………......……18 6.3.2 RECUPERAÇÃO PARALELA…………………………………………...…………..…...…...20 6.3.3 FORMA DE EMISSÃO DE RESULTADOS………………………..……………....…..21 6.3.4 CONDIÇÕES DE APROVAÇÃO……………………………………...……………….…..21 6.3.5 PROGRESSÃO PARCIAL……………………………………………...………………....….21 6.3.6 CERTIFICAÇÃO DE CONHECIMENTOS……………………...………………….......22 6.3.7 APROVEITAMENTO DE ESTUDOS…………………………...……………………......23 6.4 PRÁTICAS PROFISSIONAIS………………………………………………………...………………...…...24 6.4.1 PRÁTICAS PREVISTAS EM SALA DE AULA………….…………………………...…..24 6.4.2 ESTÁGIO – PRÁTICA PROFISSIONAL NO CAMPO DE TRABALHO…….….24 6.5 CONTEÚDOS OBRIGATÓRIOS…………………………………………………………………………...25 6.6 COMPONENTES…………………………………………………………………………………………….….26 6.6.1 OBRIGATÓRIOS…………………………………………………………………………….…..26 6.6.2 ELETIVOS (se houver)..................................................................................27 6.6.3 OPTATIVOS (se houver)...............................................................................27 6.7 RAZÕES E OBJETIVOS PEDAGÓGICOS PARA O(S) TURNO(S) E HORÁRIOS DO CURSO..........................................................27 6.8 DURAÇÃO DA HORA-AULA…………………………………………………………………………...……27 6.9 CRITÉRIOS PARA ISONOMIA NA OFERTA DOS COMPONENTES CURRICULARES...28 6.10 ATIVIDADES COMPLEMENTARES…………………………………………………………………......28 6.11 TRABALHO DE CONCLUSÃO DE CURSO (TCC)..........................................................28 6.12 VISITAS TÉCNICAS E/OU EVENTOS DO CURSO………………………………………………….29 6.13 TEMAS TRANSVERSAIS……………………………………………………………………………………..29 6.14 MATRIZ CURRICULAR……………………………………………………………………………………….30 6.15 EMENTAS DOS COMPONENTES CURRICULARES……………………………………………...32 7. INFRAESTRUTURA MÍNIMA REQUERIDA……………………………………………………………….38 8. INFRAESTRUTURA PARA ATENDIMENTO ÀS NECESSIDADES ESPECIAIS…………….….39 9. PERFIL DO PESSOAL DOCENTE E TÉCNICO………………………………………………….……….40
-
-**INSTITUTO FEDERAL DO PARANÁ | Pró-Reitoria de Ensino - PROENS**
-
-Av. Victor Ferreira do Amaral, 306 - Tarumã,  Curitiba - PR | CEP 82530-230  - Brasil
-
-10. AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO (PPC)......................................41 REFERÊNCIAS…………………………………………………………………………………………………………..42 ANEXOS…………………………………………………………………………………………………………………..47 ANEXO 1: REGULAMENTO DE ATIVIDADES COMPLEMENTARES DO CURSO TÉCNICO EM TEATRO NA FORMA DE OFERTA SUBSEQUENTE.......................................................47 ANEXO 2: REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO TÉCNICO EM TEATRO NA FORMA DE OFERTA SUBSEQUENTE.......................................................49
-
-**INSTITUTO FEDERAL DO PARANÁ | Pró-Reitoria de Ensino - PROENS**
-
-Av. Victor Ferreira do Amaral, 306 - Tarumã,  Curitiba - PR | CEP 82530-230  - Brasil
-
 ## **1. IDENTIFICAÇÃO DO CURSO**
 
 ## **NÚMERO DO PROCESSO: 23407.000156/2012-65**

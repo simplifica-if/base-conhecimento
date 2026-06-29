@@ -94,38 +94,6 @@ Ministerio da Educacao
 
 ## INSTITUTOFEDERAL
 
-|**1.APRESENTAÇÃO DO PROJETO**|**7**|
-|---|---|
-|1.1 IDENTIFICAÇÃO|7|
-|1.1.1 Denominação do Curso|7|
-|1.1.2 Área do Conhecimento/Eixo Tecnológico|7|
-|1.1.3 Modalidade|7|
-|1.1.4 Grau|7|
-|1.1.5 Regime Letivo (Periodicidade)|7|
-|1.1.6 Turno principal do curso|7|
-|1.1.7 Horário de oferta do curso|7|
-|1.1.8 Prazo de Integralização Curricular|7|
-|1.1.9 Carga-Horária total do Curso|7|
-|1.1.10 Vagas totais (anual)|8|
-|1.1.11 Escolaridade mínima exigida|8|
-|1.1.12 Coordenador|8|
-|1.1.13 Coordenador substituto|8|
-|1.1.14 Endereço de Oferta|8|
-|1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR|9|
-|1.2.1 O Instituto Federal do Paraná|9|
-|1.2.2 O Curso Superior de Licenciatura em Pedagogia|11|
-|1.2.3 Missão, Visão e Valores|12|
-|**2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**|**13**|
-|2.1 JUSTIFICATIVA|14|
-|2.2 OBJETIVOS|20|
-|2.4 CONCEPÇÃO DO CURSO|22|
-|2.5 PERFIL DO EGRESSO|25|
-|2.5.1 Áreas de Atuação do Egresso|26|
-|2.5.2 Acompanhamento de Egressos|27|
-|2.5.3 Registro Profissional|28|
-|**3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**|**28**|
-|3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO|29|
-
 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO
 
 4
@@ -137,72 +105,7 @@ Ministerio da Educacao
 ## INSTITUTOFEDERAL
 
 ||DE ENSINO-APRENDIZAGEM|31|
-|---|---|---|
-|**4. ORGANIZAÇÃO CURRICULAR**|**4. ORGANIZAÇÃO CURRICULAR**|**32**|
-||4.1 ESTRUTURA CURRICULAR|32|
-||4.1.1 Representação Gráfica do Processo Formativo|34|
-||4.1.2  Matriz Curricular|38|
-||4.1.3 Componentes Optativos|41|
-||4.1.4 Componentes Eletivos|41|
-||4.2 EMENTÁRIO E BIBLIOGRAFIAS|42|
-||4.3 AVALIAÇÃO|96|
-||4.3.1 Avaliação da Aprendizagem|96|
-||4.3.2 Plano de Avaliação Institucional|99|
-||4.3.3 Avaliação do Curso|100|
-||4.3.4 Avaliação do Projeto Pedagógico do Curso|100|
-||4.4 ESTÁGIO CURRICULAR|101|
-||4.4.2 Convênios de Estágio|102|
-||4.6 TRABALHO DE CONCLUSÃO DE CURSO|102|
-||4.7 ATIVIDADES COMPLEMENTARES|103|
-|**5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**|**5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**|**103**|
-||5.1 FORMAS DE ACESSO E PERMANÊNCIA|103|
-||5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação,  Inclusão Social e Assitência||
-||estudantil|103|
-||5.1.2 Aproveitamento de Estudos Anteriores|107|
-||5.1.3  Certificação de Conhecimentos Anteriores|109|
-||5.1.4  Expedição de Diplomas e Certificados|109|
-||5.1.5  Acessibilidade|109|
-||5.1.7  Mobilidade Estudantil e Internacionalização|111|
-|**6. EQUIPE MULTIDISCIPLINAR**|**6. EQUIPE MULTIDISCIPLINAR**|**112**|
-||6.1. CORPO DOCENTE|112|
-||6.1.1 Atribuições do Coordenador|112|
-||6.1.2 Experiência do Coordenador|115|
-||6.1.4 Relação do Corpo docente|116|
-||6.1.5 Colegiado de Curso|119|
-||6.1.6 Políticas de Capacitação do Corpo Docente|121|
-||6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|121|
-||6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação|128|
-
-5
-
-INSTITUTOFEDERAL Parana
-
 Ministerio da Educacao
-
-|**7. INFRAESTRUTURA**|**128**|
-|---|---|
-|7.1 ÁREAS DE ENSINO ESPECÍFICAS|129|
-|7.2 ÁREAS DE ESTUDO GERAL|129|
-|7.3 ÁREAS DE ESTUDO ESPECÍFICO|129|
-|7.4 ÁREAS DE ESPORTE E VIVÊNCIA|130|
-|7.5 ÁREAS DE ATENDIMENTO DISCENTE|130|
-|7.6 ÁREAS DE APOIO|130|
-|7.7 BIBLIOTECA|131|
-|**8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA**|**134**|
-|8.1 EXPANSÃO DO QUADRO DOCENTE|134|
-|8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO|135|
-|**REFERÊNCIAS**|**135**|
-|APÊNDICE A - NORMAS TCC                                                                                           137|APÊNDICE A - NORMAS TCC                                                                                           137|
-|APÊNDICE B - NORMAS ATIVIDADES COMPLEMENTARES|APÊNDICE B - NORMAS ATIVIDADES COMPLEMENTARES|
-|149||
-|APÊNDICE C - NORMAS DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO|APÊNDICE C - NORMAS DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO|
-|156||
-|APÊNDICE D- NORMAS BRINQUEDOTECA                                                                   168|APÊNDICE D- NORMAS BRINQUEDOTECA                                                                   168|
-|APÊNDICE E - NORMAS DE ESTÁGIO NÃO OBRIGATÓRIO                                       175|APÊNDICE E - NORMAS DE ESTÁGIO NÃO OBRIGATÓRIO                                       175|
-
-6
-
-INSTITUTOFEDERAL Parana
 
 Ministerio da Educacao
 

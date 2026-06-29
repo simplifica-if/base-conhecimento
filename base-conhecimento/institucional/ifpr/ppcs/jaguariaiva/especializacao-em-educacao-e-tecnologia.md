@@ -31,8 +31,6 @@ Odacir Antonio Zanatta
 
 Danilo Augusto Ferreira de Jesuz
 
-## **SUMÁRIO**
-
 1. IDENTIFICAÇÃO DA PROPOSTA
 
 2. DADOS DO PROPONENTE

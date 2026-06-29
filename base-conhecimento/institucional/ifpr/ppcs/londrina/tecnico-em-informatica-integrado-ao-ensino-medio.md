@@ -37,12 +37,6 @@ Fernando Accorsi
 
 Jefferson Sussumu de Aguiar Hachiya
 
-## **SUMÁRIO**
-
-1. IDENTIFICAÇÃO DO PROJETO ................................................................................................. 3 2. CARACTERÍSTICAS DO CURSO ............................................................................................... 4 3. ESTRUTURA E FUNCIONAMENTO ........................................................................................... 5 3.1 Justificativa da oferta do Curso .............................................................................................. 5 3.2 Objetivos.............................................................................................................................. 12 3.3 Requisitos de acesso ao Curso ............................................................................................ 13 3.4 Perfil profissional de conclusão ............................................................................................ 14 3.5 Critérios de avaliação de aprendizagem ............................................................................... 15 3.6. Certificação de conhecimentos ........................................................................................... 17 3.7. Aproveitamento de Estudos para fins de avanço ou dispensa de frequência em Componente Curricular .............................................................................................................. 18 3.8 Instalações e equipamentos, recursos tecnológicos e biblioteca .......................................... 18 3.9 Pessoas envolvidas: docentes e técnicos ............................................................................ 21 3.10 Descrição de diplomas e certificados a serem expedidos ................................................... 24 3.11 Organização Curricular ...................................................................................................... 25 3.11.1 Pressupostos pedagógicos .......................................................................................... 25 3.11.2 Orientações Metodológicas ......................................................................................... 25 3.11.3 Descrição conceitual da matriz curricular, as razões da escolha dos componentes, carga horária e distribuição nas séries. .................................................................................. 28 3.11.4 Temas Transversais .................................................................................................... 30 3.11.5 Componentes Curriculares .......................................................................................... 33 3.11.6 Ementas dos Componentes Curriculares ..................................................................... 37 3.11.7 Trabalho de Conclusão de Curso .............................................................................. 111 4. DOCUMENTOS ANEXOS ...................................................................................................... 112 4.1. ANEXO 1 – Portaria 69: Institui a comissão responsável pela reformulação do PPC do TINFEM ................................................................................................................................... 112 4.2. ANEXO 2 – Regulamento do Trabalho de Conclusão de Curso ........................................ 114 4.3 ANEXO 3 - Regulamentação do Estágio Não-Obrigatório .................................................. 118 5. REFERÊNCIAS ....................................................................................................................... 121
-
-3
-
 ## **1. IDENTIFICAÇÃO DO PROJETO**
 
 **PROCESSO NÚMERO:** 23403.000360/2011-35
@@ -165,21 +159,6 @@ A tabela 3 mostra as demandas de financiamento específicas para as empresas do 
 **TABELA 3. Demandas de financiamento específicas das empresas do APL de software de Londrina.**
 
 ORDEM  TIPO DE DEMANDA  NUMERO<br>1  Desenvolvimento de novos produtos  5<br>|||||||||
-|---|---|---|---|---|---|---|---|
-|2|Investimento nas plataformas para a evolução de|4|
-|software já existentes|
-|3|Realização de pesquisa de mercado|2|
-|4|Abertura|e|fortalecimento|de|canais|de|2|
-|comercialização|
-|5|Abertura de novos mercados|2|
-|6|Aquisição de|hardware|2|
-|7|Protótipos de jogos|1|
-|8|Melhoria de sistemas já existentes|1|
-|9|Aquisição de Datacenter|1|
-|10|Aquisição de Licenças de|software|1|
-|11|Valores menores para os empréstimos e respectivas|1|
-|contrapartidas|
-
 **Fonte: Pesquisa de campo, 2006.**
 
 9
@@ -189,21 +168,6 @@ A tabela 4 resume um conjunto de sugestões para compor as políticas governamen
 ## **TABELA 4. Demandas de financiamento específicas das empresas do APL de software de Londrina.**
 
 Ordem  Sugestões das Empresas  Número<br>1.  Estímulos à cooperação com ações voltadas para pequenas  9<br>|||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|empresas.|
-|2.|Necessidade de linhas de créditos, juros mais baixos, prazos|9|
-|maiores e capital de giro.|
-|3.|Integração de empresas e entre pólos e recursos para a|6|
-|realização de workshops para a troca de experiências.|
-|4.|Cultura|das|empresas da|cidade|no|que se|refere|aos|5|
-|produtos, informação e divulgação.|
-|5.|Carga tributária, ausência de incentivos fiscais e incentivos|17|
-|governamentais de uma maneira geral.|
-|6.|Qualificação de mão-de-obra e promoção de eventos, tais|11|
-|como congressos.|
-|7.|Necessidade de estimular a entrada de grandes empresas|1|
-|na cidade para alavancar o mercado.|
-
 ## **Fonte: Pesquisa de campo, 2006.**
 
 É importante compreender que as potencialidades existentes na região de Londrina, permitem justificar a formação dos alunos para o mundo do trabalho, sem deixar de atender a formação crítica, humana e social, baseado em critérios econômicos, políticos e sociais.
