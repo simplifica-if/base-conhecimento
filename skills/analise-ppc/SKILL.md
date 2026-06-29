@@ -36,9 +36,9 @@ Read .claude/skills/analise-ppc/instrucoes.md
 5. Spawnar um sub-agente por grupo na conversa atual.
 6. Coletar as respostas em `arquivos-suporte/resultados-subagents.json`, incluindo evidências estruturadas e achados opcionais em `fundamentacao_normativa`.
 7. Executar síntese transversal por sub-agente usando `validacoes_cruzadas`; cada alerta deve trazer `validacao_id`.
-8. Gerar o relatório HTML determinístico com busca/filtros.
+8. Gerar o relatório HTML determinístico com busca/filtros e publicar no Surge por padrão.
 
-Ao final, informe explicitamente o link de abertura do relatório retornado pelo comando. O relatório final fica em `output/<rodada>/relatorio-analise.html` e os arquivos de suporte da rodada ficam em `output/<rodada>/arquivos-suporte/`.
+Ao final, informe explicitamente o link de abertura do relatório retornado pelo comando, preferencialmente `surge_url` ou `publicacao_url`. O relatório local fica em `output/<rodada>/relatorio-analise.html`; a pasta enviada ao Surge fica em `arquivos-suporte/surge-site/`; os metadados da publicação ficam em `arquivos-suporte/surge-publicacao.json`; e os demais arquivos de suporte da rodada ficam em `output/<rodada>/arquivos-suporte/`. Use `--sem-surge` apenas quando a publicação externa não for desejada.
 
 ## Ponto de entrada
 

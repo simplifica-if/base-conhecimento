@@ -9,8 +9,10 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
+from common import round_paths, write_json
 from gerar_relatorio_html import gerar_relatorio_html, validar_resultados_rodada
 from preparar_documento import preparar_documento
+from publicar_surge import dominio_surge_padrao, preparar_site_surge, publicar_site_surge
 from subagents import (
     mesclar_resultados_avulsos,
     montar_grupo_avulso,
@@ -23,13 +25,25 @@ def _print_payload(payload: object) -> None:
     print(json.dumps(payload, ensure_ascii=False, indent=2))
 
 
-def _relatorio_payload(path: Path) -> dict[str, str]:
+def _relatorio_payload(path: Path, publicacao: dict[str, object] | None = None) -> dict[str, object]:
     relatorio = path.resolve()
-    return {
+    payload: dict[str, object] = {
         "relatorio_html": str(relatorio),
         "relatorio_url": relatorio.as_uri(),
         "mensagem": f"Relatório pronto: {relatorio.as_uri()}",
     }
+    if publicacao:
+        public_url = str(publicacao.get("public_url") or "")
+        payload.update(
+            {
+                "publicacao_servico": publicacao.get("servico"),
+                "publicacao_url": public_url,
+                "surge_url": public_url,
+                "surge_domain": publicacao.get("domain"),
+                "mensagem": f"Relatório pronto: {public_url or relatorio.as_uri()}",
+            }
+        )
+    return payload
 
 
 def _resumo_grupos_subagents(payload: dict[str, object]) -> dict[str, object]:
@@ -97,7 +111,20 @@ def cmd_gerar_relatorio_html(args: argparse.Namespace) -> int:
         rodada_dir=Path(args.rodada_dir),
         resultados_path=Path(args.resultados),
     )
-    _print_payload(_relatorio_payload(payload["relatorio_html"]))
+    publicacao = None
+    if not args.sem_surge:
+        caminhos = round_paths(Path(args.rodada_dir))
+        site_dir = preparar_site_surge(
+            payload["relatorio_html"],
+            caminhos["suporte_dir"] / "surge-site",
+        )
+        publicacao = publicar_site_surge(
+            site_dir,
+            dominio=args.surge_domain or dominio_surge_padrao(caminhos["rodada_dir"]),
+        )
+        publicacao["relatorio_html_original"] = str(Path(payload["relatorio_html"]).resolve())
+        write_json(caminhos["suporte_dir"] / "surge-publicacao.json", publicacao)
+    _print_payload(_relatorio_payload(payload["relatorio_html"], publicacao=publicacao))
     return 0
 
 
@@ -198,6 +225,16 @@ def build_parser() -> argparse.ArgumentParser:
         type=str,
         default="resultados-subagents.json",
         help="JSON coletado dos sub-agentes; relativo a arquivos-suporte quando não absoluto",
+    )
+    parser_relatorio.add_argument(
+        "--sem-surge",
+        action="store_true",
+        help="Gerar apenas o HTML local, sem publicar no Surge.",
+    )
+    parser_relatorio.add_argument(
+        "--surge-domain",
+        type=str,
+        help="Domínio Surge de publicação; padrão: analise-ppc-<rodada>.surge.sh.",
     )
     parser_relatorio.set_defaults(func=cmd_gerar_relatorio_html)
 

@@ -15,6 +15,7 @@ from gerar_relatorio_html import ErroResultadosSubagents, gerar_relatorio_html, 
 from preparar_documento import _mesclar_identificacao_preferindo_preenchidos, preparar_documento
 from cnct_catalogo import comparar_ppc_com_cnct
 from analise_ppc import main as analise_ppc_main
+from publicar_surge import dominio_surge_padrao, preparar_site_surge, publicar_site_surge
 from subagents import (
     agrupar_fichas,
     carregar_fichas_ordenadas,
@@ -482,6 +483,92 @@ def test_gerar_relatorio_html_aceita_resultados_validos(tmp_path: Path) -> None:
     assert "CT-IDENT-01" in html
     assert 'id="filtro-busca"' in html
     assert 'id="filtro-feedback"' in html
+
+
+def test_publicar_site_surge_chama_cli_com_pasta_e_dominio(tmp_path: Path) -> None:
+    relatorio = tmp_path / "relatorio.html"
+    relatorio.write_text("<!doctype html><html><body><script>ok()</script></body></html>", encoding="utf-8")
+    site_dir = preparar_site_surge(relatorio, tmp_path / "surge-site")
+    args_path = tmp_path / "args.json"
+    fake = tmp_path / "surge-fake.py"
+    fake.write_text(
+        "\n".join(
+            [
+                "#!/usr/bin/env python3",
+                "import json, sys",
+                f"open({str(args_path)!r}, 'w').write(json.dumps(sys.argv[1:]))",
+                "print('Success - Published to analise-ppc-teste.surge.sh')",
+            ]
+        ),
+        encoding="utf-8",
+    )
+    fake.chmod(0o755)
+
+    payload = publicar_site_surge(
+        site_dir,
+        dominio="analise-ppc-teste.surge.sh",
+        comando=[str(fake)],
+    )
+
+    assert payload["public_url"] == "https://analise-ppc-teste.surge.sh"
+    assert payload["domain"] == "analise-ppc-teste.surge.sh"
+    assert "<script>ok()</script>" in (site_dir / "index.html").read_text(encoding="utf-8")
+    args = json.loads(args_path.read_text(encoding="utf-8"))
+    assert args == [str(site_dir.resolve()), "analise-ppc-teste.surge.sh"]
+
+
+def test_dominio_surge_padrao_usa_nome_da_rodada() -> None:
+    dominio = dominio_surge_padrao(Path("/tmp/2026-06-29t10-00-00-ppc-tecnico-em-informatica---quedas"))
+
+    assert dominio == "analise-ppc-2026-06-29t10-00-00-ppc-tecnico-em-informatica.surge.sh"
+
+
+def test_cli_gerar_relatorio_html_publica_surge_por_padrao(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", _payload_resultados_completos())
+    fake = tmp_path / "surge-fake.py"
+    fake.write_text(
+        "\n".join(
+            [
+                "#!/usr/bin/env python3",
+                "print('Success - Published')",
+            ]
+        ),
+        encoding="utf-8",
+    )
+    fake.chmod(0o755)
+    monkeypatch.setenv("ANALISE_PPC_SURGE_CMD", str(fake))
+
+    assert (
+        analise_ppc_main(
+            [
+                "gerar-relatorio-html",
+                "--rodada-dir",
+                str(rodada_dir),
+                "--surge-domain",
+                "relatorio-ppc.surge.sh",
+            ]
+        )
+        == 0
+    )
+
+    saida = json.loads(capsys.readouterr().out)
+    assert saida["publicacao_servico"] == "surge"
+    assert saida["surge_url"] == "https://relatorio-ppc.surge.sh"
+    assert saida["mensagem"] == "Relatório pronto: https://relatorio-ppc.surge.sh"
+    assert caminhos["relatorio_html"].exists()
+    surge_index = caminhos["suporte_dir"] / "surge-site" / "index.html"
+    assert surge_index.exists()
+    assert "<script" in surge_index.read_text(encoding="utf-8").casefold()
+    publicacao = read_json(caminhos["suporte_dir"] / "surge-publicacao.json")
+    assert publicacao["domain"] == "relatorio-ppc.surge.sh"
+    assert publicacao["site_dir"] == str((caminhos["suporte_dir"] / "surge-site").resolve())
+    assert publicacao["relatorio_html_original"] == str(caminhos["relatorio_html"].resolve())
 
 
 def test_validar_resultados_rodada_retorna_resumo_sem_gerar_html(tmp_path: Path) -> None:

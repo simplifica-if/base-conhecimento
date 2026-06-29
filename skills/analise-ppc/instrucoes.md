@@ -168,10 +168,10 @@ python3 -B .agents/skills/analise-ppc/scripts/gerar_indice_base_analise.py
 
 ## Entrega do relatório
 
-Ao concluir `gerar-relatorio-html`, use o caminho `relatorio_html` ou a URL `relatorio_url` retornada pelo comando para avisar a pessoa:
+Ao concluir `gerar-relatorio-html`, use preferencialmente a URL `surge_url` ou `publicacao_url` retornada pelo comando para avisar a pessoa. O comando publica o HTML interativo no Surge por padrão e também mantém o arquivo local em `relatorio_html`. Se a publicação externa não for desejada, rode com `--sem-surge`.
 
 ```text
-Relatório pronto: [abrir relatório](file:///.../relatorio-analise.html)
+Relatório pronto: [abrir relatório](https://analise-ppc-<rodada>.surge.sh)
 ```
 
 Não peça para a pessoa procurar o arquivo dentro dos artefatos.

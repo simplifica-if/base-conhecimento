@@ -29,7 +29,7 @@ Use a skill analise-ppc para analisar o PPC em documentos/PPC_Curso_Tecnico.docx
 Ao final, a IA deve informar um link para abrir o relatório:
 
 ```text
-Relatório pronto: [abrir relatório](file:///.../relatorio-analise.html)
+Relatório pronto: [abrir relatório](https://analise-ppc-<rodada>.surge.sh)
 ```
 
 ## Onde ficam os resultados
@@ -45,7 +45,7 @@ Dentro da rodada:
 - `relatorio-analise.html` é o relatório final que deve ser aberto.
 - `arquivos-suporte/` guarda os arquivos usados para produzir o relatório.
 
-O relatório HTML é autocontido: a pessoa só precisa abrir `relatorio-analise.html` para verificar o resultado.
+O relatório HTML é autocontido. Ao gerar o relatório pelo comando da skill, ele também é publicado no Surge por padrão, preservando os filtros em JavaScript; a URL pública é retornada nos campos `publicacao_url` e `surge_url`, e os metadados da publicação ficam em `arquivos-suporte/surge-publicacao.json`. A pasta enviada ao Surge fica em `arquivos-suporte/surge-site/`. Para publicação real, autentique a CLI do Surge previamente ou configure as credenciais de automação do Surge no ambiente. Use `--sem-surge` apenas quando quiser gerar somente o arquivo local.
 
 ## Fluxo técnico
 
