@@ -679,6 +679,44 @@ def test_gerar_relatorio_html_aceita_resultados_validos(tmp_path: Path) -> None:
     assert 'id="filtro-modo"' in html
 
 
+def test_gerar_relatorio_html_ordena_margem_pela_posicao_no_ppc(tmp_path: Path) -> None:
+    rodada_dir = _criar_rodada(tmp_path)
+    caminhos = round_paths(rodada_dir)
+    payload = _payload_resultados_completos()
+
+    def ancorar(ficha_id: str, block_id: str, quote: str, secao: str) -> None:
+        for grupo in payload["grupos"]:
+            for resultado in grupo["resultados"]:
+                if resultado["ficha_id"] != ficha_id:
+                    continue
+                total = max(3, len(resultado["evidencias"]))
+                resultado["evidencias"] = [
+                    {
+                        "trecho": quote,
+                        "secao": secao,
+                        "fonte": "PPC.md",
+                        "anchor": {"block_id": block_id, "quote": quote},
+                    }
+                    for _ in range(total)
+                ]
+                return
+        raise AssertionError(f"Ficha não encontrada no payload de teste: {ficha_id}")
+
+    ancorar("CT-CURR-01", "ppc-b00004", "O curso apresenta objetivos", "Apresentação")
+    ancorar("CT-IDENT-01", "ppc-b00002", "Curso: Curso Técnico em Informática", "Identificação")
+    write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
+
+    gerar_relatorio_html(rodada_dir, Path("resultados-subagents.json"))
+
+    html = caminhos["relatorio_html"].read_text(encoding="utf-8")
+    margem = html.index('<aside class="review-margin"')
+    pos_ident = html.index('<p class="annotation-kicker">CT-IDENT-01', margem)
+    pos_curr = html.index('<p class="annotation-kicker">CT-CURR-01', margem)
+    assert pos_ident < pos_curr
+    assert 'id="ann-001"' in html[:pos_curr]
+    assert 'href="#ann-001"' in html
+
+
 def test_publicar_site_surge_chama_cli_com_pasta_e_dominio(tmp_path: Path) -> None:
     relatorio = tmp_path / "relatorio.html"
     relatorio.write_text("<!doctype html><html><body><script>ok()</script></body></html>", encoding="utf-8")
@@ -890,8 +928,29 @@ def test_gerar_relatorio_html_usa_assets_externos_e_ppc_anotado(tmp_path: Path) 
                 "block_id": "ppc-b00002",
                 "quote": "Curso: Curso Técnico em Informática",
             },
-        }
-        for _ in range(3)
+        },
+        {
+            "trecho": "O curso apresenta objetivos",
+            "secao": "Apresentação",
+            "localizador": "Corpo da seção",
+            "fonte": "PPC.md",
+            "artefato": "",
+            "anchor": {
+                "block_id": "ppc-b00004",
+                "quote": "O curso apresenta objetivos",
+            },
+        },
+        {
+            "trecho": "Campus: Assis Chateaubriand",
+            "secao": "Identificação",
+            "localizador": "Cabeçalho",
+            "fonte": "PPC.md",
+            "artefato": "",
+            "anchor": {
+                "block_id": "ppc-b00002",
+                "quote": "Campus: Assis Chateaubriand",
+            },
+        },
     ]
     write_json(caminhos["suporte_dir"] / "resultados-subagents.json", payload)
 
@@ -911,6 +970,9 @@ def test_gerar_relatorio_html_usa_assets_externos_e_ppc_anotado(tmp_path: Path) 
     assert "Curso: Curso Técnico em Informática" in html
     assert 'href="#ann-001"' in html
     assert 'href="#ppc-b00002"' in html
+    assert 'href="#ppc-b00004"' in html
+    assert "Ir para seção" in html
+    assert "Ver no PPC" not in html
     assert '\n          <section id="ppc-b00002"' in html
     assert '></section><section id=' not in html
     assert max(len(linha) for linha in html.splitlines()) < 260

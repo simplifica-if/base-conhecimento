@@ -722,27 +722,77 @@ def _item_acionavel(item: dict[str, Any]) -> bool:
     )
 
 
+def _posicao_quote_no_bloco(quote: str, bloco: PPCBlock | None) -> int:
+    if not quote or not bloco:
+        return 0
+    posicao = bloco.text.find(quote)
+    if posicao >= 0:
+        return posicao
+    bloco_normalizado = _normalizar_texto(bloco.text)
+    quote_normalizado = _normalizar_texto(quote)
+    if not quote_normalizado:
+        return 0
+    posicao_normalizada = bloco_normalizado.find(quote_normalizado)
+    return posicao_normalizada if posicao_normalizada >= 0 else 0
+
+
 def _preparar_anotacoes(resultados: list[dict[str, Any]], blocos: list[PPCBlock]) -> dict[str, Any]:
     por_bloco: dict[str, list[dict[str, Any]]] = {}
     soltas: list[dict[str, Any]] = []
-    anotacoes: list[dict[str, Any]] = []
-    for indice, item in enumerate(resultados, start=1):
+    blocos_por_id = {bloco.id: bloco for bloco in blocos}
+    ordem_blocos = {bloco.id: indice for indice, bloco in enumerate(blocos)}
+    preparadas: list[dict[str, Any]] = []
+    for indice_original, item in enumerate(resultados, start=1):
         anchor_id = ""
         quote = ""
+        evidencias_preparadas = []
         for evidencia in item["evidencias"]:
-            anchor_id, quote = _resolver_anchor_evidencia(evidencia, blocos)
-            if anchor_id:
-                break
+            evidencia_anchor_id, evidencia_quote = _resolver_anchor_evidencia(evidencia, blocos)
+            evidencias_preparadas.append(
+                {
+                    **evidencia,
+                    "anchor_id": evidencia_anchor_id,
+                    "quote": evidencia_quote,
+                }
+            )
+            if evidencia_anchor_id and not anchor_id:
+                anchor_id = evidencia_anchor_id
+                quote = evidencia_quote
+        bloco = blocos_por_id.get(anchor_id)
+        preparadas.append(
+            {
+                **item,
+                "evidencias": evidencias_preparadas,
+                "anchor_id": anchor_id,
+                "quote": quote,
+                "acionavel": _item_acionavel(item),
+                "_ordem_bloco": ordem_blocos.get(anchor_id, len(blocos) + indice_original),
+                "_ordem_quote": _posicao_quote_no_bloco(quote, bloco),
+                "_ordem_original": indice_original,
+            }
+        )
+
+    preparadas.sort(
+        key=lambda item: (
+            0 if item["anchor_id"] else 1,
+            item["_ordem_bloco"],
+            item["_ordem_quote"],
+            item["ficha_id"],
+            item["_ordem_original"],
+        )
+    )
+
+    anotacoes: list[dict[str, Any]] = []
+    for indice, item in enumerate(preparadas, start=1):
         anotacao = {
-            **item,
-            "annotation_id": f"ann-{indice:03d}",
-            "anchor_id": anchor_id,
-            "quote": quote,
-            "acionavel": _item_acionavel(item),
+            chave: valor
+            for chave, valor in item.items()
+            if not str(chave).startswith("_ordem_")
         }
+        anotacao["annotation_id"] = f"ann-{indice:03d}"
         anotacoes.append(anotacao)
-        if anchor_id:
-            por_bloco.setdefault(anchor_id, []).append(anotacao)
+        if anotacao["anchor_id"]:
+            por_bloco.setdefault(anotacao["anchor_id"], []).append(anotacao)
         else:
             soltas.append(anotacao)
     return {"anotacoes": anotacoes, "por_bloco": por_bloco, "soltas": soltas}
@@ -785,6 +835,24 @@ def _render_lista(valores: list[str]) -> str:
     return f"<ul>{itens}</ul>"
 
 
+def _rotulo_link_evidencia(evidencia: dict[str, Any]) -> str:
+    if str(evidencia.get("secao") or "").strip():
+        return "Ir para seção"
+    if str(evidencia.get("quote") or evidencia.get("trecho") or "").strip():
+        return "Ir para trecho"
+    return "Ir para ponto no PPC"
+
+
+def _render_link_evidencia(evidencia: dict[str, Any]) -> str:
+    anchor_id = str(evidencia.get("anchor_id") or "").strip()
+    if not anchor_id:
+        return ""
+    return (
+        f"<a class=\"backlink evidence-jump\" href=\"#{escape(anchor_id)}\">"
+        f"{escape(_rotulo_link_evidencia(evidencia))}</a>"
+    )
+
+
 def _render_evidencias(evidencias: list[dict[str, Any]]) -> str:
     if not evidencias:
         return "<span class=\"muted\">Não informado</span>"
@@ -794,7 +862,13 @@ def _render_evidencias(evidencias: list[dict[str, Any]]) -> str:
         if evidencia.get("secao"):
             detalhes.append(f"<span><strong>Seção:</strong> {escape(str(evidencia['secao']))}</span>")
         detalhes_html = f"<div class=\"evidence-meta\">{' · '.join(detalhes)}</div>" if detalhes else ""
-        itens.append(f"<li><p>{escape(str(evidencia.get('trecho') or ''))}</p>{detalhes_html}</li>")
+        itens.append(
+            "<li>"
+            f"<p>{escape(str(evidencia.get('trecho') or ''))}</p>"
+            f"{detalhes_html}"
+            f"{_render_link_evidencia(evidencia)}"
+            "</li>"
+        )
     return f"<ul class=\"evidence-list\">{''.join(itens)}</ul>"
 
 
@@ -965,7 +1039,6 @@ def _render_ppc(blocos: list[PPCBlock], anotacoes_por_bloco: dict[str, list[dict
 
 
 def _render_anotacao(item: dict[str, Any], compacta: bool = True) -> str:
-    destino_bloco = item.get("anchor_id") or "ppc-anotado"
     quote = str(item.get("quote") or "").strip()
     quote_html = f"<blockquote>{escape(quote)}</blockquote>" if quote else ""
     lacunas = f"<section><h4>Lacunas</h4>{_render_lista(item['lacunas'])}</section>" if item.get("lacunas") else ""
@@ -993,7 +1066,6 @@ def _render_anotacao(item: dict[str, Any], compacta: bool = True) -> str:
         f"<p class=\"annotation-meta\"><strong>Confiança:</strong> {item['confianca']:.2f} · "
         f"<strong>Grupo:</strong> {escape(item['grupo_id'])} · "
         f"<strong>Revisão humana:</strong> {'Sim' if item['revisao_humana_obrigatoria'] else 'Não'}</p>"
-        f"<a class=\"backlink\" href=\"#{escape(destino_bloco)}\">Ver no PPC</a>"
         "</article>"
     )
 
@@ -1003,7 +1075,7 @@ def _render_anotacoes_laterais(
     soltas: list[dict[str, Any]],
     alertas: list[dict[str, Any]],
 ) -> str:
-    cards = "".join(_render_anotacao(item, compacta=False) for item in anotacoes)
+    cards = "".join(_render_anotacao(item, compacta=False) for item in anotacoes if item.get("anchor_id"))
     if soltas:
         cards += (
             "<section class=\"unanchored-notes\">"
