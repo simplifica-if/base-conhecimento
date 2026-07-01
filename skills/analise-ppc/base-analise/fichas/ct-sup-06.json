@@ -4,8 +4,8 @@
   "dominio": "suporte",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "08",
-    "10"
+    "corpo_docente_gestao",
+    "avaliacao_ppc_egressos"
   ],
   "consultas": [
     "coordenação",

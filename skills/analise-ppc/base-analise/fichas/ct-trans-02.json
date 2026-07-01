@@ -4,9 +4,9 @@
   "dominio": "transversal",
   "criticidade": "BLOQ",
   "secoes_preferenciais": [
-    "03",
-    "05",
-    "06"
+    "concepcao_metodologia",
+    "organizacao_curricular",
+    "avaliacao_aprendizagem"
   ],
   "consultas": [
     "concepção",

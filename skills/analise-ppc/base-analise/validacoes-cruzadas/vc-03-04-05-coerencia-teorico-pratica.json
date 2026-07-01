@@ -5,9 +5,9 @@
   "criticidade": "OBRIG",
   "tipo": "coerencia",
   "secoes_relacionadas": [
-    "03",
-    "04",
-    "05"
+    "concepcao_metodologia",
+    "perfil_egresso",
+    "organizacao_curricular"
   ],
   "condicionais_relacionadas": [
     "CT-TRANS-08",

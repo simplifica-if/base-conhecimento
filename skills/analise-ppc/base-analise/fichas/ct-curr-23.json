@@ -4,8 +4,8 @@
   "dominio": "curriculo",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "01",
-    "05"
+    "identificacao_curso",
+    "organizacao_curricular"
   ],
   "consultas": [
     "horário de oferta",

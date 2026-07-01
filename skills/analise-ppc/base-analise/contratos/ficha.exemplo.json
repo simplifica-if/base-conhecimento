@@ -3,7 +3,7 @@
   "titulo": "Perfil do egresso",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "04"
+    "perfil_egresso"
   ],
   "pergunta": "O perfil do egresso explicita competências, campo de atuação e identidade profissional de modo suficiente?",
   "rubrica": "Verificar se o perfil do egresso explicita competências observáveis e atuação profissional.",

@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "coerencia",
   "secoes_relacionadas": [
-    "07",
-    "09"
+    "atendimento_estudante",
+    "infraestrutura"
   ],
   "condicionais_relacionadas": [
     "tem_aee",

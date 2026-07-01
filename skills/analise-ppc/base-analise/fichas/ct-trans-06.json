@@ -4,9 +4,9 @@
   "dominio": "transversal",
   "criticidade": "REC",
   "secoes_preferenciais": [
-    "01",
-    "05",
-    "11"
+    "identificacao_curso",
+    "organizacao_curricular",
+    "referencias_normativas"
   ],
   "consultas": [
     "apresentação",

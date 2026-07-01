@@ -4,8 +4,8 @@
   "dominio": "curriculo",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "04",
-    "05"
+    "perfil_egresso",
+    "organizacao_curricular"
   ],
   "consultas": [
     "campo de estágio",

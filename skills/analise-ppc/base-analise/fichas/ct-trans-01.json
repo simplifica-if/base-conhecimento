@@ -4,9 +4,9 @@
   "dominio": "transversal",
   "criticidade": "BLOQ",
   "secoes_preferenciais": [
-    "02",
-    "04",
-    "05"
+    "justificativa_objetivos",
+    "perfil_egresso",
+    "organizacao_curricular"
   ],
   "consultas": [
     "objetivos",

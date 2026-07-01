@@ -4,8 +4,8 @@
   "dominio": "curriculo",
   "criticidade": "BLOQ",
   "secoes_preferenciais": [
-    "01",
-    "05"
+    "identificacao_curso",
+    "organizacao_curricular"
   ],
   "consultas": [
     "carga horária total",

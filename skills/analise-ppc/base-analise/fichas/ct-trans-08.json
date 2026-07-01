@@ -4,9 +4,9 @@
   "dominio": "transversal",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "03",
-    "04",
-    "05"
+    "concepcao_metodologia",
+    "perfil_egresso",
+    "organizacao_curricular"
   ],
   "consultas": [
     "concepção do curso",

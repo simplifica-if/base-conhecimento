@@ -22,7 +22,25 @@
     "titulo": { "type": "string" },
     "dominio": { "type": "string", "enum": ["identidade", "curriculo", "suporte", "transversal"] },
     "criticidade": { "type": "string", "enum": ["BLOQ", "OBRIG", "REC"] },
-    "secoes_preferenciais": { "type": "array", "items": { "type": "string" } },
+    "secoes_preferenciais": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "identificacao_curso",
+          "justificativa_objetivos",
+          "concepcao_metodologia",
+          "perfil_egresso",
+          "organizacao_curricular",
+          "avaliacao_aprendizagem",
+          "atendimento_estudante",
+          "corpo_docente_gestao",
+          "infraestrutura",
+          "avaliacao_ppc_egressos",
+          "referencias_normativas"
+        ]
+      }
+    },
     "consultas": { "type": "array", "items": { "type": "string" } },
     "referencias_normativas": { "type": "array", "items": { "type": "string" } },
     "pergunta": { "type": "string" },

@@ -4,8 +4,8 @@
   "dominio": "identidade",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "04",
-    "10"
+    "perfil_egresso",
+    "avaliacao_ppc_egressos"
   ],
   "consultas": [
     "acompanhamento do egresso",

@@ -4,7 +4,7 @@
   "dominio": "identidade",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "01"
+    "identificacao_curso"
   ],
   "consultas": [
     "apresentação do projeto",

@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "lista",
   "secoes_relacionadas": [
-    "05",
-    "11"
+    "organizacao_curricular",
+    "referencias_normativas"
   ],
   "condicionais_relacionadas": [
     "tem_aee"

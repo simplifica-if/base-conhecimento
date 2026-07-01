@@ -8,8 +8,8 @@
       "titulo": "Alinhamento com CNCT",
       "criticidade": "OBRIG",
       "secoes_preferenciais": [
-        "01",
-        "02"
+        "identificacao_curso",
+        "justificativa_objetivos"
       ],
       "pergunta": "O PPC explicita aderência ao CNCT?",
       "rubrica": "Verificar coerência entre curso, eixo tecnológico e denominação.",
@@ -28,7 +28,7 @@
       "titulo": "Perfil do egresso",
       "criticidade": "OBRIG",
       "secoes_preferenciais": [
-        "04"
+        "perfil_egresso"
       ],
       "pergunta": "O perfil do egresso é suficiente?",
       "rubrica": "Verificar competências e atuação profissional.",

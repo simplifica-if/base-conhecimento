@@ -4,8 +4,8 @@
   "dominio": "curriculo",
   "criticidade": "BLOQ",
   "secoes_preferenciais": [
-    "04",
-    "05"
+    "perfil_egresso",
+    "organizacao_curricular"
   ],
   "consultas": [
     "perfil do egresso",

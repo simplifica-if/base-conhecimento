@@ -4,17 +4,17 @@
   "dominio": "transversal",
   "criticidade": "BLOQ",
   "secoes_preferenciais": [
-    "01",
-    "02",
-    "03",
-    "04",
-    "05",
-    "06",
-    "07",
-    "08",
-    "09",
-    "10",
-    "11"
+    "identificacao_curso",
+    "justificativa_objetivos",
+    "concepcao_metodologia",
+    "perfil_egresso",
+    "organizacao_curricular",
+    "avaliacao_aprendizagem",
+    "atendimento_estudante",
+    "corpo_docente_gestao",
+    "infraestrutura",
+    "avaliacao_ppc_egressos",
+    "referencias_normativas"
   ],
   "consultas": [
     "justificativa",

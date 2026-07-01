@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "coerencia",
   "secoes_relacionadas": [
-    "05",
-    "07"
+    "organizacao_curricular",
+    "atendimento_estudante"
   ],
   "condicionais_relacionadas": [
     "tem_aee"

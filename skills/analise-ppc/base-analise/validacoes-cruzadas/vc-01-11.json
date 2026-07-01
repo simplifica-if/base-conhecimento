@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "lista",
   "secoes_relacionadas": [
-    "01",
-    "11"
+    "identificacao_curso",
+    "referencias_normativas"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 01 e 11 quanto a: Legislações citadas na seção 01 estão nas referências?",

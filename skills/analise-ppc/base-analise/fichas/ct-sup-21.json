@@ -4,9 +4,9 @@
   "dominio": "suporte",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "04",
-    "01",
-    "11"
+    "perfil_egresso",
+    "identificacao_curso",
+    "referencias_normativas"
   ],
   "consultas": [
     "registro profissional",

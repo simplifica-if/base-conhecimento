@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "cobertura",
   "secoes_relacionadas": [
-    "05",
-    "09"
+    "organizacao_curricular",
+    "infraestrutura"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 05 e 09 quanto a: Componentes práticos tem laboratórios correspondentes?",

@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "cobertura",
   "secoes_relacionadas": [
-    "05",
-    "08"
+    "organizacao_curricular",
+    "corpo_docente_gestao"
   ],
   "condicionais_relacionadas": [
     "tem_aee"

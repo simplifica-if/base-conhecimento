@@ -4,8 +4,8 @@
   "dominio": "curriculo",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "03",
-    "05"
+    "concepcao_metodologia",
+    "organizacao_curricular"
   ],
   "consultas": [
     "metodologias",

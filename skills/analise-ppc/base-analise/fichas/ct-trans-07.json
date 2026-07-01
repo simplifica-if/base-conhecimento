@@ -4,10 +4,10 @@
   "dominio": "transversal",
   "criticidade": "REC",
   "secoes_preferenciais": [
-    "01",
-    "02",
-    "08",
-    "09"
+    "identificacao_curso",
+    "justificativa_objetivos",
+    "corpo_docente_gestao",
+    "infraestrutura"
   ],
   "consultas": [
     "número de vagas",

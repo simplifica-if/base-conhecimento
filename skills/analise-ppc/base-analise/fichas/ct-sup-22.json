@@ -4,7 +4,7 @@
   "dominio": "suporte",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "09"
+    "infraestrutura"
   ],
   "consultas": [
     "infraestrutura mínima",

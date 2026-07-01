@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "cobertura",
   "secoes_relacionadas": [
-    "04",
-    "05"
+    "perfil_egresso",
+    "organizacao_curricular"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 04 e 05 quanto a: Cada competência tem componentes na matriz?",

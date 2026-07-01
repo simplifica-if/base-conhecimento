@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "presenca",
   "secoes_relacionadas": [
-    "10",
-    "04"
+    "avaliacao_ppc_egressos",
+    "perfil_egresso"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 10 e 04 quanto a: Acompanhamento de egressos previsto em ambas?",

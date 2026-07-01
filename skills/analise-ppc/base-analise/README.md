@@ -12,6 +12,22 @@ Centro canônico da base de análise do `analise-ppc`. Reúne, em um único luga
 
 O CNCT usado pela skill vem da base unificada em `base-conhecimento/catalogos/cnct/`.
 
+## Áreas pretendidas do PPC
+
+Os campos `secoes_preferenciais` das fichas e `secoes_relacionadas` das validações cruzadas usam áreas pretendidas do PPC, não números literais de seção. A numeração varia entre PPCs, por isso os valores aceitos são:
+
+- `identificacao_curso`
+- `justificativa_objetivos`
+- `concepcao_metodologia`
+- `perfil_egresso`
+- `organizacao_curricular`
+- `avaliacao_aprendizagem`
+- `atendimento_estudante`
+- `corpo_docente_gestao`
+- `infraestrutura`
+- `avaliacao_ppc_egressos`
+- `referencias_normativas`
+
 ## Uso recomendado
 
 1. Consulte `indice.json` quando quiser localizar rapidamente itens por ID, categoria, domínio, criticidade ou seção.

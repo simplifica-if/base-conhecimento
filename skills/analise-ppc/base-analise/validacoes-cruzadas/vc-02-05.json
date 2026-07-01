@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "cobertura",
   "secoes_relacionadas": [
-    "02",
-    "05"
+    "justificativa_objetivos",
+    "organizacao_curricular"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 02 e 05 quanto a: Objetivos específicos tem componentes correspondentes?",

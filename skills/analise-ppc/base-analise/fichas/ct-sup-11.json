@@ -4,7 +4,7 @@
   "dominio": "suporte",
   "criticidade": "REC",
   "secoes_preferenciais": [
-    "09"
+    "infraestrutura"
   ],
   "consultas": [
     "acessibilidade",

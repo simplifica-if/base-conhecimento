@@ -5,9 +5,9 @@
   "criticidade": "OBRIG",
   "tipo": "consistencia",
   "secoes_relacionadas": [
-    "01",
-    "03",
-    "11"
+    "identificacao_curso",
+    "concepcao_metodologia",
+    "referencias_normativas"
   ],
   "condicionais_relacionadas": [
     "curso_tecnico_integrado"

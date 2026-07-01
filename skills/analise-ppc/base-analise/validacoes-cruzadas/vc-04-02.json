@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "cobertura",
   "secoes_relacionadas": [
-    "04",
-    "02"
+    "perfil_egresso",
+    "justificativa_objetivos"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 04 e 02 quanto a: Competências cobertas por objetivos específicos?",

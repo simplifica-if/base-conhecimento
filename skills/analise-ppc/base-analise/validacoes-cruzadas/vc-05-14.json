@@ -5,7 +5,7 @@
   "criticidade": "OBRIG",
   "tipo": "consistencia",
   "secoes_relacionadas": [
-    "05"
+    "organizacao_curricular"
   ],
   "condicionais_relacionadas": [
     "tem_estagio"

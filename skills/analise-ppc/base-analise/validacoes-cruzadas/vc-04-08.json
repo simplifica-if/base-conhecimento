@@ -5,8 +5,8 @@
   "criticidade": "OBRIG",
   "tipo": "cobertura",
   "secoes_relacionadas": [
-    "04",
-    "08"
+    "perfil_egresso",
+    "corpo_docente_gestao"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 04 e 08 quanto a: Docentes habilitados para desenvolver competências?",

@@ -5,8 +5,8 @@
   "criticidade": "BLOQ",
   "tipo": "comparacao",
   "secoes_relacionadas": [
-    "01",
-    "04"
+    "identificacao_curso",
+    "perfil_egresso"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 01 e 04 quanto a: Nome do curso = curso do perfil CNCT?",

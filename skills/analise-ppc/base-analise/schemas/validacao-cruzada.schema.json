@@ -23,7 +23,25 @@
     "dominio": { "type": "string", "enum": ["validacao_cruzada"] },
     "criticidade": { "type": "string", "enum": ["BLOQ", "OBRIG", "REC"] },
     "tipo": { "type": "string" },
-    "secoes_relacionadas": { "type": "array", "items": { "type": "string" } },
+    "secoes_relacionadas": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "identificacao_curso",
+          "justificativa_objetivos",
+          "concepcao_metodologia",
+          "perfil_egresso",
+          "organizacao_curricular",
+          "avaliacao_aprendizagem",
+          "atendimento_estudante",
+          "corpo_docente_gestao",
+          "infraestrutura",
+          "avaliacao_ppc_egressos",
+          "referencias_normativas"
+        ]
+      }
+    },
     "condicionais_relacionadas": { "type": "array", "items": { "type": "string" } },
     "pergunta": { "type": "string" },
     "rubrica": { "type": "string" },

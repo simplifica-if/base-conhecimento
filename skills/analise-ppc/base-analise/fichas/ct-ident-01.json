@@ -4,8 +4,8 @@
   "dominio": "identidade",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "01",
-    "04"
+    "identificacao_curso",
+    "perfil_egresso"
   ],
   "consultas": [
     "técnico em",

@@ -4,10 +4,10 @@
   "dominio": "identidade",
   "criticidade": "OBRIG",
   "secoes_preferenciais": [
-    "01",
-    "03",
-    "04",
-    "11"
+    "identificacao_curso",
+    "concepcao_metodologia",
+    "perfil_egresso",
+    "referencias_normativas"
   ],
   "consultas": [
     "lei 9.394",

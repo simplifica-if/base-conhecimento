@@ -5,8 +5,8 @@
   "criticidade": "BLOQ",
   "tipo": "comparacao",
   "secoes_relacionadas": [
-    "01",
-    "05"
+    "identificacao_curso",
+    "organizacao_curricular"
   ],
   "condicionais_relacionadas": [],
   "pergunta": "O PPC mantém coerência transversal suficiente entre as seções 01 e 05 quanto a: CH total apresentação = CH total matriz curricular?",
