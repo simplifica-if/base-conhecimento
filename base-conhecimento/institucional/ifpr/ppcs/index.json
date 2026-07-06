@@ -2,7 +2,7 @@
   "title": "Projetos Pedagógicos de Curso do IFPR",
   "tipo": "indice_ppcs",
   "versao": 1,
-  "atualizado_em": "2026-06-16",
+  "atualizado_em": "2026-07-06",
   "total_itens": 202,
   "secoes": {
     "preview_limite": 500,
@@ -1871,11 +1871,11 @@
       "nivel": "médio",
       "tipo_oferta": "integrado",
       "curso_url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/eletrotecnica-integrado-ao-ensino-medio/",
-      "fonte_pdf": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2017/03/PPC-Eletrotecnica-integrado.pdf",
+      "fonte_pdf": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2024/03/Projeto-Pedagogico-do-Curso-de-Eletrotecnica-2025.pdf",
       "path": "institucional/ifpr/ppcs/ivaipora/tecnico-em-eletrotecnica-integrado.md",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "ano_documento": 2009,
+      "ano_documento": 2023,
       "vagas": 40
     },
     {
