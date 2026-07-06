@@ -22,6 +22,12 @@ Esses campos apontam para tópicos semânticos, como estágio, avaliação da ap
 
 Use `topicos-fichas.json` como fonte canônica e `mapa-fichas.md` para consulta humana.
 
+Ao criar ou editar uma ficha, mantenha a ficha e a taxonomia sincronizadas:
+
+1. A ficha deve citar tópicos existentes em `topicos-fichas.json`.
+2. Cada tópico deve citar todas as fichas que pertencem a ele.
+3. `mapa-fichas.md` e `indice.json` são gerados; não edite manualmente.
+
 ## Uso recomendado
 
 1. Consulte `mapa-fichas.md` quando quiser saber quais fichas avaliam cada tema.
@@ -32,20 +38,12 @@ Use `topicos-fichas.json` como fonte canônica e `mapa-fichas.md` para consulta 
 
 ## Manutenção
 
-- Para regenerar o índice consolidado:
+Rode a partir da raiz do repositório sempre que alterar fichas, tópicos, validações cruzadas, contratos ou schemas:
 
 ```bash
-python3 -B scripts/gerar_indice_base_analise.py
-```
-
-- Para regenerar o mapa temático das fichas:
-
-```bash
-python3 -B scripts/gerar_mapa_fichas.py
-```
-
-- Para validar fichas, validações cruzadas, contratos e schemas:
-
-```bash
-python3 -B scripts/validar_base_analise.py
+python3 -B skills/analise-ppc/scripts/validar_base_analise.py
+python3 -B skills/analise-ppc/scripts/gerar_mapa_fichas.py
+python3 -B skills/analise-ppc/scripts/gerar_indice_base_analise.py
+python3 -B skills/analise-ppc/scripts/validar_base_analise.py
+python3 -m pytest skills/analise-ppc/tests
 ```

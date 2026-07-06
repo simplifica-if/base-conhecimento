@@ -37,7 +37,7 @@ Relatório pronto: [abrir relatório](https://analise-ppc-<rodada>.surge.sh)
 Cada análise cria uma rodada em:
 
 ```text
-analise-ppc/output/<rodada>/
+skills/analise-ppc/output/<rodada>/
 ```
 
 Dentro da rodada:
@@ -46,27 +46,39 @@ Dentro da rodada:
 - `assets/` guarda CSS e JavaScript do leitor anotado.
 - `arquivos-suporte/` guarda os arquivos usados para produzir o relatório.
 
-O relatório HTML referencia assets locais em `assets/`. Ao gerar o relatório pelo comando da skill, ele também é publicado no Surge por padrão, preservando o CSS e os filtros em JavaScript; a URL pública é retornada nos campos `publicacao_url` e `surge_url`, e os metadados da publicação ficam em `arquivos-suporte/surge-publicacao.json`. A pasta enviada ao Surge fica em `arquivos-suporte/surge-site/`. Para publicação real, autentique a CLI do Surge previamente ou configure as credenciais de automação do Surge no ambiente. Use `--sem-surge` apenas quando quiser gerar somente o arquivo local.
+Ao gerar o relatório, a skill publica no Surge por padrão e retorna `publicacao_url`/`surge_url`. Use `--sem-surge` quando quiser gerar somente o arquivo local.
 
 ## Fluxo técnico
 
 ```bash
-python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py preparar-documento caminho/PPC.docx
-python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py montar-grupos-subagents --rodada-dir .agents/skills/analise-ppc/output/<rodada>
-python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py preparar-prompts-subagents --rodada-dir .agents/skills/analise-ppc/output/<rodada>
+python3 -B skills/analise-ppc/scripts/analise_ppc.py preparar-documento caminho/PPC.docx
+python3 -B skills/analise-ppc/scripts/analise_ppc.py montar-grupos-subagents --rodada-dir skills/analise-ppc/output/<rodada>
+python3 -B skills/analise-ppc/scripts/analise_ppc.py preparar-prompts-subagents --rodada-dir skills/analise-ppc/output/<rodada>
 ```
 
 Depois, o agente principal spawna um sub-agente por grupo em `arquivos-suporte/grupos-subagents.json` ou usa os pacotes prontos de `arquivos-suporte/prompts-subagents/`. Passe também os blocos `contextos` de cada grupo, incluindo `contextos.cnct`, `contextos.estrutura`, `contextos.fundamentacao_normativa` e eventuais `contextos.anexos_visuais`. O CNCT vem da base unificada em `base-conhecimento/catalogos/cnct/`. Em seguida, colete as respostas em `arquivos-suporte/resultados-subagents.json`, rode a síntese transversal com `prompts/sintese-transversal.md` e `validacoes_cruzadas`, e gere o relatório:
 
 ```bash
-python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-html --rodada-dir .agents/skills/analise-ppc/output/<rodada> --resultados resultados-subagents.json
+python3 -B skills/analise-ppc/scripts/analise_ppc.py gerar-relatorio-html --rodada-dir skills/analise-ppc/output/<rodada> --resultados resultados-subagents.json
 ```
 
 Para reavaliar fichas específicas, use `montar-grupo-avulso`, execute um sub-agente com o grupo retornado e depois `mesclar-resultados-avulsos`.
 
-Para manutenção da base de análise, rode:
+## Manutenção de fichas
+
+Ao criar, atualizar ou corrigir uma ficha em `base-analise/fichas/`:
+
+1. Garanta que a ficha declare `topicos_tematicos`, `tipo_escopo` e `ancoras_semanticas`.
+2. Atualize `base-analise/topicos-fichas.json` quando a cobertura temática mudar.
+3. Atualize ou crie teste quando a ficha cobrir comportamento novo, regra normativa específica ou regressão já observada.
+4. Regenere os artefatos derivados e valide a base.
+
+Comandos obrigatórios a partir da raiz do repositório:
 
 ```bash
-python3 -B .agents/skills/analise-ppc/scripts/validar_base_analise.py
-python3 -B .agents/skills/analise-ppc/scripts/gerar_indice_base_analise.py
+python3 -B skills/analise-ppc/scripts/validar_base_analise.py
+python3 -B skills/analise-ppc/scripts/gerar_mapa_fichas.py
+python3 -B skills/analise-ppc/scripts/gerar_indice_base_analise.py
+python3 -B skills/analise-ppc/scripts/validar_base_analise.py
+python3 -m pytest skills/analise-ppc/tests
 ```

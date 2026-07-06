@@ -12,19 +12,13 @@ Skill autocontida para analisar PPCs de cursos técnicos do IFPR em Word (`.docx
 Para orientação de uso por uma pessoa, leia também:
 
 ```text
-Read .agents/skills/analise-ppc/README.md
+Read skills/analise-ppc/README.md
 ```
 
 Antes de executar uma análise, leia as instruções completas:
 
 ```text
-Read .agents/skills/analise-ppc/instrucoes.md
-```
-
-Se a skill estiver instalada em `.claude/skills`, use o caminho equivalente:
-
-```text
-Read .claude/skills/analise-ppc/instrucoes.md
+Read skills/analise-ppc/instrucoes.md
 ```
 
 ## Fluxo principal
@@ -42,14 +36,8 @@ Ao final, informe explicitamente o link de abertura do relatório retornado pelo
 
 ## Ponto de entrada
 
-Execute os comandos a partir da raiz do projeto onde a skill está instalada:
+Execute os comandos a partir da raiz deste repositório:
 
 ```bash
-python3 -B .agents/skills/analise-ppc/scripts/analise_ppc.py --help
-```
-
-Ou, se instalada para Claude:
-
-```bash
-python3 -B .claude/skills/analise-ppc/scripts/analise_ppc.py --help
+python3 -B skills/analise-ppc/scripts/analise_ppc.py --help
 ```
