@@ -5,6 +5,7 @@ Este documento resume o modelo operacional atual das bases Notion da Gestão de 
 ## Princípios
 
 - O Notion é a fonte operacional de verdade para campi, cursos, metadados de PPC, horários dos campi, movimentações, processos seletivos, editais e ofertas de ingresso.
+- O Notion também mantém bases operacionais auxiliares para conselhos institucionais, inicialmente o Consepe, e para o diretório central de servidores associado a conselheiros e relatores.
 - Os JSONs em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados a partir do Notion.
 - Não edite os JSONs institucionais manualmente para curadoria operacional.
 - Antes de escrever no Notion, confira o schema vivo do data source em `config/notion.json`.
@@ -98,6 +99,54 @@ Ofertas de ingresso não alteram automaticamente o cadastro de curso. Quando uma
 ### Tarefas
 
 Base única da equipe. Nem toda tarefa cria movimentação. Templates formais, como abertura, suspensão, reversão, extinção ou ajuste de curso, devem exigir vínculo com uma movimentação quando houver mudança administrativa do curso.
+
+### Conselhos
+
+Cadastro dos órgãos colegiados institucionais usados pela base operacional. O primeiro registro é o Conselho de Ensino, Pesquisa e Extensão (`Consepe`).
+
+Propriedades recorrentes: `Name`, `Sigla`, `Status` e `Página oficial`.
+
+Use esta base para permitir reaproveitamento do modelo com outros conselhos, como Consup, Consap ou Codir, sem codificar o Consepe diretamente nas reuniões e documentos.
+
+### Reuniões de Conselho
+
+Cada registro representa uma reunião de um conselho. A reunião se relaciona a `Conselhos` e concentra metadados de data, ano, tipo, status, transmissão e fonte oficial.
+
+Propriedades recorrentes: `Name`, `Conselho`, `Data`, `Ano`, `Tipo`, `Status`, `Link YouTube`, `Página oficial`, `Fonte oficial`, `Resumo`, `Data de coleta` e `ID externo`.
+
+Documentos e itens de pauta apontam para a reunião. Processos SEI devem ser registrados nos itens ou documentos específicos; a reunião pode receber processos por roll-up quando necessário para visualização.
+
+### Documentos
+
+Repositório de documentos públicos ou operacionais de conselhos institucionais, inicialmente populado com documentos do Consepe, como pautas, atas, pareceres, legislação e anexos. Quando o documento pertence a uma reunião, relacione-o em `Reunião`.
+
+Propriedades recorrentes: `Name`, `Reunião`, `Tipo`, `Data do documento`, `Ano`, `URL oficial`, `Texto extraído`, `Resumo`, `Número`, `Processo SEI`, `Documento SEI`, `Status de extração`, `ID externo` e `Data de coleta`.
+
+Use `Status de extração` para distinguir metadados simples de documentos já extraídos ou revisados. Em documentos SEI públicos, preserve o link oficial e registre número de parecer/documento quando disponível.
+
+### Itens de Pauta
+
+Base granular para perguntas sobre conselhos institucionais, inicialmente populada com itens do Consepe. Cada registro representa um assunto pautado, deliberado ou identificado em parecer/ata.
+
+Propriedades recorrentes: `Name`, `Reunião`, `Documento de origem`, `Ordem`, `Tipo de demanda`, `Processo SEI`, `Documento SEI`, `Campus`, `Curso`, `Relator(a)`, `Conselheiros relacionados`, `Resultado`, `Trecho da pauta`, `Trecho da ata`, `Resumo`, `Palavras-chave` e `ID externo`.
+
+O processo SEI deve ficar preferencialmente no item de pauta, pois ele se refere ao assunto analisado. Relacione `Conselheiros relacionados` quando o documento indicar relator, relatora, conselheiro ou conselheira responsável. Quando o vínculo vier apenas de relatoria em parecer e não de composição formal, mantenha o status do conselheiro como `Não confirmado`.
+
+### Servidores
+
+Diretório central de pessoas servidoras usadas em relações operacionais, como conselheiros e relatores. Esta base evita duplicar nomes em cada conselho ou documento.
+
+Propriedades recorrentes: `Name`, `Nome social`, `E-mail institucional`, `Campus`, `Campus/Unidade`, `Setor`, `Cargo/Função`, `SIAPE`, `Lattes`, `Fonte`, `Status`, `Notas` e `ID externo`.
+
+`Campus` é relação com `Campi` e deve ser preferido para dados normalizados. `Campus/Unidade` é campo textual auxiliar para preservar a origem quando a fonte menciona unidades não normalizadas ou enquanto o vínculo ainda não foi conferido.
+
+### Conselheiros
+
+Representa a participação de um servidor em um conselho, com mandato e função. Um mesmo servidor pode ter vários registros ao longo do tempo ou em conselhos diferentes.
+
+Propriedades recorrentes: `Name`, `Servidor`, `Conselho`, `Segmento`, `Representação`, `Função no conselho`, `Mandato início`, `Mandato fim`, `Status`, `Ato/Portaria`, `Fonte`, `Notas` e `ID externo`.
+
+Use `Status = Não confirmado` para resultados provisórios, relatorias sem fonte de composição ou registros incompletos. Use `Ativo` quando houver fonte de posse, mandato, homologação final ou composição vigente.
 
 ## Publicação
 

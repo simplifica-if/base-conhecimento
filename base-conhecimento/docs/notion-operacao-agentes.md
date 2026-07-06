@@ -18,6 +18,8 @@ Use este guia quando a solicitação envolver:
 - Processos Seletivos;
 - Editais de Ingresso;
 - Ofertas de Ingresso.
+- Conselhos institucionais, reuniões, documentos e itens de pauta, inicialmente do Consepe;
+- Servidores e conselheiros vinculados a conselhos institucionais.
 
 ## Autenticação padrão
 
@@ -73,6 +75,12 @@ Chaves atuais:
 - `processos_seletivos`;
 - `editais_ingresso`;
 - `ofertas_ingresso`.
+- `conselhos`;
+- `reunioes_conselho`;
+- `documentos`;
+- `itens_pauta`;
+- `servidores`;
+- `conselheiros`.
 
 ## Quando usar Notion
 
@@ -84,6 +92,8 @@ Use Notion quando o usuário pedir para:
 - revisar dados de horários dos campi;
 - revisar dados SUAP em cursos;
 - criar ou revisar processo seletivo, edital ou oferta de ingresso;
+- consultar ou registrar dados do Consepe, como reuniões, pautas, atas, pareceres, processos SEI, relatores e conselheiros;
+- consultar ou registrar servidores quando forem usados como diretório central para conselheiros, relatores ou outras funções institucionais;
 - executar curadoria operacional que depois será publicada nos JSONs.
 
 Quando a consulta ou alteração depender de evidência do Sistema Eletrônico de Informações, leia também `docs/sei-cli-operacao-agentes.md` e use `../sei-cli` para localizar, extrair ou inspecionar o processo antes de registrar dados no Notion.
@@ -179,6 +189,30 @@ Campos centrais:
 - use `Substitui parecer` para encadear versões ou revisões do mesmo parecer.
 
 Quando a fonte for snapshot do `sei-cli`, preserve a evidência em termos estáveis, como número SEI, data, autoria/assinatura e processo. Não grave caminhos locais do snapshot em campos do Notion.
+
+### Registrar dados do Consepe
+
+Use o conjunto de bases de conselhos para dados institucionais do Conselho de Ensino, Pesquisa e Extensão:
+
+- `Conselhos`: cadastro do órgão colegiado. O Consepe é o primeiro registro.
+- `Reuniões de Conselho`: uma entrada por reunião, relacionada a `Conselhos`.
+- `Documentos`: pautas, atas, pareceres, legislação e anexos, relacionados à reunião quando aplicável.
+- `Itens de Pauta`: assuntos deliberados ou pautados, relacionados à reunião e ao documento de origem.
+- `Servidores`: diretório central de pessoas servidoras, com `Campus` como relação para `Campi`.
+- `Conselheiros`: participação de um servidor em um conselho, com segmento, função, mandato, fonte e status.
+
+Fluxo recomendado:
+
+1. Localize ou crie o registro do conselho em `Conselhos`.
+2. Registre cada reunião em `Reuniões de Conselho`, com data, tipo, fonte oficial e link de transmissão quando existir.
+3. Registre pautas, atas, pareceres e demais documentos em `Documentos`, preservando URL oficial, número do documento, texto ou resumo extraído e data de coleta.
+4. Registre cada assunto em `Itens de Pauta`, preenchendo `Processo SEI`, `Documento SEI`, `Tipo de demanda`, `Resultado`, `Relator(a)`, `Trecho da pauta`, `Trecho da ata` e `Resumo` sempre que a fonte permitir.
+5. Quando um relator, conselheiro ou participante for identificado, crie ou reutilize o registro em `Servidores`; depois crie ou reutilize a participação em `Conselheiros` e relacione em `Itens de Pauta.Conselheiros relacionados`.
+6. Marque `Conselheiros.Status` como `Não confirmado` quando a fonte for provisória, incompleta ou apenas inferida de relatoria; use `Ativo` somente quando houver fonte de composição, posse, mandato ou homologação final.
+
+Para processos SEI do Consepe, prefira registrar o número diretamente no item de pauta, pois o processo normalmente se refere ao assunto deliberado, não à reunião inteira. Use `Documentos` para o link ao parecer ou publicação SEI quando o documento for público.
+
+Em `Servidores`, não duplique o campus em texto quando houver registro em `Campi`; use a relação `Campus`. O campo textual `Campus/Unidade`, quando existir, serve como trilha de origem para valores ainda não normalizados ou unidades que não sejam campus.
 
 ## Documentos relacionados
 

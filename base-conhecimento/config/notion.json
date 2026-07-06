@@ -40,6 +40,36 @@
       "id": "5e3c2da1-4048-823c-ab30-0170fd0e413c",
       "data_source_id": "be8c2da1-4048-8263-9cf5-07d4263b72e8",
       "title": "Ofertas de Ingresso"
+    },
+    "conselhos": {
+      "id": "b6348b78-54e9-455e-9951-5d8de585d395",
+      "data_source_id": "b55f1f92-6250-4c66-bb32-4897a3926a6a",
+      "title": "Conselhos"
+    },
+    "reunioes_conselho": {
+      "id": "cb79e0ff-cbe6-4271-8ad8-3c76b6eadbee",
+      "data_source_id": "7816aa57-c175-4cba-85d9-8283a74f1a53",
+      "title": "Reuniões de Conselho"
+    },
+    "documentos": {
+      "id": "3b5ec1b5-ee39-4d17-8d04-ed78690892cb",
+      "data_source_id": "537a513e-d4a3-4458-840f-ab69ef1eff6c",
+      "title": "Documentos"
+    },
+    "itens_pauta": {
+      "id": "af3d2175-192d-4d64-a12c-e28b58af40cf",
+      "data_source_id": "b83ab1bb-d30d-4527-8754-6dae8dcee258",
+      "title": "Itens de Pauta"
+    },
+    "servidores": {
+      "id": "72582536-7b98-4709-b697-0f6fc2c2aa47",
+      "data_source_id": "55d26ef0-c4ec-4dd9-9ed1-a45470e5ca68",
+      "title": "Servidores"
+    },
+    "conselheiros": {
+      "id": "4de8beb9-fd58-4f6a-99be-16297a6b9c41",
+      "data_source_id": "b5d9bb35-e3de-405f-82ca-cafa57ef1f07",
+      "title": "Conselheiros"
     }
   }
 }
