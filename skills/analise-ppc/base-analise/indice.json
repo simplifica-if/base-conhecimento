@@ -1,13 +1,13 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-07-06T18:24:52+00:00",
+  "gerado_em": "2026-07-06T18:31:34+00:00",
   "resumo": {
-    "total_fichas": 77,
+    "total_fichas": 78,
     "total_validacoes_cruzadas": 29,
     "total_topicos_fichas": 17,
     "total_contratos": 3,
     "total_schemas": 4,
-    "total_itens": 130
+    "total_itens": 131
   },
   "itens": [
     {
@@ -2670,6 +2670,41 @@
     },
     {
       "categoria": "ficha",
+      "id": "CT-SUP-26",
+      "titulo": "Progressão parcial e dependência descritas conforme a forma de oferta",
+      "dominio": "suporte",
+      "criticidade": "OBRIG",
+      "topicos_tematicos": [
+        "avaliacao_aprendizagem"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Progressão parcial e dependência descritas conforme a forma de oferta",
+        "Avaliação do processo de ensino-aprendizagem",
+        "avaliação",
+        "avaliação da aprendizagem",
+        "avaliação do processo de ensino-aprendizagem",
+        "recuperação de estudos",
+        "progressão parcial",
+        "progressão",
+        "dependência",
+        "regime de dependência",
+        "componentes em dependência",
+        "reprovação",
+        "conceito D",
+        "turmas regulares",
+        "turmas especiais",
+        "Plano Individual de Estudos",
+        "matrícula no próximo período",
+        "Resolução IFPR nº 50/2017"
+      ],
+      "referencias_normativas": [
+        "Resolução CONSUP/IFPR nº 50/2017"
+      ],
+      "arquivo": "fichas/ct-sup-26.json"
+    },
+    {
+      "categoria": "ficha",
       "id": "CT-TRANS-01",
       "titulo": "Coerência entre objetivos, perfil do egresso e matriz",
       "dominio": "transversal",
@@ -3770,7 +3805,9 @@
         "avaliação",
         "avaliação da aprendizagem",
         "avaliação do processo de ensino-aprendizagem",
-        "recuperação de estudos"
+        "recuperação de estudos",
+        "progressão parcial",
+        "regime de dependência"
       ],
       "termos_busca": [
         "avaliação",
@@ -3778,12 +3815,16 @@
         "critérios",
         "recuperação",
         "progressão",
+        "progressão parcial",
+        "dependência",
+        "regime de dependência",
         "conselho de classe",
         "necessidades educacionais específicas"
       ],
       "fichas": [
         "CT-SUP-01",
         "CT-SUP-02",
+        "CT-SUP-26",
         "CT-TRANS-02"
       ],
       "arquivo": "topicos-fichas.json"

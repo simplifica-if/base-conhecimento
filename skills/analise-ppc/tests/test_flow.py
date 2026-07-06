@@ -413,6 +413,28 @@ def test_fichas_usam_topicos_tematicos_sem_campo_legado() -> None:
         assert ficha["ancoras_semanticas"]
 
 
+def test_ficha_progressao_parcial_diferencia_integrado_e_subsequente() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-sup-26.json")
+    topico_avaliacao = next(
+        topico
+        for topico in read_json(TOPICOS_FICHAS_PATH)["topicos"]
+        if topico["id"] == "avaliacao_aprendizagem"
+    )
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+
+    assert ficha["topicos_tematicos"] == ["avaliacao_aprendizagem"]
+    assert "CT-SUP-26" in topico_avaliacao["fichas"]
+    assert "progressão parcial" in " ".join(ficha["ancoras_semanticas"]).lower()
+    assert "cursos técnicos integrados" in texto
+    assert "cursos técnicos subsequentes" in texto
+    assert "arts. 18 e 19" in texto
+    assert "art. 20" in texto
+    assert "limite de 3 conceitos D próprio dos cursos integrados" in texto
+
+
 def test_base_analise_valida_contratos_e_schemas() -> None:
     assert validar_base_analise() == []
 

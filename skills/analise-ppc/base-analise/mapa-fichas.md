@@ -3,7 +3,7 @@
 Este mapa organiza as fichas por tópicos semânticos, sem depender da numeração das seções do PPC.
 A numeração observada em um PPC específico deve ser detectada na rodada de análise, não codificada na ficha.
 
-Gerado em: 2026-07-06T18:24:52+00:00
+Gerado em: 2026-07-06T18:31:34+00:00
 
 ## Como usar
 
@@ -204,11 +204,12 @@ Abrange estrutura curricular, carga horária, distribuição por período, compo
 Organiza fichas voltadas a critérios, instrumentos, recuperação, avaliação contínua, coerência metodológica e tratamento de necessidades educacionais específicas.
 
 - Tipo de escopo: `tematico`
-- Aliases de título: `avaliação`, `avaliação da aprendizagem`, `avaliação do processo de ensino-aprendizagem`, `recuperação de estudos`
-- Termos de busca: `avaliação`, `instrumentos avaliativos`, `critérios`, `recuperação`, `progressão`, `conselho de classe`, `necessidades educacionais específicas`
+- Aliases de título: `avaliação`, `avaliação da aprendizagem`, `avaliação do processo de ensino-aprendizagem`, `recuperação de estudos`, `progressão parcial`, `regime de dependência`
+- Termos de busca: `avaliação`, `instrumentos avaliativos`, `critérios`, `recuperação`, `progressão`, `progressão parcial`, `dependência`, `regime de dependência`, `conselho de classe`, `necessidades educacionais específicas`
 
 - `CT-SUP-01` (OBRIG, suporte) - Sistema de avaliação coerente com o IFPR
 - `CT-SUP-02` (OBRIG, suporte) - Frequência mínima e recuperação da aprendizagem
+- `CT-SUP-26` (OBRIG, suporte) - Progressão parcial e dependência descritas conforme a forma de oferta
 - `CT-TRANS-02` (BLOQ, transversal) - Coerência entre concepção, metodologias e avaliação
 
 ### Concepção pedagógica e metodologias

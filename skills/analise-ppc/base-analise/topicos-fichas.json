@@ -270,7 +270,9 @@
         "avaliação",
         "avaliação da aprendizagem",
         "avaliação do processo de ensino-aprendizagem",
-        "recuperação de estudos"
+        "recuperação de estudos",
+        "progressão parcial",
+        "regime de dependência"
       ],
       "termos_busca": [
         "avaliação",
@@ -278,12 +280,16 @@
         "critérios",
         "recuperação",
         "progressão",
+        "progressão parcial",
+        "dependência",
+        "regime de dependência",
         "conselho de classe",
         "necessidades educacionais específicas"
       ],
       "fichas": [
         "CT-SUP-01",
         "CT-SUP-02",
+        "CT-SUP-26",
         "CT-TRANS-02"
       ]
     },

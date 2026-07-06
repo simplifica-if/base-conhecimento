@@ -1,0 +1,59 @@
+{
+  "id": "CT-SUP-26",
+  "titulo": "Progressão parcial e dependência descritas conforme a forma de oferta",
+  "dominio": "suporte",
+  "criticidade": "OBRIG",
+  "topicos_tematicos": [
+    "avaliacao_aprendizagem"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Progressão parcial e dependência descritas conforme a forma de oferta",
+    "Avaliação do processo de ensino-aprendizagem",
+    "avaliação",
+    "avaliação da aprendizagem",
+    "avaliação do processo de ensino-aprendizagem",
+    "recuperação de estudos",
+    "progressão parcial",
+    "progressão",
+    "dependência",
+    "regime de dependência",
+    "componentes em dependência",
+    "reprovação",
+    "conceito D",
+    "turmas regulares",
+    "turmas especiais",
+    "Plano Individual de Estudos",
+    "matrícula no próximo período",
+    "Resolução IFPR nº 50/2017"
+  ],
+  "consultas": [
+    "progressão parcial",
+    "dependência",
+    "regime de dependência",
+    "conceito D",
+    "turmas regulares",
+    "turmas especiais",
+    "Plano Individual de Estudos",
+    "matrícula no próximo período",
+    "Art. 18",
+    "Art. 19",
+    "Art. 20",
+    "Art. 21"
+  ],
+  "referencias_normativas": [
+    "Resolução CONSUP/IFPR nº 50/2017"
+  ],
+  "pergunta": "O PPC descreve progressão parcial, dependência ou recursamento de componentes de modo compatível com a forma de oferta do curso e suficientemente operacional para estudante, coordenação e secretaria acadêmica?",
+  "rubrica": "Localizar a seção de progressão parcial, dependência, condições de aprovação/reprovação ou trecho equivalente, independentemente da numeração. Verificar primeiro a forma de oferta do curso. Para cursos técnicos integrados, conferir se o PPC explicita a regra dos arts. 18 e 19 da Resolução CONSUP/IFPR nº 50/2017: direito à progressão parcial quando houver no máximo 3 conceitos D e frequência mínima de 75% no período letivo; obrigação de cursar novamente o período letivo quando houver 4 ou mais conceitos D; e oferta dos componentes em dependência pelo campus em turmas regulares ou especiais, com possibilidade de Plano Individual de Estudos em turma especial conforme art. 21. Para cursos técnicos subsequentes, PROEJA e ofertas equivalentes abrangidas pelo art. 20, verificar se o PPC informa que componentes reprovados devem ser cursados novamente e que o estudante pode solicitar matrícula também em componentes do próximo período, sem importar indevidamente o limite de 3 conceitos D próprio dos cursos integrados. Em qualquer forma de oferta, avaliar se o texto explica minimamente o efeito da reprovação, a possibilidade de matrícula/recursamento, a relação com frequência e conceito quando aplicável, e a responsabilidade institucional pela oferta, sem exigir transcrição integral da norma.",
+  "boa_evidencia": "Trechos que identificam corretamente a forma de oferta e descrevem a consequência da reprovação, a regra aplicável de progressão ou recursamento, a matrícula nos componentes pendentes e/ou do período seguinte, e, nos cursos integrados, o limite de componentes com conceito D, a frequência mínima, a hipótese de retenção no período e a oferta de dependência em turmas regulares ou especiais.",
+  "ma_evidencia": "Seção ausente; menção meramente genérica à Resolução CONSUP/IFPR nº 50/2017 sem explicar o efeito acadêmico para o estudante; regra de curso integrado aplicada a curso subsequente, ou regra de curso subsequente aplicada a curso integrado; ausência de informação sobre matrícula/recursamento dos componentes reprovados; ou texto que não permita compreender como estudante, coordenação e secretaria devem proceder diante de reprovação.",
+  "escalonar_quando": "Escalonar quando a seção de progressão parcial tiver apenas uma remissão normativa de uma frase, quando houver dúvida sobre a forma de oferta usada para escolher a regra, quando o texto mencionar dependência sem dizer como ela será cursada, ou quando a redação tratar progressão parcial como se fosse igual para cursos integrados e subsequentes.",
+  "evidencia_minima": 2,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}
