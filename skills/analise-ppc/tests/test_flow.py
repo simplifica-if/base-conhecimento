@@ -37,6 +37,7 @@ from subagents import (
 from common import (
     BASE_ANALISE_DIR,
     FICHAS_DIR,
+    TOPICOS_FICHAS_PATH,
     extract_identificacao_from_conversion_json,
     infer_identificacao_from_markdown,
     read_json,
@@ -44,6 +45,7 @@ from common import (
     write_json,
 )
 from gerar_indice_base_analise import gerar_indice
+from gerar_mapa_fichas import MAPA_FICHAS_PATH, mapa_atualizado
 from validar_base_analise import validar_base_analise
 
 
@@ -392,6 +394,25 @@ def test_indice_base_analise_esta_atualizado() -> None:
     assert atual == esperado
 
 
+def test_mapa_fichas_esta_atualizado() -> None:
+    assert MAPA_FICHAS_PATH.exists()
+    assert mapa_atualizado()
+
+
+def test_fichas_usam_topicos_tematicos_sem_campo_legado() -> None:
+    topicos = {
+        str(topico["id"])
+        for topico in read_json(TOPICOS_FICHAS_PATH)["topicos"]
+    }
+    for ficha_path in FICHAS_DIR.glob("*.json"):
+        ficha = read_json(ficha_path)
+        assert "secoes_preferenciais" not in ficha
+        assert ficha["topicos_tematicos"]
+        assert set(ficha["topicos_tematicos"]).issubset(topicos)
+        assert ficha["tipo_escopo"] in {"tematico", "multitematico", "transversal", "condicional"}
+        assert ficha["ancoras_semanticas"]
+
+
 def test_base_analise_valida_contratos_e_schemas() -> None:
     assert validar_base_analise() == []
 
@@ -489,6 +510,11 @@ def test_ficha_convenios_estagio_declara_hipoteses_da_resolucao_82() -> None:
 
 
 def test_fichas_estagio_tem_escopos_separados() -> None:
+    topico_estagio = next(
+        topico
+        for topico in read_json(TOPICOS_FICHAS_PATH)["topicos"]
+        if topico["id"] == "estagio"
+    )
     fichas = {
         ficha_id: read_json(FICHAS_DIR / arquivo)
         for ficha_id, arquivo in {
@@ -498,6 +524,13 @@ def test_fichas_estagio_tem_escopos_separados() -> None:
             "CT-CURR-25": "ct-curr-25.json",
         }.items()
     }
+
+    assert topico_estagio["tipo_escopo"] == "condicional"
+    assert set(topico_estagio["fichas"]) == set(fichas)
+    assert all("estagio" in ficha["topicos_tematicos"] for ficha in fichas.values())
+    assert "perfil_egresso_mundo_trabalho" in fichas["CT-CURR-25"]["topicos_tematicos"]
+    assert all(ficha["tipo_escopo"] == "condicional" for ficha in fichas.values())
+    assert all("estágio" in " ".join(ficha["ancoras_semanticas"]).lower() for ficha in fichas.values())
 
     texto_macro = fichas["CT-CURR-20"]["rubrica"]
     texto_convenios = fichas["CT-CURR-21"]["rubrica"]

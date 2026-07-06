@@ -3,8 +3,30 @@
   "titulo": "Aproveitamento de estudos com critérios e procedimento definidos",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "aproveitamento_certificacao_tfc"
+  ],
+  "tipo_escopo": "condicional",
+  "ancoras_semanticas": [
+    "Aproveitamento de estudos com critérios e procedimento definidos",
+    "Aproveitamento, certificação intermediária e trabalho final",
+    "aproveitamento de estudos",
+    "certificação intermediária",
+    "terminalidade",
+    "trabalho final de curso",
+    "TFC",
+    "aproveitamento",
+    "certificação",
+    "trabalho final",
+    "certificado intermediário",
+    "competências já desenvolvidas",
+    "critérios de aproveitamento",
+    "procedimentos de solicitação",
+    "documentação necessária",
+    "Resolução Consup/IFPR nº 190",
+    "Resolução IFPR nº 190/2024",
+    "capítulo III",
+    "seção V"
   ],
   "consultas": [
     "aproveitamento de estudos",

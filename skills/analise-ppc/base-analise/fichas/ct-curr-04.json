@@ -3,9 +3,39 @@
   "titulo": "Componentes curriculares alinhados ao perfil profissional",
   "dominio": "curriculo",
   "criticidade": "BLOQ",
-  "secoes_preferenciais": [
-    "perfil_egresso",
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "matriz_curricular",
+    "perfil_egresso_mundo_trabalho"
+  ],
+  "tipo_escopo": "multitematico",
+  "ancoras_semanticas": [
+    "Componentes curriculares alinhados ao perfil profissional",
+    "Matriz curricular, integralização e componentes",
+    "organização curricular",
+    "matriz curricular",
+    "estrutura curricular",
+    "itinerário formativo",
+    "integralização curricular",
+    "matriz",
+    "componentes curriculares",
+    "carga horária",
+    "integralização",
+    "período",
+    "semestre",
+    "ano",
+    "atividade curricular",
+    "Perfil do egresso, competências e mundo do trabalho",
+    "perfil do egresso",
+    "perfil profissional",
+    "competências profissionais",
+    "campo de atuação",
+    "mundo do trabalho",
+    "competências",
+    "perfil profissional de conclusão",
+    "ocupações",
+    "CNCT",
+    "verticalização",
+    "eixo tecnológico"
   ],
   "consultas": [
     "perfil do egresso",

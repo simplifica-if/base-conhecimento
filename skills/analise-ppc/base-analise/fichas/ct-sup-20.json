@@ -3,8 +3,27 @@
   "titulo": "Recursos de acessibilidade e medidas de permanência estão previstos",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "atendimento_estudante"
+  "topicos_tematicos": [
+    "aee_acessibilidade_inclusao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Recursos de acessibilidade e medidas de permanência estão previstos",
+    "AEE, acessibilidade e inclusão",
+    "atendimento educacional especializado",
+    "AEE",
+    "acessibilidade",
+    "inclusão",
+    "necessidades educacionais específicas",
+    "AICE",
+    "adaptação curricular",
+    "flexibilização",
+    "NAPNE",
+    "tecnologia assistiva",
+    "materiais acessíveis",
+    "sinalização",
+    "critérios diferenciados de avaliação",
+    "acompanhamento"
   ],
   "consultas": [
     "acessibilidade",

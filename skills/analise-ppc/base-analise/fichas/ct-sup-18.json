@@ -3,8 +3,26 @@
   "titulo": "Política institucional de inclusão com papéis e normativas definidos",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "atendimento_estudante"
+  "topicos_tematicos": [
+    "aee_acessibilidade_inclusao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Política institucional de inclusão com papéis e normativas definidos",
+    "AEE, acessibilidade e inclusão",
+    "atendimento educacional especializado",
+    "AEE",
+    "acessibilidade",
+    "inclusão",
+    "necessidades educacionais específicas",
+    "AICE",
+    "adaptação curricular",
+    "flexibilização",
+    "NAPNE",
+    "tecnologia assistiva",
+    "napne",
+    "necessidades específicas",
+    "resolução 148/2023"
   ],
   "consultas": [
     "napne",

@@ -8,7 +8,9 @@
     "titulo",
     "dominio",
     "criticidade",
-    "secoes_preferenciais",
+    "topicos_tematicos",
+    "tipo_escopo",
+    "ancoras_semanticas",
     "consultas",
     "pergunta",
     "rubrica",
@@ -22,24 +24,19 @@
     "titulo": { "type": "string" },
     "dominio": { "type": "string", "enum": ["identidade", "curriculo", "suporte", "transversal"] },
     "criticidade": { "type": "string", "enum": ["BLOQ", "OBRIG", "REC"] },
-    "secoes_preferenciais": {
+    "topicos_tematicos": {
       "type": "array",
       "items": {
-        "type": "string",
-        "enum": [
-          "identificacao_curso",
-          "justificativa_objetivos",
-          "concepcao_metodologia",
-          "perfil_egresso",
-          "organizacao_curricular",
-          "avaliacao_aprendizagem",
-          "atendimento_estudante",
-          "corpo_docente_gestao",
-          "infraestrutura",
-          "avaliacao_ppc_egressos",
-          "referencias_normativas"
-        ]
+        "type": "string"
       }
+    },
+    "tipo_escopo": {
+      "type": "string",
+      "enum": ["tematico", "multitematico", "transversal", "condicional"]
+    },
+    "ancoras_semanticas": {
+      "type": "array",
+      "items": { "type": "string" }
     },
     "consultas": { "type": "array", "items": { "type": "string" } },
     "referencias_normativas": { "type": "array", "items": { "type": "string" } },

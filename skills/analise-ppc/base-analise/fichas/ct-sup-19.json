@@ -3,8 +3,31 @@
   "titulo": "AEE tratado com procedimentos e público-alvo compatíveis, quando aplicável",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "atendimento_estudante"
+  "topicos_tematicos": [
+    "aee_acessibilidade_inclusao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "AEE tratado com procedimentos e público-alvo compatíveis, quando aplicável",
+    "AEE, acessibilidade e inclusão",
+    "atendimento educacional especializado",
+    "AEE",
+    "acessibilidade",
+    "inclusão",
+    "necessidades educacionais específicas",
+    "AICE",
+    "adaptação curricular",
+    "flexibilização",
+    "NAPNE",
+    "tecnologia assistiva",
+    "aee",
+    "aice",
+    "público prioritário",
+    "resolução 159/2023",
+    "flexibilização curricular",
+    "nota técnica 1/2025",
+    "histórico escolar",
+    "sei 3881287"
   ],
   "consultas": [
     "aee",

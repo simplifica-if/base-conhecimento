@@ -1,12 +1,13 @@
 {
   "base_analise_dir": "analise-ppc/base-analise",
-  "gerado_em": "2026-07-06T18:08:04+00:00",
+  "gerado_em": "2026-07-06T18:24:52+00:00",
   "resumo": {
     "total_fichas": 77,
     "total_validacoes_cruzadas": 29,
+    "total_topicos_fichas": 17,
     "total_contratos": 3,
     "total_schemas": 4,
-    "total_itens": 113
+    "total_itens": 130
   },
   "itens": [
     {
@@ -15,8 +16,26 @@
       "titulo": "Matriz curricular estruturada e legível",
       "dominio": "curriculo",
       "criticidade": "BLOQ",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Matriz curricular estruturada e legível",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-01.json"
@@ -27,9 +46,47 @@
       "titulo": "Carga horária total apresentada com consistência",
       "dominio": "curriculo",
       "criticidade": "BLOQ",
-      "secoes": [
-        "identificacao_curso",
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "identificacao_oferta",
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Carga horária total apresentada com consistência",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "carga horária total",
+        "carga horária mínima",
+        "descrição carga horária mínima",
+        "hora-relógio",
+        "hora aula",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.carga_horaria_minima"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-02.json"
@@ -40,8 +97,30 @@
       "titulo": "Distribuição entre formação geral e formação técnica",
       "dominio": "curriculo",
       "criticidade": "BLOQ",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Distribuição entre formação geral e formação técnica",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "núcleo básico",
+        "componentes técnicos",
+        "formação geral",
+        "formação técnica"
       ],
       "referencias_normativas": [
         "Lei 14.945/2024",
@@ -55,9 +134,39 @@
       "titulo": "Componentes curriculares alinhados ao perfil profissional",
       "dominio": "curriculo",
       "criticidade": "BLOQ",
-      "secoes": [
-        "perfil_egresso",
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "matriz_curricular",
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Componentes curriculares alinhados ao perfil profissional",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "eixo tecnológico"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-04.json"
@@ -68,8 +177,24 @@
       "titulo": "Ementas completas e auditáveis",
       "dominio": "curriculo",
       "criticidade": "BLOQ",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "ementario_bibliografias"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Ementas completas e auditáveis",
+        "Ementário, bibliografias e conteúdos",
+        "ementário",
+        "ementas",
+        "bibliografia",
+        "bibliografias",
+        "programas dos componentes",
+        "ementa",
+        "conteúdo programático",
+        "bibliografia básica",
+        "bibliografia complementar",
+        "acervo",
+        "livros"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-05.json"
@@ -80,8 +205,25 @@
       "titulo": "Bibliografia básica e complementar minimamente suficiente",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "ementario_bibliografias"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Bibliografia básica e complementar minimamente suficiente",
+        "Ementário, bibliografias e conteúdos",
+        "ementário",
+        "ementas",
+        "bibliografia",
+        "bibliografias",
+        "programas dos componentes",
+        "ementa",
+        "conteúdo programático",
+        "bibliografia básica",
+        "bibliografia complementar",
+        "acervo",
+        "livros",
+        "ABNT NBR 6023"
       ],
       "referencias_normativas": [
         "ABNT NBR 6023"
@@ -94,8 +236,31 @@
       "titulo": "Progressão formativa e organização por períodos",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Progressão formativa e organização por períodos",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "anos",
+        "períodos",
+        "progressão",
+        "semestres",
+        "etapas"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-07.json"
@@ -106,9 +271,27 @@
       "titulo": "Metodologias e integração curricular compatíveis com a proposta",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "concepcao_metodologia",
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "concepcao_metodologias"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Metodologias e integração curricular compatíveis com a proposta",
+        "Concepção pedagógica e metodologias",
+        "concepção do curso",
+        "concepção pedagógica",
+        "metodologia",
+        "metodologias de ensino",
+        "práticas profissionais",
+        "trabalho como princípio educativo",
+        "pesquisa como princípio pedagógico",
+        "integração teoria prática",
+        "metodologias",
+        "prática profissional",
+        "projeto integrador",
+        "projetos integradores",
+        "interdisciplinaridade",
+        "integração curricular"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-08.json"
@@ -119,9 +302,27 @@
       "titulo": "Inclusão, AEE e flexibilização curricular articulados ao currículo",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular",
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Inclusão, AEE e flexibilização curricular articulados ao currículo",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "aee",
+        "flexibilização curricular",
+        "nota técnica 1/2025",
+        "sei 3881287"
       ],
       "referencias_normativas": [
         "Resolução CONSUP/IFPR 148/2023",
@@ -136,8 +337,29 @@
       "titulo": "Representação gráfica coerente com a organização curricular",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Representação gráfica coerente com a organização curricular",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "representação gráfica",
+        "fluxograma",
+        "processo formativo"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-10.json"
@@ -148,8 +370,27 @@
       "titulo": "Temas transversais e formação cidadã no currículo",
       "dominio": "curriculo",
       "criticidade": "REC",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "temas_transversais_cidadania"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Temas transversais e formação cidadã no currículo",
+        "Temas transversais, cidadania e direitos humanos",
+        "temas transversais",
+        "direitos humanos",
+        "educação ambiental",
+        "relações étnico-raciais",
+        "diversidade",
+        "história e cultura afro-brasileira",
+        "história e cultura indígena",
+        "sustentabilidade",
+        "história e cultura afro-brasileira e indígena",
+        "educação digital",
+        "perspectivas femininas",
+        "filmes de produção nacional",
+        "educação alimentar e nutricional",
+        "educação para o trânsito"
       ],
       "referencias_normativas": [
         "Lei nº 9.394/1996",
@@ -164,8 +405,29 @@
       "titulo": "Progressão formativa explicitada na organização curricular",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Progressão formativa explicitada na organização curricular",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "progressão formativa",
+        "sequência de períodos",
+        "fluxograma"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-12.json"
@@ -176,8 +438,30 @@
       "titulo": "Aproveitamento de estudos com critérios e procedimento definidos",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "aproveitamento_certificacao_tfc"
+      ],
+      "tipo_escopo": "condicional",
+      "ancoras_semanticas": [
+        "Aproveitamento de estudos com critérios e procedimento definidos",
+        "Aproveitamento, certificação intermediária e trabalho final",
+        "aproveitamento de estudos",
+        "certificação intermediária",
+        "terminalidade",
+        "trabalho final de curso",
+        "TFC",
+        "aproveitamento",
+        "certificação",
+        "trabalho final",
+        "certificado intermediário",
+        "competências já desenvolvidas",
+        "critérios de aproveitamento",
+        "procedimentos de solicitação",
+        "documentação necessária",
+        "Resolução Consup/IFPR nº 190",
+        "Resolução IFPR nº 190/2024",
+        "capítulo III",
+        "seção V"
       ],
       "referencias_normativas": [
         "Resolução IFPR nº 190/2024"
@@ -190,8 +474,32 @@
       "titulo": "Projeto final, TCC/TFC ou componente equivalente disciplinado quando previsto",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "aproveitamento_certificacao_tfc"
+      ],
+      "tipo_escopo": "condicional",
+      "ancoras_semanticas": [
+        "Projeto final, TCC/TFC ou componente equivalente disciplinado quando previsto",
+        "Aproveitamento, certificação intermediária e trabalho final",
+        "aproveitamento de estudos",
+        "certificação intermediária",
+        "terminalidade",
+        "trabalho final de curso",
+        "TFC",
+        "aproveitamento",
+        "certificação",
+        "trabalho final",
+        "certificado intermediário",
+        "competências já desenvolvidas",
+        "tfc",
+        "tcc",
+        "projeto final",
+        "projeto final interdisciplinar",
+        "pfi",
+        "projeto integrador",
+        "prática profissional articulada",
+        "orientação",
+        "avaliação"
       ],
       "referencias_normativas": [
         "Resolução CONSUP/IFPR nº 64/2022, art. 16",
@@ -206,8 +514,26 @@
       "titulo": "Certificação de conhecimentos anteriores tratada, quando aplicável",
       "dominio": "curriculo",
       "criticidade": "REC",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "aproveitamento_certificacao_tfc"
+      ],
+      "tipo_escopo": "condicional",
+      "ancoras_semanticas": [
+        "Certificação de conhecimentos anteriores tratada, quando aplicável",
+        "Aproveitamento, certificação intermediária e trabalho final",
+        "aproveitamento de estudos",
+        "certificação intermediária",
+        "terminalidade",
+        "trabalho final de curso",
+        "TFC",
+        "aproveitamento",
+        "certificação",
+        "trabalho final",
+        "certificado intermediário",
+        "competências já desenvolvidas",
+        "conhecimentos anteriores",
+        "certificação de saberes",
+        "legislação vigente"
       ],
       "referencias_normativas": [
         "Resolução CNE/CP 1/2021"
@@ -220,9 +546,49 @@
       "titulo": "Pré-requisitos de ingresso compatíveis com o CNCT",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "identificacao_curso",
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "identificacao_oferta",
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Pré-requisitos de ingresso compatíveis com o CNCT",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "pré-requisitos para ingresso",
+        "pre requisitos para ingresso",
+        "requisitos de ingresso",
+        "escolaridade mínima",
+        "escolaridade exigida",
+        "matrícula no ensino médio",
+        "conclusão do ensino fundamental",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.pre_requisitos_ingresso"
       ],
       "referencias_normativas": [
         "CNCT",
@@ -236,8 +602,28 @@
       "titulo": "Itinerários formativos coerentes com o CNCT",
       "dominio": "curriculo",
       "criticidade": "REC",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "aproveitamento_certificacao_tfc"
+      ],
+      "tipo_escopo": "condicional",
+      "ancoras_semanticas": [
+        "Itinerários formativos coerentes com o CNCT",
+        "Aproveitamento, certificação intermediária e trabalho final",
+        "aproveitamento de estudos",
+        "certificação intermediária",
+        "terminalidade",
+        "trabalho final de curso",
+        "TFC",
+        "aproveitamento",
+        "certificação",
+        "trabalho final",
+        "certificado intermediário",
+        "competências já desenvolvidas",
+        "itinerários formativos",
+        "itinerarios formativos",
+        "certificações intermediárias",
+        "verticalização",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.itinerarios_formativos"
       ],
       "referencias_normativas": [
         "CNCT"
@@ -250,8 +636,47 @@
       "titulo": "Componentes obrigatórios e conteúdos legais da FGB contemplados",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Componentes obrigatórios e conteúdos legais da FGB contemplados",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "formação geral básica",
+        "componentes obrigatórios",
+        "língua portuguesa e suas literaturas",
+        "língua portuguesa",
+        "literaturas",
+        "língua inglesa",
+        "artes",
+        "arte",
+        "educação física",
+        "matemática",
+        "biologia",
+        "física",
+        "química",
+        "filosofia",
+        "geografia",
+        "história",
+        "sociologia",
+        "história e cultura afro-brasileira e indígena",
+        "educação digital",
+        "perspectivas femininas",
+        "filmes de produção nacional"
       ],
       "referencias_normativas": [
         "Lei nº 9.394/1996",
@@ -266,8 +691,46 @@
       "titulo": "Integração curricular e práticas profissionais articuladas",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Integração curricular e práticas profissionais articuladas",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "integração curricular",
+        "teoria e prática",
+        "formação geral",
+        "formação específica",
+        "projetos integradores",
+        "práticas profissionais articuladas",
+        "prática social",
+        "formação humana integral",
+        "trabalho como princípio educativo",
+        "empreendedorismo crítico",
+        "cooperativismo",
+        "trabalho em equipe",
+        "tecnologia da informação",
+        "gestão de pessoas",
+        "legislação trabalhista",
+        "ética profissional",
+        "meio ambiente",
+        "segurança do trabalho",
+        "inovação",
+        "iniciação científica"
       ],
       "referencias_normativas": [
         "Resolução Consup/IFPR nº 64/2022",
@@ -282,8 +745,33 @@
       "titulo": "Decisão sobre estágio e carga horária compatíveis com o CNCT",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "estagio"
+      ],
+      "tipo_escopo": "condicional",
+      "ancoras_semanticas": [
+        "Decisão sobre estágio e carga horária compatíveis com o CNCT",
+        "Estágio curricular",
+        "estágio",
+        "estágio curricular",
+        "estágio obrigatório",
+        "estágio não obrigatório",
+        "prática de estágio",
+        "termo de compromisso",
+        "plano de estágio",
+        "orientação de estágio",
+        "supervisão de estágio",
+        "concedente",
+        "agente de integração",
+        "convênio",
+        "Lei nº 11.788/2008",
+        "Resolução Consup/IFPR nº 82/2022",
+        "carga horária do estágio",
+        "pré-requisito para aprovação",
+        "pré-requisito para certificação",
+        "aprovação e certificação",
+        "cnct_contexto.correspondencia.estagio",
+        "cnct_contexto.comparacoes.estagio_cnct"
       ],
       "referencias_normativas": [
         "CNCT",
@@ -298,8 +786,40 @@
       "titulo": "Convênios e trâmites de estágio descritos quando houver estágio",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "estagio"
+      ],
+      "tipo_escopo": "condicional",
+      "ancoras_semanticas": [
+        "Convênios e trâmites de estágio descritos quando houver estágio",
+        "Estágio curricular",
+        "estágio",
+        "estágio curricular",
+        "estágio obrigatório",
+        "estágio não obrigatório",
+        "prática de estágio",
+        "termo de compromisso",
+        "plano de estágio",
+        "orientação de estágio",
+        "supervisão de estágio",
+        "concedente",
+        "agente de integração",
+        "convênio",
+        "convênio de estágio",
+        "Termo de Compromisso",
+        "Plano de Estágio",
+        "TCE",
+        "UCE",
+        "Seção de Estágios",
+        "Seção de Estágios e Relações Comunitárias",
+        "Direção",
+        "SAEE",
+        "Proens",
+        "10 estudantes simultaneamente",
+        "dez estudantes simultaneamente",
+        "UCE pública ou privada exige convênio",
+        "Regulamento Geral de Estágio do campus",
+        "RGE do campus"
       ],
       "referencias_normativas": [
         "Lei nº 11.788/2008",
@@ -314,9 +834,31 @@
       "titulo": "AEE não incorporado como componente curricular da matriz ou do histórico",
       "dominio": "curriculo",
       "criticidade": "BLOQ",
-      "secoes": [
-        "organizacao_curricular",
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "AEE não incorporado como componente curricular da matriz ou do histórico",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "aee",
+        "componente curricular",
+        "matriz curricular",
+        "fluxograma",
+        "ementário",
+        "histórico escolar",
+        "nota técnica 1/2025",
+        "sei 3881287"
       ],
       "referencias_normativas": [
         "Nota Técnica PROENS/IFPR nº 1/2025 (SEI nº 3881287)",
@@ -331,9 +873,47 @@
       "titulo": "Distribuição semanal das aulas e contraturnos explicitada",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "identificacao_curso",
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "identificacao_oferta",
+        "matriz_curricular"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Distribuição semanal das aulas e contraturnos explicitada",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "horário de oferta",
+        "contraturno",
+        "aulas semanais",
+        "distribuição semanal",
+        "grade semanal",
+        "organização semanal"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-curr-23.json"
@@ -344,8 +924,36 @@
       "titulo": "Organização pedagógica e orientação do estágio obrigatório",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "estagio"
+      ],
+      "tipo_escopo": "condicional",
+      "ancoras_semanticas": [
+        "Organização pedagógica e orientação do estágio obrigatório",
+        "Estágio curricular",
+        "estágio",
+        "estágio curricular",
+        "estágio obrigatório",
+        "estágio não obrigatório",
+        "prática de estágio",
+        "termo de compromisso",
+        "plano de estágio",
+        "orientação de estágio",
+        "supervisão de estágio",
+        "concedente",
+        "agente de integração",
+        "convênio",
+        "componente curricular",
+        "organização curricular do estágio",
+        "período do estágio",
+        "modalidade de orientação",
+        "orientação alternativa",
+        "necessidades educacionais específicas",
+        "contextualização da necessidade do estágio",
+        "relevância do estágio na formação",
+        "Resolução Consup/IFPR nº 82/2022",
+        "Regulamento Geral de Estágio do campus",
+        "RGE"
       ],
       "referencias_normativas": [
         "Lei nº 11.788/2008",
@@ -360,9 +968,48 @@
       "titulo": "Campos de estágio e equivalência coerentes com o perfil profissional",
       "dominio": "curriculo",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso",
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "estagio",
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "condicional",
+      "ancoras_semanticas": [
+        "Campos de estágio e equivalência coerentes com o perfil profissional",
+        "Estágio curricular",
+        "estágio",
+        "estágio curricular",
+        "estágio obrigatório",
+        "estágio não obrigatório",
+        "prática de estágio",
+        "termo de compromisso",
+        "plano de estágio",
+        "orientação de estágio",
+        "supervisão de estágio",
+        "concedente",
+        "agente de integração",
+        "convênio",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "campo de estágio",
+        "campos de estágio",
+        "instituições concedentes",
+        "instituições pretendidas",
+        "Unidade Concedente de Estágio",
+        "UCE",
+        "equivalência",
+        "áreas de formação",
+        "Regulamento Geral de Estágio do campus",
+        "RGE",
+        "Resolução Consup/IFPR nº 82/2022"
       ],
       "referencias_normativas": [
         "CNCT",
@@ -377,9 +1024,32 @@
       "titulo": "Denominação do curso alinhada ao CNCT",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "identificacao_curso",
-        "perfil_egresso"
+      "topicos_tematicos": [
+        "identificacao_oferta"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Denominação do curso alinhada ao CNCT",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "técnico em",
+        "cnct",
+        "denominação do curso",
+        "perfil profissional",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia"
       ],
       "referencias_normativas": [
         "CNCT"
@@ -392,8 +1062,29 @@
       "titulo": "Coerência da apresentação institucional do curso",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "identificacao_curso"
+      "topicos_tematicos": [
+        "identificacao_oferta"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Coerência da apresentação institucional do curso",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "apresentação do projeto",
+        "campus"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-02.json"
@@ -404,8 +1095,23 @@
       "titulo": "Justificativa baseada em demanda territorial e formativa",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "justificativa_objetivos"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Justificativa baseada em demanda territorial e formativa",
+        "Justificativa, objetivos e demanda social",
+        "justificativa",
+        "objetivos",
+        "objetivo geral",
+        "objetivos específicos",
+        "demanda social",
+        "demanda",
+        "arranjo produtivo",
+        "desenvolvimento regional",
+        "finalidade do curso",
+        "mercado de trabalho"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-03.json"
@@ -416,8 +1122,23 @@
       "titulo": "Objetivos formativos claros e operacionais",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "justificativa_objetivos"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Objetivos formativos claros e operacionais",
+        "Justificativa, objetivos e demanda social",
+        "justificativa",
+        "objetivos",
+        "objetivo geral",
+        "objetivos específicos",
+        "demanda social",
+        "demanda",
+        "arranjo produtivo",
+        "desenvolvimento regional",
+        "finalidade do curso",
+        "perfil do egresso"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-04.json"
@@ -428,8 +1149,28 @@
       "titulo": "Concepção de EPT explicitada",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "concepcao_metodologia"
+      "topicos_tematicos": [
+        "concepcao_metodologias"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Concepção de EPT explicitada",
+        "Concepção pedagógica e metodologias",
+        "concepção do curso",
+        "concepção pedagógica",
+        "metodologia",
+        "metodologias de ensino",
+        "práticas profissionais",
+        "trabalho como princípio educativo",
+        "pesquisa como princípio pedagógico",
+        "integração teoria prática",
+        "metodologias",
+        "prática profissional",
+        "projeto integrador",
+        "educação profissional e tecnológica",
+        "formação integral",
+        "resolução cne/cp nº 1/2021",
+        "resolução cne/ceb nº 06/2012"
       ],
       "referencias_normativas": [
         "Resolução CNE/CP nº 1/2021"
@@ -442,8 +1183,28 @@
       "titulo": "Formação integral e princípios norteadores",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "concepcao_metodologia"
+      "topicos_tematicos": [
+        "concepcao_metodologias"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Formação integral e princípios norteadores",
+        "Concepção pedagógica e metodologias",
+        "concepção do curso",
+        "concepção pedagógica",
+        "metodologia",
+        "metodologias de ensino",
+        "práticas profissionais",
+        "trabalho como princípio educativo",
+        "pesquisa como princípio pedagógico",
+        "integração teoria prática",
+        "metodologias",
+        "prática profissional",
+        "projeto integrador",
+        "formação integral",
+        "interdisciplinaridade",
+        "indissociabilidade",
+        "contextualização"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-06.json"
@@ -454,8 +1215,25 @@
       "titulo": "Perfil do egresso descrito com competências e atuação",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso"
+      "topicos_tematicos": [
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Perfil do egresso descrito com competências e atuação",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "atuação profissional",
+        "egresso"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-07.json"
@@ -466,11 +1244,34 @@
       "titulo": "Base legal atualizada nas seções de identidade",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "identificacao_curso",
-        "concepcao_metodologia",
-        "perfil_egresso",
+      "topicos_tematicos": [
         "referencias_normativas"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Base legal atualizada nas seções de identidade",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "CNCT",
+        "IFPR",
+        "lei 9.394",
+        "resolução cne/cp 1/2021",
+        "resolução cne/cp nº 1/2021",
+        "resolução cne/ceb nº 2/2024",
+        "resolução cne/ceb nº 02/2012",
+        "resolução cne/ceb nº 06/2012",
+        "lei 14.945/2024"
       ],
       "referencias_normativas": [
         "Lei 9.394/1996",
@@ -486,9 +1287,31 @@
       "titulo": "Modalidade coerente com a narrativa do PPC",
       "dominio": "identidade",
       "criticidade": "REC",
-      "secoes": [
-        "identificacao_curso",
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "identificacao_oferta"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Modalidade coerente com a narrativa do PPC",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "integrado",
+        "subsequente",
+        "concomitante",
+        "ensino médio"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-09.json"
@@ -499,8 +1322,26 @@
       "titulo": "Competências do egresso alinhadas à habilitação profissional",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso"
+      "topicos_tematicos": [
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Competências do egresso alinhadas à habilitação profissional",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "habilitação profissional",
+        "eixo tecnológico",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-10.json"
@@ -511,8 +1352,26 @@
       "titulo": "Campos de atuação profissional do egresso estão explicitados",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso"
+      "topicos_tematicos": [
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Campos de atuação profissional do egresso estão explicitados",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "atuação profissional",
+        "inserção profissional",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.campo_atuacao"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-11.json"
@@ -523,8 +1382,26 @@
       "titulo": "Perfil do egresso redigido com clareza e especificidade",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso"
+      "topicos_tematicos": [
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Perfil do egresso redigido com clareza e especificidade",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "clareza",
+        "objetividade",
+        "especificidade"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-ident-12.json"
@@ -535,9 +1412,31 @@
       "titulo": "Eixo tecnológico compatível com o CNCT",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "identificacao_curso",
-        "perfil_egresso"
+      "topicos_tematicos": [
+        "identificacao_oferta"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Eixo tecnológico compatível com o CNCT",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "área tecnológica",
+        "cnct",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.eixo_tecnologico",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.area_tecnologica"
       ],
       "referencias_normativas": [
         "CNCT"
@@ -550,8 +1449,27 @@
       "titulo": "Ocupações CBO compatíveis com a identidade profissional",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso"
+      "topicos_tematicos": [
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Ocupações CBO compatíveis com a identidade profissional",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "ocupações cbo",
+        "cbo",
+        "identidade profissional",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.ocupacoes_cbo"
       ],
       "referencias_normativas": [
         "CNCT"
@@ -564,8 +1482,32 @@
       "titulo": "Diploma técnico explicita habilitação profissional e eixo tecnológico",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso"
+      "topicos_tematicos": [
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Diploma técnico explicita habilitação profissional e eixo tecnológico",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "expedição de diplomas",
+        "expedição de certificados",
+        "diploma",
+        "certificado",
+        "título de técnico",
+        "habilitação profissional",
+        "eixo tecnológico",
+        "Catálogo Nacional de Cursos Técnicos",
+        "Resolução CNE/CP nº 1/2021"
       ],
       "referencias_normativas": [
         "Resolução CNE/CP nº 1/2021",
@@ -579,8 +1521,39 @@
       "titulo": "Forma de ingresso e política institucional de acesso explicitadas",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "identificacao_curso"
+      "topicos_tematicos": [
+        "identificacao_oferta"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Forma de ingresso e política institucional de acesso explicitadas",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "requisitos e formas de acesso",
+        "forma de ingresso",
+        "processo seletivo",
+        "acesso",
+        "acesso unificado",
+        "acesso simplificado",
+        "reserva de vagas",
+        "cotas",
+        "ações afirmativas",
+        "Política de Inclusão",
+        "Resolução IFPR nº 190/2024",
+        "Lei nº 12.711/2012"
       ],
       "referencias_normativas": [
         "Resolução IFPR nº 190/2024",
@@ -594,8 +1567,51 @@
       "titulo": "Política de cotas referenciada sem desatualização ou erro material",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "identificacao_curso"
+      "topicos_tematicos": [
+        "assistencia_estudantil_permanencia",
+        "identificacao_oferta"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Política de cotas referenciada sem desatualização ou erro material",
+        "Assistência estudantil, permanência e êxito",
+        "assistência estudantil",
+        "permanência e êxito",
+        "atendimento ao estudante",
+        "acompanhamento discente",
+        "permanência",
+        "êxito",
+        "evasão",
+        "acompanhamento",
+        "monitoria",
+        "apoio pedagógico",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "requisitos e formas de acesso",
+        "reserva de vagas",
+        "cotas",
+        "ações afirmativas",
+        "política de inclusão",
+        "Lei nº 12.711/2012",
+        "Lei nº 13.409/2016",
+        "Lei nº 14.723/2023",
+        "quilombolas",
+        "pessoas com deficiência",
+        "escola pública",
+        "salário mínimo per capita"
       ],
       "referencias_normativas": [
         "Lei nº 12.711/2012",
@@ -610,9 +1626,38 @@
       "titulo": "Acompanhamento de egressos previsto com finalidade formativa",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso",
-        "avaliacao_ppc_egressos"
+      "topicos_tematicos": [
+        "avaliacao_ppc_egressos",
+        "perfil_egresso_mundo_trabalho"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Acompanhamento de egressos previsto com finalidade formativa",
+        "Avaliação do PPC e acompanhamento de egressos",
+        "avaliação do PPC",
+        "avaliação do curso",
+        "acompanhamento de egressos",
+        "autoavaliação",
+        "egresso",
+        "revisão curricular",
+        "CPA",
+        "acompanhamento",
+        "indicadores",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "acompanhamento do egresso",
+        "egressos",
+        "formação continuada",
+        "colegiado"
       ],
       "referencias_normativas": [
         "Portaria PROENS/IFPR nº 121/2024, arts. 67 a 69"
@@ -625,10 +1670,48 @@
       "titulo": "Registro profissional descrito com conselho e base aplicável",
       "dominio": "identidade",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso",
-        "identificacao_curso",
+      "topicos_tematicos": [
+        "perfil_egresso_mundo_trabalho",
         "referencias_normativas"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Registro profissional descrito com conselho e base aplicável",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "IFPR",
+        "registro profissional",
+        "conselho profissional",
+        "conselho regional",
+        "conselho federal",
+        "CRT",
+        "CFT",
+        "técnicos industriais",
+        "legislação profissional",
+        "habilitará seus egressos",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.legislacao_profissional"
       ],
       "referencias_normativas": [
         "CNCT",
@@ -645,8 +1728,27 @@
       "titulo": "Sistema de avaliação coerente com o IFPR",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "avaliacao_aprendizagem"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Sistema de avaliação coerente com o IFPR",
+        "Avaliação do processo de ensino-aprendizagem",
+        "avaliação",
+        "avaliação da aprendizagem",
+        "avaliação do processo de ensino-aprendizagem",
+        "recuperação de estudos",
+        "instrumentos avaliativos",
+        "critérios",
+        "recuperação",
+        "progressão",
+        "conselho de classe",
+        "necessidades educacionais específicas",
+        "conceito a",
+        "conceito b",
+        "conceito c",
+        "conceito d"
       ],
       "referencias_normativas": [
         "Resolução IFPR 50/2017"
@@ -659,8 +1761,26 @@
       "titulo": "Frequência mínima e recuperação da aprendizagem",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "avaliacao_aprendizagem"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Frequência mínima e recuperação da aprendizagem",
+        "Avaliação do processo de ensino-aprendizagem",
+        "avaliação",
+        "avaliação da aprendizagem",
+        "avaliação do processo de ensino-aprendizagem",
+        "recuperação de estudos",
+        "instrumentos avaliativos",
+        "critérios",
+        "recuperação",
+        "progressão",
+        "conselho de classe",
+        "necessidades educacionais específicas",
+        "75%",
+        "frequência mínima",
+        "estudos de recuperação"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-02.json"
@@ -671,8 +1791,26 @@
       "titulo": "Política de assistência estudantil e acompanhamento",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "assistencia_estudantil_permanencia"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Política de assistência estudantil e acompanhamento",
+        "Assistência estudantil, permanência e êxito",
+        "assistência estudantil",
+        "permanência e êxito",
+        "atendimento ao estudante",
+        "acompanhamento discente",
+        "permanência",
+        "êxito",
+        "evasão",
+        "acompanhamento",
+        "monitoria",
+        "apoio pedagógico",
+        "auxílio",
+        "bolsa",
+        "acompanhamento pedagógico"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-03.json"
@@ -683,8 +1821,26 @@
       "titulo": "Inclusão, acessibilidade e AEE na política de atendimento",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Inclusão, acessibilidade e AEE na política de atendimento",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "napne",
+        "aee",
+        "necessidades específicas"
       ],
       "referencias_normativas": [
         "Resolução CONSUP/IFPR 148/2023",
@@ -698,8 +1854,28 @@
       "titulo": "Corpo docente compatível com a oferta formativa",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "corpo_docente_gestao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Corpo docente compatível com a oferta formativa",
+        "Corpo docente, equipe técnica e gestão do curso",
+        "corpo docente",
+        "equipe técnica",
+        "gestão do curso",
+        "coordenação do curso",
+        "colegiado",
+        "docente",
+        "professor",
+        "titulação",
+        "habilitação",
+        "coordenação",
+        "equipe pedagógica",
+        "técnicos administrativos",
+        "professores",
+        "formação",
+        "experiência"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-05.json"
@@ -710,9 +1886,27 @@
       "titulo": "Governança acadêmica do curso",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
-        "corpo_docente_gestao",
-        "avaliacao_ppc_egressos"
+      "topicos_tematicos": [
+        "corpo_docente_gestao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Governança acadêmica do curso",
+        "Corpo docente, equipe técnica e gestão do curso",
+        "corpo docente",
+        "equipe técnica",
+        "gestão do curso",
+        "coordenação do curso",
+        "colegiado",
+        "docente",
+        "professor",
+        "titulação",
+        "habilitação",
+        "coordenação",
+        "equipe pedagógica",
+        "técnicos administrativos",
+        "nde",
+        "governança"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-06.json"
@@ -723,8 +1917,24 @@
       "titulo": "Infraestrutura compatível com os componentes formativos",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "infraestrutura"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Infraestrutura compatível com os componentes formativos",
+        "Infraestrutura, laboratórios e acervo",
+        "laboratórios",
+        "biblioteca",
+        "acervo",
+        "instalações físicas",
+        "laboratório",
+        "equipamento",
+        "sala de aula",
+        "acessibilidade física",
+        "infraestrutura mínima",
+        "espaços",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.infraestrutura_minima"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-07.json"
@@ -735,8 +1945,32 @@
       "titulo": "Avaliação periódica do PPC e acompanhamento de egressos",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "avaliacao_ppc_egressos"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Avaliação periódica do PPC e acompanhamento de egressos",
+        "Avaliação do PPC e acompanhamento de egressos",
+        "avaliação do PPC",
+        "avaliação do curso",
+        "acompanhamento de egressos",
+        "autoavaliação",
+        "egresso",
+        "revisão curricular",
+        "CPA",
+        "acompanhamento",
+        "indicadores",
+        "avaliação do projeto pedagógico do curso",
+        "egressos",
+        "colegiado de curso",
+        "Sepae",
+        "Diepex",
+        "atas",
+        "avaliação emancipatória",
+        "cpa",
+        "Resolução CONSUP/IFPR nº 64/2022",
+        "Portaria PROENS/IFPR nº 121/2024"
       ],
       "referencias_normativas": [
         "Resolução CONSUP/IFPR nº 64/2022, arts. 31 e 32",
@@ -750,8 +1984,31 @@
       "titulo": "Referências com vigência normativa observável",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "referencias_normativas"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Referências com vigência normativa observável",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "CNCT",
+        "IFPR",
+        "resolução cne/ceb nº 2/2024",
+        "resolução cne/cp nº 1/2021",
+        "resolução cne/ceb nº 02/2012",
+        "resolução cne/ceb nº 06/2012"
       ],
       "referencias_normativas": [
         "Lei 9.394/1996",
@@ -767,8 +2024,35 @@
       "titulo": "Políticas transversais de atendimento e diversidade",
       "dominio": "suporte",
       "criticidade": "REC",
-      "secoes": [
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao",
+        "temas_transversais_cidadania"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Políticas transversais de atendimento e diversidade",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "Temas transversais, cidadania e direitos humanos",
+        "temas transversais",
+        "direitos humanos",
+        "educação ambiental",
+        "relações étnico-raciais",
+        "diversidade",
+        "história e cultura afro-brasileira",
+        "história e cultura indígena",
+        "neabi",
+        "nuged",
+        "equidade"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-10.json"
@@ -779,8 +2063,37 @@
       "titulo": "Acessibilidade física e arquitetônica",
       "dominio": "suporte",
       "criticidade": "REC",
-      "secoes": [
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao",
         "infraestrutura"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Acessibilidade física e arquitetônica",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "Infraestrutura, laboratórios e acervo",
+        "laboratórios",
+        "biblioteca",
+        "acervo",
+        "instalações físicas",
+        "laboratório",
+        "equipamento",
+        "sala de aula",
+        "acessibilidade física",
+        "rampa",
+        "elevador",
+        "sinalização",
+        "banheiro adaptado"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-11.json"
@@ -791,8 +2104,34 @@
       "titulo": "Referências com vigência normativa atualizada",
       "dominio": "suporte",
       "criticidade": "BLOQ",
-      "secoes": [
+      "topicos_tematicos": [
         "referencias_normativas"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Referências com vigência normativa atualizada",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "CNCT",
+        "IFPR",
+        "vigência normativa",
+        "lei revogada",
+        "resolução desatualizada",
+        "resolução cne/ceb nº 2/2024",
+        "resolução cne/cp nº 1/2021",
+        "resolução cne/ceb nº 02/2012",
+        "resolução cne/ceb nº 06/2012"
       ],
       "referencias_normativas": [
         "Lei 9.394/1996",
@@ -808,8 +2147,43 @@
       "titulo": "Referências com aderência formal mínima à ABNT",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
+        "ementario_bibliografias",
         "referencias_normativas"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Referências com aderência formal mínima à ABNT",
+        "Ementário, bibliografias e conteúdos",
+        "ementário",
+        "ementas",
+        "bibliografia",
+        "bibliografias",
+        "programas dos componentes",
+        "ementa",
+        "conteúdo programático",
+        "bibliografia básica",
+        "bibliografia complementar",
+        "acervo",
+        "livros",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "CNCT",
+        "IFPR",
+        "abnt",
+        "nbr 6023",
+        "data de acesso"
       ],
       "referencias_normativas": [
         "ABNT NBR 6023"
@@ -822,8 +2196,38 @@
       "titulo": "Referências institucionais e referenciais essenciais do curso",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "referencias_normativas"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Referências institucionais e referenciais essenciais do curso",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "CNCT",
+        "IFPR",
+        "cnct",
+        "pdi",
+        "ppi",
+        "regimento geral",
+        "dcnem",
+        "dcnept",
+        "referências institucionais",
+        "legislação profissional",
+        "resolução cne/ceb nº 2/2024",
+        "resolução cne/cp nº 1/2021",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.legislacao_profissional"
       ],
       "referencias_normativas": [
         "Resolução CNE/CEB nº 2/2024",
@@ -841,8 +2245,28 @@
       "titulo": "Habilitação docente compatível com os componentes da oferta",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "corpo_docente_gestao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Habilitação docente compatível com os componentes da oferta",
+        "Corpo docente, equipe técnica e gestão do curso",
+        "corpo docente",
+        "equipe técnica",
+        "gestão do curso",
+        "coordenação do curso",
+        "colegiado",
+        "docente",
+        "professor",
+        "titulação",
+        "habilitação",
+        "coordenação",
+        "equipe pedagógica",
+        "técnicos administrativos",
+        "licenciatura",
+        "componentes curriculares",
+        "experiência profissional"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-15.json"
@@ -853,8 +2277,29 @@
       "titulo": "Quantitativo e disponibilidade docente sustentam a oferta",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "corpo_docente_gestao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Quantitativo e disponibilidade docente sustentam a oferta",
+        "Corpo docente, equipe técnica e gestão do curso",
+        "corpo docente",
+        "equipe técnica",
+        "gestão do curso",
+        "coordenação do curso",
+        "colegiado",
+        "docente",
+        "professor",
+        "titulação",
+        "habilitação",
+        "coordenação",
+        "equipe pedagógica",
+        "técnicos administrativos",
+        "número de docentes",
+        "regime de trabalho",
+        "carga horária docente",
+        "suficiência"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-sup-16.json"
@@ -865,8 +2310,33 @@
       "titulo": "Formação pedagógica e desenvolvimento docente previstos",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "corpo_docente_gestao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Formação pedagógica e desenvolvimento docente previstos",
+        "Corpo docente, equipe técnica e gestão do curso",
+        "corpo docente",
+        "equipe técnica",
+        "gestão do curso",
+        "coordenação do curso",
+        "colegiado",
+        "docente",
+        "professor",
+        "titulação",
+        "habilitação",
+        "coordenação",
+        "equipe pedagógica",
+        "técnicos administrativos",
+        "formação pedagógica",
+        "complementação pedagógica",
+        "formação continuada",
+        "bacharéis",
+        "docentes não licenciados",
+        "política institucional de formação",
+        "Resolução CNE/CP nº 1/2021",
+        "Resolução CONSUP/IFPR nº 64/2022"
       ],
       "referencias_normativas": [
         "LDB, arts. 61 a 63",
@@ -881,8 +2351,26 @@
       "titulo": "Política institucional de inclusão com papéis e normativas definidos",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Política institucional de inclusão com papéis e normativas definidos",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "napne",
+        "necessidades específicas",
+        "resolução 148/2023"
       ],
       "referencias_normativas": [
         "Resolução CONSUP/IFPR 148/2023"
@@ -895,8 +2383,31 @@
       "titulo": "AEE tratado com procedimentos e público-alvo compatíveis, quando aplicável",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "AEE tratado com procedimentos e público-alvo compatíveis, quando aplicável",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "aee",
+        "aice",
+        "público prioritário",
+        "resolução 159/2023",
+        "flexibilização curricular",
+        "nota técnica 1/2025",
+        "histórico escolar",
+        "sei 3881287"
       ],
       "referencias_normativas": [
         "Resolução CONSUP/IFPR 159/2023",
@@ -911,8 +2422,27 @@
       "titulo": "Recursos de acessibilidade e medidas de permanência estão previstos",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Recursos de acessibilidade e medidas de permanência estão previstos",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "materiais acessíveis",
+        "sinalização",
+        "critérios diferenciados de avaliação",
+        "acompanhamento"
       ],
       "referencias_normativas": [
         "Resolução CONSUP/IFPR 148/2023",
@@ -926,10 +2456,44 @@
       "titulo": "Legislação profissional CNCT tratada quando aplicável",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
-        "perfil_egresso",
-        "identificacao_curso",
+      "topicos_tematicos": [
+        "perfil_egresso_mundo_trabalho",
         "referencias_normativas"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Legislação profissional CNCT tratada quando aplicável",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "IFPR",
+        "registro profissional",
+        "legislação profissional",
+        "legislacao profissional",
+        "profissão regulamentada",
+        "conselho profissional",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.legislacao_profissional"
       ],
       "referencias_normativas": [
         "CNCT"
@@ -942,8 +2506,24 @@
       "titulo": "Infraestrutura mínima CNCT atendida ou justificada",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "infraestrutura"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Infraestrutura mínima CNCT atendida ou justificada",
+        "Infraestrutura, laboratórios e acervo",
+        "laboratórios",
+        "biblioteca",
+        "acervo",
+        "instalações físicas",
+        "laboratório",
+        "equipamento",
+        "sala de aula",
+        "acessibilidade física",
+        "infraestrutura mínima",
+        "laboratórios específicos",
+        "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.infraestrutura_minima"
       ],
       "referencias_normativas": [
         "CNCT"
@@ -956,8 +2536,31 @@
       "titulo": "Coordenação do curso com atribuições, regime e participação institucional explicitados",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
         "corpo_docente_gestao"
+      ],
+      "tipo_escopo": "tematico",
+      "ancoras_semanticas": [
+        "Coordenação do curso com atribuições, regime e participação institucional explicitados",
+        "Corpo docente, equipe técnica e gestão do curso",
+        "corpo docente",
+        "equipe técnica",
+        "gestão do curso",
+        "coordenação do curso",
+        "colegiado",
+        "docente",
+        "professor",
+        "titulação",
+        "habilitação",
+        "coordenação",
+        "equipe pedagógica",
+        "técnicos administrativos",
+        "coordenador do curso",
+        "atribuições da coordenação",
+        "manual de competências",
+        "regime de trabalho",
+        "instâncias colegiadas",
+        "gestão acadêmica"
       ],
       "referencias_normativas": [
         "Manual de Competências do IFPR"
@@ -970,8 +2573,47 @@
       "titulo": "Política de assistência estudantil adequada à Resolução CONSUP/IFPR nº 239/2025",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
-        "atendimento_estudante"
+      "topicos_tematicos": [
+        "assistencia_estudantil_permanencia",
+        "referencias_normativas"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Política de assistência estudantil adequada à Resolução CONSUP/IFPR nº 239/2025",
+        "Assistência estudantil, permanência e êxito",
+        "assistência estudantil",
+        "permanência e êxito",
+        "atendimento ao estudante",
+        "acompanhamento discente",
+        "permanência",
+        "êxito",
+        "evasão",
+        "acompanhamento",
+        "monitoria",
+        "apoio pedagógico",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "CNCT",
+        "IFPR",
+        "política institucional de assistência estudantil",
+        "apoio estudantil",
+        "conclusão do curso",
+        "Resolução CONSUP/IFPR nº 239/2025",
+        "Lei nº 14.914/2024",
+        "PNAES",
+        "Resolução nº 11/2009",
+        "Resolução nº 53/2011"
       ],
       "referencias_normativas": [
         "Resolução CONSUP/IFPR nº 239/2025",
@@ -985,8 +2627,41 @@
       "titulo": "Biblioteca descrita com acessibilidade física e condições de acesso",
       "dominio": "suporte",
       "criticidade": "OBRIG",
-      "secoes": [
+      "topicos_tematicos": [
+        "aee_acessibilidade_inclusao",
         "infraestrutura"
+      ],
+      "tipo_escopo": "multitematico",
+      "ancoras_semanticas": [
+        "Biblioteca descrita com acessibilidade física e condições de acesso",
+        "AEE, acessibilidade e inclusão",
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "NAPNE",
+        "tecnologia assistiva",
+        "Infraestrutura, laboratórios e acervo",
+        "laboratórios",
+        "biblioteca",
+        "acervo",
+        "instalações físicas",
+        "laboratório",
+        "equipamento",
+        "sala de aula",
+        "acessibilidade física",
+        "piso térreo",
+        "térreo",
+        "rampa",
+        "elevador",
+        "escada",
+        "circulação",
+        "mobiliário acessível",
+        "atendimento acessível"
       ],
       "referencias_normativas": [
         "Lei nº 13.146/2015"
@@ -999,10 +2674,48 @@
       "titulo": "Coerência entre objetivos, perfil do egresso e matriz",
       "dominio": "transversal",
       "criticidade": "BLOQ",
-      "secoes": [
+      "topicos_tematicos": [
         "justificativa_objetivos",
-        "perfil_egresso",
-        "organizacao_curricular"
+        "perfil_egresso_mundo_trabalho",
+        "sintese_transversal_parecer"
+      ],
+      "tipo_escopo": "transversal",
+      "ancoras_semanticas": [
+        "Coerência entre objetivos, perfil do egresso e matriz",
+        "Justificativa, objetivos e demanda social",
+        "justificativa",
+        "objetivos",
+        "objetivo geral",
+        "objetivos específicos",
+        "demanda social",
+        "demanda",
+        "arranjo produtivo",
+        "desenvolvimento regional",
+        "finalidade do curso",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "Síntese transversal e riscos para parecer",
+        "síntese transversal",
+        "parecer",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC",
+        "coerência transversal",
+        "risco",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências",
+        "matriz curricular"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-trans-01.json"
@@ -1013,10 +2726,51 @@
       "titulo": "Coerência entre concepção, metodologias e avaliação",
       "dominio": "transversal",
       "criticidade": "BLOQ",
-      "secoes": [
-        "concepcao_metodologia",
-        "organizacao_curricular",
-        "avaliacao_aprendizagem"
+      "topicos_tematicos": [
+        "avaliacao_aprendizagem",
+        "concepcao_metodologias",
+        "sintese_transversal_parecer"
+      ],
+      "tipo_escopo": "transversal",
+      "ancoras_semanticas": [
+        "Coerência entre concepção, metodologias e avaliação",
+        "Avaliação do processo de ensino-aprendizagem",
+        "avaliação",
+        "avaliação da aprendizagem",
+        "avaliação do processo de ensino-aprendizagem",
+        "recuperação de estudos",
+        "instrumentos avaliativos",
+        "critérios",
+        "recuperação",
+        "progressão",
+        "conselho de classe",
+        "necessidades educacionais específicas",
+        "Concepção pedagógica e metodologias",
+        "concepção do curso",
+        "concepção pedagógica",
+        "metodologia",
+        "metodologias de ensino",
+        "práticas profissionais",
+        "trabalho como princípio educativo",
+        "pesquisa como princípio pedagógico",
+        "integração teoria prática",
+        "metodologias",
+        "prática profissional",
+        "projeto integrador",
+        "Síntese transversal e riscos para parecer",
+        "síntese transversal",
+        "parecer",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC",
+        "coerência transversal",
+        "risco",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências",
+        "concepção",
+        "aprendizagem"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-trans-02.json"
@@ -1027,8 +2781,52 @@
       "titulo": "Coerência interna entre ementas e bibliografias do currículo",
       "dominio": "transversal",
       "criticidade": "BLOQ",
-      "secoes": [
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "ementario_bibliografias",
+        "matriz_curricular",
+        "sintese_transversal_parecer"
+      ],
+      "tipo_escopo": "transversal",
+      "ancoras_semanticas": [
+        "Coerência interna entre ementas e bibliografias do currículo",
+        "Ementário, bibliografias e conteúdos",
+        "ementário",
+        "ementas",
+        "bibliografia",
+        "bibliografias",
+        "programas dos componentes",
+        "ementa",
+        "conteúdo programático",
+        "bibliografia básica",
+        "bibliografia complementar",
+        "acervo",
+        "livros",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "Síntese transversal e riscos para parecer",
+        "síntese transversal",
+        "parecer",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC",
+        "coerência transversal",
+        "risco",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-trans-03.json"
@@ -1039,10 +2837,63 @@
       "titulo": "Coerência entre currículo, corpo docente e infraestrutura",
       "dominio": "transversal",
       "criticidade": "BLOQ",
-      "secoes": [
-        "organizacao_curricular",
+      "topicos_tematicos": [
         "corpo_docente_gestao",
-        "infraestrutura"
+        "infraestrutura",
+        "matriz_curricular",
+        "sintese_transversal_parecer"
+      ],
+      "tipo_escopo": "transversal",
+      "ancoras_semanticas": [
+        "Coerência entre currículo, corpo docente e infraestrutura",
+        "Corpo docente, equipe técnica e gestão do curso",
+        "corpo docente",
+        "equipe técnica",
+        "gestão do curso",
+        "coordenação do curso",
+        "colegiado",
+        "docente",
+        "professor",
+        "titulação",
+        "habilitação",
+        "coordenação",
+        "equipe pedagógica",
+        "técnicos administrativos",
+        "Infraestrutura, laboratórios e acervo",
+        "laboratórios",
+        "biblioteca",
+        "acervo",
+        "instalações físicas",
+        "laboratório",
+        "equipamento",
+        "sala de aula",
+        "acessibilidade física",
+        "Matriz curricular, integralização e componentes",
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular",
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular",
+        "Síntese transversal e riscos para parecer",
+        "síntese transversal",
+        "parecer",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC",
+        "coerência transversal",
+        "risco",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-trans-04.json"
@@ -1053,18 +2904,49 @@
       "titulo": "Riscos globais e diligências prioritárias",
       "dominio": "transversal",
       "criticidade": "BLOQ",
-      "secoes": [
-        "identificacao_curso",
-        "justificativa_objetivos",
-        "concepcao_metodologia",
-        "perfil_egresso",
-        "organizacao_curricular",
-        "avaliacao_aprendizagem",
-        "atendimento_estudante",
-        "corpo_docente_gestao",
-        "infraestrutura",
+      "topicos_tematicos": [
         "avaliacao_ppc_egressos",
-        "referencias_normativas"
+        "justificativa_objetivos",
+        "sintese_transversal_parecer"
+      ],
+      "tipo_escopo": "transversal",
+      "ancoras_semanticas": [
+        "Riscos globais e diligências prioritárias",
+        "Avaliação do PPC e acompanhamento de egressos",
+        "avaliação do PPC",
+        "avaliação do curso",
+        "acompanhamento de egressos",
+        "autoavaliação",
+        "egresso",
+        "revisão curricular",
+        "CPA",
+        "acompanhamento",
+        "indicadores",
+        "Justificativa, objetivos e demanda social",
+        "justificativa",
+        "objetivos",
+        "objetivo geral",
+        "objetivos específicos",
+        "demanda social",
+        "demanda",
+        "arranjo produtivo",
+        "desenvolvimento regional",
+        "finalidade do curso",
+        "Síntese transversal e riscos para parecer",
+        "síntese transversal",
+        "parecer",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC",
+        "coerência transversal",
+        "risco",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências",
+        "matriz curricular",
+        "avaliação",
+        "referências"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-trans-05.json"
@@ -1075,10 +2957,42 @@
       "titulo": "Síntese argumentativa para o parecer final",
       "dominio": "transversal",
       "criticidade": "REC",
-      "secoes": [
-        "identificacao_curso",
-        "organizacao_curricular",
-        "referencias_normativas"
+      "topicos_tematicos": [
+        "referencias_normativas",
+        "sintese_transversal_parecer"
+      ],
+      "tipo_escopo": "transversal",
+      "ancoras_semanticas": [
+        "Síntese argumentativa para o parecer final",
+        "Referências, base legal e normas institucionais",
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação",
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "DCNEPT",
+        "DCNEM",
+        "CNCT",
+        "IFPR",
+        "Síntese transversal e riscos para parecer",
+        "síntese transversal",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC",
+        "coerência transversal",
+        "risco",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências",
+        "apresentação",
+        "organização curricular",
+        "diligência"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-trans-06.json"
@@ -1089,11 +3003,58 @@
       "titulo": "Dimensionamento de vagas compatível com infraestrutura e interesse público",
       "dominio": "transversal",
       "criticidade": "REC",
-      "secoes": [
-        "identificacao_curso",
-        "justificativa_objetivos",
-        "corpo_docente_gestao",
-        "infraestrutura"
+      "topicos_tematicos": [
+        "identificacao_oferta",
+        "infraestrutura",
+        "sintese_transversal_parecer"
+      ],
+      "tipo_escopo": "transversal",
+      "ancoras_semanticas": [
+        "Dimensionamento de vagas compatível com infraestrutura e interesse público",
+        "Identificação e características da oferta",
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso",
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso",
+        "Infraestrutura, laboratórios e acervo",
+        "laboratórios",
+        "biblioteca",
+        "acervo",
+        "instalações físicas",
+        "laboratório",
+        "equipamento",
+        "sala de aula",
+        "acessibilidade física",
+        "Síntese transversal e riscos para parecer",
+        "síntese transversal",
+        "parecer",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC",
+        "coerência transversal",
+        "risco",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências",
+        "número de vagas",
+        "vagas ofertadas",
+        "mínimo de vagas",
+        "máximo de vagas",
+        "oferta de vagas",
+        "justificativa da oferta",
+        "demanda regional",
+        "capacidade instalada"
       ],
       "referencias_normativas": [],
       "arquivo": "fichas/ct-trans-07.json"
@@ -1104,10 +3065,52 @@
       "titulo": "Coerência teórico-prática entre concepção, perfil e matriz",
       "dominio": "transversal",
       "criticidade": "OBRIG",
-      "secoes": [
-        "concepcao_metodologia",
-        "perfil_egresso",
-        "organizacao_curricular"
+      "topicos_tematicos": [
+        "concepcao_metodologias",
+        "perfil_egresso_mundo_trabalho",
+        "sintese_transversal_parecer"
+      ],
+      "tipo_escopo": "transversal",
+      "ancoras_semanticas": [
+        "Coerência teórico-prática entre concepção, perfil e matriz",
+        "Concepção pedagógica e metodologias",
+        "concepção do curso",
+        "concepção pedagógica",
+        "metodologia",
+        "metodologias de ensino",
+        "práticas profissionais",
+        "trabalho como princípio educativo",
+        "pesquisa como princípio pedagógico",
+        "integração teoria prática",
+        "metodologias",
+        "prática profissional",
+        "projeto integrador",
+        "Perfil do egresso, competências e mundo do trabalho",
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho",
+        "competências",
+        "perfil profissional de conclusão",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "Síntese transversal e riscos para parecer",
+        "síntese transversal",
+        "parecer",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC",
+        "coerência transversal",
+        "risco",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências",
+        "matriz curricular",
+        "ementário",
+        "Catálogo Nacional de Cursos Técnicos"
       ],
       "referencias_normativas": [
         "Resolução CNE/CP nº 1/2021, art. 20, incisos IV, VI e VII",
@@ -1492,6 +3495,557 @@
       "arquivo": "validacoes-cruzadas/vc-10-04.json"
     },
     {
+      "categoria": "topico_fichas",
+      "id": "identificacao_oferta",
+      "titulo": "Identificação e características da oferta",
+      "grupo": "Identidade do curso",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "identificação do curso",
+        "características do curso",
+        "dados do curso",
+        "apresentação do curso",
+        "oferta do curso"
+      ],
+      "termos_busca": [
+        "denominação",
+        "eixo tecnológico",
+        "forma de oferta",
+        "modalidade",
+        "vagas",
+        "turno",
+        "carga horária",
+        "duração",
+        "requisitos de acesso"
+      ],
+      "fichas": [
+        "CT-IDENT-01",
+        "CT-IDENT-02",
+        "CT-IDENT-09",
+        "CT-IDENT-13",
+        "CT-IDENT-16",
+        "CT-IDENT-17",
+        "CT-CURR-02",
+        "CT-CURR-16",
+        "CT-CURR-23",
+        "CT-TRANS-07"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "justificativa_objetivos",
+      "titulo": "Justificativa, objetivos e demanda social",
+      "grupo": "Identidade do curso",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "justificativa",
+        "objetivos",
+        "objetivo geral",
+        "objetivos específicos",
+        "demanda social"
+      ],
+      "termos_busca": [
+        "demanda",
+        "arranjo produtivo",
+        "desenvolvimento regional",
+        "objetivo geral",
+        "objetivos específicos",
+        "finalidade do curso"
+      ],
+      "fichas": [
+        "CT-IDENT-03",
+        "CT-IDENT-04",
+        "CT-TRANS-01",
+        "CT-TRANS-05"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "concepcao_metodologias",
+      "titulo": "Concepção pedagógica e metodologias",
+      "grupo": "Projeto pedagógico",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "concepção do curso",
+        "concepção pedagógica",
+        "metodologia",
+        "metodologias de ensino",
+        "práticas profissionais"
+      ],
+      "termos_busca": [
+        "trabalho como princípio educativo",
+        "pesquisa como princípio pedagógico",
+        "integração teoria prática",
+        "metodologias",
+        "prática profissional",
+        "projeto integrador"
+      ],
+      "fichas": [
+        "CT-IDENT-05",
+        "CT-IDENT-06",
+        "CT-CURR-08",
+        "CT-TRANS-02",
+        "CT-TRANS-08"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "perfil_egresso_mundo_trabalho",
+      "titulo": "Perfil do egresso, competências e mundo do trabalho",
+      "grupo": "Identidade do curso",
+      "tipo_escopo": "multitematico",
+      "aliases_titulo": [
+        "perfil do egresso",
+        "perfil profissional",
+        "competências profissionais",
+        "campo de atuação",
+        "mundo do trabalho"
+      ],
+      "termos_busca": [
+        "competências",
+        "perfil profissional de conclusão",
+        "campo de atuação",
+        "ocupações",
+        "CNCT",
+        "verticalização",
+        "mundo do trabalho"
+      ],
+      "fichas": [
+        "CT-IDENT-07",
+        "CT-IDENT-10",
+        "CT-IDENT-11",
+        "CT-IDENT-12",
+        "CT-IDENT-14",
+        "CT-IDENT-15",
+        "CT-IDENT-18",
+        "CT-IDENT-19",
+        "CT-CURR-04",
+        "CT-CURR-25",
+        "CT-SUP-21",
+        "CT-TRANS-01",
+        "CT-TRANS-08"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "matriz_curricular",
+      "titulo": "Matriz curricular, integralização e componentes",
+      "grupo": "Organização curricular",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "organização curricular",
+        "matriz curricular",
+        "estrutura curricular",
+        "itinerário formativo",
+        "integralização curricular"
+      ],
+      "termos_busca": [
+        "matriz",
+        "componentes curriculares",
+        "carga horária",
+        "integralização",
+        "período",
+        "semestre",
+        "ano",
+        "atividade curricular"
+      ],
+      "fichas": [
+        "CT-CURR-01",
+        "CT-CURR-02",
+        "CT-CURR-03",
+        "CT-CURR-04",
+        "CT-CURR-07",
+        "CT-CURR-10",
+        "CT-CURR-12",
+        "CT-CURR-16",
+        "CT-CURR-18",
+        "CT-CURR-19",
+        "CT-CURR-23",
+        "CT-TRANS-03",
+        "CT-TRANS-04"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "ementario_bibliografias",
+      "titulo": "Ementário, bibliografias e conteúdos",
+      "grupo": "Organização curricular",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "ementário",
+        "ementas",
+        "bibliografia",
+        "bibliografias",
+        "programas dos componentes"
+      ],
+      "termos_busca": [
+        "ementa",
+        "conteúdo programático",
+        "bibliografia básica",
+        "bibliografia complementar",
+        "acervo",
+        "livros"
+      ],
+      "fichas": [
+        "CT-CURR-05",
+        "CT-CURR-06",
+        "CT-SUP-13",
+        "CT-TRANS-03"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "estagio",
+      "titulo": "Estágio curricular",
+      "grupo": "Organização curricular",
+      "tipo_escopo": "condicional",
+      "aliases_titulo": [
+        "estágio",
+        "estágio curricular",
+        "estágio obrigatório",
+        "estágio não obrigatório",
+        "prática de estágio"
+      ],
+      "termos_busca": [
+        "estágio",
+        "termo de compromisso",
+        "plano de estágio",
+        "orientação de estágio",
+        "supervisão de estágio",
+        "concedente",
+        "agente de integração",
+        "convênio"
+      ],
+      "fichas": [
+        "CT-CURR-20",
+        "CT-CURR-21",
+        "CT-CURR-24",
+        "CT-CURR-25"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "aproveitamento_certificacao_tfc",
+      "titulo": "Aproveitamento, certificação intermediária e trabalho final",
+      "grupo": "Organização curricular",
+      "tipo_escopo": "condicional",
+      "aliases_titulo": [
+        "aproveitamento de estudos",
+        "certificação intermediária",
+        "terminalidade",
+        "trabalho final de curso",
+        "TFC"
+      ],
+      "termos_busca": [
+        "aproveitamento",
+        "certificação",
+        "terminalidade",
+        "trabalho final",
+        "TFC",
+        "certificado intermediário",
+        "competências já desenvolvidas"
+      ],
+      "fichas": [
+        "CT-CURR-13",
+        "CT-CURR-14",
+        "CT-CURR-15",
+        "CT-CURR-17"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "avaliacao_aprendizagem",
+      "titulo": "Avaliação do processo de ensino-aprendizagem",
+      "grupo": "Projeto pedagógico",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "avaliação",
+        "avaliação da aprendizagem",
+        "avaliação do processo de ensino-aprendizagem",
+        "recuperação de estudos"
+      ],
+      "termos_busca": [
+        "avaliação",
+        "instrumentos avaliativos",
+        "critérios",
+        "recuperação",
+        "progressão",
+        "conselho de classe",
+        "necessidades educacionais específicas"
+      ],
+      "fichas": [
+        "CT-SUP-01",
+        "CT-SUP-02",
+        "CT-TRANS-02"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "assistencia_estudantil_permanencia",
+      "titulo": "Assistência estudantil, permanência e êxito",
+      "grupo": "Suporte ao estudante",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "assistência estudantil",
+        "permanência e êxito",
+        "atendimento ao estudante",
+        "acompanhamento discente"
+      ],
+      "termos_busca": [
+        "permanência",
+        "êxito",
+        "assistência estudantil",
+        "evasão",
+        "acompanhamento",
+        "monitoria",
+        "apoio pedagógico"
+      ],
+      "fichas": [
+        "CT-SUP-03",
+        "CT-SUP-24",
+        "CT-IDENT-17"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "aee_acessibilidade_inclusao",
+      "titulo": "AEE, acessibilidade e inclusão",
+      "grupo": "Suporte ao estudante",
+      "tipo_escopo": "multitematico",
+      "aliases_titulo": [
+        "atendimento educacional especializado",
+        "AEE",
+        "acessibilidade",
+        "inclusão",
+        "necessidades educacionais específicas"
+      ],
+      "termos_busca": [
+        "AEE",
+        "AICE",
+        "adaptação curricular",
+        "flexibilização",
+        "acessibilidade",
+        "inclusão",
+        "NAPNE",
+        "tecnologia assistiva"
+      ],
+      "fichas": [
+        "CT-CURR-09",
+        "CT-CURR-22",
+        "CT-SUP-04",
+        "CT-SUP-10",
+        "CT-SUP-11",
+        "CT-SUP-18",
+        "CT-SUP-19",
+        "CT-SUP-20",
+        "CT-SUP-25"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "corpo_docente_gestao",
+      "titulo": "Corpo docente, equipe técnica e gestão do curso",
+      "grupo": "Condições de oferta",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "corpo docente",
+        "equipe técnica",
+        "gestão do curso",
+        "coordenação do curso",
+        "colegiado"
+      ],
+      "termos_busca": [
+        "docente",
+        "professor",
+        "titulação",
+        "habilitação",
+        "coordenação",
+        "colegiado",
+        "equipe pedagógica",
+        "técnicos administrativos"
+      ],
+      "fichas": [
+        "CT-SUP-05",
+        "CT-SUP-06",
+        "CT-SUP-15",
+        "CT-SUP-16",
+        "CT-SUP-17",
+        "CT-SUP-23",
+        "CT-TRANS-04"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "infraestrutura",
+      "titulo": "Infraestrutura, laboratórios e acervo",
+      "grupo": "Condições de oferta",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "infraestrutura",
+        "laboratórios",
+        "biblioteca",
+        "acervo",
+        "instalações físicas"
+      ],
+      "termos_busca": [
+        "laboratório",
+        "equipamento",
+        "biblioteca",
+        "acervo",
+        "sala de aula",
+        "infraestrutura",
+        "acessibilidade física"
+      ],
+      "fichas": [
+        "CT-SUP-07",
+        "CT-SUP-11",
+        "CT-SUP-22",
+        "CT-SUP-25",
+        "CT-TRANS-04",
+        "CT-TRANS-07"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "avaliacao_ppc_egressos",
+      "titulo": "Avaliação do PPC e acompanhamento de egressos",
+      "grupo": "Avaliação institucional",
+      "tipo_escopo": "tematico",
+      "aliases_titulo": [
+        "avaliação do PPC",
+        "avaliação do curso",
+        "acompanhamento de egressos",
+        "autoavaliação"
+      ],
+      "termos_busca": [
+        "egresso",
+        "autoavaliação",
+        "avaliação do PPC",
+        "revisão curricular",
+        "CPA",
+        "acompanhamento",
+        "indicadores"
+      ],
+      "fichas": [
+        "CT-SUP-08",
+        "CT-IDENT-18",
+        "CT-TRANS-05"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "referencias_normativas",
+      "titulo": "Referências, base legal e normas institucionais",
+      "grupo": "Fundamentação normativa",
+      "tipo_escopo": "multitematico",
+      "aliases_titulo": [
+        "base legal",
+        "fundamentação legal",
+        "referências",
+        "referências normativas",
+        "legislação"
+      ],
+      "termos_busca": [
+        "lei",
+        "resolução",
+        "portaria",
+        "parecer",
+        "norma",
+        "referências",
+        "DCNEPT",
+        "DCNEM",
+        "CNCT",
+        "IFPR"
+      ],
+      "fichas": [
+        "CT-IDENT-08",
+        "CT-IDENT-19",
+        "CT-SUP-09",
+        "CT-SUP-12",
+        "CT-SUP-13",
+        "CT-SUP-14",
+        "CT-SUP-21",
+        "CT-SUP-24",
+        "CT-TRANS-06"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "temas_transversais_cidadania",
+      "titulo": "Temas transversais, cidadania e direitos humanos",
+      "grupo": "Projeto pedagógico",
+      "tipo_escopo": "transversal",
+      "aliases_titulo": [
+        "temas transversais",
+        "direitos humanos",
+        "educação ambiental",
+        "relações étnico-raciais",
+        "diversidade"
+      ],
+      "termos_busca": [
+        "direitos humanos",
+        "educação ambiental",
+        "relações étnico-raciais",
+        "história e cultura afro-brasileira",
+        "história e cultura indígena",
+        "diversidade"
+      ],
+      "fichas": [
+        "CT-CURR-11",
+        "CT-SUP-10"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
+      "categoria": "topico_fichas",
+      "id": "sintese_transversal_parecer",
+      "titulo": "Síntese transversal e riscos para parecer",
+      "grupo": "Síntese da análise",
+      "tipo_escopo": "transversal",
+      "aliases_titulo": [
+        "síntese transversal",
+        "parecer",
+        "conclusão da análise",
+        "recomendação final",
+        "riscos do PPC"
+      ],
+      "termos_busca": [
+        "coerência transversal",
+        "risco",
+        "parecer",
+        "recomendação",
+        "achados",
+        "síntese",
+        "pendências"
+      ],
+      "fichas": [
+        "CT-TRANS-01",
+        "CT-TRANS-02",
+        "CT-TRANS-03",
+        "CT-TRANS-04",
+        "CT-TRANS-05",
+        "CT-TRANS-06",
+        "CT-TRANS-07",
+        "CT-TRANS-08"
+      ],
+      "arquivo": "topicos-fichas.json"
+    },
+    {
       "categoria": "contrato",
       "id": "batch.exemplo",
       "titulo": "batch.exemplo.json",
@@ -1510,8 +4064,11 @@
       "titulo": "ficha.exemplo.json",
       "tipo_contrato": "ficha",
       "campos_raiz": [
+        "ancoras_semanticas",
         "boa_evidencia",
+        "consultas",
         "criticidade",
+        "dominio",
         "estados_permitidos",
         "evidencia_minima",
         "feedback_autores",
@@ -1519,8 +4076,9 @@
         "ma_evidencia",
         "pergunta",
         "rubrica",
-        "secoes_preferenciais",
-        "titulo"
+        "tipo_escopo",
+        "titulo",
+        "topicos_tematicos"
       ],
       "arquivo": "contratos/ficha.exemplo.json"
     },

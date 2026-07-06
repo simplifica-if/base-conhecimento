@@ -3,9 +3,27 @@
   "titulo": "Metodologias e integração curricular compatíveis com a proposta",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "concepcao_metodologia",
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "concepcao_metodologias"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Metodologias e integração curricular compatíveis com a proposta",
+    "Concepção pedagógica e metodologias",
+    "concepção do curso",
+    "concepção pedagógica",
+    "metodologia",
+    "metodologias de ensino",
+    "práticas profissionais",
+    "trabalho como princípio educativo",
+    "pesquisa como princípio pedagógico",
+    "integração teoria prática",
+    "metodologias",
+    "prática profissional",
+    "projeto integrador",
+    "projetos integradores",
+    "interdisciplinaridade",
+    "integração curricular"
   ],
   "consultas": [
     "metodologias",

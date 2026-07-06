@@ -3,9 +3,31 @@
   "titulo": "Eixo tecnológico compatível com o CNCT",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "identificacao_curso",
-    "perfil_egresso"
+  "topicos_tematicos": [
+    "identificacao_oferta"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Eixo tecnológico compatível com o CNCT",
+    "Identificação e características da oferta",
+    "identificação do curso",
+    "características do curso",
+    "dados do curso",
+    "apresentação do curso",
+    "oferta do curso",
+    "denominação",
+    "eixo tecnológico",
+    "forma de oferta",
+    "modalidade",
+    "vagas",
+    "turno",
+    "carga horária",
+    "duração",
+    "requisitos de acesso",
+    "área tecnológica",
+    "cnct",
+    "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.eixo_tecnologico",
+    "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.area_tecnologica"
   ],
   "consultas": [
     "eixo tecnológico",

@@ -3,8 +3,23 @@
   "titulo": "Justificativa baseada em demanda territorial e formativa",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "justificativa_objetivos"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Justificativa baseada em demanda territorial e formativa",
+    "Justificativa, objetivos e demanda social",
+    "justificativa",
+    "objetivos",
+    "objetivo geral",
+    "objetivos específicos",
+    "demanda social",
+    "demanda",
+    "arranjo produtivo",
+    "desenvolvimento regional",
+    "finalidade do curso",
+    "mercado de trabalho"
   ],
   "consultas": [
     "justificativa",

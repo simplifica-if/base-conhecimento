@@ -3,9 +3,27 @@
   "titulo": "Governança acadêmica do curso",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "corpo_docente_gestao",
-    "avaliacao_ppc_egressos"
+  "topicos_tematicos": [
+    "corpo_docente_gestao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Governança acadêmica do curso",
+    "Corpo docente, equipe técnica e gestão do curso",
+    "corpo docente",
+    "equipe técnica",
+    "gestão do curso",
+    "coordenação do curso",
+    "colegiado",
+    "docente",
+    "professor",
+    "titulação",
+    "habilitação",
+    "coordenação",
+    "equipe pedagógica",
+    "técnicos administrativos",
+    "nde",
+    "governança"
   ],
   "consultas": [
     "coordenação",

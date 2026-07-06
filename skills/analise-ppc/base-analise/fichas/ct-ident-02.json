@@ -3,8 +3,29 @@
   "titulo": "Coerência da apresentação institucional do curso",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "identificacao_curso"
+  "topicos_tematicos": [
+    "identificacao_oferta"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Coerência da apresentação institucional do curso",
+    "Identificação e características da oferta",
+    "identificação do curso",
+    "características do curso",
+    "dados do curso",
+    "apresentação do curso",
+    "oferta do curso",
+    "denominação",
+    "eixo tecnológico",
+    "forma de oferta",
+    "modalidade",
+    "vagas",
+    "turno",
+    "carga horária",
+    "duração",
+    "requisitos de acesso",
+    "apresentação do projeto",
+    "campus"
   ],
   "consultas": [
     "apresentação do projeto",

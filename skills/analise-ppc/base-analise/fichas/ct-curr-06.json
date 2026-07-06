@@ -3,8 +3,25 @@
   "titulo": "Bibliografia básica e complementar minimamente suficiente",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "ementario_bibliografias"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Bibliografia básica e complementar minimamente suficiente",
+    "Ementário, bibliografias e conteúdos",
+    "ementário",
+    "ementas",
+    "bibliografia",
+    "bibliografias",
+    "programas dos componentes",
+    "ementa",
+    "conteúdo programático",
+    "bibliografia básica",
+    "bibliografia complementar",
+    "acervo",
+    "livros",
+    "ABNT NBR 6023"
   ],
   "consultas": [
     "bibliografia básica",

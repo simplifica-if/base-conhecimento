@@ -3,8 +3,36 @@
   "titulo": "Organização pedagógica e orientação do estágio obrigatório",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "estagio"
+  ],
+  "tipo_escopo": "condicional",
+  "ancoras_semanticas": [
+    "Organização pedagógica e orientação do estágio obrigatório",
+    "Estágio curricular",
+    "estágio",
+    "estágio curricular",
+    "estágio obrigatório",
+    "estágio não obrigatório",
+    "prática de estágio",
+    "termo de compromisso",
+    "plano de estágio",
+    "orientação de estágio",
+    "supervisão de estágio",
+    "concedente",
+    "agente de integração",
+    "convênio",
+    "componente curricular",
+    "organização curricular do estágio",
+    "período do estágio",
+    "modalidade de orientação",
+    "orientação alternativa",
+    "necessidades educacionais específicas",
+    "contextualização da necessidade do estágio",
+    "relevância do estágio na formação",
+    "Resolução Consup/IFPR nº 82/2022",
+    "Regulamento Geral de Estágio do campus",
+    "RGE"
   ],
   "consultas": [
     "estágio obrigatório",

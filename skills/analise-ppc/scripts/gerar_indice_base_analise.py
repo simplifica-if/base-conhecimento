@@ -6,7 +6,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-from common import BASE_ANALISE_DIR
+from common import BASE_ANALISE_DIR, TOPICOS_FICHAS_PATH
 
 
 INDICE_PATH = BASE_ANALISE_DIR / "indice.json"
@@ -28,8 +28,32 @@ def _item_ficha(path: Path) -> dict[str, Any]:
         "titulo": payload["titulo"],
         "dominio": payload.get("dominio", ""),
         "criticidade": payload["criticidade"],
-        "secoes": payload.get("secoes_preferenciais", []),
+        "topicos_tematicos": list(payload.get("topicos_tematicos") or []),
+        "tipo_escopo": str(payload.get("tipo_escopo") or ""),
+        "ancoras_semanticas": list(payload.get("ancoras_semanticas") or []),
         "referencias_normativas": payload.get("referencias_normativas", []),
+        "arquivo": _arquivo_relativo(path),
+    }
+
+
+def _carregar_topicos() -> list[dict[str, Any]]:
+    if not TOPICOS_FICHAS_PATH.exists():
+        return []
+    payload = _read_json(TOPICOS_FICHAS_PATH)
+    topicos = payload.get("topicos", []) if isinstance(payload, dict) else []
+    return [topico for topico in topicos if isinstance(topico, dict)]
+
+
+def _item_topico(path: Path, topico: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "categoria": "topico_fichas",
+        "id": str(topico["id"]),
+        "titulo": str(topico["titulo"]),
+        "grupo": str(topico.get("grupo") or ""),
+        "tipo_escopo": str(topico.get("tipo_escopo") or ""),
+        "aliases_titulo": list(topico.get("aliases_titulo") or []),
+        "termos_busca": list(topico.get("termos_busca") or []),
+        "fichas": list(topico.get("fichas") or []),
         "arquivo": _arquivo_relativo(path),
     }
 
@@ -83,13 +107,15 @@ def gerar_indice(gerado_em: str | None = None) -> dict[str, Any]:
     ]
     contratos = [_item_contrato(path) for path in sorted((BASE_ANALISE_DIR / "contratos").glob("*.json"))]
     schemas = [_item_schema(path) for path in sorted((BASE_ANALISE_DIR / "schemas").glob("*.schema.json"))]
-    itens = [*fichas, *validacoes, *contratos, *schemas]
+    topicos = [_item_topico(TOPICOS_FICHAS_PATH, topico) for topico in _carregar_topicos()]
+    itens = [*fichas, *validacoes, *topicos, *contratos, *schemas]
     return {
         "base_analise_dir": "analise-ppc/base-analise",
         "gerado_em": gerado_em or datetime.now(UTC).replace(microsecond=0).isoformat(),
         "resumo": {
             "total_fichas": len(fichas),
             "total_validacoes_cruzadas": len(validacoes),
+            "total_topicos_fichas": len(topicos),
             "total_contratos": len(contratos),
             "total_schemas": len(schemas),
             "total_itens": len(itens),

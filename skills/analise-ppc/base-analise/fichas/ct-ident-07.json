@@ -3,8 +3,25 @@
   "titulo": "Perfil do egresso descrito com competências e atuação",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "perfil_egresso"
+  "topicos_tematicos": [
+    "perfil_egresso_mundo_trabalho"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Perfil do egresso descrito com competências e atuação",
+    "Perfil do egresso, competências e mundo do trabalho",
+    "perfil do egresso",
+    "perfil profissional",
+    "competências profissionais",
+    "campo de atuação",
+    "mundo do trabalho",
+    "competências",
+    "perfil profissional de conclusão",
+    "ocupações",
+    "CNCT",
+    "verticalização",
+    "atuação profissional",
+    "egresso"
   ],
   "consultas": [
     "perfil do egresso",

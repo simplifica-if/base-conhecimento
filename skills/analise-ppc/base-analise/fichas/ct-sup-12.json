@@ -3,8 +3,34 @@
   "titulo": "Referências com vigência normativa atualizada",
   "dominio": "suporte",
   "criticidade": "BLOQ",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "referencias_normativas"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Referências com vigência normativa atualizada",
+    "Referências, base legal e normas institucionais",
+    "base legal",
+    "fundamentação legal",
+    "referências",
+    "referências normativas",
+    "legislação",
+    "lei",
+    "resolução",
+    "portaria",
+    "parecer",
+    "norma",
+    "DCNEPT",
+    "DCNEM",
+    "CNCT",
+    "IFPR",
+    "vigência normativa",
+    "lei revogada",
+    "resolução desatualizada",
+    "resolução cne/ceb nº 2/2024",
+    "resolução cne/cp nº 1/2021",
+    "resolução cne/ceb nº 02/2012",
+    "resolução cne/ceb nº 06/2012"
   ],
   "consultas": [
     "referências",

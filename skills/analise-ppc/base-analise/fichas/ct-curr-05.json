@@ -3,8 +3,24 @@
   "titulo": "Ementas completas e auditáveis",
   "dominio": "curriculo",
   "criticidade": "BLOQ",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "ementario_bibliografias"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Ementas completas e auditáveis",
+    "Ementário, bibliografias e conteúdos",
+    "ementário",
+    "ementas",
+    "bibliografia",
+    "bibliografias",
+    "programas dos componentes",
+    "ementa",
+    "conteúdo programático",
+    "bibliografia básica",
+    "bibliografia complementar",
+    "acervo",
+    "livros"
   ],
   "consultas": [
     "ementa",

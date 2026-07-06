@@ -3,8 +3,31 @@
   "titulo": "Coordenação do curso com atribuições, regime e participação institucional explicitados",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "corpo_docente_gestao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Coordenação do curso com atribuições, regime e participação institucional explicitados",
+    "Corpo docente, equipe técnica e gestão do curso",
+    "corpo docente",
+    "equipe técnica",
+    "gestão do curso",
+    "coordenação do curso",
+    "colegiado",
+    "docente",
+    "professor",
+    "titulação",
+    "habilitação",
+    "coordenação",
+    "equipe pedagógica",
+    "técnicos administrativos",
+    "coordenador do curso",
+    "atribuições da coordenação",
+    "manual de competências",
+    "regime de trabalho",
+    "instâncias colegiadas",
+    "gestão acadêmica"
   ],
   "consultas": [
     "coordenação do curso",

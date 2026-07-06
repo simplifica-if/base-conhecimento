@@ -3,8 +3,27 @@
   "titulo": "Ocupações CBO compatíveis com a identidade profissional",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "perfil_egresso"
+  "topicos_tematicos": [
+    "perfil_egresso_mundo_trabalho"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Ocupações CBO compatíveis com a identidade profissional",
+    "Perfil do egresso, competências e mundo do trabalho",
+    "perfil do egresso",
+    "perfil profissional",
+    "competências profissionais",
+    "campo de atuação",
+    "mundo do trabalho",
+    "competências",
+    "perfil profissional de conclusão",
+    "ocupações",
+    "CNCT",
+    "verticalização",
+    "ocupações cbo",
+    "cbo",
+    "identidade profissional",
+    "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.ocupacoes_cbo"
   ],
   "consultas": [
     "ocupações cbo",

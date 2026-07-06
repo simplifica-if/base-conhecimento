@@ -3,8 +3,26 @@
   "titulo": "Certificação de conhecimentos anteriores tratada, quando aplicável",
   "dominio": "curriculo",
   "criticidade": "REC",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "aproveitamento_certificacao_tfc"
+  ],
+  "tipo_escopo": "condicional",
+  "ancoras_semanticas": [
+    "Certificação de conhecimentos anteriores tratada, quando aplicável",
+    "Aproveitamento, certificação intermediária e trabalho final",
+    "aproveitamento de estudos",
+    "certificação intermediária",
+    "terminalidade",
+    "trabalho final de curso",
+    "TFC",
+    "aproveitamento",
+    "certificação",
+    "trabalho final",
+    "certificado intermediário",
+    "competências já desenvolvidas",
+    "conhecimentos anteriores",
+    "certificação de saberes",
+    "legislação vigente"
   ],
   "consultas": [
     "certificação",

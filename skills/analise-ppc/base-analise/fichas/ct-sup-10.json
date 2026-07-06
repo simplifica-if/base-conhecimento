@@ -3,8 +3,35 @@
   "titulo": "Políticas transversais de atendimento e diversidade",
   "dominio": "suporte",
   "criticidade": "REC",
-  "secoes_preferenciais": [
-    "atendimento_estudante"
+  "topicos_tematicos": [
+    "aee_acessibilidade_inclusao",
+    "temas_transversais_cidadania"
+  ],
+  "tipo_escopo": "multitematico",
+  "ancoras_semanticas": [
+    "Políticas transversais de atendimento e diversidade",
+    "AEE, acessibilidade e inclusão",
+    "atendimento educacional especializado",
+    "AEE",
+    "acessibilidade",
+    "inclusão",
+    "necessidades educacionais específicas",
+    "AICE",
+    "adaptação curricular",
+    "flexibilização",
+    "NAPNE",
+    "tecnologia assistiva",
+    "Temas transversais, cidadania e direitos humanos",
+    "temas transversais",
+    "direitos humanos",
+    "educação ambiental",
+    "relações étnico-raciais",
+    "diversidade",
+    "história e cultura afro-brasileira",
+    "história e cultura indígena",
+    "neabi",
+    "nuged",
+    "equidade"
   ],
   "consultas": [
     "neabi",

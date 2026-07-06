@@ -3,8 +3,37 @@
   "titulo": "Acessibilidade física e arquitetônica",
   "dominio": "suporte",
   "criticidade": "REC",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
+    "aee_acessibilidade_inclusao",
     "infraestrutura"
+  ],
+  "tipo_escopo": "multitematico",
+  "ancoras_semanticas": [
+    "Acessibilidade física e arquitetônica",
+    "AEE, acessibilidade e inclusão",
+    "atendimento educacional especializado",
+    "AEE",
+    "acessibilidade",
+    "inclusão",
+    "necessidades educacionais específicas",
+    "AICE",
+    "adaptação curricular",
+    "flexibilização",
+    "NAPNE",
+    "tecnologia assistiva",
+    "Infraestrutura, laboratórios e acervo",
+    "laboratórios",
+    "biblioteca",
+    "acervo",
+    "instalações físicas",
+    "laboratório",
+    "equipamento",
+    "sala de aula",
+    "acessibilidade física",
+    "rampa",
+    "elevador",
+    "sinalização",
+    "banheiro adaptado"
   ],
   "consultas": [
     "acessibilidade",

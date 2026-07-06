@@ -3,8 +3,26 @@
   "titulo": "Política de assistência estudantil e acompanhamento",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "atendimento_estudante"
+  "topicos_tematicos": [
+    "assistencia_estudantil_permanencia"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Política de assistência estudantil e acompanhamento",
+    "Assistência estudantil, permanência e êxito",
+    "assistência estudantil",
+    "permanência e êxito",
+    "atendimento ao estudante",
+    "acompanhamento discente",
+    "permanência",
+    "êxito",
+    "evasão",
+    "acompanhamento",
+    "monitoria",
+    "apoio pedagógico",
+    "auxílio",
+    "bolsa",
+    "acompanhamento pedagógico"
   ],
   "consultas": [
     "assistência estudantil",

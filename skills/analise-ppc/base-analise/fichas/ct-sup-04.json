@@ -3,8 +3,26 @@
   "titulo": "Inclusão, acessibilidade e AEE na política de atendimento",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "atendimento_estudante"
+  "topicos_tematicos": [
+    "aee_acessibilidade_inclusao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Inclusão, acessibilidade e AEE na política de atendimento",
+    "AEE, acessibilidade e inclusão",
+    "atendimento educacional especializado",
+    "AEE",
+    "acessibilidade",
+    "inclusão",
+    "necessidades educacionais específicas",
+    "AICE",
+    "adaptação curricular",
+    "flexibilização",
+    "NAPNE",
+    "tecnologia assistiva",
+    "napne",
+    "aee",
+    "necessidades específicas"
   ],
   "consultas": [
     "napne",

@@ -3,8 +3,30 @@
   "titulo": "Distribuição entre formação geral e formação técnica",
   "dominio": "curriculo",
   "criticidade": "BLOQ",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "matriz_curricular"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Distribuição entre formação geral e formação técnica",
+    "Matriz curricular, integralização e componentes",
+    "organização curricular",
+    "matriz curricular",
+    "estrutura curricular",
+    "itinerário formativo",
+    "integralização curricular",
+    "matriz",
+    "componentes curriculares",
+    "carga horária",
+    "integralização",
+    "período",
+    "semestre",
+    "ano",
+    "atividade curricular",
+    "núcleo básico",
+    "componentes técnicos",
+    "formação geral",
+    "formação técnica"
   ],
   "consultas": [
     "núcleo básico",

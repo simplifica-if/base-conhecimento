@@ -3,8 +3,39 @@
   "titulo": "Forma de ingresso e política institucional de acesso explicitadas",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "identificacao_curso"
+  "topicos_tematicos": [
+    "identificacao_oferta"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Forma de ingresso e política institucional de acesso explicitadas",
+    "Identificação e características da oferta",
+    "identificação do curso",
+    "características do curso",
+    "dados do curso",
+    "apresentação do curso",
+    "oferta do curso",
+    "denominação",
+    "eixo tecnológico",
+    "forma de oferta",
+    "modalidade",
+    "vagas",
+    "turno",
+    "carga horária",
+    "duração",
+    "requisitos de acesso",
+    "requisitos e formas de acesso",
+    "forma de ingresso",
+    "processo seletivo",
+    "acesso",
+    "acesso unificado",
+    "acesso simplificado",
+    "reserva de vagas",
+    "cotas",
+    "ações afirmativas",
+    "Política de Inclusão",
+    "Resolução IFPR nº 190/2024",
+    "Lei nº 12.711/2012"
   ],
   "consultas": [
     "requisitos e formas de acesso",

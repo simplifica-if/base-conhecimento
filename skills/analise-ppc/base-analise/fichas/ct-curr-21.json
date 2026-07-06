@@ -3,8 +3,40 @@
   "titulo": "Convênios e trâmites de estágio descritos quando houver estágio",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "estagio"
+  ],
+  "tipo_escopo": "condicional",
+  "ancoras_semanticas": [
+    "Convênios e trâmites de estágio descritos quando houver estágio",
+    "Estágio curricular",
+    "estágio",
+    "estágio curricular",
+    "estágio obrigatório",
+    "estágio não obrigatório",
+    "prática de estágio",
+    "termo de compromisso",
+    "plano de estágio",
+    "orientação de estágio",
+    "supervisão de estágio",
+    "concedente",
+    "agente de integração",
+    "convênio",
+    "convênio de estágio",
+    "Termo de Compromisso",
+    "Plano de Estágio",
+    "TCE",
+    "UCE",
+    "Seção de Estágios",
+    "Seção de Estágios e Relações Comunitárias",
+    "Direção",
+    "SAEE",
+    "Proens",
+    "10 estudantes simultaneamente",
+    "dez estudantes simultaneamente",
+    "UCE pública ou privada exige convênio",
+    "Regulamento Geral de Estágio do campus",
+    "RGE do campus"
   ],
   "consultas": [
     "convênio de estágio",

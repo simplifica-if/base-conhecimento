@@ -3,8 +3,29 @@
   "titulo": "Quantitativo e disponibilidade docente sustentam a oferta",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "corpo_docente_gestao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Quantitativo e disponibilidade docente sustentam a oferta",
+    "Corpo docente, equipe técnica e gestão do curso",
+    "corpo docente",
+    "equipe técnica",
+    "gestão do curso",
+    "coordenação do curso",
+    "colegiado",
+    "docente",
+    "professor",
+    "titulação",
+    "habilitação",
+    "coordenação",
+    "equipe pedagógica",
+    "técnicos administrativos",
+    "número de docentes",
+    "regime de trabalho",
+    "carga horária docente",
+    "suficiência"
   ],
   "consultas": [
     "número de docentes",

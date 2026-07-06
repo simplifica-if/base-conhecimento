@@ -3,8 +3,27 @@
   "titulo": "Temas transversais e formação cidadã no currículo",
   "dominio": "curriculo",
   "criticidade": "REC",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "temas_transversais_cidadania"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Temas transversais e formação cidadã no currículo",
+    "Temas transversais, cidadania e direitos humanos",
+    "temas transversais",
+    "direitos humanos",
+    "educação ambiental",
+    "relações étnico-raciais",
+    "diversidade",
+    "história e cultura afro-brasileira",
+    "história e cultura indígena",
+    "sustentabilidade",
+    "história e cultura afro-brasileira e indígena",
+    "educação digital",
+    "perspectivas femininas",
+    "filmes de produção nacional",
+    "educação alimentar e nutricional",
+    "educação para o trânsito"
   ],
   "consultas": [
     "temas transversais",

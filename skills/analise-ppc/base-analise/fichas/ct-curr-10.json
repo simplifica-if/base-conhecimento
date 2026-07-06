@@ -3,8 +3,29 @@
   "titulo": "Representação gráfica coerente com a organização curricular",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "matriz_curricular"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Representação gráfica coerente com a organização curricular",
+    "Matriz curricular, integralização e componentes",
+    "organização curricular",
+    "matriz curricular",
+    "estrutura curricular",
+    "itinerário formativo",
+    "integralização curricular",
+    "matriz",
+    "componentes curriculares",
+    "carga horária",
+    "integralização",
+    "período",
+    "semestre",
+    "ano",
+    "atividade curricular",
+    "representação gráfica",
+    "fluxograma",
+    "processo formativo"
   ],
   "consultas": [
     "representação gráfica",

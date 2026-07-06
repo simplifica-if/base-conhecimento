@@ -3,8 +3,26 @@
   "titulo": "Matriz curricular estruturada e legível",
   "dominio": "curriculo",
   "criticidade": "BLOQ",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "matriz_curricular"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Matriz curricular estruturada e legível",
+    "Matriz curricular, integralização e componentes",
+    "organização curricular",
+    "matriz curricular",
+    "estrutura curricular",
+    "itinerário formativo",
+    "integralização curricular",
+    "matriz",
+    "componentes curriculares",
+    "carga horária",
+    "integralização",
+    "período",
+    "semestre",
+    "ano",
+    "atividade curricular"
   ],
   "consultas": [
     "matriz curricular",

@@ -3,9 +3,32 @@
   "titulo": "Denominação do curso alinhada ao CNCT",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "identificacao_curso",
-    "perfil_egresso"
+  "topicos_tematicos": [
+    "identificacao_oferta"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Denominação do curso alinhada ao CNCT",
+    "Identificação e características da oferta",
+    "identificação do curso",
+    "características do curso",
+    "dados do curso",
+    "apresentação do curso",
+    "oferta do curso",
+    "denominação",
+    "eixo tecnológico",
+    "forma de oferta",
+    "modalidade",
+    "vagas",
+    "turno",
+    "carga horária",
+    "duração",
+    "requisitos de acesso",
+    "técnico em",
+    "cnct",
+    "denominação do curso",
+    "perfil profissional",
+    "contexto_estrutural.cnct.comparacao_catalogo.correspondencia"
   ],
   "consultas": [
     "técnico em",

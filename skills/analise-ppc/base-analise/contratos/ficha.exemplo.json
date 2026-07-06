@@ -1,9 +1,22 @@
 {
   "id": "CT-IDENT-07",
   "titulo": "Perfil do egresso",
+  "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "perfil_egresso"
+  "topicos_tematicos": [
+    "perfil_egresso_mundo_trabalho"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "perfil do egresso",
+    "perfil profissional",
+    "competências profissionais",
+    "campo de atuação"
+  ],
+  "consultas": [
+    "perfil do egresso",
+    "competências profissionais",
+    "campo de atuação"
   ],
   "pergunta": "O perfil do egresso explicita competências, campo de atuação e identidade profissional de modo suficiente?",
   "rubrica": "Verificar se o perfil do egresso explicita competências observáveis e atuação profissional.",

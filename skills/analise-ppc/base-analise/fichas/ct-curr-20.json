@@ -3,8 +3,33 @@
   "titulo": "Decisão sobre estágio e carga horária compatíveis com o CNCT",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "estagio"
+  ],
+  "tipo_escopo": "condicional",
+  "ancoras_semanticas": [
+    "Decisão sobre estágio e carga horária compatíveis com o CNCT",
+    "Estágio curricular",
+    "estágio",
+    "estágio curricular",
+    "estágio obrigatório",
+    "estágio não obrigatório",
+    "prática de estágio",
+    "termo de compromisso",
+    "plano de estágio",
+    "orientação de estágio",
+    "supervisão de estágio",
+    "concedente",
+    "agente de integração",
+    "convênio",
+    "Lei nº 11.788/2008",
+    "Resolução Consup/IFPR nº 82/2022",
+    "carga horária do estágio",
+    "pré-requisito para aprovação",
+    "pré-requisito para certificação",
+    "aprovação e certificação",
+    "cnct_contexto.correspondencia.estagio",
+    "cnct_contexto.comparacoes.estagio_cnct"
   ],
   "consultas": [
     "estágio curricular",

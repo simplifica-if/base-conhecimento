@@ -3,8 +3,32 @@
   "titulo": "Projeto final, TCC/TFC ou componente equivalente disciplinado quando previsto",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "aproveitamento_certificacao_tfc"
+  ],
+  "tipo_escopo": "condicional",
+  "ancoras_semanticas": [
+    "Projeto final, TCC/TFC ou componente equivalente disciplinado quando previsto",
+    "Aproveitamento, certificação intermediária e trabalho final",
+    "aproveitamento de estudos",
+    "certificação intermediária",
+    "terminalidade",
+    "trabalho final de curso",
+    "TFC",
+    "aproveitamento",
+    "certificação",
+    "trabalho final",
+    "certificado intermediário",
+    "competências já desenvolvidas",
+    "tfc",
+    "tcc",
+    "projeto final",
+    "projeto final interdisciplinar",
+    "pfi",
+    "projeto integrador",
+    "prática profissional articulada",
+    "orientação",
+    "avaliação"
   ],
   "consultas": [
     "tfc",

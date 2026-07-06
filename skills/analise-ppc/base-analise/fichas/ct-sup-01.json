@@ -3,8 +3,27 @@
   "titulo": "Sistema de avaliação coerente com o IFPR",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "avaliacao_aprendizagem"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Sistema de avaliação coerente com o IFPR",
+    "Avaliação do processo de ensino-aprendizagem",
+    "avaliação",
+    "avaliação da aprendizagem",
+    "avaliação do processo de ensino-aprendizagem",
+    "recuperação de estudos",
+    "instrumentos avaliativos",
+    "critérios",
+    "recuperação",
+    "progressão",
+    "conselho de classe",
+    "necessidades educacionais específicas",
+    "conceito a",
+    "conceito b",
+    "conceito c",
+    "conceito d"
   ],
   "consultas": [
     "conceito a",

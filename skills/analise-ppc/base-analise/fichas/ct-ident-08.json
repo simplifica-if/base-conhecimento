@@ -3,11 +3,34 @@
   "titulo": "Base legal atualizada nas seções de identidade",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "identificacao_curso",
-    "concepcao_metodologia",
-    "perfil_egresso",
+  "topicos_tematicos": [
     "referencias_normativas"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Base legal atualizada nas seções de identidade",
+    "Referências, base legal e normas institucionais",
+    "base legal",
+    "fundamentação legal",
+    "referências",
+    "referências normativas",
+    "legislação",
+    "lei",
+    "resolução",
+    "portaria",
+    "parecer",
+    "norma",
+    "DCNEPT",
+    "DCNEM",
+    "CNCT",
+    "IFPR",
+    "lei 9.394",
+    "resolução cne/cp 1/2021",
+    "resolução cne/cp nº 1/2021",
+    "resolução cne/ceb nº 2/2024",
+    "resolução cne/ceb nº 02/2012",
+    "resolução cne/ceb nº 06/2012",
+    "lei 14.945/2024"
   ],
   "consultas": [
     "lei 9.394",

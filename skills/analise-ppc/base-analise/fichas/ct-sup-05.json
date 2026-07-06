@@ -3,8 +3,28 @@
   "titulo": "Corpo docente compatível com a oferta formativa",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "corpo_docente_gestao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Corpo docente compatível com a oferta formativa",
+    "Corpo docente, equipe técnica e gestão do curso",
+    "corpo docente",
+    "equipe técnica",
+    "gestão do curso",
+    "coordenação do curso",
+    "colegiado",
+    "docente",
+    "professor",
+    "titulação",
+    "habilitação",
+    "coordenação",
+    "equipe pedagógica",
+    "técnicos administrativos",
+    "professores",
+    "formação",
+    "experiência"
   ],
   "consultas": [
     "corpo docente",

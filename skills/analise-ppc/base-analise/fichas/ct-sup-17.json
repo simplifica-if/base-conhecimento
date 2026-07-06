@@ -3,8 +3,33 @@
   "titulo": "Formação pedagógica e desenvolvimento docente previstos",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "corpo_docente_gestao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Formação pedagógica e desenvolvimento docente previstos",
+    "Corpo docente, equipe técnica e gestão do curso",
+    "corpo docente",
+    "equipe técnica",
+    "gestão do curso",
+    "coordenação do curso",
+    "colegiado",
+    "docente",
+    "professor",
+    "titulação",
+    "habilitação",
+    "coordenação",
+    "equipe pedagógica",
+    "técnicos administrativos",
+    "formação pedagógica",
+    "complementação pedagógica",
+    "formação continuada",
+    "bacharéis",
+    "docentes não licenciados",
+    "política institucional de formação",
+    "Resolução CNE/CP nº 1/2021",
+    "Resolução CONSUP/IFPR nº 64/2022"
   ],
   "consultas": [
     "formação pedagógica",

@@ -3,8 +3,32 @@
   "titulo": "Avaliação periódica do PPC e acompanhamento de egressos",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "avaliacao_ppc_egressos"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Avaliação periódica do PPC e acompanhamento de egressos",
+    "Avaliação do PPC e acompanhamento de egressos",
+    "avaliação do PPC",
+    "avaliação do curso",
+    "acompanhamento de egressos",
+    "autoavaliação",
+    "egresso",
+    "revisão curricular",
+    "CPA",
+    "acompanhamento",
+    "indicadores",
+    "avaliação do projeto pedagógico do curso",
+    "egressos",
+    "colegiado de curso",
+    "Sepae",
+    "Diepex",
+    "atas",
+    "avaliação emancipatória",
+    "cpa",
+    "Resolução CONSUP/IFPR nº 64/2022",
+    "Portaria PROENS/IFPR nº 121/2024"
   ],
   "consultas": [
     "avaliação do projeto pedagógico do curso",

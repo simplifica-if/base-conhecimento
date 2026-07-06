@@ -3,8 +3,28 @@
   "titulo": "Itinerários formativos coerentes com o CNCT",
   "dominio": "curriculo",
   "criticidade": "REC",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "aproveitamento_certificacao_tfc"
+  ],
+  "tipo_escopo": "condicional",
+  "ancoras_semanticas": [
+    "Itinerários formativos coerentes com o CNCT",
+    "Aproveitamento, certificação intermediária e trabalho final",
+    "aproveitamento de estudos",
+    "certificação intermediária",
+    "terminalidade",
+    "trabalho final de curso",
+    "TFC",
+    "aproveitamento",
+    "certificação",
+    "trabalho final",
+    "certificado intermediário",
+    "competências já desenvolvidas",
+    "itinerários formativos",
+    "itinerarios formativos",
+    "certificações intermediárias",
+    "verticalização",
+    "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.itinerarios_formativos"
   ],
   "consultas": [
     "itinerários formativos",

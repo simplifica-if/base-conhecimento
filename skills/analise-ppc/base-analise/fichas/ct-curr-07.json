@@ -3,8 +3,31 @@
   "titulo": "Progressão formativa e organização por períodos",
   "dominio": "curriculo",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "organizacao_curricular"
+  "topicos_tematicos": [
+    "matriz_curricular"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Progressão formativa e organização por períodos",
+    "Matriz curricular, integralização e componentes",
+    "organização curricular",
+    "matriz curricular",
+    "estrutura curricular",
+    "itinerário formativo",
+    "integralização curricular",
+    "matriz",
+    "componentes curriculares",
+    "carga horária",
+    "integralização",
+    "período",
+    "semestre",
+    "ano",
+    "atividade curricular",
+    "anos",
+    "períodos",
+    "progressão",
+    "semestres",
+    "etapas"
   ],
   "consultas": [
     "anos",

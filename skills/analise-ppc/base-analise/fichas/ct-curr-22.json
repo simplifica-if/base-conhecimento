@@ -3,9 +3,31 @@
   "titulo": "AEE não incorporado como componente curricular da matriz ou do histórico",
   "dominio": "curriculo",
   "criticidade": "BLOQ",
-  "secoes_preferenciais": [
-    "organizacao_curricular",
-    "atendimento_estudante"
+  "topicos_tematicos": [
+    "aee_acessibilidade_inclusao"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "AEE não incorporado como componente curricular da matriz ou do histórico",
+    "AEE, acessibilidade e inclusão",
+    "atendimento educacional especializado",
+    "AEE",
+    "acessibilidade",
+    "inclusão",
+    "necessidades educacionais específicas",
+    "AICE",
+    "adaptação curricular",
+    "flexibilização",
+    "NAPNE",
+    "tecnologia assistiva",
+    "aee",
+    "componente curricular",
+    "matriz curricular",
+    "fluxograma",
+    "ementário",
+    "histórico escolar",
+    "nota técnica 1/2025",
+    "sei 3881287"
   ],
   "consultas": [
     "aee",

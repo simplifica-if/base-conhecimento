@@ -3,8 +3,28 @@
   "titulo": "Concepção de EPT explicitada",
   "dominio": "identidade",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
-    "concepcao_metodologia"
+  "topicos_tematicos": [
+    "concepcao_metodologias"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Concepção de EPT explicitada",
+    "Concepção pedagógica e metodologias",
+    "concepção do curso",
+    "concepção pedagógica",
+    "metodologia",
+    "metodologias de ensino",
+    "práticas profissionais",
+    "trabalho como princípio educativo",
+    "pesquisa como princípio pedagógico",
+    "integração teoria prática",
+    "metodologias",
+    "prática profissional",
+    "projeto integrador",
+    "educação profissional e tecnológica",
+    "formação integral",
+    "resolução cne/cp nº 1/2021",
+    "resolução cne/ceb nº 06/2012"
   ],
   "consultas": [
     "educação profissional e tecnológica",

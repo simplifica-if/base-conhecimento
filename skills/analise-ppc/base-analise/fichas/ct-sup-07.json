@@ -3,8 +3,24 @@
   "titulo": "Infraestrutura compatível com os componentes formativos",
   "dominio": "suporte",
   "criticidade": "OBRIG",
-  "secoes_preferenciais": [
+  "topicos_tematicos": [
     "infraestrutura"
+  ],
+  "tipo_escopo": "tematico",
+  "ancoras_semanticas": [
+    "Infraestrutura compatível com os componentes formativos",
+    "Infraestrutura, laboratórios e acervo",
+    "laboratórios",
+    "biblioteca",
+    "acervo",
+    "instalações físicas",
+    "laboratório",
+    "equipamento",
+    "sala de aula",
+    "acessibilidade física",
+    "infraestrutura mínima",
+    "espaços",
+    "contexto_estrutural.cnct.comparacao_catalogo.correspondencia.infraestrutura_minima"
   ],
   "consultas": [
     "infraestrutura",
