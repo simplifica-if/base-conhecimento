@@ -4,7 +4,9 @@ Este guia orienta agentes IA trabalhando a partir de um checkout local deste rep
 
 ## Regra principal
 
-Para dados operacionais de gestão, o Notion é a fonte da verdade, inclusive para propriedades, tipos e opções vigentes das bases. Os JSONs em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados.
+Para dados operacionais de gestão, o Notion é a fonte da verdade, inclusive para propriedades, tipos e opções vigentes das bases.
+
+Os JSONs em `institucional/ifpr/campi/`, `institucional/ifpr/processos-seletivos/` e outros artefatos derivados não são espelho operacional nem fonte de curadoria: são saída publicável/cache gerado a partir do Notion e de fontes documentais locais. Não consulte nem edite esses JSONs para decidir o estado atual de Campi, Cursos, Movimentações de Cursos, Processos Seletivos, Editais ou Ofertas quando a base Notion estiver acessível.
 
 Use este guia quando a solicitação envolver:
 
@@ -46,7 +48,7 @@ Os scripts Notion deste repositório carregam `.env.local` automaticamente quand
 
 Ordem preferida de operação:
 
-1. Use os scripts locais quando a tarefa já estiver coberta por eles, como exportar JSON público, regenerar índices ou validar a base.
+1. Use os scripts locais quando a tarefa já estiver coberta por eles, como atualizar movimentações SEI no Notion, exportar JSON público, regenerar índices ou validar a base.
 2. Use a API do Notion com `scripts/notion_client.py` para operações repetíveis, migrações, consultas estruturadas ou alterações em lote.
 3. Use Notion MCP apenas quando estiver claro que o MCP disponível está conectado ao workspace organizacional correto e consegue acessar a página raiz desta base.
 
@@ -135,7 +137,7 @@ Ao alterar dados no Notion:
 1. Confirme que `NOTION_TOKEN` está disponível em `.env.local`.
 2. Localize a base e o registro Notion correto.
 3. Aplique a alteração via API ou MCP conectado ao workspace correto.
-4. Exporte os JSONs públicos. A exportação audita o Notion antes de escrever arquivos e falha quando encontra campos obrigatórios ausentes, IDs locais duplicados ou relações que impediriam reconstrução confiável dos JSONs.
+4. Quando a alteração afetar artefatos publicados, exporte os JSONs públicos. A exportação audita o Notion antes de escrever arquivos e falha quando encontra campos obrigatórios ausentes, IDs locais duplicados ou relações que impediriam reconstrução confiável dos JSONs.
 5. Regenere índices quando necessário.
 6. Valide a base.
 
@@ -167,10 +169,18 @@ python3 scripts/notion_exportar_base_publica.py --dry-run
 2. Quando o `id_procedimento` for confirmado no SEI, faça do próprio valor de `SEI Processo` um hyperlink para a URL interna limpa do processo, no formato `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`. Não grave URLs com `infra_hash`, pois esse parâmetro é volátil, e não crie propriedade separada para o link.
 3. Em atualizações rotineiras de movimentações do SEI, considere implícito que o escopo são todas as entradas de `Movimentações de Cursos` que tenham `SEI Processo` preenchido e estejam em qualquer situação de andamento ou a fazer: `Não iniciada`/`A fazer`, `Em instrução no campus`, `Em análise Proens`, `CONSEP`, `CONSUP` ou `Aguardando ato/publicação`. Não inclua `Concluído` ou `Arquivado`, salvo pedido explícito.
 4. Mantenha `Data de abertura SEI`, `Data Última mov. SEI` e `Última movimentação SEI` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura SEI` é a autuação/criação do processo; `Data Última mov. SEI` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa. `Última movimentação SEI` é um resumo textual curto das quatro movimentações mais recentes encontradas pela SEI CLI.
-5. Para preencher esses campos a partir da SEI CLI, prefira `bun run sei resumir movimentacao <processo> --ultimos 4 --snapshot-auto --json` ou `bun run sei atualizar processo <processo> --snapshot-auto --ultimos 4 --json --resumo --quiet`, conforme `docs/sei-cli-operacao-agentes.md`.
-6. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações SEI`.
-7. Escreva `Observações SEI` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
-8. Se a informação vier de coleta automatizada, preserve origem, linhas, observações ou notas relevantes em `Observações SEI` ou `Anotações`.
+5. Para atualização rotineira desses campos, prefira o script local:
+
+```bash
+python3 scripts/notion_atualizar_movimentacoes_sei.py --apply
+```
+
+Sem `--apply`, o script roda em modo dry-run. Ele consulta o histórico remoto pelo `sei-cli`, atualiza incrementalmente o Notion e nunca apaga `Data Última mov. SEI` quando a CLI não retorna data.
+
+6. Para consultas avulsas, use `bun run sei extrair ultimas-movimentacoes <processo> --ultimos 4 --json --quiet` ou o lote `bun run sei extrair ultimas-movimentacoes lote processos.txt --ultimos 4 --jsonl --quiet`, conforme `docs/sei-cli-operacao-agentes.md`.
+7. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações SEI`.
+8. Escreva `Observações SEI` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
+9. Se a informação vier de coleta automatizada, preserve origem, linhas, observações ou notas relevantes em `Observações SEI` ou `Anotações`.
 
 Quando usar `sei-cli`, registre `Revisado em DD/MM/AA via sei-cli.` e cite nas evidências os documentos ou eventos usados, como `SEI 1234567 (DD/MM/AA): Parecer ...`. Não grave caminhos locais do snapshot em `Observações`.
 

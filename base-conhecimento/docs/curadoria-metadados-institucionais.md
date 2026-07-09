@@ -6,6 +6,8 @@ Este documento reúne regras práticas para manter metadados institucionais do I
 
 O Notion é a fonte operacional de verdade para campi, cursos, metadados de PPC, horários dos campi, movimentações de cursos, processos seletivos, editais e ofertas de ingresso. O schema vigente também está no Notion: antes de escrever, confira propriedades, tipos e opções no data source indicado em `config/notion.json`.
 
+JSONs publicados ou gerados localmente são artefatos de saída, não espelho operacional. Não use esses JSONs para decidir o estado atual de dados que têm base Notion acessível, e não os edite manualmente para curadoria.
+
 Os arquivos em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados. Não os edite manualmente para curadoria operacional.
 
 Depois de alterar dados institucionais no Notion, rode:
@@ -108,6 +110,14 @@ Regras:
 6. Use `Início da vigência` apenas quando houver evidência de efeito acadêmico ou administrativo.
 7. Atualize `Cursos.Situação` quando a situação atual do curso decorrer da movimentação.
 8. Escreva `Observações SEI` em blocos curtos, com datas em `DD/MM/AA`, evidências e limitações da coleta.
+
+Para atualização rotineira de movimentações em andamento no Notion, use:
+
+```bash
+python3 scripts/notion_atualizar_movimentacoes_sei.py --apply
+```
+
+O script roda em dry-run quando `--apply` não é informado, consulta o histórico remoto pelo `sei-cli` e preserva o valor anterior quando a coleta não retorna `Data Última mov. SEI`.
 
 ## Processos seletivos
 

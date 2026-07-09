@@ -6,7 +6,8 @@ Este documento resume o modelo operacional atual das bases Notion da Gestão de 
 
 - O Notion é a fonte operacional de verdade para campi, cursos, metadados de PPC, horários dos campi, movimentações, processos seletivos, editais e ofertas de ingresso.
 - O Notion também mantém bases operacionais auxiliares para conselhos institucionais, inicialmente o Consepe, e para o diretório central de servidores associado a conselheiros e relatores.
-- Os JSONs em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados a partir do Notion.
+- Os JSONs em `institucional/ifpr/campi/`, `institucional/ifpr/processos-seletivos/` e outros índices derivados são artefatos públicos gerados a partir do Notion e de fontes documentais locais.
+- Não trate JSON derivado como espelho operacional. Para curadoria, consulta de estado atual ou atualização de dados de gestão, use o Notion.
 - Não edite os JSONs institucionais manualmente para curadoria operacional.
 - Antes de escrever no Notion, confira o schema vivo do data source em `config/notion.json`.
 - Se o Notion contiver uma opção operacional legítima ainda rejeitada por scripts ou schemas locais, ajuste o modelo local.
@@ -158,4 +159,8 @@ python3 scripts/gerar_indice_ppcs.py
 python3 scripts/validar_base.py
 ```
 
-O fluxo ativo é sempre Notion -> JSON público.
+O fluxo ativo é sempre Notion -> JSON público. Quando a tarefa for atualização rotineira de andamento SEI em `Movimentações de Cursos`, use antes:
+
+```bash
+python3 scripts/notion_atualizar_movimentacoes_sei.py --apply
+```
