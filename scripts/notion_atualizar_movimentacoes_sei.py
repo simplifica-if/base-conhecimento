@@ -8,11 +8,15 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
+import selectors
+import signal
 import subprocess
 import sys
 import tempfile
-from datetime import date, datetime
+import time
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -35,6 +39,35 @@ ACTIVE_STATUSES = {
 }
 
 
+class RunLock:
+    def __init__(self, path: Path) -> None:
+        self.path = path
+
+    def __enter__(self) -> "RunLock":
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        payload = {
+            "pid": os.getpid(),
+            "started_at": datetime.now(timezone.utc).isoformat(),
+        }
+        try:
+            descriptor = os.open(self.path, os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o600)
+        except FileExistsError as exc:
+            try:
+                active = json.loads(self.path.read_text(encoding="utf-8"))
+                pid = int(active.get("pid", 0))
+                os.kill(pid, 0)
+            except (OSError, ValueError, json.JSONDecodeError):
+                self.path.unlink(missing_ok=True)
+                return self.__enter__()
+            raise RuntimeError(f"Já existe uma execução ativa (PID {pid}); lock: {self.path}") from exc
+        with os.fdopen(descriptor, "w", encoding="utf-8") as handle:
+            json.dump(payload, handle, ensure_ascii=False)
+        return self
+
+    def __exit__(self, *_: object) -> None:
+        self.path.unlink(missing_ok=True)
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--apply", action="store_true", help="grava as alterações no Notion")
@@ -47,9 +80,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--report",
         type=Path,
-        default=PROJECT_ROOT / "tmp" / "movimentacoes_sei_atualizacao.jsonl",
-        help="arquivo JSONL de relatório",
+        help="arquivo JSONL de relatório; o padrão cria um arquivo por execução em tmp/",
     )
+    parser.add_argument("--timeout-sei", type=int, default=150, help="segundos máximos por processo SEI")
     return parser.parse_args()
 
 
@@ -110,7 +143,7 @@ def collect_scope(pages: list[dict[str, Any]], args: argparse.Namespace) -> list
     return scope[: args.limit] if args.limit else scope
 
 
-def run_sei_lote(processos: list[str], args: argparse.Namespace) -> dict[str, dict[str, Any]]:
+def run_sei_lote(processos: list[str], args: argparse.Namespace, report: Any) -> dict[str, dict[str, Any]]:
     if not args.sei_cli.exists():
         raise RuntimeError(f"Checkout sei-cli não encontrado: {args.sei_cli}")
     with tempfile.NamedTemporaryFile("w", encoding="utf-8", suffix=".txt", delete=False) as handle:
@@ -131,28 +164,64 @@ def run_sei_lote(processos: list[str], args: argparse.Namespace) -> dict[str, di
         "--jsonl",
         "--quiet",
     ]
+    process: subprocess.Popen[str] | None = None
     try:
-        completed = subprocess.run(
+        process = subprocess.Popen(
             command,
             cwd=args.sei_cli,
             text=True,
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
-            timeout=max(120, 90 * len(processos)),
+            bufsize=1,
+            start_new_session=True,
         )
+        assert process.stdout and process.stderr
+        selector = selectors.DefaultSelector()
+        selector.register(process.stdout, selectors.EVENT_READ, "stdout")
+        selector.register(process.stderr, selectors.EVENT_READ, "stderr")
+        deadline = time.monotonic() + max(120, args.timeout_sei * len(processos))
+        stderr_lines: list[str] = []
+        summaries: dict[str, dict[str, Any]] = {}
+        received = 0
+        while selector.get_map():
+            if time.monotonic() >= deadline:
+                os.killpg(process.pid, signal.SIGTERM)
+                try:
+                    process.wait(timeout=10)
+                except subprocess.TimeoutExpired:
+                    os.killpg(process.pid, signal.SIGKILL)
+                raise RuntimeError(f"sei-cli excedeu o timeout global de {args.timeout_sei * len(processos)} segundos")
+            for key, _ in selector.select(timeout=1):
+                line = key.fileobj.readline()
+                if not line:
+                    selector.unregister(key.fileobj)
+                    continue
+                if key.data == "stderr":
+                    stderr_lines.append(line.rstrip())
+                    print(f"sei-cli: {line.rstrip()}", file=sys.stderr, flush=True)
+                    continue
+                line = line.strip()
+                if not line.startswith("{"):
+                    print(f"sei-cli: {line}", file=sys.stderr, flush=True)
+                    continue
+                item = json.loads(line)
+                summaries[item["numero_processo"]] = item
+                received += 1
+                report.write(json.dumps({"tipo": "sei-cli", **item}, ensure_ascii=False) + "\n")
+                report.flush()
+                print(f"SEI: {received}/{len(processos)} | {item['numero_processo']} | {'ok' if item.get('ok') else 'erro'}", flush=True)
+        returncode = process.wait()
     finally:
+        if process and process.poll() is None:
+            os.killpg(process.pid, signal.SIGTERM)
+            try:
+                process.wait(timeout=10)
+            except subprocess.TimeoutExpired:
+                os.killpg(process.pid, signal.SIGKILL)
         processos_path.unlink(missing_ok=True)
 
-    summaries: dict[str, dict[str, Any]] = {}
-    for raw_line in completed.stdout.splitlines():
-        line = raw_line.strip()
-        if not line.startswith("{"):
-            continue
-        item = json.loads(line)
-        summaries[item["numero_processo"]] = item
-
-    if completed.returncode != 0:
-        erro = completed.stderr.strip() or completed.stdout.strip()
+    if returncode != 0:
+        erro = "\n".join(stderr_lines).strip()
         if not summaries:
             raise RuntimeError(f"sei-cli falhou sem JSONL aproveitável: {erro}")
     return summaries
@@ -255,6 +324,11 @@ def build_payload(item: dict[str, Any], resumo: dict[str, Any], today: str) -> d
 
 def main() -> int:
     args = parse_args()
+    if args.timeout_sei <= 0:
+        raise ValueError("--timeout-sei deve ser positivo")
+    if args.report is None:
+        stamp = datetime.now().strftime("%Y%m%dT%H%M%S")
+        args.report = PROJECT_ROOT / "tmp" / f"movimentacoes_sei_atualizacao_{stamp}.jsonl"
     client = NotionClient.from_env()
     config = load_config()
     data_source_id = config["databases"]["movimentacoes_cursos"]["data_source_id"]
@@ -264,14 +338,16 @@ def main() -> int:
         return 0
 
     processes = sorted({item["processo"] for item in scope})
-    summaries = run_sei_lote(processes, args)
-    today = date.today().isoformat()
     args.report.parent.mkdir(parents=True, exist_ok=True)
-    changed = 0
-    ok = 0
-    errors = 0
-
-    with args.report.open("w", encoding="utf-8") as report:
+    lock_path = PROJECT_ROOT / "tmp" / "notion_atualizar_movimentacoes_sei.lock"
+    with RunLock(lock_path), args.report.open("x", encoding="utf-8") as report:
+        report.write(json.dumps({"tipo": "execucao", "started_at": datetime.now(timezone.utc).isoformat(), "apply": bool(args.apply), "processos": processes}, ensure_ascii=False) + "\n")
+        report.flush()
+        summaries = run_sei_lote(processes, args, report)
+        today = date.today().isoformat()
+        changed = 0
+        ok = 0
+        errors = 0
         for item in scope:
             processo = item["processo"]
             lote_item = summaries.get(processo)
@@ -304,12 +380,13 @@ def main() -> int:
                 ok += 1
                 changed += int(mudou)
                 status = "MUDARIA" if mudou and not args.apply else "MUDOU" if mudou else "igual"
-                print(f"{status}: {item['data_ultima_mov_atual'] or '∅'} -> {data_nova} | {processo} | {item['titulo']}")
+                print(f"{status}: {item['data_ultima_mov_atual'] or '∅'} -> {data_nova} | {processo} | {item['titulo']}", flush=True)
             except Exception as exc:
                 errors += 1
                 record.update({"ok": False, "erro": str(exc)})
-                print(f"ERRO: {processo} | {item['titulo']} | {exc}", file=sys.stderr)
+                print(f"ERRO: {processo} | {item['titulo']} | {exc}", file=sys.stderr, flush=True)
             report.write(json.dumps(record, ensure_ascii=False) + "\n")
+            report.flush()
 
     modo = "apply" if args.apply else "dry-run"
     print(json.dumps({"modo": modo, "registros": len(scope), "ok": ok, "datas_alteradas": changed, "erros": errors, "relatorio": str(args.report)}, ensure_ascii=False, indent=2))
