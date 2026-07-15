@@ -135,7 +135,7 @@ def collect_scope(pages: list[dict[str, Any]], args: argparse.Namespace) -> list
                 "processo": processo,
                 "titulo": plain_text(props.get("Movimentação")),
                 "situacao": situacao,
-                "data_ultima_mov_atual": date_start(props.get("SEI data Última mov.")),
+                "data_ultima_mov_atual": date_start(props.get("SEI última mov.")),
             }
         )
 
@@ -314,7 +314,7 @@ def build_payload(item: dict[str, Any], resumo: dict[str, Any], today: str) -> d
         "properties": {
             "SEI Processo": linked_process(processo, resumo.get("sei_link_processo")),
             "SEI Data de abertura": date_prop(resumo.get("data_abertura_sei") or ""),
-            "SEI data Última mov.": date_prop(data_ultima),
+            "SEI última mov.": date_prop(data_ultima),
             "SEI Última movimentação": rich_text_chunks((resumo.get("ultima_movimentacao_sei_texto") or "").strip()),
             "SEI Observações": rich_text_chunks(make_observacoes(plain_text(props.get("SEI Observações")), resumo, br_date(today))),
             "Verificado em": date_prop(today),
