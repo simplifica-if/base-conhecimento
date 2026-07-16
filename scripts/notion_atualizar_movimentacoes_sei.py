@@ -37,6 +37,7 @@ ACTIVE_STATUSES = {
     "CONSUP",
     "Aguardando ato/publicação",
 }
+MAX_TIMEOUT_TOTAL_SEI = 20 * 60
 
 
 class RunLock:
@@ -82,7 +83,20 @@ def parse_args() -> argparse.Namespace:
         type=Path,
         help="arquivo JSONL de relatório; o padrão cria um arquivo por execução em tmp/",
     )
-    parser.add_argument("--timeout-sei", type=int, default=150, help="segundos máximos por processo SEI")
+    parser.add_argument(
+        "--timeout-total",
+        type=int,
+        default=MAX_TIMEOUT_TOTAL_SEI,
+        help="segundos máximos para o lote completo (máximo: 1200)",
+    )
+    parser.add_argument(
+        "--timeout-sem-progresso",
+        "--timeout-sei",
+        dest="timeout_sem_progresso",
+        type=int,
+        default=180,
+        help="segundos máximos sem nova saída do sei-cli (padrão: 180)",
+    )
     return parser.parse_args()
 
 
@@ -179,23 +193,34 @@ def run_sei_lote(processos: list[str], args: argparse.Namespace, report: Any) ->
         selector = selectors.DefaultSelector()
         selector.register(process.stdout, selectors.EVENT_READ, "stdout")
         selector.register(process.stderr, selectors.EVENT_READ, "stderr")
-        deadline = time.monotonic() + max(120, args.timeout_sei * len(processos))
+        deadline_total = time.monotonic() + args.timeout_total
+        deadline_sem_progresso = time.monotonic() + args.timeout_sem_progresso
         stderr_lines: list[str] = []
         summaries: dict[str, dict[str, Any]] = {}
         received = 0
         while selector.get_map():
-            if time.monotonic() >= deadline:
+            if time.monotonic() >= deadline_total:
                 os.killpg(process.pid, signal.SIGTERM)
                 try:
                     process.wait(timeout=10)
                 except subprocess.TimeoutExpired:
                     os.killpg(process.pid, signal.SIGKILL)
-                raise RuntimeError(f"sei-cli excedeu o timeout global de {args.timeout_sei * len(processos)} segundos")
+                raise RuntimeError(f"sei-cli excedeu o timeout total de {args.timeout_total} segundos")
+            if time.monotonic() >= deadline_sem_progresso:
+                os.killpg(process.pid, signal.SIGTERM)
+                try:
+                    process.wait(timeout=10)
+                except subprocess.TimeoutExpired:
+                    os.killpg(process.pid, signal.SIGKILL)
+                raise RuntimeError(
+                    f"sei-cli ficou {args.timeout_sem_progresso} segundos sem progresso; lote interrompido"
+                )
             for key, _ in selector.select(timeout=1):
                 line = key.fileobj.readline()
                 if not line:
                     selector.unregister(key.fileobj)
                     continue
+                deadline_sem_progresso = time.monotonic() + args.timeout_sem_progresso
                 if key.data == "stderr":
                     stderr_lines.append(line.rstrip())
                     print(f"sei-cli: {line.rstrip()}", file=sys.stderr, flush=True)
@@ -324,8 +349,10 @@ def build_payload(item: dict[str, Any], resumo: dict[str, Any], today: str) -> d
 
 def main() -> int:
     args = parse_args()
-    if args.timeout_sei <= 0:
-        raise ValueError("--timeout-sei deve ser positivo")
+    if not 0 < args.timeout_total <= MAX_TIMEOUT_TOTAL_SEI:
+        raise ValueError("--timeout-total deve estar entre 1 e 1200 segundos")
+    if not 0 < args.timeout_sem_progresso <= args.timeout_total:
+        raise ValueError("--timeout-sem-progresso deve ser positivo e não exceder --timeout-total")
     if args.report is None:
         stamp = datetime.now().strftime("%Y%m%dT%H%M%S")
         args.report = PROJECT_ROOT / "tmp" / f"movimentacoes_sei_atualizacao_{stamp}.jsonl"
