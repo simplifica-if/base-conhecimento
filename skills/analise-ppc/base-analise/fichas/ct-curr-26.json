@@ -1,0 +1,64 @@
+{
+  "id": "CT-CURR-26",
+  "titulo": "Educação política e direitos da cidadania no currículo",
+  "dominio": "curriculo",
+  "criticidade": "OBRIG",
+  "topicos_tematicos": [
+    "temas_transversais_cidadania"
+  ],
+  "tipo_escopo": "condicional",
+  "ancoras_semanticas": [
+    "Educação política e direitos da cidadania no currículo",
+    "Temas transversais e formação cidadã no currículo",
+    "Temas transversais, cidadania e direitos humanos",
+    "educação política",
+    "direitos da cidadania",
+    "formação cidadã",
+    "realidade social e política",
+    "realidade política do Brasil",
+    "cidadania",
+    "democracia",
+    "participação política",
+    "direitos e deveres",
+    "organização do Estado",
+    "instituições públicas",
+    "ciências humanas e sociais aplicadas",
+    "sociologia",
+    "filosofia",
+    "história",
+    "geografia",
+    "projetos integradores",
+    "ementário"
+  ],
+  "consultas": [
+    "educação política",
+    "direitos da cidadania",
+    "realidade social e política",
+    "formação cidadã",
+    "cidadania",
+    "democracia",
+    "participação política",
+    "direitos e deveres",
+    "organização do Estado",
+    "instituições públicas",
+    "ementas de ciências humanas e sociais aplicadas",
+    "ementas de sociologia, filosofia, história e geografia",
+    "projetos integradores"
+  ],
+  "referencias_normativas": [
+    "Lei nº 9.394/1996, art. 26, §§ 1º e 9º-B",
+    "Lei nº 15.468/2026"
+  ],
+  "pergunta": "Quando o PPC abrange o currículo do ensino médio, a educação política e os direitos da cidadania aparecem de modo curricularmente verificável no estudo da realidade social e política?",
+  "rubrica": "Aplicar esta ficha aos cursos técnicos integrados ao ensino médio e a projetos concomitantes cujo PPC unificado também organize o currículo do ensino médio. Verificar, no PPC completo, se educação política e direitos da cidadania estão incorporados de modo verificável ao estudo da realidade social e política, conforme o art. 26, §§ 1º e 9º-B, da LDB. Aceitar a implementação em componente existente, ementa, unidade curricular, projeto integrador, atividade interdisciplinar ou outra forma curricular claramente identificada; não exigir disciplina autônoma, denominação literal nem carga horária exclusiva, pois a Lei nº 15.468/2026 não define essas formas de implementação. Conteúdos genéricos de ética, direitos humanos ou cidadania só bastam quando a redação permitir reconhecer também a dimensão política e o estudo da realidade social e política. Usar `NAO_APLICAVEL` para cursos subsequentes e para PPCs técnicos concomitantes que não organizem o currículo do ensino médio. Se a forma de oferta ou o alcance do PPC não puderem ser determinados, usar `INCONCLUSIVO`.",
+  "boa_evidencia": "Trechos da organização curricular, matriz, ementas ou projetos que localizem educação política e direitos da cidadania no estudo da realidade social e política e permitam identificar como esses conteúdos serão desenvolvidos, ainda que integrados a componentes existentes ou trabalhados interdisciplinarmente.",
+  "ma_evidencia": "Em PPC que abrange o ensino médio, ausência dos conteúdos; menção apenas retórica à cidadania sem localização curricular; referência genérica a direitos humanos, ética ou formação integral sem dimensão política reconhecível; ou conteúdo listado sem vínculo com componente, ementa, projeto ou prática curricular identificável.",
+  "escalonar_quando": "Escalonar se um PPC integrado ou unificado não permitir localizar a obrigação na matriz, nas ementas, em projetos ou em práticas curriculares; se houver apenas menção genérica à cidadania; ou se a análise estiver exigindo indevidamente a criação de disciplina autônoma, carga horária exclusiva ou denominação literal não previstas na Lei nº 15.468/2026.",
+  "evidencia_minima": 2,
+  "estados_permitidos": [
+    "ATENDE",
+    "NAO_ATENDE",
+    "INCONCLUSIVO",
+    "NAO_APLICAVEL"
+  ]
+}

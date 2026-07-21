@@ -488,13 +488,16 @@
       "titulo": "Temas transversais, cidadania e direitos humanos",
       "grupo": "Projeto pedagógico",
       "tipo_escopo": "transversal",
-      "descricao": "Reúne fichas sobre direitos humanos, educação ambiental, relações étnico-raciais, cultura afro-brasileira/indígena, diversidade e formação cidadã.",
+      "descricao": "Reúne fichas sobre educação política, direitos da cidadania, direitos humanos, educação ambiental, relações étnico-raciais, cultura afro-brasileira/indígena, diversidade e formação cidadã.",
       "aliases_titulo": [
         "temas transversais",
         "direitos humanos",
         "educação ambiental",
         "relações étnico-raciais",
-        "diversidade"
+        "diversidade",
+        "educação política",
+        "direitos da cidadania",
+        "realidade social e política"
       ],
       "termos_busca": [
         "direitos humanos",
@@ -502,10 +505,16 @@
         "relações étnico-raciais",
         "história e cultura afro-brasileira",
         "história e cultura indígena",
-        "diversidade"
+        "diversidade",
+        "educação política",
+        "direitos da cidadania",
+        "realidade social e política",
+        "democracia",
+        "participação política"
       ],
       "fichas": [
         "CT-CURR-11",
+        "CT-CURR-26",
         "CT-SUP-10"
       ]
     },

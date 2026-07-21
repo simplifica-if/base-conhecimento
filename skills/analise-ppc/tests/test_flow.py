@@ -435,6 +435,31 @@ def test_ficha_progressao_parcial_diferencia_integrado_e_subsequente() -> None:
     assert "limite de 3 conceitos D próprio dos cursos integrados" in texto
 
 
+def test_ficha_educacao_politica_aplica_obrigacao_nova_sem_exigir_disciplina_autonoma() -> None:
+    ficha = read_json(FICHAS_DIR / "ct-curr-26.json")
+    topico_cidadania = next(
+        topico
+        for topico in read_json(TOPICOS_FICHAS_PATH)["topicos"]
+        if topico["id"] == "temas_transversais_cidadania"
+    )
+    texto = " ".join(
+        str(ficha.get(campo, ""))
+        for campo in ("pergunta", "rubrica", "boa_evidencia", "ma_evidencia", "escalonar_quando")
+    )
+
+    assert ficha["criticidade"] == "OBRIG"
+    assert ficha["tipo_escopo"] == "condicional"
+    assert ficha["topicos_tematicos"] == ["temas_transversais_cidadania"]
+    assert "CT-CURR-26" in topico_cidadania["fichas"]
+    assert "Lei nº 9.394/1996, art. 26, §§ 1º e 9º-B" in ficha["referencias_normativas"]
+    assert "Lei nº 15.468/2026" in ficha["referencias_normativas"]
+    assert "cursos técnicos integrados ao ensino médio" in texto
+    assert "cursos subsequentes" in texto
+    assert "NAO_APLICAVEL" in texto
+    assert "não exigir disciplina autônoma" in texto
+    assert "realidade social e política" in texto
+
+
 def test_base_analise_valida_contratos_e_schemas() -> None:
     assert validar_base_analise() == []
 

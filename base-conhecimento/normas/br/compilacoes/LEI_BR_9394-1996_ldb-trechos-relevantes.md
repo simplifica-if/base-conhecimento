@@ -21,6 +21,7 @@ fonte: https://www.planalto.gov.br/ccivil_03/leis/L9394compilado.htm
 relaciona_se_a:
   - "Lei nº 9.394/1996"
   - "Lei nº 14.945/2024"
+  - "Lei nº 15.468/2026"
 ---
 
 ## Resumo
@@ -30,7 +31,7 @@ relaciona_se_a:
 
 ## Lei de Diretrizes e Bases da Educação Nacional (LDB) - Trechos Relevantes
 
-**Última atualização**: Compilada conforme Lei nº 14.945/2024
+**Última atualização**: Compilada conforme Lei nº 15.468/2026
 
 Este documento consolida os artigos da LDB mais relevantes para análise de Projetos Pedagógicos de Cursos (PPCs), especialmente para educação profissional e tecnológica.
 
@@ -72,6 +73,20 @@ Podem organizar-se classes com alunos de séries distintas, com níveis equivale
 
 **VII - Documentação:**
 Cada instituição de ensino expede históricos escolares, declarações de conclusão de série e diplomas/certificados de conclusão de cursos.
+
+---
+
+#### Art. 26. Currículos da Educação Básica
+
+Os currículos da educação infantil, do ensino fundamental e do ensino médio devem ter base nacional comum, complementada por uma parte diversificada adequada às características regionais e locais da sociedade, da cultura, da economia e dos educandos.
+
+**§ 1º – Estudo da realidade social e política:**
+> Os currículos devem abranger, obrigatoriamente, o estudo da língua portuguesa e da matemática, o conhecimento do mundo físico e natural e da realidade social e política, especialmente do Brasil.
+
+**§ 9º-B – Educação política e direitos da cidadania:**
+> Educação política e direitos da cidadania constituirá componente curricular obrigatório no âmbito do estudo da realidade social e política a que se refere o § 1º deste artigo. (Incluído pela Lei nº 15.468, de 2026)
+
+Para análise de PPCs, esta obrigação alcança os projetos que abrangem o currículo do ensino médio, como os cursos técnicos integrados. O texto legal exige presença curricular verificável, mas não determina disciplina autônoma, denominação literal ou carga horária exclusiva.
 
 ---
 
@@ -192,7 +207,7 @@ A oferta de educação profissional técnica e tecnológica será orientada pela
 
 ## Referências
 
-- **Fonte oficial**: Lei compilada (atualizada conforme Lei nº 14.945, de 2024)
+- **Fonte oficial**: Lei compilada (atualizada conforme Lei nº 15.468, de 2026)
 - **Portal**: https://www.planalto.gov.br/ccivil_03/leis/L9394compilado.htm
 
 ---

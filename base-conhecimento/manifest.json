@@ -752,5 +752,30 @@
     ],
     "fonte": "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=4216886&id_orgao_publicacao=0",
     "path": "normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_271-2026_estatuto-ifpr.md"
+  },
+  {
+    "title": "Lei nº 15.468/2026",
+    "tipo_documento": "Lei",
+    "numero": "15468",
+    "ano": 2026,
+    "data_publicacao": "2026-07-14",
+    "orgao": "Presidência da República",
+    "jurisdicao": "BR",
+    "ementa": "Altera a LDB para incluir educação política e direitos da cidadania como componente curricular obrigatório da educação básica.",
+    "status_vigencia": "vigente",
+    "keywords": [
+      "LDB",
+      "educação política",
+      "direitos da cidadania",
+      "educação básica",
+      "currículo",
+      "realidade social e política"
+    ],
+    "aliases": [
+      "Lei nº 15.468/2026",
+      "Lei 15.468/2026"
+    ],
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15468.htm",
+    "path": "normas/br/leis/LEI_BR_15468-2026_educacao-politica-direitos-cidadania.md"
   }
 ]

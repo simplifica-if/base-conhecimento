@@ -3,7 +3,7 @@
 Este mapa organiza as fichas por tópicos semânticos, sem depender da numeração das seções do PPC.
 A numeração observada em um PPC específico deve ser detectada na rodada de análise, não codificada na ficha.
 
-Gerado em: 2026-07-06T18:31:34+00:00
+Gerado em: 2026-07-21T19:18:56+00:00
 
 ## Como usar
 
@@ -228,13 +228,14 @@ Reúne fichas sobre concepção de Educação Profissional e Tecnológica, integ
 
 ### Temas transversais, cidadania e direitos humanos
 
-Reúne fichas sobre direitos humanos, educação ambiental, relações étnico-raciais, cultura afro-brasileira/indígena, diversidade e formação cidadã.
+Reúne fichas sobre educação política, direitos da cidadania, direitos humanos, educação ambiental, relações étnico-raciais, cultura afro-brasileira/indígena, diversidade e formação cidadã.
 
 - Tipo de escopo: `transversal`
-- Aliases de título: `temas transversais`, `direitos humanos`, `educação ambiental`, `relações étnico-raciais`, `diversidade`
-- Termos de busca: `direitos humanos`, `educação ambiental`, `relações étnico-raciais`, `história e cultura afro-brasileira`, `história e cultura indígena`, `diversidade`
+- Aliases de título: `temas transversais`, `direitos humanos`, `educação ambiental`, `relações étnico-raciais`, `diversidade`, `educação política`, `direitos da cidadania`, `realidade social e política`
+- Termos de busca: `direitos humanos`, `educação ambiental`, `relações étnico-raciais`, `história e cultura afro-brasileira`, `história e cultura indígena`, `diversidade`, `educação política`, `direitos da cidadania`, `realidade social e política`, `democracia`, `participação política`
 
 - `CT-CURR-11` (REC, curriculo) - Temas transversais e formação cidadã no currículo
+- `CT-CURR-26` (OBRIG, curriculo) - Educação política e direitos da cidadania no currículo
 - `CT-SUP-10` (REC, suporte) - Políticas transversais de atendimento e diversidade
 
 ## Suporte ao estudante

@@ -92,6 +92,7 @@ Ao usar PPCs como apoio para redigir ou revisar textos, diferencie exemplos obse
 | [Nota Técnica PROENS/IFPR nº 1/2025](normas/ifpr/notas-tecnicas/NOTA-TECNICA_PROENS-IFPR_1-2025_aee-nao-componente-curricular.md) | Nota Técnica | 2025 | Esclarece que processos de abertura, elaboração, ajuste e atualização de PPCs não devem incorporar o AEE como componente curricular. |
 | [Resolução CONSUP/IFPR nº 259/2025](normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_259-2025_calendario-academico.md) | Resolução | 2025 | Define diretrizes para elaboração dos calendários acadêmicos dos campi do IFPR. |
 | [Resolução CONSUP/IFPR nº 271/2026](normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_271-2026_estatuto-ifpr.md) | Resolução | 2026 | Aprova o novo Estatuto do Instituto Federal de Educação, Ciência e Tecnologia do Paraná. |
+| [Lei nº 15.468/2026](normas/br/leis/LEI_BR_15468-2026_educacao-politica-direitos-cidadania.md) | Lei | 2026 | Altera a LDB para incluir educação política e direitos da cidadania como componente curricular obrigatório da educação básica. |
 
 ## Manutenção
 
