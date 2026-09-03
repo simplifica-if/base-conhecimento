@@ -2,7 +2,7 @@
 
 ## Papel das Skills
 
-As skills em `skills/` são procedimentos operacionais para agentes IA. Elas devem transformar uma tarefa recorrente em fluxo reprodutível, com prompts, scripts, testes e artefatos de apoio.
+As skills em `.agents/skills/` são procedimentos operacionais para agentes IA. Elas devem transformar uma tarefa recorrente em fluxo reprodutível, com prompts, scripts, testes e artefatos de apoio.
 
 A Base de Conhecimento local em `base-conhecimento/` continua sendo a fonte de verdade para normas, metadados institucionais, PPCs de referência e catálogos. Antes de duplicar conteúdo normativo dentro de uma skill, verifique se o dado já existe em:
 
@@ -42,5 +42,5 @@ python3 scripts/gerar_site.py --check
 Depois de alterar `analise-ppc`:
 
 ```bash
-python3 -m pytest skills/analise-ppc/tests
+python3 -m pytest .agents/skills/analise-ppc/tests
 ```

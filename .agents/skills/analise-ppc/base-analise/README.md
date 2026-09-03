@@ -41,9 +41,9 @@ Ao criar ou editar uma ficha, mantenha a ficha e a taxonomia sincronizadas:
 Rode a partir da raiz do repositório sempre que alterar fichas, tópicos, validações cruzadas, contratos ou schemas:
 
 ```bash
-python3 -B skills/analise-ppc/scripts/validar_base_analise.py
-python3 -B skills/analise-ppc/scripts/gerar_mapa_fichas.py
-python3 -B skills/analise-ppc/scripts/gerar_indice_base_analise.py
-python3 -B skills/analise-ppc/scripts/validar_base_analise.py
-python3 -m pytest skills/analise-ppc/tests
+python3 -B .agents/skills/analise-ppc/scripts/validar_base_analise.py
+python3 -B .agents/skills/analise-ppc/scripts/gerar_mapa_fichas.py
+python3 -B .agents/skills/analise-ppc/scripts/gerar_indice_base_analise.py
+python3 -B .agents/skills/analise-ppc/scripts/validar_base_analise.py
+python3 -m pytest .agents/skills/analise-ppc/tests
 ```

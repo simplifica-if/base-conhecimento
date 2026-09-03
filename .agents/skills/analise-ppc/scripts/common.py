@@ -11,7 +11,10 @@ from pathlib import Path
 from typing import Any, Iterable
 
 APP_DIR = Path(__file__).resolve().parents[1]
-PROJECT_ROOT = APP_DIR.parents[1]
+PROJECT_ROOT = next(
+    (candidate for candidate in (APP_DIR, *APP_DIR.parents) if (candidate / "base-conhecimento").is_dir()),
+    APP_DIR.parents[2],
+)
 BASE_CONHECIMENTO_DIR = PROJECT_ROOT / "base-conhecimento"
 PROMPTS_DIR = APP_DIR / "prompts"
 BASE_ANALISE_DIR = APP_DIR / "base-analise"

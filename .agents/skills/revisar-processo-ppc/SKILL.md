@@ -13,13 +13,13 @@ Revise processos SEI de PPC do IFPR contra a Portaria PROENS/IFPR nº 121/2024. 
 Leia antes de concluir:
 
 ```text
-/Users/gustavo/code/simplifica-if-base-conhecimento/normas/ifpr/portarias/PORTARIA_PROENS-IFPR_121-2024_abertura-suspensao-extincao-cursos.md
+base-conhecimento/normas/ifpr/portarias/PORTARIA_PROENS-IFPR_121-2024_abertura-suspensao-extincao-cursos.md
 ```
 
 Leia também o mapa operacional quando precisar selecionar fluxo, itens e condicionantes:
 
 ```text
-/Users/gustavo/code/simplifica-if-skills/revisar-processo-ppc/references/fluxos-portaria-121.md
+.agents/skills/revisar-processo-ppc/references/fluxos-portaria-121.md
 ```
 
 Use o mapa como checklist auxiliar. A decisão final deve estar ancorada no texto vigente da portaria.

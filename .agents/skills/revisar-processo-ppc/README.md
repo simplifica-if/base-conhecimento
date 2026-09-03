@@ -38,7 +38,7 @@ bun run sei extrair processo <numero> --json
 
 Esta skill não possui base gerada ou índice consolidado próprio. Ao alterar o checklist operacional ou o prompt:
 
-1. confirme que a portaria local existe em `/Users/gustavo/code/simplifica-if-base-conhecimento/normas/ifpr/portarias/PORTARIA_PROENS-IFPR_121-2024_abertura-suspensao-extincao-cursos.md`;
+1. confirme que a portaria local existe em `base-conhecimento/normas/ifpr/portarias/PORTARIA_PROENS-IFPR_121-2024_abertura-suspensao-extincao-cursos.md`;
 2. revise `references/fluxos-portaria-121.md` contra os artigos correspondentes da portaria;
 3. valide a sintaxe de `agents/openai.yaml`;
 4. faça uma leitura final de `SKILL.md` para garantir que a saída continue exigindo evidência por número SEI, trecho-fonte e análise normativa.

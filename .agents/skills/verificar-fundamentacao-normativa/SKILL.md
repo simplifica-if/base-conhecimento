@@ -20,7 +20,7 @@ Use primeiro a base local do projeto:
 Se a skill estiver instalada fora do repositório unificado, localize a base nesta ordem:
 
 1. `base-conhecimento/` no diretório atual ou em algum diretório pai.
-2. Repositório de origem do symlink da skill, quando `skills/verificar-fundamentacao-normativa` apontar para o projeto unificado.
+2. Raiz do repositório que contém a skill em `.agents/skills/verificar-fundamentacao-normativa`.
 3. `SIMPLIFICA_IF_BASE`, se existir no ambiente.
 4. Fonte oficial online ou URL pública da base, somente se a base local não estiver disponível ou se a atualização externa for indispensável.
 

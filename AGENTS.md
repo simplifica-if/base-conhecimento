@@ -4,7 +4,7 @@ Este repositório contém uma base de conhecimento local do IFPR com normas, cat
 
 Para dados operacionais de gestão que vivem no Notion, como Campi, Cursos, Movimentações de Cursos, Processos Seletivos, Editais e Ofertas, o Notion é a fonte de verdade. JSONs institucionais gerados localmente são artefatos publicáveis/cache, não espelho operacional nem fonte de curadoria.
 
-Também contém skills operacionais em `skills/`. Ao fazer alterações em qualquer skill, leia primeiro o `README.md` da própria skill, quando existir. Use esse arquivo para entender propósito, fluxo de uso, comandos de manutenção e convenções locais antes de editar scripts, fichas, prompts, testes ou documentação. Se a alteração envolver base gerada ou índice consolidado, procure no `README.md` da skill o comando de regeneração ou validação correspondente e execute-o antes de concluir.
+Também contém skills operacionais em `.agents/skills/`. Ao fazer alterações em qualquer skill, leia primeiro o `README.md` da própria skill, quando existir. Use esse arquivo para entender propósito, fluxo de uso, comandos de manutenção e convenções locais antes de editar scripts, fichas, prompts, testes ou documentação. Se a alteração envolver base gerada ou índice consolidado, procure no `README.md` da skill o comando de regeneração ou validação correspondente e execute-o antes de concluir.
 
 ## Consulta local da base
 
@@ -72,5 +72,5 @@ python3 scripts/gerar_site.py
 Depois de alterar skills, rode os testes ou validações da skill afetada. Para a skill `analise-ppc`, use:
 
 ```bash
-python3 -m pytest skills/analise-ppc/tests
+python3 -m pytest .agents/skills/analise-ppc/tests
 ```

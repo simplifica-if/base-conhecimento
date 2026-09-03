@@ -2,14 +2,14 @@
 
 Projeto unificado que reúne a Base de Conhecimento do IFPR e as skills operacionais usadas por agentes IA.
 
-A base em `base-conhecimento/` é a fonte de verdade para normas, legislação, resoluções, portarias, metadados institucionais, PPCs, catálogos e documentos de referência. As skills em `skills/` transformam tarefas recorrentes em fluxos reprodutíveis que consultam essa base localmente.
+A base em `base-conhecimento/` é a fonte de verdade para normas, legislação, resoluções, portarias, metadados institucionais, PPCs, catálogos e documentos de referência. As skills em `.agents/skills/` transformam tarefas recorrentes em fluxos reprodutíveis que consultam essa base localmente.
 
 ## Estrutura
 
 - `base-conhecimento/`: fonte publicável da base, com caminhos internos preservados como `normas/`, `institucional/`, `catalogos/`, `manifest.json`, `llms.txt` e `README.md`.
 - `site/`: saída gerada para publicação estática, ignorada pelo Git e reconstruída a partir de `base-conhecimento/`.
-- `skills/`: skills operacionais para agentes IA, uma pasta por skill.
-- `scripts/`: geração, validação, exportação e instalação local das skills.
+- `.agents/skills/`: skills operacionais para agentes IA, uma pasta versionada por skill e sem symlinks internos.
+- `scripts/`: geração, validação e exportação da base.
 - `base-conhecimento/docs/`: documentação de apoio à curadoria da base e ao desenvolvimento das skills.
 
 ## Base de Conhecimento
@@ -30,16 +30,10 @@ python3 scripts/gerar_site.py --check
 
 ## Skills
 
-Instale as skills deste projeto em `~/.agents/skills` por symlink:
+As skills deste projeto ficam diretamente no diretório padrão de descoberta do repositório:
 
 ```bash
-scripts/instalar-skills.sh
-```
-
-Para instalar apenas uma skill:
-
-```bash
-scripts/instalar-skills.sh analise-ppc
+.agents/skills/
 ```
 
 Skills disponíveis:
@@ -59,7 +53,7 @@ python3 scripts/gerar_base.py --check
 python3 scripts/gerar_indice_ppcs.py --check
 python3 scripts/validar_base.py
 python3 scripts/gerar_site.py --check
-python3 -m pytest skills/analise-ppc/tests
+python3 -m pytest .agents/skills/analise-ppc/tests
 ```
 
 Para detalhes de desenvolvimento das skills, veja `base-conhecimento/docs/desenvolvimento-skills.md`.
