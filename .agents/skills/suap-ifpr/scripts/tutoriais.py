@@ -4,18 +4,24 @@
 from __future__ import annotations
 
 import argparse
-import html
 import json
 import os
-import re
 import sys
 import unicodedata
-from http.cookiejar import CookieJar
 from pathlib import Path
 from typing import Any, Callable, Iterable
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlencode, urljoin, urlparse
-from urllib.request import HTTPCookieProcessor, Request, build_opener, urlopen
+from urllib.parse import urlencode, urlparse
+from urllib.request import Request, urlopen
+
+from suap_client import (
+    SkillError,
+    SuapClient,
+    clean_text,
+    extract_title,
+    require_config,
+    resolve_config,
+)
 
 
 SKILL_DIR = Path(__file__).resolve().parents[1]
@@ -24,28 +30,15 @@ DOCS_PREFIX = "https://ifpr.edu.br/tutoriais/"
 DOCS_API = f"{DOCS_PREFIX}wp-json/wp/v2"
 DOCS_CATEGORY_URL = f"{DOCS_PREFIX}base-conhecimento/categoria/suap/"
 ROOT_CATEGORY_ID = 311
-SUAP_ORIGIN = "https://suap.ifpr.edu.br"
-LOGIN_PATH = "/accounts/login/?next=/"
 DEFAULT_AUTH_CHECK_PATH = "/edu/cursocampus/1/?tab=dados_gerais"
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 Chrome/140 Safari/537.36"
 )
-REQUIRED_CONFIG = ("SUAP_USUARIO", "SUAP_SENHA")
-
-
-class SkillError(RuntimeError):
-    """Erro esperado, adequado para exibição sem traceback."""
-
-
 def normalize(value: str) -> str:
     decomposed = unicodedata.normalize("NFKD", value)
     without_marks = "".join(char for char in decomposed if not unicodedata.combining(char))
     return " ".join(without_marks.casefold().split())
-
-
-def clean_text(value: str) -> str:
-    return " ".join(html.unescape(value).split())
 
 
 def request_json(url: str, timeout: int = 30) -> Any:
@@ -286,120 +279,10 @@ def validation_errors(index: dict[str, Any], secrets: Iterable[str] = ()) -> lis
     return errors
 
 
-def find_env_file(start: Path | None = None) -> Path | None:
-    current = (start or Path.cwd()).resolve()
-    for directory in (current, *current.parents):
-        candidate = directory / ".env.local"
-        if candidate.is_file():
-            return candidate
-    return None
-
-
-def parse_env_file(path: Path | None) -> dict[str, str]:
-    if path is None:
-        return {}
-    result: dict[str, str] = {}
-    for raw_line in path.read_text(encoding="utf-8").splitlines():
-        line = raw_line.strip()
-        if not line or line.startswith("#"):
-            continue
-        if line.startswith("export "):
-            line = line[7:].lstrip()
-        if "=" not in line:
-            continue
-        key, value = line.split("=", 1)
-        key = key.strip()
-        value = value.strip()
-        if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
-            value = value[1:-1]
-        result[key] = value
-    return result
-
-
-def resolve_config(env_file: Path | None = None, environ: dict[str, str] | None = None) -> dict[str, str]:
-    file_values = parse_env_file(env_file if env_file is not None else find_env_file())
-    process_values = os.environ if environ is None else environ
-    return {key: process_values.get(key, file_values.get(key, "")) for key in REQUIRED_CONFIG}
-
-
-def require_config(env_file: Path | None = None) -> dict[str, str]:
-    values = resolve_config(env_file)
-    missing = [key for key, value in values.items() if not value]
-    if missing:
-        raise SkillError("Configuração SUAP incompleta. Variáveis ausentes: " + ", ".join(missing))
-    return values
-
-
-def extract_input_value(document: str, name: str) -> str | None:
-    pattern = rf'<input\b(?=[^>]*\bname=["\']{re.escape(name)}["\'])(?=[^>]*\bvalue=["\']([^"\']*)["\'])[^>]*>'
-    match = re.search(pattern, document, flags=re.IGNORECASE)
-    return html.unescape(match.group(1)) if match else None
-
-
-def extract_title(document: str) -> str:
-    match = re.search(r"<title[^>]*>(.*?)</title>", document, flags=re.IGNORECASE | re.DOTALL)
-    return clean_text(re.sub(r"<[^>]+>", " ", match.group(1))) if match else "título indisponível"
-
-
-def safe_suap_url(path: str) -> str:
-    url = urljoin(f"{SUAP_ORIGIN}/", path)
-    parsed = urlparse(url)
-    if parsed.scheme != "https" or parsed.netloc != "suap.ifpr.edu.br":
-        raise SkillError("O caminho do smoke test deve permanecer em https://suap.ifpr.edu.br/.")
-    return url
-
-
-def open_text(opener: Any, request: str | Request, timeout: int = 30) -> tuple[str, str]:
-    try:
-        with opener.open(request, timeout=timeout) as response:
-            charset = response.headers.get_content_charset() or "utf-8"
-            return response.geturl(), response.read().decode(charset, errors="replace")
-    except (HTTPError, URLError, TimeoutError) as exc:
-        raise SkillError(f"Falha ao acessar o SUAP: {exc}") from exc
-
-
 def auth_check(path: str, env_file: Path | None = None) -> tuple[str, str]:
-    config = require_config(env_file)
-    opener = build_opener(HTTPCookieProcessor(CookieJar()))
-    login_url = safe_suap_url(LOGIN_PATH)
-    get_request = Request(login_url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"})
-    _, login_document = open_text(opener, get_request)
-    csrf_token = extract_input_value(login_document, "csrfmiddlewaretoken")
-    if not csrf_token:
-        raise SkillError("Não foi possível localizar o token de login do SUAP.")
-
-    payload = urlencode(
-        {
-            "csrfmiddlewaretoken": csrf_token,
-            "username": config["SUAP_USUARIO"],
-            "password": config["SUAP_SENHA"],
-            "this_is_the_login_form": "1",
-            "next": "/",
-        }
-    ).encode("utf-8")
-    post_request = Request(
-        login_url,
-        data=payload,
-        headers={
-            "Accept": "text/html",
-            "Content-Type": "application/x-www-form-urlencoded",
-            "Origin": SUAP_ORIGIN,
-            "Referer": login_url,
-            "User-Agent": USER_AGENT,
-        },
-    )
-    authenticated_url, authenticated_document = open_text(opener, post_request)
-    if "/accounts/login/" in urlparse(authenticated_url).path or 'name="username"' in authenticated_document:
-        raise SkillError(
-            "O SUAP não concluiu o login. Verifique as credenciais ou assuma manualmente se houver 2FA, CAPTCHA ou troca de senha."
-        )
-
-    target_url = safe_suap_url(path)
-    target_request = Request(target_url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"})
-    final_url, target_document = open_text(opener, target_request)
-    if "/accounts/login/" in urlparse(final_url).path:
-        raise SkillError("A sessão autenticada não foi mantida pelo SUAP.")
-    return urlparse(final_url).path, extract_title(target_document)
+    client = SuapClient.from_config(env_file)
+    final_url, document = client.get_text(path)
+    return urlparse(final_url).path, extract_title(document)
 
 
 def write_index(path: Path, index: dict[str, Any]) -> None:

@@ -16,6 +16,20 @@ Converta a intenção do usuário em termos usados pelo SUAP. Exemplos: `curso`,
 
 Uma busca sem resultado não prova que o procedimento não está documentado. Tente o nome institucional equivalente, navegue pela categoria apropriada e informe quando a correspondência continuar inconclusiva.
 
+## Dados docentes
+
+Para cargo, cursos e disciplinas, use o comando rápido documentado no `SKILL.md`. O fluxo confirmado na interface é:
+
+1. `Ensino > Alunos e Professores > Professores`;
+2. pesquisar o nome completo no campo `Texto`;
+3. abrir `Visualizar`;
+4. consultar `Diários e Cursos Lecionados` e escolher o ano/período;
+5. quando disponível, seguir o vínculo funcional para cargo, função, lotação e setor de exercício.
+
+Tutorial oficial: [9 – Secretarias Acadêmicas: Pesquisa dados docentes](https://ifpr.edu.br/tutoriais/base-conhecimento/9-secretarias-academicas-pesquisa-dados-docentes-dga-adilson-23-10-2024/).
+
+Na interface observada, `Cursos Lecionados` não muda com o seletor de período. Trate essa lista como histórico/vínculo exibido pela ficha, e as linhas ativas de `Diários` como as disciplinas do período consultado.
+
 ## Evidência a relatar
 
 Ao concluir, registre:

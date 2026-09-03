@@ -9,6 +9,25 @@ Use o portal de tutoriais do IFPR para descobrir o procedimento e o SUAP como fo
 
 Para instruções de configuração e manutenção, leia [README.md](README.md). Para tarefas de Ensino, leia [references/ensino-cursos.md](references/ensino-cursos.md).
 
+## Consulta rápida de docente
+
+Quando o usuário pedir cargo, função, lotação, cursos lecionados ou disciplinas de uma pessoa, prefira a consulta estruturada:
+
+```bash
+python3 .agents/skills/suap-ifpr/scripts/suap.py professor "NOME COMPLETO"
+python3 .agents/skills/suap-ifpr/scripts/suap.py professor "NOME COMPLETO" --ano 2026 --periodo 2 --json
+```
+
+Sem período explícito, use o período mais recente oferecido pela ficha docente. A correspondência do nome deve ser exata após normalização de maiúsculas e acentos; nunca escolha silenciosamente entre homônimos. Relate separadamente:
+
+- cargo, função, lotação e setor de exercício;
+- `Cursos Lecionados`, cujo quadro da ficha não é filtrado por período;
+- disciplinas ativas no período consultado.
+
+Se houver homônimos, refine com `--campus UNIDADE` antes de abrir qualquer ficha individual.
+
+A saída rápida não deve incluir CPF, matrícula SIAPE, e-mail, telefone, identificadores internos do professor ou diário, nem HTML autenticado. Uma falha de permissão em Gestão de Pessoas afeta apenas o enriquecimento funcional: preserve os dados de Ensino que estiverem disponíveis e registre a limitação.
+
 ## Fluxo
 
 1. Identifique a intenção, o módulo e se a tarefa é consulta ou alteração.
