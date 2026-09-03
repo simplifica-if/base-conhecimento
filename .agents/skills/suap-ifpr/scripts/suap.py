@@ -295,15 +295,38 @@ def parse_disciplines(root: Node, courses: list[str]) -> list[dict[str, str]]:
 
 
 def employee_profile_path(root: Node) -> str | None:
-    for href in links(root):
-        path = urlparse(href).path
-        if re.fullmatch(r"/rh/servidor/\d+/", path):
-            return path
+    content = root.first("main", id="content")
+    if content is None:
+        return None
+    paths = list(
+        dict.fromkeys(
+            urlparse(href).path
+            for href in links(content)
+            if re.fullmatch(r"/rh/servidor/\d+/", urlparse(href).path)
+        )
+    )
+    return paths[0] if len(paths) == 1 else None
+
+
+def employee_profile_name(document: str) -> str | None:
+    root = parse_html(document)
+    content = root.first("main", id="content")
+    if content is None:
+        return None
+    name = first_field(field_pairs(content), ("Nome", "Nome Completo"))
+    if name:
+        return name
+    for heading in content.descendants("h2"):
+        match = re.fullmatch(r"(.+?)\s+\([^()]+\)", heading.text())
+        if match:
+            return clean_text(match.group(1))
     return None
 
 
 def parse_employment(document: str) -> dict[str, str | None]:
-    pairs = field_pairs(parse_html(document))
+    root = parse_html(document)
+    content = root.first("main", id="content")
+    pairs = field_pairs(content or root)
     cargo = first_field(pairs, ("Cargo",))
     if cargo:
         cargo = re.sub(r"\s+-\s+\d+\s*$", "", cargo)
@@ -344,7 +367,14 @@ def consultar_professor(
     if employee_path:
         try:
             _, employee_document = client.get_text(employee_path)
-            employment = parse_employment(employee_document)
+            employee_name = employee_profile_name(employee_document)
+            if employee_name and normalize(employee_name) == normalize(candidate["nome"]):
+                employment = parse_employment(employee_document)
+            else:
+                warnings.append(
+                    "Os dados funcionais foram descartados porque o SUAP não comprovou que a "
+                    "página funcional pertence à pessoa pesquisada."
+                )
         except SuapHTTPError as exc:
             if exc.status not in {401, 403}:
                 raise
@@ -353,7 +383,9 @@ def consultar_professor(
                 "isso não significa que o docente não possua cargo ou função."
             )
     else:
-        warnings.append("A ficha docente não apresentou vínculo para consulta de dados funcionais.")
+        warnings.append(
+            "A ficha docente não apresentou um vínculo funcional único dentro do conteúdo da pessoa pesquisada."
+        )
 
     disciplines = parse_disciplines(profile_root, courses)
     if not disciplines:

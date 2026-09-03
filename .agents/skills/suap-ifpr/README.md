@@ -44,7 +44,7 @@ python3 .agents/skills/suap-ifpr/scripts/suap.py professor "NOME COMPLETO" --ano
 
 Sem `--ano` e `--periodo`, o comando usa o período mais recente disponível na ficha. Os dois argumentos devem ser fornecidos juntos. Em caso de homônimos, use `--campus UNIDADE` para desambiguar. O resultado separa os cursos exibidos em `Cursos Lecionados` — uma relação sem filtro de período na tela atual — das disciplinas ativas do período escolhido.
 
-A busca exige correspondência exata do nome, desconsiderando caixa e acentos. Homônimos interrompem a consulta para que a unidade seja refinada. CPF, matrícula, e-mail, telefone, IDs internos e números de diário não fazem parte da saída.
+A busca exige correspondência exata do nome, desconsiderando caixa e acentos. Homônimos interrompem a consulta para que a unidade seja refinada. O vínculo funcional é aceito somente quando está dentro do conteúdo da ficha pesquisada e a página de destino confirma o mesmo nome; links do menu do usuário autenticado são ignorados. CPF, matrícula, e-mail, telefone, IDs internos e números de diário não fazem parte da saída.
 
 ## Catálogo de tutoriais
 

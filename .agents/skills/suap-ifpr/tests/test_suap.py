@@ -31,35 +31,43 @@ LISTING = """
 
 PROFILE = """
 <html><body>
-  <a href="/rh/servidor/321/">Dados funcionais</a>
-  <select name="ano-periodo">
-    <option>2026.2</option><option selected>2026.1</option><option>2025.2</option>
-  </select>
-  <div id="dados-gerais"><dl><dt>Nome</dt><dd>Docente Exemplo</dd></dl></div>
-  <div id="diarios">
-    <table>
-      <tr><th>Período</th><th>Diário</th><th>Turma</th><th>Campus</th><th>Tipo</th><th>Ativo</th></tr>
-      <tr><td>2026.2</td><td>123 - LICENCIATURA.44 - GEOGRAFIA HUMANA - Graduação [40 h]</td>
-          <td>20262.1.CTB1004.1.1V</td><td>CTBADG</td><td>Principal</td><td>Sim</td></tr>
-      <tr><td>2026.2</td><td>124 - LICENCIATURA.45 - DISCIPLINA INATIVA - Graduação [40 h]</td>
-          <td>20262.1.CTB1004.1.1V</td><td>CTBADG</td><td>Principal</td><td>Não</td></tr>
-    </table>
-  </div>
-  <div id="cursos-lecionados"><ul>
-    <li>CTB1004 - LICENCIATURA EM PEDAGOGIA (Campus Curitiba)</li>
-  </ul></div>
+  <aside><a href="/rh/servidor/111/">Perfil do usuário autenticado</a></aside>
+  <main id="content">
+    <a href="/rh/servidor/321/">Dados funcionais da pessoa pesquisada</a>
+    <select name="ano-periodo">
+      <option>2026.2</option><option selected>2026.1</option><option>2025.2</option>
+    </select>
+    <div id="dados-gerais"><dl><dt>Nome</dt><dd>Docente Exemplo</dd></dl></div>
+    <div id="diarios">
+      <table>
+        <tr><th>Período</th><th>Diário</th><th>Turma</th><th>Campus</th><th>Tipo</th><th>Ativo</th></tr>
+        <tr><td>2026.2</td><td>123 - LICENCIATURA.44 - GEOGRAFIA HUMANA - Graduação [40 h]</td>
+            <td>20262.1.CTB1004.1.1V</td><td>CTBADG</td><td>Principal</td><td>Sim</td></tr>
+        <tr><td>2026.2</td><td>124 - LICENCIATURA.45 - DISCIPLINA INATIVA - Graduação [40 h]</td>
+            <td>20262.1.CTB1004.1.1V</td><td>CTBADG</td><td>Principal</td><td>Não</td></tr>
+      </table>
+    </div>
+    <div id="cursos-lecionados"><ul>
+      <li>CTB1004 - LICENCIATURA EM PEDAGOGIA (Campus Curitiba)</li>
+    </ul></div>
+  </main>
 </body></html>
 """
 
 EMPLOYEE = """
-<html><body><dl>
-  <dt>CPF</dt><dd>000.000.000-00</dd>
-  <dt>Cargo</dt><dd>PROFESSOR EBTT - 707001</dd>
-  <dt>Função Atual</dt><dd>COORDENADOR</dd>
-  <dt>Lotação SIAPE</dt><dd>CURITIBA (Campus: Curitiba)</dd>
-  <dt>Setor de Exercício</dt><dd>DIREN/CTB</dd>
-</dl></body></html>
+<html><body><main id="content">
+  <h2>Docente Exemplo (7654321)</h2>
+  <dl>
+    <dt>CPF</dt><dd>000.000.000-00</dd>
+    <dt>Cargo</dt><dd>PROFESSOR EBTT - 707001</dd>
+    <dt>Função Atual</dt><dd>COORDENADOR</dd>
+    <dt>Lotação SIAPE</dt><dd>CURITIBA (Campus: Curitiba)</dd>
+    <dt>Setor de Exercício</dt><dd>DIREN/CTB</dd>
+  </dl>
+</main></body></html>
 """
+
+WRONG_EMPLOYEE = EMPLOYEE.replace("Docente Exemplo", "Usuário Autenticado")
 
 
 class FakeClient:
@@ -84,6 +92,13 @@ class RestrictedEmployeeClient(FakeClient):
         return super().get_text(path, params)
 
 
+class WrongEmployeeClient(FakeClient):
+    def get_text(self, path, params=None):
+        if path == "/rh/servidor/321/":
+            return path, WRONG_EMPLOYEE
+        return super().get_text(path, params)
+
+
 class ProfessorQueryTests(unittest.TestCase):
     def test_candidate_search_ignores_accents_but_requires_exact_name(self):
         candidates = suap.parse_professor_candidates(LISTING)
@@ -96,16 +111,16 @@ class ProfessorQueryTests(unittest.TestCase):
 
     def test_ambiguous_exact_name_is_not_silently_selected(self):
         candidates = [
-            {"nome": "Maria Silva", "campus": "A", "setor_suap": "", "profile_path": "/1/"},
-            {"nome": "Maria Silva", "campus": "B", "setor_suap": "", "profile_path": "/2/"},
+            {"nome": "Pessoa Homônima", "campus": "A", "setor_suap": "", "profile_path": "/1/"},
+            {"nome": "Pessoa Homônima", "campus": "B", "setor_suap": "", "profile_path": "/2/"},
         ]
 
         with self.assertRaises(suap.SkillError) as context:
-            suap.select_exact_candidate(candidates, "Maria Silva")
+            suap.select_exact_candidate(candidates, "Pessoa Homônima")
 
         self.assertIn("mais de um", str(context.exception))
 
-        selected = suap.select_exact_candidate(candidates, "Maria Silva", "B")
+        selected = suap.select_exact_candidate(candidates, "Pessoa Homônima", "B")
         self.assertEqual("B", selected["campus"])
 
     def test_latest_available_period_wins_over_stale_selected_option(self):
@@ -135,6 +150,12 @@ class ProfessorQueryTests(unittest.TestCase):
         self.assertNotIn("cpf", employment)
         self.assertNotIn("707001", json.dumps(employment))
 
+    def test_employee_link_ignores_authenticated_user_navigation(self):
+        root = suap.parse_html(PROFILE)
+
+        self.assertEqual("/rh/servidor/321/", suap.employee_profile_path(root))
+        self.assertEqual("Docente Exemplo", suap.employee_profile_name(EMPLOYEE))
+
     def test_end_to_end_result_has_sources_and_no_unrequested_identifiers(self):
         result = suap.consultar_professor(
             "Docente Exemplo", 2026, 2, None, client=FakeClient()
@@ -156,6 +177,15 @@ class ProfessorQueryTests(unittest.TestCase):
         self.assertIsNone(result["cargo"])
         self.assertEqual(1, len(result["disciplinas_ativas"]))
         self.assertTrue(any("permissão" in warning for warning in result["avisos"]))
+
+    def test_mismatched_employee_identity_discards_functional_data(self):
+        result = suap.consultar_professor(
+            "Docente Exemplo", 2026, 2, None, client=WrongEmployeeClient()
+        )
+
+        self.assertIsNone(result["cargo"])
+        self.assertEqual(1, len(result["disciplinas_ativas"]))
+        self.assertTrue(any("descartados" in warning for warning in result["avisos"]))
 
 
 if __name__ == "__main__":

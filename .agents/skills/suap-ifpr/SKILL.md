@@ -26,7 +26,7 @@ Sem período explícito, use o período mais recente oferecido pela ficha docent
 
 Se houver homônimos, refine com `--campus UNIDADE` antes de abrir qualquer ficha individual.
 
-A saída rápida não deve incluir CPF, matrícula SIAPE, e-mail, telefone, identificadores internos do professor ou diário, nem HTML autenticado. Uma falha de permissão em Gestão de Pessoas afeta apenas o enriquecimento funcional: preserve os dados de Ensino que estiverem disponíveis e registre a limitação.
+A saída rápida não deve incluir CPF, matrícula SIAPE, e-mail, telefone, identificadores internos do professor ou diário, nem HTML autenticado. Obtenha o vínculo funcional somente dentro do conteúdo principal da ficha pesquisada e aceite os dados apenas após confirmar que o nome da página funcional corresponde ao docente. Uma falha de identidade ou permissão em Gestão de Pessoas afeta apenas o enriquecimento funcional: preserve os dados de Ensino que estiverem disponíveis e registre a limitação.
 
 ## Fluxo
 
