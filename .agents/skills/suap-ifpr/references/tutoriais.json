@@ -1,0 +1,2195 @@
+{
+  "schema_version": 1,
+  "source": {
+    "category_url": "https://ifpr.edu.br/tutoriais/base-conhecimento/categoria/suap/",
+    "api_url": "https://ifpr.edu.br/tutoriais/wp-json/wp/v2",
+    "root_category_id": 311,
+    "source_updated_at": "2026-08-19T18:03:50",
+    "category_count": 69,
+    "tutorial_count": 84
+  },
+  "categories": [
+    {
+      "id": 311,
+      "parent_id": 0,
+      "name": "SUAP",
+      "slug": "suap",
+      "path": [
+        "SUAP"
+      ]
+    },
+    {
+      "id": 128,
+      "parent_id": 311,
+      "name": "Administração",
+      "slug": "administracao-tutorial-suap",
+      "path": [
+        "SUAP",
+        "Administração"
+      ]
+    },
+    {
+      "id": 136,
+      "parent_id": 128,
+      "name": "Boletins de Serviço",
+      "slug": "boletions-servicos-suap",
+      "path": [
+        "SUAP",
+        "Administração",
+        "Boletins de Serviço"
+      ]
+    },
+    {
+      "id": 135,
+      "parent_id": 128,
+      "name": "Compras",
+      "slug": "compras-suap",
+      "path": [
+        "SUAP",
+        "Administração",
+        "Compras"
+      ]
+    },
+    {
+      "id": 133,
+      "parent_id": 128,
+      "name": "Contratos",
+      "slug": "contratos-administracao-suap",
+      "path": [
+        "SUAP",
+        "Administração",
+        "Contratos"
+      ]
+    },
+    {
+      "id": 132,
+      "parent_id": 128,
+      "name": "Frota",
+      "slug": "frota-suap",
+      "path": [
+        "SUAP",
+        "Administração",
+        "Frota"
+      ]
+    },
+    {
+      "id": 134,
+      "parent_id": 128,
+      "name": "Materiais",
+      "slug": "materiais-suap",
+      "path": [
+        "SUAP",
+        "Administração",
+        "Materiais"
+      ]
+    },
+    {
+      "id": 131,
+      "parent_id": 128,
+      "name": "Patrimônio",
+      "slug": "patrimonio-suap",
+      "path": [
+        "SUAP",
+        "Administração",
+        "Patrimônio"
+      ]
+    },
+    {
+      "id": 129,
+      "parent_id": 128,
+      "name": "Reservas de Salas",
+      "slug": "reservas-salas-suap",
+      "path": [
+        "SUAP",
+        "Administração",
+        "Reservas de Salas"
+      ]
+    },
+    {
+      "id": 130,
+      "parent_id": 128,
+      "name": "Telefones",
+      "slug": "telefones-administracao-suap",
+      "path": [
+        "SUAP",
+        "Administração",
+        "Telefones"
+      ]
+    },
+    {
+      "id": 163,
+      "parent_id": 311,
+      "name": "Auditoria",
+      "slug": "auditoria-suap",
+      "path": [
+        "SUAP",
+        "Auditoria"
+      ]
+    },
+    {
+      "id": 165,
+      "parent_id": 163,
+      "name": "Minhas recomendações",
+      "slug": "minhas-recomendacoes-suap",
+      "path": [
+        "SUAP",
+        "Auditoria",
+        "Minhas recomendações"
+      ]
+    },
+    {
+      "id": 164,
+      "parent_id": 163,
+      "name": "Monitoramento",
+      "slug": "monitoramento-suap",
+      "path": [
+        "SUAP",
+        "Auditoria",
+        "Monitoramento"
+      ]
+    },
+    {
+      "id": 148,
+      "parent_id": 311,
+      "name": "Central de Serviços",
+      "slug": "central-servicos-suap",
+      "path": [
+        "SUAP",
+        "Central de Serviços"
+      ]
+    },
+    {
+      "id": 149,
+      "parent_id": 148,
+      "name": "Abrir Chamado",
+      "slug": "abrir-chamado-suap",
+      "path": [
+        "SUAP",
+        "Central de Serviços",
+        "Abrir Chamado"
+      ]
+    },
+    {
+      "id": 150,
+      "parent_id": 148,
+      "name": "Base de Conhecimentos",
+      "slug": "base-conhecimentos-suap",
+      "path": [
+        "SUAP",
+        "Central de Serviços",
+        "Base de Conhecimentos"
+      ]
+    },
+    {
+      "id": 151,
+      "parent_id": 148,
+      "name": "Cadastros",
+      "slug": "cadastros-central-servicos-suap",
+      "path": [
+        "SUAP",
+        "Central de Serviços",
+        "Cadastros"
+      ]
+    },
+    {
+      "id": 152,
+      "parent_id": 148,
+      "name": "Meus Chamados",
+      "slug": "meus-chamados-central-servicos-suap",
+      "path": [
+        "SUAP",
+        "Central de Serviços",
+        "Meus Chamados"
+      ]
+    },
+    {
+      "id": 157,
+      "parent_id": 311,
+      "name": "Comunicação Social",
+      "slug": "comunicacao-social-suap",
+      "path": [
+        "SUAP",
+        "Comunicação Social"
+      ]
+    },
+    {
+      "id": 158,
+      "parent_id": 157,
+      "name": "Enquetes",
+      "slug": "enquetes-suap",
+      "path": [
+        "SUAP",
+        "Comunicação Social",
+        "Enquetes"
+      ]
+    },
+    {
+      "id": 159,
+      "parent_id": 157,
+      "name": "Eventos",
+      "slug": "eventos-suap",
+      "path": [
+        "SUAP",
+        "Comunicação Social",
+        "Eventos"
+      ]
+    },
+    {
+      "id": 160,
+      "parent_id": 157,
+      "name": "Relatórios",
+      "slug": "relatorios-suap",
+      "path": [
+        "SUAP",
+        "Comunicação Social",
+        "Relatórios"
+      ]
+    },
+    {
+      "id": 143,
+      "parent_id": 311,
+      "name": "Des. Institucional",
+      "slug": "desenvolvimento-institucional-suap",
+      "path": [
+        "SUAP",
+        "Des. Institucional"
+      ]
+    },
+    {
+      "id": 144,
+      "parent_id": 143,
+      "name": "Gestão",
+      "slug": "gestao-desenvolvimento-suap",
+      "path": [
+        "SUAP",
+        "Des. Institucional",
+        "Gestão"
+      ]
+    },
+    {
+      "id": 145,
+      "parent_id": 143,
+      "name": "Planejamento",
+      "slug": "planejamento-desenvolvimento-suap",
+      "path": [
+        "SUAP",
+        "Des. Institucional",
+        "Planejamento"
+      ]
+    },
+    {
+      "id": 147,
+      "parent_id": 143,
+      "name": "Planejamento Estratégico",
+      "slug": "planejamento-estrategico-suap",
+      "path": [
+        "SUAP",
+        "Des. Institucional",
+        "Planejamento Estratégico"
+      ]
+    },
+    {
+      "id": 146,
+      "parent_id": 143,
+      "name": "Planejamento Institucional",
+      "slug": "planejamento-institucional-suap",
+      "path": [
+        "SUAP",
+        "Des. Institucional",
+        "Planejamento Institucional"
+      ]
+    },
+    {
+      "id": 102,
+      "parent_id": 311,
+      "name": "Documentos/Processos",
+      "slug": "documentos-processos-tutorial-suap",
+      "path": [
+        "SUAP",
+        "Documentos/Processos"
+      ]
+    },
+    {
+      "id": 103,
+      "parent_id": 102,
+      "name": "Documentos Eletrônicos",
+      "slug": "documentos-eletronicos-suap",
+      "path": [
+        "SUAP",
+        "Documentos/Processos",
+        "Documentos Eletrônicos"
+      ]
+    },
+    {
+      "id": 106,
+      "parent_id": 102,
+      "name": "Minhas Permissões",
+      "slug": "minhas-permissoes-suap",
+      "path": [
+        "SUAP",
+        "Documentos/Processos",
+        "Minhas Permissões"
+      ]
+    },
+    {
+      "id": 104,
+      "parent_id": 102,
+      "name": "Processos Eletrônicos",
+      "slug": "processos-eletronicos-suap",
+      "path": [
+        "SUAP",
+        "Documentos/Processos",
+        "Processos Eletrônicos"
+      ]
+    },
+    {
+      "id": 105,
+      "parent_id": 102,
+      "name": "Processos Físicos",
+      "slug": "processos-fisicos-suap",
+      "path": [
+        "SUAP",
+        "Documentos/Processos",
+        "Processos Físicos"
+      ]
+    },
+    {
+      "id": 107,
+      "parent_id": 102,
+      "name": "Solitações de Alteração de Nível de Acesso",
+      "slug": "solicitacoes-nivel-acesso-suap",
+      "path": [
+        "SUAP",
+        "Documentos/Processos",
+        "Solitações de Alteração de Nível de Acesso"
+      ]
+    },
+    {
+      "id": 110,
+      "parent_id": 311,
+      "name": "Ensino",
+      "slug": "ensino-tutorial-suap",
+      "path": [
+        "SUAP",
+        "Ensino"
+      ]
+    },
+    {
+      "id": 340,
+      "parent_id": 110,
+      "name": "Coordenação de Curso",
+      "slug": "coordenacao-de-curso-ensino-tutorial-suap",
+      "path": [
+        "SUAP",
+        "Ensino",
+        "Coordenação de Curso"
+      ]
+    },
+    {
+      "id": 112,
+      "parent_id": 110,
+      "name": "Docentes",
+      "slug": "docentes-suap",
+      "path": [
+        "SUAP",
+        "Ensino",
+        "Docentes"
+      ]
+    },
+    {
+      "id": 336,
+      "parent_id": 110,
+      "name": "Estudantes",
+      "slug": "estudantes-suap",
+      "path": [
+        "SUAP",
+        "Ensino",
+        "Estudantes"
+      ]
+    },
+    {
+      "id": 113,
+      "parent_id": 110,
+      "name": "Pesquisa",
+      "slug": "pesquisa-suap",
+      "path": [
+        "SUAP",
+        "Ensino",
+        "Pesquisa"
+      ]
+    },
+    {
+      "id": 337,
+      "parent_id": 110,
+      "name": "Registro Acadêmico",
+      "slug": "registro-academico-suap",
+      "path": [
+        "SUAP",
+        "Ensino",
+        "Registro Acadêmico"
+      ]
+    },
+    {
+      "id": 111,
+      "parent_id": 110,
+      "name": "Secretarias acadêmicas",
+      "slug": "secretraria-academica-suap",
+      "path": [
+        "SUAP",
+        "Ensino",
+        "Secretarias acadêmicas"
+      ]
+    },
+    {
+      "id": 114,
+      "parent_id": 311,
+      "name": "Extensão",
+      "slug": "extensao-tutorial-suap",
+      "path": [
+        "SUAP",
+        "Extensão"
+      ]
+    },
+    {
+      "id": 115,
+      "parent_id": 114,
+      "name": "Convenios",
+      "slug": "convenios-suap",
+      "path": [
+        "SUAP",
+        "Extensão",
+        "Convenios"
+      ]
+    },
+    {
+      "id": 117,
+      "parent_id": 114,
+      "name": "Demandas Externas",
+      "slug": "demandas-externas-suap",
+      "path": [
+        "SUAP",
+        "Extensão",
+        "Demandas Externas"
+      ]
+    },
+    {
+      "id": 335,
+      "parent_id": 114,
+      "name": "Estágios",
+      "slug": "estagios",
+      "path": [
+        "SUAP",
+        "Extensão",
+        "Estágios"
+      ]
+    },
+    {
+      "id": 118,
+      "parent_id": 114,
+      "name": "Núcleos de Extensão e Prática Profissional - NEPP",
+      "slug": "nepp-suap",
+      "path": [
+        "SUAP",
+        "Extensão",
+        "Núcleos de Extensão e Prática Profissional - NEPP"
+      ]
+    },
+    {
+      "id": 116,
+      "parent_id": 114,
+      "name": "Projetos",
+      "slug": "projetos-extensao-suap",
+      "path": [
+        "SUAP",
+        "Extensão",
+        "Projetos"
+      ]
+    },
+    {
+      "id": 119,
+      "parent_id": 114,
+      "name": "Variáveis de Gestão",
+      "slug": "variaveis-gestao-suap",
+      "path": [
+        "SUAP",
+        "Extensão",
+        "Variáveis de Gestão"
+      ]
+    },
+    {
+      "id": 120,
+      "parent_id": 311,
+      "name": "Gestão de Pessoas",
+      "slug": "gestao-pessoas-tutorial-suap",
+      "path": [
+        "SUAP",
+        "Gestão de Pessoas"
+      ]
+    },
+    {
+      "id": 123,
+      "parent_id": 120,
+      "name": "Administração de Pessoal",
+      "slug": "administracao-pessoal-suap",
+      "path": [
+        "SUAP",
+        "Gestão de Pessoas",
+        "Administração de Pessoal"
+      ]
+    },
+    {
+      "id": 125,
+      "parent_id": 120,
+      "name": "Atenção a Saúde do Servidor",
+      "slug": "saude-servidor-suap",
+      "path": [
+        "SUAP",
+        "Gestão de Pessoas",
+        "Atenção a Saúde do Servidor"
+      ]
+    },
+    {
+      "id": 126,
+      "parent_id": 120,
+      "name": "Cadastros",
+      "slug": "cadastros-suap",
+      "path": [
+        "SUAP",
+        "Gestão de Pessoas",
+        "Cadastros"
+      ]
+    },
+    {
+      "id": 124,
+      "parent_id": 120,
+      "name": "Desenvolvimento de Pessoal",
+      "slug": "desenvolvimento-pessoal-suap",
+      "path": [
+        "SUAP",
+        "Gestão de Pessoas",
+        "Desenvolvimento de Pessoal"
+      ]
+    },
+    {
+      "id": 121,
+      "parent_id": 120,
+      "name": "Servidores",
+      "slug": "servidores-suap",
+      "path": [
+        "SUAP",
+        "Gestão de Pessoas",
+        "Servidores"
+      ]
+    },
+    {
+      "id": 122,
+      "parent_id": 120,
+      "name": "Setores",
+      "slug": "setores-suap",
+      "path": [
+        "SUAP",
+        "Gestão de Pessoas",
+        "Setores"
+      ]
+    },
+    {
+      "id": 127,
+      "parent_id": 120,
+      "name": "Variáveis de Gestão",
+      "slug": "variaveis-gestao-pessoas-suap",
+      "path": [
+        "SUAP",
+        "Gestão de Pessoas",
+        "Variáveis de Gestão"
+      ]
+    },
+    {
+      "id": 153,
+      "parent_id": 311,
+      "name": "Internacionalização",
+      "slug": "internacionalizacao-suap",
+      "path": [
+        "SUAP",
+        "Internacionalização"
+      ]
+    },
+    {
+      "id": 154,
+      "parent_id": 153,
+      "name": "Parcerias Internacionais",
+      "slug": "parcerias-internacionais-suap",
+      "path": [
+        "SUAP",
+        "Internacionalização",
+        "Parcerias Internacionais"
+      ]
+    },
+    {
+      "id": 108,
+      "parent_id": 311,
+      "name": "Programa de Gestão",
+      "slug": "programa-gestao-tutorial-suap",
+      "path": [
+        "SUAP",
+        "Programa de Gestão"
+      ]
+    },
+    {
+      "id": 109,
+      "parent_id": 108,
+      "name": "PGD 2.0",
+      "slug": "pgd2-atual-suap",
+      "path": [
+        "SUAP",
+        "Programa de Gestão",
+        "PGD 2.0"
+      ]
+    },
+    {
+      "id": 155,
+      "parent_id": 311,
+      "name": "Saúde",
+      "slug": "saude-suap",
+      "path": [
+        "SUAP",
+        "Saúde"
+      ]
+    },
+    {
+      "id": 156,
+      "parent_id": 155,
+      "name": "Cartão Vacinal",
+      "slug": "cartao-vacinal-suap",
+      "path": [
+        "SUAP",
+        "Saúde",
+        "Cartão Vacinal"
+      ]
+    },
+    {
+      "id": 161,
+      "parent_id": 311,
+      "name": "Segurança Institucional",
+      "slug": "seguranca-institucional-suap",
+      "path": [
+        "SUAP",
+        "Segurança Institucional"
+      ]
+    },
+    {
+      "id": 162,
+      "parent_id": 161,
+      "name": "Solicitações de Entrada",
+      "slug": "solicitacoes-entrada-suap",
+      "path": [
+        "SUAP",
+        "Segurança Institucional",
+        "Solicitações de Entrada"
+      ]
+    },
+    {
+      "id": 137,
+      "parent_id": 311,
+      "name": "Tecnologia da Informação",
+      "slug": "tecnologia-informacao-suap",
+      "path": [
+        "SUAP",
+        "Tecnologia da Informação"
+      ]
+    },
+    {
+      "id": 142,
+      "parent_id": 137,
+      "name": "Acessibilidade",
+      "slug": "acessibilidade-tecnologia-suap",
+      "path": [
+        "SUAP",
+        "Tecnologia da Informação",
+        "Acessibilidade"
+      ]
+    },
+    {
+      "id": 138,
+      "parent_id": 137,
+      "name": "Desenvolvimento",
+      "slug": "desenvolvimento-tecnologia-suap",
+      "path": [
+        "SUAP",
+        "Tecnologia da Informação",
+        "Desenvolvimento"
+      ]
+    },
+    {
+      "id": 139,
+      "parent_id": 137,
+      "name": "Segurança",
+      "slug": "seguranca-tecnologia-suap",
+      "path": [
+        "SUAP",
+        "Tecnologia da Informação",
+        "Segurança"
+      ]
+    },
+    {
+      "id": 140,
+      "parent_id": 137,
+      "name": "Serviços",
+      "slug": "servicos-tecnologia-suap",
+      "path": [
+        "SUAP",
+        "Tecnologia da Informação",
+        "Serviços"
+      ]
+    },
+    {
+      "id": 141,
+      "parent_id": 137,
+      "name": "Usuários",
+      "slug": "usuarios-tecnologia",
+      "path": [
+        "SUAP",
+        "Tecnologia da Informação",
+        "Usuários"
+      ]
+    }
+  ],
+  "tutorials": [
+    {
+      "id": 2815,
+      "title": "1 Estudante: Primeiro Acesso e Troca de Senha Suap (Adilson 13/05/2025)",
+      "slug": "1-estudante-primeiro-acesso-e-troca-de-senha-suap-adilson-13-05-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/1-estudante-primeiro-acesso-e-troca-de-senha-suap-adilson-13-05-2025/",
+      "modified": "2025-08-05T13:50:47",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 296,
+      "title": "1 – Criação da área de atuação",
+      "slug": "criacao-da-area-de-atuacao",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/criacao-da-area-de-atuacao/",
+      "modified": "2024-11-11T15:56:58",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 491,
+      "title": "10 – Secretarias Acadêmicas: Cadastro Cursos Fic Forma Geral com utilização de diário, lançamento de frequência, conceito plano de ensino, compartilhamento /divisão de diário – (Adilson 15/08/2024)",
+      "slug": "2-secretarias-academicas-cadastro-cursos-fic-forma-geral-com-utilizacao-de-diario-lancamento-de-frequencia-conceito-plano-de-ensino-compartilhamento-divisao-de-diario",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/2-secretarias-academicas-cadastro-cursos-fic-forma-geral-com-utilizacao-de-diario-lancamento-de-frequencia-conceito-plano-de-ensino-compartilhamento-divisao-de-diario/",
+      "modified": "2025-09-10T18:01:31",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2972,
+      "title": "10. Estudante: Questionário de Caracterização Socioeconômica",
+      "slug": "10-estudante-questionario-de-caracterizacao-socioeconomica",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/10-estudante-questionario-de-caracterizacao-socioeconomica/",
+      "modified": "2026-03-18T14:44:24",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 2601,
+      "title": "11 – Registro Acadêmico: Cadastro de aulas pelas/os Docentes – DGA (Adilson 03/02/2025)",
+      "slug": "11-registro-academico-cadastro-de-aulas-pelas-os-docentes-dga-adilson-03-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/11-registro-academico-cadastro-de-aulas-pelas-os-docentes-dga-adilson-03-02-2025/",
+      "modified": "2025-08-01T09:22:40",
+      "category_ids": [
+        112,
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Docentes"
+        ],
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2981,
+      "title": "11. Estudante: Tutorial Justificativa de Faltas",
+      "slug": "11-estudante-tutorial-justificativa-de-faltas",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/11-estudante-tutorial-justificativa-de-faltas/",
+      "modified": "2026-04-07T11:14:20",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 2608,
+      "title": "12 – Registro Acadêmico: Reversão dos casos de Estudantes na condição de Jubilados – DGA (Adilson 07/02/2025)",
+      "slug": "12-registro-academico-reversao-dos-casos-de-estudantes-na-condicao-de-jubilados-dga-adilson-07-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/12-registro-academico-reversao-dos-casos-de-estudantes-na-condicao-de-jubilados-dga-adilson-07-02-2025/",
+      "modified": "2025-08-01T09:31:01",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3131,
+      "title": "12. Estudante: Acesso ao SUAP para celular",
+      "slug": "acesso-ao-suap-para-celular",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/acesso-ao-suap-para-celular/",
+      "modified": "2026-07-01T16:20:19",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 2624,
+      "title": "13 – Registro Acadêmico: Abertura do Período Vigente (em aberto) para Matrícula – DGA (Adilson 07/02/2025)",
+      "slug": "13-registro-academico-abertura-do-periodo-vigente-em-aberto-para-matricula-dga-adilson-07-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/13-registro-academico-abertura-do-periodo-vigente-em-aberto-para-matricula-dga-adilson-07-02-2025/",
+      "modified": "2025-08-05T11:09:07",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3171,
+      "title": "13. Estudante: Declaração de Nada Consta",
+      "slug": "13-estudante-declaracao-de-nada-consta",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/13-estudante-declaracao-de-nada-consta/",
+      "modified": "2026-06-17T16:23:53",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 2637,
+      "title": "14 – Registro Acadêmico: Correção de Inconsistência nos Diários em uma Turma – DGA (Adilson 12/02/2025)",
+      "slug": "14-registro-academico-correcao-de-inconsistencia-nos-diarios-em-uma-turma-dga-adilson-12-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/14-registro-academico-correcao-de-inconsistencia-nos-diarios-em-uma-turma-dga-adilson-12-02-2025/",
+      "modified": "2025-09-10T17:57:17",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2645,
+      "title": "15 – Registro Acadêmico: Alterar a Situação de Matriculado para Concluído em Declaração de Vínculo e Histórico Escolar – DGA (Adilson 14/02/2025)",
+      "slug": "15-registro-academico-alterar-a-situacao-de-matriculado-para-concluido-em-declaracao-de-vinculo-e-historico-escolar-dga-adilson-14-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/15-registro-academico-alterar-a-situacao-de-matriculado-para-concluido-em-declaracao-de-vinculo-e-historico-escolar-dga-adilson-14-02-2025/",
+      "modified": "2025-09-10T17:57:04",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2707,
+      "title": "16 – Registro Acadêmico: Orientação sobre Estágio Obrigatório e Não Obrigatório no Histórico Escolar – DGA (Adilson 25/02/2025)",
+      "slug": "16-registro-academico-orientacao-sobre-estagio-obrigatorio-e-nao-obrigatorio-no-historico-escolar-dga-adilson-25-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/16-registro-academico-orientacao-sobre-estagio-obrigatorio-e-nao-obrigatorio-no-historico-escolar-dga-adilson-25-02-2025/",
+      "modified": "2025-09-10T17:56:13",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2664,
+      "title": "17 – Efetuando o Cadastro do Estágio Obrigatório e Não Obrigatório no Suap – Esta Ação é Realizada pela Seção de Estágios ou Responsável pelos Estágios no Campus – DGA (Adilson 25/02/2025)",
+      "slug": "17-efetuando-o-cadastro-do-estagio-obrigatorio-e-nao-obrigatorio-no-suap-esta-acao-e-realizada-pela-secao-de-estagios-ou-responsavel-pelos-estagios-no-campus-dga-adilson-25-02-2",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/17-efetuando-o-cadastro-do-estagio-obrigatorio-e-nao-obrigatorio-no-suap-esta-acao-e-realizada-pela-secao-de-estagios-ou-responsavel-pelos-estagios-no-campus-dga-adilson-25-02-2/",
+      "modified": "2026-07-01T16:20:12",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2719,
+      "title": "18 – Orientação de Estágio Obrigatório e Não Obrigatório no Suap – Esta Ação é Realizada por Docente do Campus – DGA (Adilson 25/02/2025)",
+      "slug": "18-orientacao-de-estagio-obrigatorio-e-nao-obrigatorio-no-suap-esta-acao-e-realizada-por-docente-do-campus-dga-adilson-25-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/18-orientacao-de-estagio-obrigatorio-e-nao-obrigatorio-no-suap-esta-acao-e-realizada-por-docente-do-campus-dga-adilson-25-02-2025/",
+      "modified": "2025-09-10T17:55:46",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2657,
+      "title": "19 – Registro Acadêmico: Cadastro de Cidade Estudantes Estrangeiros – DGA (Adilson 21/02/2025)",
+      "slug": "19-registro-academico-cadastro-de-cidade-estudantes-estrangeiros-dga-adilson-21-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/19-registro-academico-cadastro-de-cidade-estudantes-estrangeiros-dga-adilson-21-02-2025/",
+      "modified": "2025-09-10T17:56:42",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 596,
+      "title": "2 ATIVIDADE ESPECÍFICA: É criada no Suap pelo perfil Coordenação de Curso – (Adilson 15/08/2024)",
+      "slug": "atividade-especifica-criada-no-suap-pelo-perfil-coordenacao-de-curso",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/atividade-especifica-criada-no-suap-pelo-perfil-coordenacao-de-curso/",
+      "modified": "2024-11-12T08:23:36",
+      "category_ids": [
+        112
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Docentes"
+        ]
+      ]
+    },
+    {
+      "id": 1061,
+      "title": "2 – ATIVIDADE ESPECÍFICA: É criada no Suap pelo perfil Coordenação de Curso – (Adilson 15/08/2024)",
+      "slug": "1061",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/1061/",
+      "modified": "2025-09-10T18:01:47",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 375,
+      "title": "2 – Criação da categoria de serviço",
+      "slug": "criacao-da-categoria-de-servico",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/criacao-da-categoria-de-servico/",
+      "modified": "2024-11-11T15:56:58",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 3005,
+      "title": "2. Estudante: Acesso do Responsável ao SUAP",
+      "slug": "2-estudante-acesso-do-responsavel-ao-suap",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/2-estudante-acesso-do-responsavel-ao-suap/",
+      "modified": "2026-03-18T13:46:36",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 2741,
+      "title": "20 – Registro Acadêmico: Transferência Intercampus – DGA (Adilson 27/02/2025)",
+      "slug": "20-registro-academico-transferencia-intercampus-dga-adilson-27-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/20-registro-academico-transferencia-intercampus-dga-adilson-27-02-2025/",
+      "modified": "2025-09-10T17:54:54",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2753,
+      "title": "21 – Registro Acadêmico: Corrigindo Reprovação no Período por Conceito e Matriculando em Todas as Componentes Curriculares – DGA (Adilson 28/02/2025)",
+      "slug": "21-registro-academico-corrigindo-reprovacao-no-periodo-por-conceito-e-matriculando-em-todas-as-componentes-curriculares-dga-adilson-28-02-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/21-registro-academico-corrigindo-reprovacao-no-periodo-por-conceito-e-matriculando-em-todas-as-componentes-curriculares-dga-adilson-28-02-2025/",
+      "modified": "2025-09-10T17:54:34",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2780,
+      "title": "22 – Registro Acadêmico: Incluindo executores do Setor para utilizar a Plataforma Nilo Peçanha – DGA (Adilson 28/02/2025) – Ação efetuada pela/o Responsável pelo Registro Acadêmico",
+      "slug": "22-registro-academico-incluindo-executores-do-setor-para-utilizar-a-plataforma-nilo-pecanha-dga-adilson-28-02-2025-acao-efetuada-pela-o-responsavel-pelo-registro-academico",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/22-registro-academico-incluindo-executores-do-setor-para-utilizar-a-plataforma-nilo-pecanha-dga-adilson-28-02-2025-acao-efetuada-pela-o-responsavel-pelo-registro-academico/",
+      "modified": "2025-09-10T17:54:10",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2844,
+      "title": "23 – Orientações solicitação diploma digital – Graduação (DGA – Luiz Dangui 07/08/2025)",
+      "slug": "23-orientacoes-solicitacao-diploma-digital-graduacao-dga-luiz-dangui-07-08-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/23-orientacoes-solicitacao-diploma-digital-graduacao-dga-luiz-dangui-07-08-2025/",
+      "modified": "2026-05-07T12:12:42",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2822,
+      "title": "23 – Registro Acadêmico: Entendendo a Curricularização da Extensão – Graduação (Adilson 31/03/2025)",
+      "slug": "23-registro-academico-entendendo-a-curricularizacao-da-extensao-graduacao-adilson-31-03-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/23-registro-academico-entendendo-a-curricularizacao-da-extensao-graduacao-adilson-31-03-2025/",
+      "modified": "2025-08-05T13:57:19",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2791,
+      "title": "24 – Homologação, em Diário, de Atividade(s) de Extensão incluída no Suap pelo Estudante – Esta Ação é Realizada por Docente do Campus – DGA (Adilson 31/03/2025)",
+      "slug": "24-homologacao-em-diario-de-atividades-de-extensao-incluida-no-suap-pelo-estudante-esta-acao-e-realizada-por-docente-do-campus-dga-adilson-31-03-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/24-homologacao-em-diario-de-atividades-de-extensao-incluida-no-suap-pelo-estudante-esta-acao-e-realizada-por-docente-do-campus-dga-adilson-31-03-2025/",
+      "modified": "2025-09-10T17:53:19",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2856,
+      "title": "24 – Orientações geração certificado digital – Cursos FIC > 160 (DGA – Luiz Dangui 12/08/2025)",
+      "slug": "24-orientacoes-geracao-certificado-digital-cursos-fic-160-dga-luiz-dangui-12-08-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/24-orientacoes-geracao-certificado-digital-cursos-fic-160-dga-luiz-dangui-12-08-2025/",
+      "modified": "2025-09-10T17:51:13",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2865,
+      "title": "25 – Orientações geração certificado digital – Cursos FIC <= 160h (DGA – Luiz Dangui 20/08/2025)",
+      "slug": "25-orientacoes-geracao-certificado-digital-cursos-fic-160h-dga-luiz-dangui-20-08-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/25-orientacoes-geracao-certificado-digital-cursos-fic-160h-dga-luiz-dangui-20-08-2025/",
+      "modified": "2025-09-10T17:50:58",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2782,
+      "title": "25 – Registro Acadêmico: Cadastrando Atividades de Extensão – Esta Ação é Realizada pela Diretoria de Gestão Acadêmica (DGA) – DGA (Adilson 31/03/2025)",
+      "slug": "25-registro-academico-cadastrando-atividades-de-extensao-esta-acao-e-realizada-pela-diretoria-de-gestao-academica-dga-dga-adilson-31-03-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/25-registro-academico-cadastrando-atividades-de-extensao-esta-acao-e-realizada-pela-diretoria-de-gestao-academica-dga-dga-adilson-31-03-2025/",
+      "modified": "2025-09-10T17:53:34",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2797,
+      "title": "26 – Estudante: Incluindo Atividades de Extensão (Adilson 31/03/2025)",
+      "slug": "26-estudante-incluindo-atividades-de-extensao-adilson-31-03-2025",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/26-estudante-incluindo-atividades-de-extensao-adilson-31-03-2025/",
+      "modified": "2025-09-10T17:52:24",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2911,
+      "title": "28 – ATUALIZAÇÃO CURRÍCULO LATTES ESTUDANTES: Ação realizada pelo perfil Estudantes em sua conta no Suap – (Adilson 28/01/2026)",
+      "slug": "28-atualizacao-curriculo-lattes-estudantes-acao-realizada-pelo-perfil-estudantes-em-sua-conta-no-suap-adilson-28-01-2026",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/28-atualizacao-curriculo-lattes-estudantes-acao-realizada-pelo-perfil-estudantes-em-sua-conta-no-suap-adilson-28-01-2026/",
+      "modified": "2026-01-28T10:53:27",
+      "category_ids": [
+        336,
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ],
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 2943,
+      "title": "29 – GERAÇÃO CERTIFICADOS PARCIAIS (DGA – Luiz Dangui 23/02/2026)",
+      "slug": "29-geracao-certificados-parciais-dga-luiz-dangui-23-02-2026",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/29-geracao-certificados-parciais-dga-luiz-dangui-23-02-2026/",
+      "modified": "2026-02-23T11:45:52",
+      "category_ids": [
+        110,
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino"
+        ],
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 379,
+      "title": "3 – Criação do grupo de serviço",
+      "slug": "criacao-do-grupo-de-servico",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/criacao-do-grupo-de-servico/",
+      "modified": "2024-11-11T15:56:58",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 648,
+      "title": "3 – Secretarias Acadêmicas: Renovação de Matrícula – DGA (Adilson 15/08/2024)",
+      "slug": "3-secretarias-academicas-renovacao-de-matricula-dga-adilson-15-08-2024",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/3-secretarias-academicas-renovacao-de-matricula-dga-adilson-15-08-2024/",
+      "modified": "2025-09-10T18:04:03",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3020,
+      "title": "3. Estudante: Boletim de Notas",
+      "slug": "3-estudante-boletim-de-notas",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/3-estudante-boletim-de-notas/",
+      "modified": "2026-03-18T13:48:26",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 661,
+      "title": "3.1 – Secretarias Acadêmicas/Estudante: Visualização do Estudante Renovação de Matrícula – DGA (Adilson 15/08/2024)",
+      "slug": "3-1-secretarias-academicas-estudante-visualizacao-do-estudante-renovacao-de-matricula-dga-adilson-15-08-2024",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/3-1-secretarias-academicas-estudante-visualizacao-do-estudante-renovacao-de-matricula-dga-adilson-15-08-2024/",
+      "modified": "2025-09-10T18:03:49",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 667,
+      "title": "3.2 – Secretarias Acadêmicas: Processar Pedidos de Matrícula – DGA (Adilson 15/08/2024)",
+      "slug": "3-2-secretarias-academicas-processar-pedidos-de-matricula-dga-adilson-15-08-2024",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/3-2-secretarias-academicas-processar-pedidos-de-matricula-dga-adilson-15-08-2024/",
+      "modified": "2025-09-10T18:03:38",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3204,
+      "title": "30-Pré-requisitos cadastrais para geração do diploma digital – Ensino Médio (Luiz 18/06/2026)",
+      "slug": "30-pre-requisitos-cadastrais-para-geracao-do-diploma-digital-ensino-medio-luiz-18-06-2026",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/30-pre-requisitos-cadastrais-para-geracao-do-diploma-digital-ensino-medio-luiz-18-06-2026/",
+      "modified": "2026-06-18T10:56:52",
+      "category_ids": [
+        110,
+        311,
+        337
+      ],
+      "paths": [
+        [
+          "SUAP"
+        ],
+        [
+          "SUAP",
+          "Ensino"
+        ],
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 383,
+      "title": "4 – Criação do centro de atendimento",
+      "slug": "criacao-do-centro-de-atendimento",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/criacao-do-centro-de-atendimento/",
+      "modified": "2024-11-11T15:56:58",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 682,
+      "title": "4 – Secretarias Acadêmicas: Configuração de Calendário Acadêmico – DGA (Adilson 02/09/2024)",
+      "slug": "4-secretarias-academicas-configuracao-de-calendario-academico-dga-adilson-02-09-2024",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/4-secretarias-academicas-configuracao-de-calendario-academico-dga-adilson-02-09-2024/",
+      "modified": "2025-09-10T18:03:27",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3028,
+      "title": "4. Estudante: Acesso aos Componentes Curriculares (Disciplinas)",
+      "slug": "4-estudante-acesso-aos-componentes-curriculares-disciplinas",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/4-estudante-acesso-aos-componentes-curriculares-disciplinas/",
+      "modified": "2026-03-18T13:50:53",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 387,
+      "title": "5 – Criação do grupo de atendimento",
+      "slug": "criacao-do-grupo-de-atendimento",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/criacao-do-grupo-de-atendimento/",
+      "modified": "2024-11-11T15:56:59",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 788,
+      "title": "5 – Secretarias Acadêmicas: Inclusão de estudantes em diários quando não aparecem na pesquisa para inclusão na turma e no diário – DGA (Adilson 03/10/2024)",
+      "slug": "5-secretarias-academicas-inclusao-de-estudantes-que-quando-pesquisados-nao-aparecem-para-inclusao-na-turma-e-no-diario-dga-adilson-02-09-2024",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/5-secretarias-academicas-inclusao-de-estudantes-que-quando-pesquisados-nao-aparecem-para-inclusao-na-turma-e-no-diario-dga-adilson-02-09-2024/",
+      "modified": "2025-09-10T18:03:13",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3034,
+      "title": "5. Estudante: Dados Acadêmicos",
+      "slug": "5-estudante-dados-academicos",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/5-estudante-dados-academicos/",
+      "modified": "2026-03-18T13:53:23",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 391,
+      "title": "6 – Criação do serviço",
+      "slug": "criacao-do-servico",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/criacao-do-servico/",
+      "modified": "2024-11-11T15:56:59",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 807,
+      "title": "6 – Secretarias Acadêmicas: Procedimentos para possibilitar a Edição de Lançamento dos Conceitos e Frequência nas Etapas de Diários com prazos vencidos e Período já Fechado – DGA (Adilson 10/10/2024)",
+      "slug": "6-secretarias-academicas-procedimentos-para-possibilitar-a-edicao-de-lancamento-dos-conceitos-e-frequencia-nas-etapas-de-diarios-com-prazos-vencidos-e-periodo-ja-fechado-dga-adil",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/6-secretarias-academicas-procedimentos-para-possibilitar-a-edicao-de-lancamento-dos-conceitos-e-frequencia-nas-etapas-de-diarios-com-prazos-vencidos-e-periodo-ja-fechado-dga-adil/",
+      "modified": "2025-09-10T18:03:01",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3039,
+      "title": "6. Estudante: Declaração de Matrícula",
+      "slug": "6-estudante-declaracao-de-matricula",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/6-estudante-declaracao-de-matricula/",
+      "modified": "2026-03-18T13:56:59",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 856,
+      "title": "7 – Secretarias Acadêmicas: Procedimentos para Transferências; Trancamento e Cancelamento de Matrícula; Matrícula em Diário; Evasão – DGA (Adilson 14/10/2024)",
+      "slug": "7-secretarias-academicas-procedimentos-para-transferencias-trancamento-e-cancelamento-de-matricula-matricula-em-diario-evasao-dga-adilson-14-10-2024",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/7-secretarias-academicas-procedimentos-para-transferencias-trancamento-e-cancelamento-de-matricula-matricula-em-diario-evasao-dga-adilson-14-10-2024/",
+      "modified": "2025-09-10T18:02:43",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3282,
+      "title": "7. Dependências no SUAP: Cenários para oferta e abertura de turmas",
+      "slug": "dependencias-no-suap-cenarios-para-oferta-e-abertura-de-turmas",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/dependencias-no-suap-cenarios-para-oferta-e-abertura-de-turmas/",
+      "modified": "2026-07-31T15:03:35",
+      "category_ids": [
+        110,
+        340
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino"
+        ],
+        [
+          "SUAP",
+          "Ensino",
+          "Coordenação de Curso"
+        ]
+      ]
+    },
+    {
+      "id": 3049,
+      "title": "7. Estudante: Histórico Escolar Parcial",
+      "slug": "7-estudante-historico-escolar-parcial",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/7-estudante-historico-escolar-parcial/",
+      "modified": "2026-03-18T13:59:39",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 872,
+      "title": "8 – Secretarias Acadêmicas: Procedimentos para Lançamento de Colação de Grau – DGA (Adilson 15/10/2024)",
+      "slug": "ensino",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/ensino/",
+      "modified": "2025-09-10T18:02:29",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3085,
+      "title": "8. Estudante: Atestado de Frequência",
+      "slug": "8-estudante-atestado-de-frequencia",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/8-estudante-atestado-de-frequencia/",
+      "modified": "2026-07-01T16:20:15",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 906,
+      "title": "9 – Secretarias Acadêmicas: Pesquisa dados docentes – DGA (Adilson 23/10/2024)",
+      "slug": "9-secretarias-academicas-pesquisa-dados-docentes-dga-adilson-23-10-2024",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/9-secretarias-academicas-pesquisa-dados-docentes-dga-adilson-23-10-2024/",
+      "modified": "2025-09-10T18:02:02",
+      "category_ids": [
+        337
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Registro Acadêmico"
+        ]
+      ]
+    },
+    {
+      "id": 3060,
+      "title": "9. Estudante: Comprovante de dados acadêmicos",
+      "slug": "9-estudante-comprovante-de-dados-academicos",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/9-estudante-comprovante-de-dados-academicos/",
+      "modified": "2026-03-18T14:25:00",
+      "category_ids": [
+        336
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Estudantes"
+        ]
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Agendamento de Atendimentos",
+      "slug": "agendamento-de-atendimentos",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/agendamento-de-atendimentos/",
+      "modified": "2024-11-11T16:19:13",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 3261,
+      "title": "Atividades Complementares (AACC)",
+      "slug": "atividades-complementares-aacc",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/atividades-complementares-aacc/",
+      "modified": "2026-08-19T17:35:07",
+      "category_ids": [
+        340
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Coordenação de Curso"
+        ]
+      ]
+    },
+    {
+      "id": 2543,
+      "title": "CADASTRO DE ESTÁGIO OBRIGATÓRIO E NÃO OBRIGATÓRIO",
+      "slug": "cadastro-de-estagio-obrigatorio-e-nao-obrigatorio",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/cadastro-de-estagio-obrigatorio-e-nao-obrigatorio/",
+      "modified": "2026-07-01T16:20:07",
+      "category_ids": [
+        335
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Extensão",
+          "Estágios"
+        ]
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Cadastro de Usuário Externo",
+      "slug": "cadastros",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/cadastros/",
+      "modified": "2026-07-01T16:18:13",
+      "category_ids": [
+        128
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Administração"
+        ]
+      ]
+    },
+    {
+      "id": 3237,
+      "title": "Como os docentes visualizam as faltas justificadas no SUAP",
+      "slug": "como-os-docentes-visualizam-as-faltas-justificadas-no-suap",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/como-os-docentes-visualizam-as-faltas-justificadas-no-suap/",
+      "modified": "2026-08-19T17:40:14",
+      "category_ids": [
+        340
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Coordenação de Curso"
+        ]
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Dashboard",
+      "slug": "dashboard",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/dashboard/",
+      "modified": "2024-11-11T16:19:37",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Dashboard – Assistência Estudantil",
+      "slug": "dashboard-2",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/dashboard-2/",
+      "modified": "2024-11-11T16:19:28",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Desenvolvimento",
+      "slug": "desenvolvimento",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/desenvolvimento/",
+      "modified": "2024-11-11T16:19:45",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 398,
+      "title": "Disposição da Tela da Central de Serviços",
+      "slug": "disposicao-da-tela-da-central-de-servicos",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/disposicao-da-tela-da-central-de-servicos/",
+      "modified": "2024-11-11T15:56:59",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Documentos/Processos",
+      "slug": "documentos-processos",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/documentos-processos/",
+      "modified": "2024-11-11T16:20:02",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Editais",
+      "slug": "editais",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/editais/",
+      "modified": "2024-11-12T08:22:53",
+      "category_ids": [
+        113
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Pesquisa"
+        ]
+      ]
+    },
+    {
+      "id": 2918,
+      "title": "EQUIVALÊNCIA DE ESTÁGIO",
+      "slug": "equivalencia-de-estagio",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/equivalencia-de-estagio/",
+      "modified": "2026-02-13T11:26:46",
+      "category_ids": [
+        335
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Extensão",
+          "Estágios"
+        ]
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Eventos",
+      "slug": "eventos",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/eventos/",
+      "modified": "2024-11-11T16:19:02",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 111,
+      "title": "Gestão",
+      "slug": "gestao",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/gestao/",
+      "modified": "2024-11-11T16:19:20",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 401,
+      "title": "Guia do Usuário Central de Serviços",
+      "slug": "guia-do-usuario-central-de-servicos",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/guia-do-usuario-central-de-servicos/",
+      "modified": "2024-11-11T15:56:59",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 2530,
+      "title": "Importar servidor para o suap – webservice",
+      "slug": "importar-servidor-para-o-suap-webservice",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/importar-servidor-para-o-suap-webservice/",
+      "modified": "2025-05-29T16:30:09",
+      "category_ids": [
+        126
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Gestão de Pessoas",
+          "Cadastros"
+        ]
+      ]
+    },
+    {
+      "id": 3224,
+      "title": "Justificativa de Faltas",
+      "slug": "conferencia-edicao-e-analise-de-justificativa-de-faltas",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/conferencia-edicao-e-analise-de-justificativa-de-faltas/",
+      "modified": "2026-08-19T17:42:17",
+      "category_ids": [
+        340
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Coordenação de Curso"
+        ]
+      ]
+    },
+    {
+      "id": 396,
+      "title": "Padrão de nomenclatura",
+      "slug": "padrao-de-nomenclatura",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/padrao-de-nomenclatura/",
+      "modified": "2024-11-11T15:56:59",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Projetos",
+      "slug": "projetos",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/projetos/",
+      "modified": "2024-11-11T16:18:40",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 1036,
+      "title": "Saiba como Cadastrar um novo artigo!",
+      "slug": "saiba-como-cadastrar-um-novo-artigo",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/saiba-como-cadastrar-um-novo-artigo/",
+      "modified": "2024-11-12T17:55:48",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 101,
+      "title": "Servidores",
+      "slug": "servidores",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/servidores/",
+      "modified": "2024-11-11T16:19:54",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    },
+    {
+      "id": 482,
+      "title": "Solicitação de TRADUÇÃO INTERPRETAÇÃO LIBRAS – LÍNGUA PORTUGUESA",
+      "slug": "solicitacao-de-traducao-interpretacao-libras-lingua-portuguesa",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/solicitacao-de-traducao-interpretacao-libras-lingua-portuguesa/",
+      "modified": "2024-11-11T11:47:32",
+      "category_ids": [
+        148
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Central de Serviços"
+        ]
+      ]
+    },
+    {
+      "id": 468,
+      "title": "SUAP – Professores(as)/Diário de Classe",
+      "slug": "suap-professores-diario-de-classe",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/suap-professores-diario-de-classe/",
+      "modified": "2024-11-12T08:22:14",
+      "category_ids": [
+        112
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Docentes"
+        ]
+      ]
+    },
+    {
+      "id": 466,
+      "title": "SUAP – Professores(as)/Plano de Ensino",
+      "slug": "suap-professores-plano-de-ensino",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/suap-professores-plano-de-ensino/",
+      "modified": "2024-11-12T08:22:06",
+      "category_ids": [
+        112
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Docentes"
+        ]
+      ]
+    },
+    {
+      "id": 470,
+      "title": "SUAP – Professores(as)/Plano Individual de Trabalho (PIT)",
+      "slug": "suap-professores-plano-individual-de-trabalho-pit",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/suap-professores-plano-individual-de-trabalho-pit/",
+      "modified": "2024-11-12T08:22:26",
+      "category_ids": [
+        112
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Docentes"
+        ]
+      ]
+    },
+    {
+      "id": 464,
+      "title": "SUAP – Professores(as)/Primeiro Acesso e Página Principal",
+      "slug": "suap-professores-primeiro-acesso-e-pagina-principal",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/suap-professores-primeiro-acesso-e-pagina-principal/",
+      "modified": "2024-11-12T08:21:55",
+      "category_ids": [
+        112
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Docentes"
+        ]
+      ]
+    },
+    {
+      "id": 473,
+      "title": "SUAP – Professores(as)/Solicitação de Equipe Técnica Pedagógica",
+      "slug": "suap-professores-solicitacao-de-equipe-tecnica-pedagogica",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/suap-professores-solicitacao-de-equipe-tecnica-pedagogica/",
+      "modified": "2024-11-12T08:22:20",
+      "category_ids": [
+        112
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Docentes"
+        ]
+      ]
+    },
+    {
+      "id": 3247,
+      "title": "Trabalhos de Conclusão de Curso (TCC)",
+      "slug": "trabalhos-de-conclusao-de-curso-tcc",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/trabalhos-de-conclusao-de-curso-tcc/",
+      "modified": "2026-08-19T18:03:50",
+      "category_ids": [
+        340
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Ensino",
+          "Coordenação de Curso"
+        ]
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Tutoriais SUAP PGD 2.0",
+      "slug": "programa-de-gestao",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/programa-de-gestao/",
+      "modified": "2024-11-11T16:15:40",
+      "category_ids": [
+        109
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Programa de Gestão",
+          "PGD 2.0"
+        ]
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Visitantes",
+      "slug": "visitantes",
+      "url": "https://ifpr.edu.br/tutoriais/base-conhecimento/visitantes/",
+      "modified": "2024-11-11T16:18:53",
+      "category_ids": [
+        137
+      ],
+      "paths": [
+        [
+          "SUAP",
+          "Tecnologia da Informação"
+        ]
+      ]
+    }
+  ]
+}

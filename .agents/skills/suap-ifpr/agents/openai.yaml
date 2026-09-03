@@ -1,0 +1,6 @@
+interface:
+  display_name: "SUAP IFPR"
+  short_description: "Consulta e navega no SUAP do IFPR"
+  default_prompt: "Use $suap-ifpr para localizar o procedimento oficial e consultar informações no SUAP do IFPR."
+policy:
+  allow_implicit_invocation: true
